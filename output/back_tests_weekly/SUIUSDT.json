@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SUIUSDT",
         "name": "Sui",
-        "collected_at": "2026-01-24T13:35:41.972Z",
+        "collected_at": "2026-01-24T13:37:19.174Z",
         "data_start_date": "2023-05-01",
         "price": 1.4882,
         "change": -12.262704869708758,
-        "volume": 244715217.1,
+        "volume": 244733125.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 7,
