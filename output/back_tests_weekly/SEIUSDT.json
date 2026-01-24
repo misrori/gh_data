@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SEIUSDT",
         "name": "Sei",
-        "collected_at": "2026-01-24T21:46:41.581Z",
+        "collected_at": "2026-01-24T22:46:27.894Z",
         "data_start_date": "2023-08-14",
         "price": 0.1064,
         "change": -7.155322862129145,
-        "volume": 377226074.6,
+        "volume": 377797428.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 336,
