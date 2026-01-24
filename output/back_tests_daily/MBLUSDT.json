@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MBLUSDT",
         "name": "MovieBloc",
-        "collected_at": "2026-01-24T17:48:45.804Z",
+        "collected_at": "2026-01-24T18:48:49.863Z",
         "data_start_date": "2020-02-21",
         "price": 0.001183,
         "change": 0,
-        "volume": 462872047,
+        "volume": 481562932,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 165,
