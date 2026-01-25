@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "USUALUSDT",
         "name": "USUAL / USDT",
-        "collected_at": "2026-01-25T16:48:37.682Z",
+        "collected_at": "2026-01-25T17:48:32.812Z",
         "data_start_date": "2024-11-18",
         "price": 0.0261,
         "change": -9.688581314878883,
-        "volume": 309759551.8,
+        "volume": 312118668.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 231,
