@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BGM",
         "name": "BGM Group Ltd.",
-        "collected_at": "2026-01-24T16:47:26.364Z",
+        "collected_at": "2026-01-25T02:08:15.658Z",
         "data_start_date": "2021-01-11",
         "price": 3.7200000286102295,
         "change": 0,
-        "volume": 3563,
+        "volume": 3187,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARVN",
         "name": "Arvinas, Inc.",
-        "collected_at": "2026-01-24T16:47:02.939Z",
+        "collected_at": "2026-01-25T02:07:54.432Z",
         "data_start_date": "2020-01-27",
         "price": 12.890000343322754,
         "change": 0,
-        "volume": 777562,
+        "volume": 582928,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 571,

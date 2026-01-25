@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PLUS",
         "name": "ePlus inc.",
-        "collected_at": "2026-01-24T16:44:38.744Z",
+        "collected_at": "2026-01-25T02:05:47.587Z",
         "data_start_date": "2020-01-27",
         "price": 87.20999908447266,
         "change": 0,
-        "volume": 88710,
+        "volume": 75082,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 67,

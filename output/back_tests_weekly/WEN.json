@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WEN",
         "name": "Wendy's Company (The)",
-        "collected_at": "2026-01-24T16:45:33.429Z",
+        "collected_at": "2026-01-25T02:06:34.971Z",
         "data_start_date": "2020-01-27",
         "price": 8.420000076293945,
         "change": 0,
-        "volume": 5170530,
+        "volume": 3685288,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 858,

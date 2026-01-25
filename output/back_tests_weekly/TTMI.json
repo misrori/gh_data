@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TTMI",
         "name": "TTM Technologies, Inc.",
-        "collected_at": "2026-01-24T16:41:24.262Z",
+        "collected_at": "2026-01-25T02:02:57.008Z",
         "data_start_date": "2020-01-27",
         "price": 95.0199966430664,
         "change": 0,
-        "volume": 2130762,
+        "volume": 1633104,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 760,

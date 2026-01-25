@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EYPT",
         "name": "EyePoint, Inc.",
-        "collected_at": "2026-01-24T16:46:09.996Z",
+        "collected_at": "2026-01-25T02:07:07.584Z",
         "data_start_date": "2020-01-27",
         "price": 15.180000305175781,
         "change": 0,
-        "volume": 1078400,
+        "volume": 788487,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 109,

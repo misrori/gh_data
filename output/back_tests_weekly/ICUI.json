@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ICUI",
         "name": "ICU Medical, Inc.",
-        "collected_at": "2026-01-24T16:43:29.934Z",
+        "collected_at": "2026-01-25T02:04:47.233Z",
         "data_start_date": "2020-01-27",
         "price": 152.6699981689453,
         "change": 0,
-        "volume": 225025,
+        "volume": 176142,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CCB",
         "name": "Coastal Financial Corporation",
-        "collected_at": "2026-01-24T16:45:24.886Z",
+        "collected_at": "2026-01-25T02:06:27.554Z",
         "data_start_date": "2020-01-27",
         "price": 111.33999633789062,
         "change": 0,
-        "volume": 120890,
+        "volume": 103135,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 599,

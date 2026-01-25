@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IPGP",
         "name": "IPG Photonics Corporation",
-        "collected_at": "2026-01-24T16:43:34.777Z",
+        "collected_at": "2026-01-25T02:04:51.204Z",
         "data_start_date": "2020-01-27",
         "price": 86.44000244140625,
         "change": 0,
-        "volume": 484927,
+        "volume": 401727,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 144,

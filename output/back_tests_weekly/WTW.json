@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WTW",
         "name": "Willis Towers Watson Public Limited Company",
-        "collected_at": "2026-01-24T16:39:44.315Z",
+        "collected_at": "2026-01-25T02:01:26.994Z",
         "data_start_date": "2020-01-27",
         "price": 322.80999755859375,
         "change": 0,
-        "volume": 317542,
+        "volume": 282972,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 781,

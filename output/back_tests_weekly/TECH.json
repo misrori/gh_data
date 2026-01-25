@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TECH",
         "name": "Bio-Techne Corp",
-        "collected_at": "2026-01-24T16:41:13.353Z",
+        "collected_at": "2026-01-25T02:02:48.350Z",
         "data_start_date": "2020-01-27",
         "price": 68.16000366210938,
         "change": 0,
-        "volume": 1810519,
+        "volume": 1555063,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

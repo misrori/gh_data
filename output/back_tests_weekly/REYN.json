@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "REYN",
         "name": "Reynolds Consumer Products Inc.",
-        "collected_at": "2026-01-24T16:42:45.756Z",
+        "collected_at": "2026-01-25T02:04:10.447Z",
         "data_start_date": "2020-01-27",
         "price": 24.049999237060547,
         "change": 0,
-        "volume": 499623,
+        "volume": 440419,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 361,

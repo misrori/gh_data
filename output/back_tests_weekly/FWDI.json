@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FWDI",
         "name": "Forward Industries, Inc.",
-        "collected_at": "2026-01-24T16:47:31.714Z",
+        "collected_at": "2026-01-25T02:08:20.485Z",
         "data_start_date": "2020-01-27",
         "price": 7.820000171661377,
         "change": 0,
-        "volume": 504767,
+        "volume": 364498,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 186,

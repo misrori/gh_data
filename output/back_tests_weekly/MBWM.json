@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MBWM",
         "name": "Mercantile Bank Corporation",
-        "collected_at": "2026-01-24T16:47:02.415Z",
+        "collected_at": "2026-01-25T02:07:53.951Z",
         "data_start_date": "2020-01-27",
         "price": 51.119998931884766,
         "change": 0,
-        "volume": 128826,
+        "volume": 106147,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 795,

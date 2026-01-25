@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FISV",
         "name": "Fiserv, Inc.",
-        "collected_at": "2026-01-24T16:39:35.357Z",
+        "collected_at": "2026-01-25T02:01:19.170Z",
         "data_start_date": "2020-01-27",
         "price": 67.55999755859375,
         "change": 0,
-        "volume": 5627853,
+        "volume": 5161268,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

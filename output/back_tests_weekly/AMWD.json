@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMWD",
         "name": "American Woodmark Corporation",
-        "collected_at": "2026-01-24T16:46:50.519Z",
+        "collected_at": "2026-01-25T02:07:43.849Z",
         "data_start_date": "2020-01-27",
         "price": 61.439998626708984,
         "change": 0,
-        "volume": 53464,
+        "volume": 38570,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 319,

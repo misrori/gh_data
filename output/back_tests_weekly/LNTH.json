@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LNTH",
         "name": "Lantheus Holdings, Inc.",
-        "collected_at": "2026-01-24T16:43:06.343Z",
+        "collected_at": "2026-01-25T02:04:27.212Z",
         "data_start_date": "2020-01-27",
         "price": 67.51000213623047,
         "change": 0,
-        "volume": 570157,
+        "volume": 489701,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 165,

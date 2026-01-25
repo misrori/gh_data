@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADI",
         "name": "Analog Devices, Inc.",
-        "collected_at": "2026-01-24T16:38:32.426Z",
+        "collected_at": "2026-01-25T02:00:27.046Z",
         "data_start_date": "2020-01-27",
         "price": 305.6000061035156,
         "change": 0,
-        "volume": 2906491,
+        "volume": 2409687,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 221,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AIP",
         "name": "Arteris, Inc.",
-        "collected_at": "2026-01-24T16:47:22.937Z",
+        "collected_at": "2026-01-25T02:08:12.527Z",
         "data_start_date": "2021-10-25",
         "price": 16.149999618530273,
         "change": 0,
-        "volume": 297496,
+        "volume": 255707,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

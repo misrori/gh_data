@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MELI",
         "name": "MercadoLibre, Inc.",
-        "collected_at": "2026-01-24T16:38:40.577Z",
+        "collected_at": "2026-01-25T02:00:33.774Z",
         "data_start_date": "2020-01-27",
         "price": 2137.2900390625,
         "change": 0,
-        "volume": 448674,
+        "volume": 314015,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

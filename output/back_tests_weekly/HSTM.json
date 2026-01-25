@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HSTM",
         "name": "HealthStream, Inc.",
-        "collected_at": "2026-01-24T16:47:35.077Z",
+        "collected_at": "2026-01-25T02:08:23.284Z",
         "data_start_date": "2020-01-27",
         "price": 21.389999389648438,
         "change": 0,
-        "volume": 165682,
+        "volume": 123692,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

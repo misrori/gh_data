@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRAI",
         "name": "CRA International,Inc.",
-        "collected_at": "2026-01-24T16:45:56.713Z",
+        "collected_at": "2026-01-25T02:06:55.613Z",
         "data_start_date": "2020-01-27",
         "price": 209.0500030517578,
         "change": 0,
-        "volume": 74675,
+        "volume": 52348,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 704,

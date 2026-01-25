@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACGL",
         "name": "Arch Capital Group Ltd.",
-        "collected_at": "2026-01-24T16:39:39.211Z",
+        "collected_at": "2026-01-25T02:01:22.608Z",
         "data_start_date": "2020-01-27",
         "price": 92.95999908447266,
         "change": 0,
-        "volume": 1640553,
+        "volume": 1254290,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PLPC",
         "name": "Preformed Line Products Company",
-        "collected_at": "2026-01-24T16:46:18.041Z",
+        "collected_at": "2026-01-25T02:07:14.299Z",
         "data_start_date": "2020-01-27",
         "price": 237.0800018310547,
         "change": 0,
-        "volume": 103455,
+        "volume": 48243,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 368,

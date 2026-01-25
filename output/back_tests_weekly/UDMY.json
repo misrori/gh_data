@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UDMY",
         "name": "Udemy, Inc.",
-        "collected_at": "2026-01-24T16:47:18.383Z",
+        "collected_at": "2026-01-25T02:08:08.433Z",
         "data_start_date": "2021-10-25",
         "price": 5.099999904632568,
         "change": 0,
-        "volume": 1729499,
+        "volume": 1003705,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 641,

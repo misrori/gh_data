@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BLKB",
         "name": "Blackbaud, Inc.",
-        "collected_at": "2026-01-24T16:44:20.048Z",
+        "collected_at": "2026-01-25T02:05:31.056Z",
         "data_start_date": "2020-01-27",
         "price": 56.34000015258789,
         "change": 0,
-        "volume": 237024,
+        "volume": 270801,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

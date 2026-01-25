@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MAR",
         "name": "Marriott International",
-        "collected_at": "2026-01-24T16:38:49.920Z",
+        "collected_at": "2026-01-25T02:00:41.668Z",
         "data_start_date": "2020-01-27",
         "price": 319.70001220703125,
         "change": 0,
-        "volume": 1367926,
+        "volume": 1058812,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1096,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EXC",
         "name": "Exelon Corporation",
-        "collected_at": "2026-01-24T16:39:20.891Z",
+        "collected_at": "2026-01-25T02:01:07.406Z",
         "data_start_date": "2020-01-27",
         "price": 44.060001373291016,
         "change": 0,
-        "volume": 8554914,
+        "volume": 6804749,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 347,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NPCE",
         "name": "Neuropace, Inc.",
-        "collected_at": "2026-01-24T16:47:53.775Z",
+        "collected_at": "2026-01-25T02:08:39.697Z",
         "data_start_date": "2021-04-19",
         "price": 16.709999084472656,
         "change": 0,
-        "volume": 92938,
+        "volume": 76228,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 74,

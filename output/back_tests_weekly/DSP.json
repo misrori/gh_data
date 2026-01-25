@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DSP",
         "name": "Viant Technology Inc.",
-        "collected_at": "2026-01-24T16:47:08.398Z",
+        "collected_at": "2026-01-25T02:07:59.726Z",
         "data_start_date": "2021-02-08",
         "price": 12.789999961853027,
         "change": 0,
-        "volume": 161082,
+        "volume": 124109,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

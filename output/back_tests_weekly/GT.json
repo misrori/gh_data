@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GT",
         "name": "The Goodyear Tire & Rubber Company",
-        "collected_at": "2026-01-24T16:44:17.165Z",
+        "collected_at": "2026-01-25T02:05:28.270Z",
         "data_start_date": "2020-01-27",
         "price": 9.609999656677246,
         "change": 0,
-        "volume": 3503612,
+        "volume": 2741948,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 158,

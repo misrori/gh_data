@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PTC",
         "name": "PTC Inc.",
-        "collected_at": "2026-01-24T16:40:20.701Z",
+        "collected_at": "2026-01-25T02:01:57.675Z",
         "data_start_date": "2020-01-27",
         "price": 162.13999938964844,
         "change": 0,
-        "volume": 589959,
+        "volume": 494114,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

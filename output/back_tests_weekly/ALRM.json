@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALRM",
         "name": "Alarm.com Holdings, Inc.",
-        "collected_at": "2026-01-24T16:44:32.794Z",
+        "collected_at": "2026-01-25T02:05:41.995Z",
         "data_start_date": "2020-01-27",
         "price": 48.93000030517578,
         "change": 0,
-        "volume": 401496,
+        "volume": 362500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 326,

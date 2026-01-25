@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EBAY",
         "name": "eBay Inc.",
-        "collected_at": "2026-01-24T16:39:23.777Z",
+        "collected_at": "2026-01-25T02:01:09.820Z",
         "data_start_date": "2020-01-27",
         "price": 93.61000061035156,
         "change": 0,
-        "volume": 3158969,
+        "volume": 2561139,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 641,

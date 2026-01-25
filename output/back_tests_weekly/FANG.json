@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FANG",
         "name": "Diamondback Energy, Inc.",
-        "collected_at": "2026-01-24T16:39:22.001Z",
+        "collected_at": "2026-01-25T02:01:08.340Z",
         "data_start_date": "2020-01-27",
         "price": 154.02000427246094,
         "change": 0,
-        "volume": 1188137,
+        "volume": 995532,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

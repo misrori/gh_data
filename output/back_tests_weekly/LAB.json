@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LAB",
         "name": "Standard BioTools Inc.",
-        "collected_at": "2026-01-24T16:47:44.949Z",
+        "collected_at": "2026-01-25T02:08:31.811Z",
         "data_start_date": "2020-01-27",
         "price": 1.5499999523162842,
         "change": 0,
-        "volume": 927266,
+        "volume": 605969,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 557,
