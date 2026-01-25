@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FXSUSDT",
         "name": "Frax (prev. FXS)",
-        "collected_at": "2026-01-25T01:46:12.793Z",
+        "collected_at": "2026-01-25T02:46:18.895Z",
         "data_start_date": "2021-12-10",
         "price": 0.812,
         "change": -1.6949152542372763,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:FXSUSD",
-        "market_capitalization": 90240140.2724281,
+        "market_capitalization": 91151696.2467941,
         "commodity_name": null,
         "display_name": "Frax (prev. FXS)",
         "sma_50": 0.7311200000000001,
