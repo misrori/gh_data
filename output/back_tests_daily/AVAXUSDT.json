@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVAXUSDT",
         "name": "Avalanche",
-        "collected_at": "2026-01-26T16:45:30.225Z",
+        "collected_at": "2026-01-26T17:45:31.168Z",
         "data_start_date": "2020-09-22",
         "price": 11.7,
         "change": 1.827676240208869,
-        "volume": 1495570.11,
+        "volume": 1673286.93,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 98,
