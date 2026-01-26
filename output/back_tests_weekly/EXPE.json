@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EXPE",
         "name": "Expedia Group, Inc.",
-        "collected_at": "2026-01-25T02:01:23.945Z",
+        "collected_at": "2026-01-26T02:01:25.521Z",
         "data_start_date": "2020-01-27",
         "price": 271.1400146484375,
         "change": 0,
-        "volume": 1577606,
+        "volume": 1577704,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 760,

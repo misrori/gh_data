@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MKC",
         "name": "McCormick & Company, Incorporated",
-        "collected_at": "2026-01-25T02:02:15.016Z",
+        "collected_at": "2026-01-26T02:02:11.817Z",
         "data_start_date": "2020-01-27",
         "price": 60.790000915527344,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 29.510665095846484,
         "price_per_earning": 20.7240991374902,
         "earnings_per_share_basic_ttm": 2.9396,
-        "number_of_employees": null,
+        "number_of_employees": 14100,
         "ml_direction": -1,
         "ml_value": 71.59087700118233,
         "ml_last_change_date": "2025-05-19",

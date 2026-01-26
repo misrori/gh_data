@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TEL",
         "name": "TE Connectivity plc",
-        "collected_at": "2026-01-25T02:00:53.580Z",
+        "collected_at": "2026-01-26T02:00:54.714Z",
         "data_start_date": "2020-01-27",
         "price": 223.83999633789062,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 81,
         "percent_fall_from_last_local_max": 10.70331592413861,
-        "price_per_earning": 32.257785591791446,
+        "price_per_earning": 32.27964928472543,
         "earnings_per_share_basic_ttm": 6.9975,
         "number_of_employees": 93000,
         "ml_direction": 1,

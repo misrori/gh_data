@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BCPC",
         "name": "Balchem Corporation",
-        "collected_at": "2026-01-25T02:04:00.128Z",
+        "collected_at": "2026-01-26T02:03:55.649Z",
         "data_start_date": "2020-01-27",
         "price": 167.5399932861328,
         "change": 0,
-        "volume": 123591,
+        "volume": 127066,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

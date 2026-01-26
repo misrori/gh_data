@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LSTR",
         "name": "Landstar System, Inc.",
-        "collected_at": "2026-01-25T02:04:04.093Z",
+        "collected_at": "2026-01-26T02:03:59.280Z",
         "data_start_date": "2020-01-27",
         "price": 153.94000244140625,
         "change": 0,
-        "volume": 359319,
+        "volume": 365172,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 361,

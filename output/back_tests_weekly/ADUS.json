@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADUS",
         "name": "Addus HomeCare Corporation",
-        "collected_at": "2026-01-25T02:06:00.835Z",
+        "collected_at": "2026-01-26T02:05:53.284Z",
         "data_start_date": "2020-01-27",
         "price": 110.37000274658203,
         "change": 0,
-        "volume": 181702,
+        "volume": 183233,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

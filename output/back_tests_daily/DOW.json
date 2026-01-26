@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "DOW",
         "name": "Dow Inc.",
-        "collected_at": "2026-01-25T02:01:55.107Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-26T02:01:56.359Z",
+        "data_start_date": "2020-01-28",
         "price": 28.25,
         "change": -0.2823858945340559,
         "volume": 8892300,

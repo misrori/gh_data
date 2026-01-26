@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STRL",
         "name": "Sterling Infrastructure, Inc.",
-        "collected_at": "2026-01-25T02:02:47.317Z",
+        "collected_at": "2026-01-26T02:02:43.863Z",
         "data_start_date": "2020-01-27",
         "price": 351.3900146484375,
         "change": 0,
-        "volume": 394680,
+        "volume": 398270,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1180,

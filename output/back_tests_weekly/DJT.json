@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DJT",
         "name": "Trump Media & Technology Group Corp.",
-        "collected_at": "2026-01-25T02:04:38.521Z",
+        "collected_at": "2026-01-26T02:04:33.010Z",
         "data_start_date": "2021-09-27",
         "price": 14.529999732971191,
         "change": 0,
-        "volume": 5908171,
+        "volume": 5996193,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

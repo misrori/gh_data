@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRS",
         "name": "TriMas Corporation",
-        "collected_at": "2026-01-25T02:06:53.815Z",
+        "collected_at": "2026-01-26T02:06:44.530Z",
         "data_start_date": "2020-01-27",
         "price": 34.5,
         "change": 0,
-        "volume": 323172,
+        "volume": 327505,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,

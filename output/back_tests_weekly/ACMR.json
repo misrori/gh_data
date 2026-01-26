@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACMR",
         "name": "ACM Research, Inc.",
-        "collected_at": "2026-01-25T02:05:05.091Z",
+        "collected_at": "2026-01-26T02:04:58.778Z",
         "data_start_date": "2020-01-27",
         "price": 49.849998474121094,
         "change": 0,
-        "volume": 1096805,
+        "volume": 1110397,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 333,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TROW",
         "name": "T. Rowe Price Group, Inc.",
-        "collected_at": "2026-01-25T02:01:47.201Z",
+        "collected_at": "2026-01-26T02:01:48.203Z",
         "data_start_date": "2020-01-27",
         "price": 105.62999725341797,
         "change": 0,
-        "volume": 970211,
+        "volume": 972264,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

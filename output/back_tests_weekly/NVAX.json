@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVAX",
         "name": "Novavax, Inc.",
-        "collected_at": "2026-01-25T02:06:46.877Z",
+        "collected_at": "2026-01-26T02:06:37.184Z",
         "data_start_date": "2020-01-27",
         "price": 9.170000076293945,
         "change": 0,
-        "volume": 7571815,
+        "volume": 7589644,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 396,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRAA",
         "name": "PRA Group, Inc.",
-        "collected_at": "2026-01-25T02:08:25.761Z",
+        "collected_at": "2026-01-26T02:08:15.403Z",
         "data_start_date": "2020-01-27",
         "price": 15.90999984741211,
         "change": 0,
-        "volume": 170071,
+        "volume": 181605,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 998,

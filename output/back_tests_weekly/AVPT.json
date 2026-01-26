@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVPT",
         "name": "AvePoint, Inc.",
-        "collected_at": "2026-01-25T02:05:30.089Z",
+        "collected_at": "2026-01-26T02:05:22.678Z",
         "data_start_date": "2020-01-27",
         "price": 12.59000015258789,
         "change": 0,
-        "volume": 1608863,
+        "volume": 2259275,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GERN",
         "name": "Geron Corporation",
-        "collected_at": "2026-01-25T02:07:45.940Z",
+        "collected_at": "2026-01-26T02:07:35.019Z",
         "data_start_date": "2020-01-27",
         "price": 1.3799999952316284,
         "change": 0,
-        "volume": 11852849,
+        "volume": 11938454,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 312,

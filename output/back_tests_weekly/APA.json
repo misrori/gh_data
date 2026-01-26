@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APA",
         "name": "APA Corporation",
-        "collected_at": "2026-01-25T02:03:02.851Z",
+        "collected_at": "2026-01-26T02:03:00.147Z",
         "data_start_date": "2020-01-27",
         "price": 25.799999237060547,
         "change": 0,
-        "volume": 6904282,
+        "volume": 6940574,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

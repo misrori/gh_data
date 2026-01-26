@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RUN",
         "name": "Sunrun Inc.",
-        "collected_at": "2026-01-25T02:04:26.153Z",
+        "collected_at": "2026-01-26T02:04:20.810Z",
         "data_start_date": "2020-01-27",
         "price": 19.5,
         "change": 0,
-        "volume": 7899605,
+        "volume": 7999713,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 95,

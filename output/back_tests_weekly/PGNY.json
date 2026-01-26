@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PGNY",
         "name": "Progyny, Inc.",
-        "collected_at": "2026-01-25T02:05:54.065Z",
+        "collected_at": "2026-01-26T02:05:46.166Z",
         "data_start_date": "2020-01-27",
         "price": 25.219999313354492,
         "change": 0,
-        "volume": 1767472,
+        "volume": 1953683,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

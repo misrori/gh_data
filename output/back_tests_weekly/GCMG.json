@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GCMG",
         "name": "GCM Grosvenor Inc.",
-        "collected_at": "2026-01-25T02:05:46.303Z",
+        "collected_at": "2026-01-26T02:05:38.448Z",
         "data_start_date": "2020-01-27",
         "price": 11.399999618530273,
         "change": 0,
-        "volume": 389206,
+        "volume": 395903,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LKQ",
         "name": "LKQ Corporation",
-        "collected_at": "2026-01-25T02:03:07.739Z",
+        "collected_at": "2026-01-26T02:03:04.763Z",
         "data_start_date": "2020-01-27",
         "price": 34.03499984741211,
         "change": -0.014691739073817529,
-        "volume": 1787748,
+        "volume": 1824172,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 816,

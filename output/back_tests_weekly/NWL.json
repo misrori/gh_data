@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NWL",
         "name": "Newell Brands Inc.",
-        "collected_at": "2026-01-25T02:06:17.952Z",
+        "collected_at": "2026-01-26T02:06:10.452Z",
         "data_start_date": "2020-01-27",
         "price": 4.320000171661377,
         "change": 0,
-        "volume": 3776145,
+        "volume": 3862649,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 319,

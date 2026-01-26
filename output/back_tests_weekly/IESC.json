@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IESC",
         "name": "IES Holdings, Inc.",
-        "collected_at": "2026-01-25T02:03:02.320Z",
+        "collected_at": "2026-01-26T02:02:59.654Z",
         "data_start_date": "2020-01-27",
         "price": 461.510009765625,
         "change": 0,
-        "volume": 130416,
+        "volume": 130445,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1012,

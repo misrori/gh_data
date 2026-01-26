@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BJRI",
         "name": "BJ's Restaurants, Inc.",
-        "collected_at": "2026-01-25T02:07:41.930Z",
+        "collected_at": "2026-01-26T02:07:31.128Z",
         "data_start_date": "2020-01-27",
         "price": 43.08000183105469,
         "change": 0,
-        "volume": 235343,
+        "volume": 242305,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 32,

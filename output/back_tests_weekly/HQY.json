@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HQY",
         "name": "HealthEquity, Inc.",
-        "collected_at": "2026-01-25T02:03:28.385Z",
+        "collected_at": "2026-01-26T02:03:24.175Z",
         "data_start_date": "2020-01-27",
         "price": 84.11000061035156,
         "change": 0,
-        "volume": 959928,
+        "volume": 1032067,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

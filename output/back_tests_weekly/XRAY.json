@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XRAY",
         "name": "DENTSPLY SIRONA Inc.",
-        "collected_at": "2026-01-25T02:05:38.057Z",
+        "collected_at": "2026-01-26T02:05:30.313Z",
         "data_start_date": "2020-01-27",
         "price": 12.729999542236328,
         "change": 0,
-        "volume": 3907367,
+        "volume": 3948734,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 851,

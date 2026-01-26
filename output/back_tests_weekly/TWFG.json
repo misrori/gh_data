@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TWFG",
         "name": "TWFG, Inc.",
-        "collected_at": "2026-01-25T02:06:49.943Z",
+        "collected_at": "2026-01-26T02:06:40.349Z",
         "data_start_date": "2024-07-15",
         "price": 25.850000381469727,
         "change": 0,
-        "volume": 51614,
+        "volume": 51742,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 109,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PSMT",
         "name": "PriceSmart, Inc.",
-        "collected_at": "2026-01-25T02:04:30.404Z",
+        "collected_at": "2026-01-26T02:04:24.871Z",
         "data_start_date": "2020-01-27",
         "price": 140.6999969482422,
         "change": 0,
-        "volume": 166896,
+        "volume": 170835,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 760,

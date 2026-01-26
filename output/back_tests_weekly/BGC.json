@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BGC",
         "name": "BGC Group, Inc.",
-        "collected_at": "2026-01-25T02:04:34.132Z",
+        "collected_at": "2026-01-26T02:04:28.770Z",
         "data_start_date": "2020-01-27",
         "price": 8.90999984741211,
         "change": 0,
-        "volume": 1658952,
+        "volume": 1660427,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

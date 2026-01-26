@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NOVT",
         "name": "Novanta Inc.",
-        "collected_at": "2026-01-25T02:04:13.401Z",
+        "collected_at": "2026-01-26T02:04:08.348Z",
         "data_start_date": "2020-01-27",
         "price": 137.88999938964844,
         "change": 0,
-        "volume": 366200,
+        "volume": 382420,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 340,

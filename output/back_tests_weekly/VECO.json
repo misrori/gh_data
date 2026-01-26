@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VECO",
         "name": "Veeco Instruments Inc.",
-        "collected_at": "2026-01-25T02:06:07.057Z",
+        "collected_at": "2026-01-26T02:05:59.361Z",
         "data_start_date": "2020-01-27",
         "price": 32.349998474121094,
         "change": 0,
-        "volume": 337720,
+        "volume": 413189,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 18,

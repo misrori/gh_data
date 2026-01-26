@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IRDM",
         "name": "Iridium Communications Inc",
-        "collected_at": "2026-01-25T02:05:48.674Z",
+        "collected_at": "2026-01-26T02:05:40.598Z",
         "data_start_date": "2020-01-27",
         "price": 21.770000457763672,
         "change": 0,
-        "volume": 3217922,
+        "volume": 3229005,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 802,

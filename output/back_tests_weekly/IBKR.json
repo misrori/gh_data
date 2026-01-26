@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IBKR",
         "name": "Interactive Brokers Group, Inc.",
-        "collected_at": "2026-01-25T02:00:30.234Z",
+        "collected_at": "2026-01-26T02:00:31.117Z",
         "data_start_date": "2020-01-27",
         "price": 77.58000183105469,
         "change": 0,
-        "volume": 7910311,
+        "volume": 8053385,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1187,

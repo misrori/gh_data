@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRTA",
         "name": "Prothena Corporation plc",
-        "collected_at": "2026-01-25T02:08:43.179Z",
+        "collected_at": "2026-01-26T02:08:32.259Z",
         "data_start_date": "2020-01-27",
         "price": 10,
         "change": 0,
-        "volume": 649443,
+        "volume": 659527,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 774,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INDV",
         "name": "Indivior PLC",
-        "collected_at": "2026-01-25T02:04:36.448Z",
+        "collected_at": "2026-01-26T02:04:30.833Z",
         "data_start_date": "2020-01-27",
         "price": 32.970001220703125,
         "change": 0,
-        "volume": 1038121,
+        "volume": 1112565,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TDUP",
         "name": "ThredUp Inc.",
-        "collected_at": "2026-01-25T02:08:21.877Z",
+        "collected_at": "2026-01-26T02:08:11.524Z",
         "data_start_date": "2021-03-22",
         "price": 5.190000057220459,
         "change": 0,
-        "volume": 1237655,
+        "volume": 1258669,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

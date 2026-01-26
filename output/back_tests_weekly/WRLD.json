@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WRLD",
         "name": "World Acceptance Corporation",
-        "collected_at": "2026-01-25T02:08:13.500Z",
+        "collected_at": "2026-01-26T02:08:03.286Z",
         "data_start_date": "2020-01-27",
         "price": 139.0800018310547,
         "change": 0,
-        "volume": 91098,
+        "volume": 91871,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 347,

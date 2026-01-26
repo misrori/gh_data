@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYM",
         "name": "Symbotic Inc.",
-        "collected_at": "2026-01-25T02:01:17.347Z",
+        "collected_at": "2026-01-26T02:01:19.036Z",
         "data_start_date": "2021-03-08",
         "price": 62.08000183105469,
         "change": 0,
-        "volume": 1232084,
+        "volume": 1237124,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 186,

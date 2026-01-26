@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PLAB",
         "name": "Photronics, Inc.",
-        "collected_at": "2026-01-25T02:06:00.495Z",
+        "collected_at": "2026-01-26T02:05:52.895Z",
         "data_start_date": "2020-01-27",
         "price": 34.71500015258789,
         "change": -0.014403997521325826,
-        "volume": 1133363,
+        "volume": 1140622,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 39,

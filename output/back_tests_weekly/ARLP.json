@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARLP",
         "name": "Alliance Resource Partners, L.P.",
-        "collected_at": "2026-01-25T02:05:08.515Z",
+        "collected_at": "2026-01-26T02:05:02.095Z",
         "data_start_date": "2020-01-27",
         "price": 24.600000381469727,
         "change": 0,
-        "volume": 359629,
+        "volume": 359660,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ECPG",
         "name": "Encore Capital Group Inc",
-        "collected_at": "2026-01-25T02:07:09.731Z",
+        "collected_at": "2026-01-26T02:06:59.820Z",
         "data_start_date": "2020-01-27",
         "price": 54.97999954223633,
         "change": 0,
-        "volume": 93891,
+        "volume": 155031,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

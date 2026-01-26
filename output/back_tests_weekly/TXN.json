@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TXN",
         "name": "Texas Instruments Incorporated",
-        "collected_at": "2026-01-25T02:00:23.480Z",
+        "collected_at": "2026-01-26T02:00:24.412Z",
         "data_start_date": "2020-01-27",
         "price": 193.30999755859375,
         "change": 0,
-        "volume": 6690543,
+        "volume": 6691594,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MCW",
         "name": "Mister Car Wash, Inc.",
-        "collected_at": "2026-01-25T02:06:08.680Z",
+        "collected_at": "2026-01-26T02:06:00.872Z",
         "data_start_date": "2021-06-21",
         "price": 5.860000133514404,
         "change": 0,
-        "volume": 1340153,
+        "volume": 1426016,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 228,

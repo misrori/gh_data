@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PTON",
         "name": "Peloton Interactive, Inc.",
-        "collected_at": "2026-01-25T02:05:43.057Z",
+        "collected_at": "2026-01-26T02:05:35.460Z",
         "data_start_date": "2020-01-27",
         "price": 5.800000190734863,
         "change": 0,
-        "volume": 8610225,
+        "volume": 8615123,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

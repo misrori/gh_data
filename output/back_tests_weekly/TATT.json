@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TATT",
         "name": "TAT Technologies Ltd.",
-        "collected_at": "2026-01-25T02:08:16.467Z",
+        "collected_at": "2026-01-26T02:08:06.143Z",
         "data_start_date": "2020-01-27",
         "price": 52.540000915527344,
         "change": 0,
-        "volume": 50736,
+        "volume": 51528,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 956,

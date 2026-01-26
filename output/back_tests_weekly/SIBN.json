@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SIBN",
         "name": "SI-BONE, Inc.",
-        "collected_at": "2026-01-25T02:08:08.827Z",
+        "collected_at": "2026-01-26T02:07:58.521Z",
         "data_start_date": "2020-01-27",
         "price": 16.799999237060547,
         "change": 0,
-        "volume": 431927,
+        "volume": 450238,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

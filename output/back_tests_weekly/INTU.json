@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INTU",
         "name": "Intuit Inc.",
-        "collected_at": "2026-01-25T02:00:26.296Z",
+        "collected_at": "2026-01-26T02:00:27.168Z",
         "data_start_date": "2020-01-27",
         "price": 563.9650268554688,
         "change": -0.0008766154073924003,
-        "volume": 3264544,
+        "volume": 3274010,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

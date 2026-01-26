@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LILA",
         "name": "Liberty Latin America Ltd.",
-        "collected_at": "2026-01-25T02:06:39.952Z",
+        "collected_at": "2026-01-26T02:06:31.910Z",
         "data_start_date": "2020-01-27",
         "price": 7.570000171661377,
         "change": 0,
-        "volume": 381155,
+        "volume": 381249,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

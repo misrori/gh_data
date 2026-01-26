@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CFFN",
         "name": "Capitol Federal Financial, Inc.",
-        "collected_at": "2026-01-25T02:07:44.948Z",
+        "collected_at": "2026-01-26T02:07:33.962Z",
         "data_start_date": "2020-01-27",
         "price": 6.75,
         "change": 0,
-        "volume": 713142,
+        "volume": 746400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 123,

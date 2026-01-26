@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HLMN",
         "name": "Hillman Solutions Corp.",
-        "collected_at": "2026-01-25T02:06:11.269Z",
+        "collected_at": "2026-01-26T02:06:03.560Z",
         "data_start_date": "2020-11-30",
         "price": 9.630000114440918,
         "change": 0,
-        "volume": 622338,
+        "volume": 651319,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "collected_at": "2026-01-25T02:00:07.895Z",
+        "collected_at": "2026-01-26T02:00:08.285Z",
         "data_start_date": "2020-01-27",
         "price": 449.05999755859375,
         "change": 0,
-        "volume": 56494476,
+        "volume": 56771364,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 459,

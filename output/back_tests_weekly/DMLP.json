@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DMLP",
         "name": "Dorchester Minerals, L.P.",
-        "collected_at": "2026-01-25T02:07:12.730Z",
+        "collected_at": "2026-01-26T02:07:02.946Z",
         "data_start_date": "2020-01-27",
         "price": 24.559999465942383,
         "change": 0,
-        "volume": 244510,
+        "volume": 256354,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 263,

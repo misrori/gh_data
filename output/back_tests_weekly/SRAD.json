@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SRAD",
         "name": "Sportradar Group AG",
-        "collected_at": "2026-01-25T02:03:53.437Z",
+        "collected_at": "2026-01-26T02:03:49.725Z",
         "data_start_date": "2021-09-13",
         "price": 18.15999984741211,
         "change": 0,
-        "volume": 2443991,
+        "volume": 2459501,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 459,

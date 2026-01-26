@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CCNE",
         "name": "CNB Financial Corporation",
-        "collected_at": "2026-01-25T02:07:59.960Z",
+        "collected_at": "2026-01-26T02:07:49.623Z",
         "data_start_date": "2020-01-27",
         "price": 27.09000015258789,
         "change": 0,
-        "volume": 116487,
+        "volume": 121611,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

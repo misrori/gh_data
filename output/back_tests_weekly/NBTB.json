@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NBTB",
         "name": "NBT Bancorp Inc.",
-        "collected_at": "2026-01-25T02:05:48.514Z",
+        "collected_at": "2026-01-26T02:05:40.440Z",
         "data_start_date": "2020-01-27",
         "price": 43.650001525878906,
         "change": 0,
-        "volume": 177140,
+        "volume": 184740,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 228,

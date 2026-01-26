@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SLAB",
         "name": "Silicon Laboratories, Inc.",
-        "collected_at": "2026-01-25T02:04:19.267Z",
+        "collected_at": "2026-01-26T02:04:13.842Z",
         "data_start_date": "2020-01-27",
         "price": 145.35000610351562,
         "change": 0,
-        "volume": 300922,
+        "volume": 301027,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

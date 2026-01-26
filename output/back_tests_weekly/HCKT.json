@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HCKT",
         "name": "The Hackett Group, Inc.",
-        "collected_at": "2026-01-25T02:08:44.377Z",
+        "collected_at": "2026-01-26T02:08:33.593Z",
         "data_start_date": "2020-01-27",
         "price": 19.649999618530273,
         "change": 0,
-        "volume": 162093,
+        "volume": 163625,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 158,

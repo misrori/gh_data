@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NAVI",
         "name": "Navient Corporation",
-        "collected_at": "2026-01-25T02:07:13.832Z",
+        "collected_at": "2026-01-26T02:07:03.919Z",
         "data_start_date": "2020-01-27",
         "price": 12.079999923706055,
         "change": 0,
-        "volume": 541933,
+        "volume": 542151,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 634,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NSSC",
         "name": "NAPCO Security Technologies, Inc.",
-        "collected_at": "2026-01-25T02:06:55.430Z",
+        "collected_at": "2026-01-26T02:06:46.013Z",
         "data_start_date": "2020-01-27",
         "price": 38.529998779296875,
         "change": 0,
-        "volume": 208483,
+        "volume": 214491,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 95,

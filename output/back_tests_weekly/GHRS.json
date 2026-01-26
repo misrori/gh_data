@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GHRS",
         "name": "GH Research PLC",
-        "collected_at": "2026-01-25T02:07:26.819Z",
+        "collected_at": "2026-01-26T02:07:15.961Z",
         "data_start_date": "2021-06-21",
         "price": 16.729999542236328,
         "change": 0,
-        "volume": 291328,
+        "volume": 298554,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

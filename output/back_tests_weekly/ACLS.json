@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACLS",
         "name": "Axcelis Technologies, Inc.",
-        "collected_at": "2026-01-25T02:05:26.411Z",
+        "collected_at": "2026-01-26T02:05:19.518Z",
         "data_start_date": "2020-01-27",
         "price": 91.12000274658203,
         "change": 0,
-        "volume": 572347,
+        "volume": 572531,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 109,

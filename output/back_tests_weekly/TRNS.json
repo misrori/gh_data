@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRNS",
         "name": "Transcat, Inc.",
-        "collected_at": "2026-01-25T02:08:33.830Z",
+        "collected_at": "2026-01-26T02:08:23.159Z",
         "data_start_date": "2020-01-27",
         "price": 63.13999938964844,
         "change": 0,
-        "volume": 74455,
+        "volume": 75494,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 326,

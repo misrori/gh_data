@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NOW",
         "name": "ServiceNow, Inc.",
-        "collected_at": "2026-01-25T02:00:28.484Z",
+        "collected_at": "2026-01-26T02:00:29.392Z",
         "data_start_date": "2020-01-27",
         "price": 133.11000061035156,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 207,
         "percent_fall_from_last_local_max": 37.057281320967064,
-        "price_per_earning": 80.48249591873754,
+        "price_per_earning": 80.47762998790812,
         "earnings_per_share_basic_ttm": 1.6729,
         "number_of_employees": 26293,
         "ml_direction": -1,

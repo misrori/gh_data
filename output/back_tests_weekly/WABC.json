@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WABC",
         "name": "Westamerica Bancorporation",
-        "collected_at": "2026-01-25T02:07:08.872Z",
+        "collected_at": "2026-01-26T02:06:58.965Z",
         "data_start_date": "2020-01-27",
         "price": 49.86000061035156,
         "change": 0,
-        "volume": 167062,
+        "volume": 209761,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 270,

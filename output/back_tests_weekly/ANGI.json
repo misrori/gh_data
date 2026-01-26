@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ANGI",
         "name": "Angi Inc.",
-        "collected_at": "2026-01-25T02:08:41.220Z",
+        "collected_at": "2026-01-26T02:08:30.255Z",
         "data_start_date": "2020-01-27",
         "price": 12.6899995803833,
         "change": 0,
-        "volume": 679181,
+        "volume": 984527,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 438,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EVRG",
         "name": "Evergy, Inc.",
-        "collected_at": "2026-01-25T02:02:03.359Z",
+        "collected_at": "2026-01-26T02:02:05.221Z",
         "data_start_date": "2020-01-27",
         "price": 75.69000244140625,
         "change": 0,
-        "volume": 2001267,
+        "volume": 2108669,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 480,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASTH",
         "name": "Astrana Health Inc.",
-        "collected_at": "2026-01-25T02:06:56.788Z",
+        "collected_at": "2026-01-26T02:06:47.258Z",
         "data_start_date": "2020-01-27",
         "price": 27.15999984741211,
         "change": 0,
-        "volume": 309506,
+        "volume": 318281,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 326,

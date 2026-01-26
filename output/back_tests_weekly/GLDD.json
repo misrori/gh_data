@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLDD",
         "name": "Great Lakes Dredge & Dock Corporation",
-        "collected_at": "2026-01-25T02:07:26.496Z",
+        "collected_at": "2026-01-26T02:07:15.639Z",
         "data_start_date": "2020-01-27",
         "price": 15.40999984741211,
         "change": 0,
-        "volume": 965423,
+        "volume": 984506,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 249,

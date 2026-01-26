@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MAT",
         "name": "Mattel, Inc.",
-        "collected_at": "2026-01-25T02:03:40.173Z",
+        "collected_at": "2026-01-26T02:03:36.168Z",
         "data_start_date": "2020-01-27",
         "price": 20.670000076293945,
         "change": 0,
-        "volume": 2628213,
+        "volume": 2659220,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HBT",
         "name": "HBT Financial, Inc.",
-        "collected_at": "2026-01-25T02:07:48.312Z",
+        "collected_at": "2026-01-26T02:07:37.748Z",
         "data_start_date": "2020-01-27",
         "price": 27.56999969482422,
         "change": 0,
-        "volume": 29550,
+        "volume": 30185,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 571,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LNT",
         "name": "Alliant Energy Corporation",
-        "collected_at": "2026-01-25T02:02:05.234Z",
+        "collected_at": "2026-01-26T02:02:06.516Z",
         "data_start_date": "2020-01-27",
         "price": 66.83000183105469,
         "change": 0,
-        "volume": 2292347,
+        "volume": 2395596,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 515,

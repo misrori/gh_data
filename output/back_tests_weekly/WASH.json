@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WASH",
         "name": "Washington Trust Bancorp, Inc.",
-        "collected_at": "2026-01-25T02:08:36.164Z",
+        "collected_at": "2026-01-26T02:08:25.480Z",
         "data_start_date": "2020-01-27",
         "price": 30.170000076293945,
         "change": 0,
-        "volume": 85831,
+        "volume": 87638,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 277,

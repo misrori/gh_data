@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GCT",
         "name": "GigaCloud Technology Inc",
-        "collected_at": "2026-01-25T02:06:38.513Z",
+        "collected_at": "2026-01-26T02:06:30.362Z",
         "data_start_date": "2022-08-15",
         "price": 42.08000183105469,
         "change": 0,
-        "volume": 573674,
+        "volume": 574054,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

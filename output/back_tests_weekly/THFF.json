@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "THFF",
         "name": "First Financial Corporation",
-        "collected_at": "2026-01-25T02:08:07.444Z",
+        "collected_at": "2026-01-26T02:07:57.106Z",
         "data_start_date": "2020-01-27",
         "price": 62.619998931884766,
         "change": 0,
-        "volume": 76201,
+        "volume": 81619,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 515,

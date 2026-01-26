@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROCK",
         "name": "Gibraltar Industries, Inc.",
-        "collected_at": "2026-01-25T02:06:40.678Z",
+        "collected_at": "2026-01-26T02:06:32.712Z",
         "data_start_date": "2020-01-27",
         "price": 51.779998779296875,
         "change": 0,
-        "volume": 496470,
+        "volume": 528028,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

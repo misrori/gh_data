@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PGEN",
         "name": "Precigen, Inc.",
-        "collected_at": "2026-01-25T02:06:27.402Z",
+        "collected_at": "2026-01-26T02:06:19.025Z",
         "data_start_date": "2020-01-27",
         "price": 4.760000228881836,
         "change": 0,
-        "volume": 4826048,
+        "volume": 4851027,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

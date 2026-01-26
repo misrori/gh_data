@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HLNE",
         "name": "Hamilton Lane Incorporated",
-        "collected_at": "2026-01-25T02:03:12.853Z",
+        "collected_at": "2026-01-26T02:03:09.407Z",
         "data_start_date": "2020-01-27",
         "price": 149.4499969482422,
         "change": 0,
-        "volume": 372439,
+        "volume": 378622,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

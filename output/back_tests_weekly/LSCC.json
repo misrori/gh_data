@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LSCC",
         "name": "Lattice Semiconductor Corporation",
-        "collected_at": "2026-01-25T02:02:42.561Z",
+        "collected_at": "2026-01-26T02:02:40.329Z",
         "data_start_date": "2020-01-27",
         "price": 84.33000183105469,
         "change": 0,
-        "volume": 1632249,
+        "volume": 1680697,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 95,

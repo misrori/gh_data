@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OTTR",
         "name": "Otter Tail Corporation",
-        "collected_at": "2026-01-25T02:04:52.034Z",
+        "collected_at": "2026-01-26T02:04:46.156Z",
         "data_start_date": "2020-01-27",
         "price": 86.7300033569336,
         "change": 0,
-        "volume": 169544,
+        "volume": 174562,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BIPC",
         "name": "Brookfield Infrastructure Corporation",
-        "collected_at": "2026-01-25T02:04:00.311Z",
+        "collected_at": "2026-01-26T02:03:55.858Z",
         "data_start_date": "2020-03-30",
         "price": 45.54999923706055,
         "change": 0,
@@ -49,7 +49,7 @@
         "days_after_last_local_max": 102,
         "percent_fall_from_last_local_max": 4.527352523289164,
         "price_per_earning": null,
-        "earnings_per_share_basic_ttm": -1.0801592,
+        "earnings_per_share_basic_ttm": -1.082385,
         "number_of_employees": null,
         "ml_direction": 1,
         "ml_value": 39.77294629554879,

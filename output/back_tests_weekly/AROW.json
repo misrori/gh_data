@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AROW",
         "name": "Arrow Financial Corporation",
-        "collected_at": "2026-01-25T02:08:43.401Z",
+        "collected_at": "2026-01-26T02:08:32.529Z",
         "data_start_date": "2020-01-27",
         "price": 32.689998626708984,
         "change": 0,
-        "volume": 70277,
+        "volume": 71382,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 151,

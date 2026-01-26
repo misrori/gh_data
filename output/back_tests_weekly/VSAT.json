@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VSAT",
         "name": "ViaSat, Inc.",
-        "collected_at": "2026-01-25T02:03:50.084Z",
+        "collected_at": "2026-01-26T02:03:45.855Z",
         "data_start_date": "2020-01-27",
         "price": 43.279998779296875,
         "change": 0,
-        "volume": 1120826,
+        "volume": 1157389,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 137,

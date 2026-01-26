@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RPD",
         "name": "Rapid7, Inc.",
-        "collected_at": "2026-01-25T02:07:53.726Z",
+        "collected_at": "2026-01-26T02:07:43.631Z",
         "data_start_date": "2020-01-27",
         "price": 12.710000038146973,
         "change": 0,
-        "volume": 914856,
+        "volume": 953552,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 627,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALNT",
         "name": "Allient Inc.",
-        "collected_at": "2026-01-25T02:07:22.584Z",
+        "collected_at": "2026-01-26T02:07:12.532Z",
         "data_start_date": "2020-01-27",
         "price": 63.02000045776367,
         "change": 0,
-        "volume": 158851,
+        "volume": 159505,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

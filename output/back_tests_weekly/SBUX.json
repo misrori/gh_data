@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SBUX",
         "name": "Starbucks Corporation",
-        "collected_at": "2026-01-25T02:00:33.581Z",
+        "collected_at": "2026-01-26T02:00:34.718Z",
         "data_start_date": "2020-01-27",
         "price": 97.62000274658203,
         "change": 0,
-        "volume": 11751818,
+        "volume": 11759837,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 249,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JBHT",
         "name": "J.B. Hunt Transport Services, Inc.",
-        "collected_at": "2026-01-25T02:01:56.046Z",
+        "collected_at": "2026-01-26T02:01:57.295Z",
         "data_start_date": "2020-01-27",
         "price": 206.75,
         "change": 0,
-        "volume": 975622,
+        "volume": 980280,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,

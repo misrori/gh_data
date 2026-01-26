@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NXST",
         "name": "Nexstar Media Group, Inc.",
-        "collected_at": "2026-01-25T02:03:39.110Z",
+        "collected_at": "2026-01-26T02:03:35.000Z",
         "data_start_date": "2020-01-27",
         "price": 212.99000549316406,
         "change": 0,
-        "volume": 268628,
+        "volume": 268999,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 214,

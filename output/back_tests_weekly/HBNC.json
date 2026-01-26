@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HBNC",
         "name": "Horizon Bancorp, Inc.",
-        "collected_at": "2026-01-25T02:07:43.424Z",
+        "collected_at": "2026-01-26T02:07:32.603Z",
         "data_start_date": "2020-01-27",
         "price": 17.600000381469727,
         "change": 0,
-        "volume": 475489,
+        "volume": 475652,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 515,

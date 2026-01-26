@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GSHD",
         "name": "Goosehead Insurance, Inc.",
-        "collected_at": "2026-01-25T02:05:38.422Z",
+        "collected_at": "2026-01-26T02:05:30.688Z",
         "data_start_date": "2020-01-27",
         "price": 68.62000274658203,
         "change": 0,
-        "volume": 130989,
+        "volume": 134120,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

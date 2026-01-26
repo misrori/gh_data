@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CVLT",
         "name": "Commvault Systems, Inc.",
-        "collected_at": "2026-01-25T02:03:59.269Z",
+        "collected_at": "2026-01-26T02:03:54.787Z",
         "data_start_date": "2020-01-27",
         "price": 123.8499984741211,
         "change": 0,
-        "volume": 576625,
+        "volume": 644548,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

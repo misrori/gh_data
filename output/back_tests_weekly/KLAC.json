@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KLAC",
         "name": "KLA Corporation",
-        "collected_at": "2026-01-25T02:00:19.759Z",
+        "collected_at": "2026-01-26T02:00:20.491Z",
         "data_start_date": "2020-01-27",
         "price": 1512.780029296875,
         "change": 0,
-        "volume": 999951,
+        "volume": 1010484,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

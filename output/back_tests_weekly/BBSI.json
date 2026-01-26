@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BBSI",
         "name": "Barrett Business Services, Inc.",
-        "collected_at": "2026-01-25T02:07:34.235Z",
+        "collected_at": "2026-01-26T02:07:23.418Z",
         "data_start_date": "2020-01-27",
         "price": 37.529998779296875,
         "change": 0,
-        "volume": 158298,
+        "volume": 160648,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

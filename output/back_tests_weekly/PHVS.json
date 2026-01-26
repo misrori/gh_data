@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PHVS",
         "name": "Pharvaris N.V.",
-        "collected_at": "2026-01-25T02:06:18.873Z",
+        "collected_at": "2026-01-26T02:06:11.231Z",
         "data_start_date": "2021-02-01",
         "price": 27.979999542236328,
         "change": 0,
-        "volume": 110677,
+        "volume": 197010,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

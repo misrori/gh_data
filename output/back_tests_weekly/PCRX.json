@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PCRX",
         "name": "Pacira BioSciences, Inc.",
-        "collected_at": "2026-01-25T02:07:44.574Z",
+        "collected_at": "2026-01-26T02:07:33.573Z",
         "data_start_date": "2020-01-27",
         "price": 20.670000076293945,
         "change": 0,
-        "volume": 711453,
+        "volume": 729862,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

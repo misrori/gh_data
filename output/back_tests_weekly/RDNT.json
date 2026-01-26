@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RDNT",
         "name": "RadNet, Inc.",
-        "collected_at": "2026-01-25T02:03:53.267Z",
+        "collected_at": "2026-01-26T02:03:49.556Z",
         "data_start_date": "2020-01-27",
         "price": 73.16999816894531,
         "change": 0,
-        "volume": 521834,
+        "volume": 530750,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 151,

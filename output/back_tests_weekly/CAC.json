@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CAC",
         "name": "Camden National Corporation",
-        "collected_at": "2026-01-25T02:08:04.365Z",
+        "collected_at": "2026-01-26T02:07:54.016Z",
         "data_start_date": "2020-01-27",
         "price": 45.560001373291016,
         "change": 0,
-        "volume": 68396,
+        "volume": 74224,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 39,

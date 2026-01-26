@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATAI",
         "name": "AtaiBeckley Inc.",
-        "collected_at": "2026-01-25T02:06:44.921Z",
+        "collected_at": "2026-01-26T02:06:35.321Z",
         "data_start_date": "2021-06-14",
         "price": 4.150000095367432,
         "change": 0,
-        "volume": 5011707,
+        "volume": 5058325,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

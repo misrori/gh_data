@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UPBD",
         "name": "Upbound Group, Inc.",
-        "collected_at": "2026-01-25T02:07:18.381Z",
+        "collected_at": "2026-01-26T02:07:08.576Z",
         "data_start_date": "2020-01-27",
         "price": 19.290000915527344,
         "change": 0,
-        "volume": 534399,
+        "volume": 534568,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 354,

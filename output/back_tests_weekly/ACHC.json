@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACHC",
         "name": "Acadia Healthcare Company, Inc.",
-        "collected_at": "2026-01-25T02:06:53.214Z",
+        "collected_at": "2026-01-26T02:06:43.890Z",
         "data_start_date": "2020-01-27",
         "price": 15.229999542236328,
         "change": 0,
-        "volume": 2656092,
+        "volume": 2734160,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 592,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MCBS",
         "name": "MetroCity Bankshares, Inc.",
-        "collected_at": "2026-01-25T02:08:02.683Z",
+        "collected_at": "2026-01-26T02:07:52.383Z",
         "data_start_date": "2020-01-27",
         "price": 27.299999237060547,
         "change": 0,
-        "volume": 84051,
+        "volume": 84430,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 109,

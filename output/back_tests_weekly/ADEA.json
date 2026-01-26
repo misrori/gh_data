@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADEA",
         "name": "Adeia Inc.",
-        "collected_at": "2026-01-25T02:05:56.274Z",
+        "collected_at": "2026-01-26T02:05:48.407Z",
         "data_start_date": "2020-01-27",
         "price": 19.31999969482422,
         "change": 0,
-        "volume": 652676,
+        "volume": 669382,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1180,

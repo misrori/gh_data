@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZD",
         "name": "Ziff Davis, Inc.",
-        "collected_at": "2026-01-25T02:06:44.530Z",
+        "collected_at": "2026-01-26T02:06:34.894Z",
         "data_start_date": "2020-01-27",
         "price": 38.209999084472656,
         "change": 0,
-        "volume": 357633,
+        "volume": 375749,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1327,

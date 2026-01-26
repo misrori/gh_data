@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VREX",
         "name": "Varex Imaging Corporation",
-        "collected_at": "2026-01-25T02:08:35.267Z",
+        "collected_at": "2026-01-26T02:08:24.512Z",
         "data_start_date": "2020-01-27",
         "price": 13.850000381469727,
         "change": 0,
-        "volume": 363931,
+        "volume": 374620,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,
