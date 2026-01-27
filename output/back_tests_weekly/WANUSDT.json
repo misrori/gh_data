@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WANUSDT",
         "name": "Wanchain",
-        "collected_at": "2026-01-27T00:48:03.712Z",
+        "collected_at": "2026-01-27T01:48:09.734Z",
         "data_start_date": "2019-08-26",
         "price": 0.0718,
         "change": 4.512372634643385,
-        "volume": 19983183,
+        "volume": 20068598,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 567,
