@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IOUSDT",
         "name": "io.net",
-        "collected_at": "2026-01-27T22:46:56.014Z",
+        "collected_at": "2026-01-27T23:47:00.692Z",
         "data_start_date": "2024-06-11",
         "price": 0.156,
         "change": 0.6451612903225813,
-        "volume": 18775601.06,
+        "volume": 18904326.81,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 185,

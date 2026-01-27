@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BMTUSDT",
         "name": "BMT / USDT",
-        "collected_at": "2026-01-27T22:48:56.026Z",
+        "collected_at": "2026-01-27T23:49:07.735Z",
         "data_start_date": "2025-03-18",
         "price": 0.0227,
         "change": -0.8733624454148419,
-        "volume": 36813711.5,
+        "volume": 37177202.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 201,
