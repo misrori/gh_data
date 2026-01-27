@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VELODROMEUSDT",
         "name": "VELODROME / USDT",
-        "collected_at": "2026-01-27T08:48:15.413Z",
+        "collected_at": "2026-01-27T09:48:22.486Z",
         "data_start_date": "2024-12-09",
         "price": 0.0193,
         "change": 2.1164021164021216,
-        "volume": 60011513.5,
+        "volume": 60171986,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 217,
