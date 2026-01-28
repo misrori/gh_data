@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "1000CATUSDT",
         "name": "1000CAT / USDT",
-        "collected_at": "2026-01-28T11:47:23.801Z",
+        "collected_at": "2026-01-28T12:47:51.340Z",
         "data_start_date": "2024-12-16",
         "price": 0.00263,
         "change": 6.048387096774191,
-        "volume": 696999803.6,
+        "volume": 720144637.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 210,
