@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VETUSDT",
         "name": "VeChain",
-        "collected_at": "2026-01-28T05:47:07.478Z",
+        "collected_at": "2026-01-28T06:47:06.104Z",
         "data_start_date": "2018-07-23",
         "price": 0.01017,
         "change": 2.6236125126135197,
-        "volume": 528706088.4,
+        "volume": 535891238.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 266,
