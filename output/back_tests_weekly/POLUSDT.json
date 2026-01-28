@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "POLUSDT",
         "name": "Polygon (prev. MATIC)",
-        "collected_at": "2026-01-28T01:46:06.491Z",
+        "collected_at": "2026-01-28T02:46:03.876Z",
         "data_start_date": "2024-09-09",
         "price": 0.1189,
         "change": 0.2529510961214238,
-        "volume": 118346892.5,
+        "volume": 119278813.4,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 308,

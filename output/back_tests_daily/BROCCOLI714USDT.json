@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BROCCOLI714USDT",
         "name": "BROCCOLI714 / USDT",
-        "collected_at": "2026-01-28T01:47:19.094Z",
+        "collected_at": "2026-01-28T02:47:16.775Z",
         "data_start_date": "2025-03-27",
         "price": 0.01829,
         "change": -1.4547413793103416,
-        "volume": 9821284,
+        "volume": 12424938,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 22,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 0.005001528142147193,
+        "ml_value": 0.005000242427861477,
         "ml_last_change_date": "2025-12-31",
         "ml_last_change_price": 0.01738,
         "ml_change_percent_from_last_change": 5.235903337169168
