@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "1000CATUSDT",
         "name": "1000CAT / USDT",
-        "collected_at": "2026-01-28T16:47:45.271Z",
+        "collected_at": "2026-01-28T17:47:40.145Z",
         "data_start_date": "2024-12-17",
         "price": 0.0026,
         "change": -2.2556390977443668,
-        "volume": 523435330.6,
+        "volume": 525190428.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 147,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.0032474894097868825,
+        "ml_value": 0.0032487751240725966,
         "ml_last_change_date": "2026-01-20",
         "ml_last_change_price": 0.00266,
         "ml_change_percent_from_last_change": -2.2556390977443663

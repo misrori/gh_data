@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KLAYUSDT",
         "name": "Klaytn",
-        "collected_at": "2026-01-28T16:48:51.701Z",
+        "collected_at": "2026-01-28T17:48:46.379Z",
         "data_start_date": "2021-06-21",
         "price": 0.1255,
         "change": 0.40000000000000036,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:KLAYUSD",
-        "market_capitalization": 256018012.131936,
+        "market_capitalization": 253891755.687208,
         "commodity_name": null,
         "display_name": "Klaytn",
         "sma_50": 0.18674400000000002,
