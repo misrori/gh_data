@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MORPHOUSDT",
         "name": "Morpho",
-        "collected_at": "2026-01-28T15:46:57.854Z",
+        "collected_at": "2026-01-28T16:47:14.194Z",
         "data_start_date": "2025-10-03",
         "price": 1.206,
         "change": 0.8361204013377934,
-        "volume": 856758.98,
+        "volume": 936232.23,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 67,
