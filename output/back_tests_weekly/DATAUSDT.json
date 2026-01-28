@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DATAUSDT",
         "name": "DATA / USDT",
-        "collected_at": "2026-01-28T02:48:17.886Z",
+        "collected_at": "2026-01-28T03:48:12.269Z",
         "data_start_date": "2020-04-06",
         "price": 0.00377,
         "change": -0.7894736842105284,
-        "volume": 392978019.8,
+        "volume": 399955115.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 378,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.011475973469907128,
+        "ml_value": 0.011477259184192843,
         "ml_last_change_date": "2024-07-01",
         "ml_last_change_price": 0.03645,
         "ml_change_percent_from_last_change": -89.6570644718793
