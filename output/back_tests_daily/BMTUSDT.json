@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BMTUSDT",
         "name": "BMT / USDT",
-        "collected_at": "2026-01-28T04:49:23.327Z",
+        "collected_at": "2026-01-28T05:49:04.865Z",
         "data_start_date": "2025-03-18",
         "price": 0.0224,
         "change": -1.754385964912285,
-        "volume": 3705789.8,
+        "volume": 4815737.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 202,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.026810391278806318,
+        "ml_value": 0.02682324842166346,
         "ml_last_change_date": "2025-07-05",
         "ml_last_change_price": 0.0867,
         "ml_change_percent_from_last_change": -74.16378316032295
