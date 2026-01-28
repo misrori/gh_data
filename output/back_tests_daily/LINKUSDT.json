@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LINKUSDT",
         "name": "Chainlink",
-        "collected_at": "2026-01-28T17:45:28.427Z",
+        "collected_at": "2026-01-28T18:45:27.914Z",
         "data_start_date": "2019-01-16",
         "price": 11.81,
         "change": -1.8287614297589267,
-        "volume": 1229847.74,
+        "volume": 1308170.19,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 103,
