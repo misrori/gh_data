@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ONDOUSDT",
         "name": "Ondo",
-        "collected_at": "2026-01-29T00:45:54.175Z",
+        "collected_at": "2026-01-29T01:46:04.821Z",
         "data_start_date": "2025-04-11",
         "price": 0.3413,
         "change": -1.4438348252959874,
-        "volume": 312505.6,
+        "volume": 794534.6,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 112,
