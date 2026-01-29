@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ONTUSDT",
         "name": "Ontology",
-        "collected_at": "2026-01-29T04:48:16.081Z",
+        "collected_at": "2026-01-29T05:48:02.238Z",
         "data_start_date": "2018-06-08",
         "price": 0.0595,
         "change": -2.2988505747126524,
-        "volume": 3442813,
+        "volume": 4015632,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 129,
