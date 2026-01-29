@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "USUALUSDT",
         "name": "USUAL / USDT",
-        "collected_at": "2026-01-29T03:47:21.873Z",
+        "collected_at": "2026-01-29T04:47:24.735Z",
         "data_start_date": "2024-11-19",
         "price": 0.0236,
         "change": -2.880658436213989,
-        "volume": 7559267.5,
+        "volume": 9137283.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.03026376325678204,
+        "ml_value": 0.03027662039963918,
         "ml_last_change_date": "2025-12-17",
         "ml_last_change_price": 0.0232,
         "ml_change_percent_from_last_change": 1.7241379310344973
