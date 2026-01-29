@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IRRRF",
         "name": "Ishares III Plc",
-        "collected_at": "2026-01-29T02:09:00.455Z",
+        "collected_at": "2026-01-29T21:21:23.494Z",
         "data_start_date": "2020-02-03",
         "price": 134.2071075439453,
         "change": 0.7855994593231296,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "OTC:IRRRF",
-        "market_capitalization": 131017918116.988,
+        "market_capitalization": 131774279120.698,
         "commodity_name": null,
         "display_name": "Ishares III Plc",
         "sma_50": 119.62982040405274,
