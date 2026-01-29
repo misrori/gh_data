@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYNUSDT",
         "name": "SYN / USDT",
-        "collected_at": "2026-01-29T15:46:40.366Z",
+        "collected_at": "2026-01-29T16:46:47.382Z",
         "data_start_date": "2023-02-20",
         "price": 0.0628,
         "change": 23.865877712031544,
-        "volume": 135808768.6,
+        "volume": 136895117.4,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 546,
