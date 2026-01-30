@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "RSG",
         "name": "Republic Services, Inc.",
-        "collected_at": "2026-01-29T21:20:56.059Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:05.007Z",
+        "data_start_date": "2016-02-01",
         "price": 214.75,
         "change": -1.309745415245914,
         "volume": 1487289,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-11-24",
         "ghl_last_change_price": 217.39999389648438,
         "ghl_change_percent_from_last_change": -1.218948468667469,
-        "rsi": 43.95574167308608,
+        "rsi": 43.95574169161013,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-10-27",
         "rsi_last_change_price": 207.30999755859375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.7354,
         "number_of_employees": 42000,
         "ml_direction": -1,
-        "ml_value": 233.04343721237183,
+        "ml_value": 233.04343721068568,
         "ml_last_change_date": "2025-09-15",
         "ml_last_change_price": 226.8699951171875,
         "ml_change_percent_from_last_change": -5.34226445895899

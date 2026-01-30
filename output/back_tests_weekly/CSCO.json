@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "CSCO",
         "name": "Cisco Systems, Inc.",
-        "collected_at": "2026-01-29T21:20:08.613Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:00:17.740Z",
+        "data_start_date": "2016-02-01",
         "price": 78.43000030517578,
         "change": -0.671224398989511,
         "volume": 18895157,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-10-14",
         "ghl_last_change_price": 56.689998626708984,
         "ghl_change_percent_from_last_change": 38.34891904235149,
-        "rsi": 62.21699279520802,
+        "rsi": 62.21699285302611,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-02-10",
         "rsi_last_change_price": 65.30000305175781,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.6729,
         "number_of_employees": 86200,
         "ml_direction": 1,
-        "ml_value": 69.28820815435887,
+        "ml_value": 69.2882081548266,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 63.43000030517578,
         "ml_change_percent_from_last_change": 23.64811591964635

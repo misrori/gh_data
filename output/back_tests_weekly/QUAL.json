@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "QUAL",
         "name": "iShares MSCI USA Quality Factor ETF",
-        "collected_at": "2026-01-29T21:21:32.081Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:20.931Z",
+        "data_start_date": "2016-02-01",
         "price": 204.74000549316406,
         "change": 0.23008822189880826,
         "volume": 3233926,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-05",
         "ghl_last_change_price": 129.8000030517578,
         "ghl_change_percent_from_last_change": 57.73497741099736,
-        "rsi": 66.18586980503353,
+        "rsi": 66.18586994952554,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-03-31",
         "rsi_last_change_price": 150.77000427246094,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 191.57434027724312,
+        "ml_value": 191.57434027842956,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 177.33999633789062,
         "ml_change_percent_from_last_change": 15.45055245352971

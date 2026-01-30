@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "UNP",
         "name": "Union Pacific Corporation",
-        "collected_at": "2026-01-29T21:20:26.359Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:00:36.063Z",
+        "data_start_date": "2016-02-01",
         "price": 233.5800018310547,
         "change": 2.5778380150695535,
         "volume": 2726022,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-05-26",
         "ghl_last_change_price": 218.77999877929688,
         "ghl_change_percent_from_last_change": 6.76478797620248,
-        "rsi": 54.741446200184534,
+        "rsi": 54.74144629144895,
         "rsi_status": "close",
         "rsi_last_change_date": "2024-02-19",
         "rsi_last_change_price": 256.989990234375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 12.0004,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 246.26544884340956,
+        "ml_value": 246.2654488329468,
         "ml_last_change_date": "2024-12-16",
         "ml_last_change_price": 225.6300048828125,
         "ml_change_percent_from_last_change": 3.523466195185887

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IEF",
         "name": "iShares 7-10 Year Treasury Bond ETF",
-        "collected_at": "2026-01-29T21:21:33.935Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:22.634Z",
+        "data_start_date": "2016-02-01",
         "price": 96,
         "change": 0.10427369398331955,
         "volume": 10908363,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-09-15",
         "ghl_last_change_price": 96.62999725341797,
         "ghl_change_percent_from_last_change": -0.6519686136032488,
-        "rsi": 48.66110174709665,
+        "rsi": 48.66110150097636,
         "rsi_status": "open",
         "rsi_last_change_date": "2023-10-16",
         "rsi_last_change_price": 89.1500015258789,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 94.76903712834982,
+        "ml_value": 94.76903712903761,
         "ml_last_change_date": "2025-03-31",
         "ml_last_change_price": 96.48999786376953,
         "ml_change_percent_from_last_change": -0.5078224423440636

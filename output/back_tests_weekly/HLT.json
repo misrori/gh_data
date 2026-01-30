@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "HLT",
         "name": "Hilton Worldwide Holdings Inc.",
-        "collected_at": "2026-01-29T21:20:53.274Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:02.491Z",
+        "data_start_date": "2016-02-01",
         "price": 299.2799987792969,
         "change": 1.0023290625270997,
         "volume": 2531686,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-01-30",
         "ghl_last_change_price": 145.52999877929688,
         "ghl_change_percent_from_last_change": 105.6483208202105,
-        "rsi": 63.854629746920885,
+        "rsi": 63.854629872076956,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-02-03",
         "rsi_last_change_price": 271.1099853515625,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.9796,
         "number_of_employees": 181000,
         "ml_direction": 1,
-        "ml_value": 262.75414902299116,
+        "ml_value": 262.754149024836,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 252.82000732421875,
         "ml_change_percent_from_last_change": 18.376706791048147

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "TEL",
         "name": "TE Connectivity plc",
-        "collected_at": "2026-01-29T21:20:56.301Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:05.257Z",
+        "data_start_date": "2016-02-01",
         "price": 226.27000427246094,
         "change": 2.0291292389891535,
         "volume": 1539458,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-05-19",
         "ghl_last_change_price": 160.11000061035156,
         "ghl_change_percent_from_last_change": 41.32159353563325,
-        "rsi": 54.906697646070825,
+        "rsi": 54.90669768763141,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-07-21",
         "rsi_last_change_price": 206.72999572753906,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.9975,
         "number_of_employees": 93000,
         "ml_direction": 1,
-        "ml_value": 210.26637605078952,
+        "ml_value": 210.26637605360983,
         "ml_last_change_date": "2025-04-28",
         "ml_last_change_price": 148.5,
         "ml_change_percent_from_last_change": 52.37037324744844

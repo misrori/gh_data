@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IWB",
         "name": "iShares Russell 1000 ETF",
-        "collected_at": "2026-01-29T21:21:33.270Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:22.066Z",
+        "data_start_date": "2016-02-01",
         "price": 380.0899963378906,
         "change": -0.22836915600101482,
         "volume": 1387127,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-19",
         "ghl_last_change_price": 237.6199951171875,
         "ghl_change_percent_from_last_change": 59.95707606611174,
-        "rsi": 63.351016953890294,
+        "rsi": 63.35101708472151,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-09-29",
         "rsi_last_change_price": 368.8800048828125,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 355.7397897939271,
+        "ml_value": 355.73978979624195,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 323.3900146484375,
         "ml_change_percent_from_last_change": 17.533003222468867

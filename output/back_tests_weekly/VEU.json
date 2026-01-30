@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VEU",
         "name": "Vanguard FTSE All-World ex-US Index Fund",
-        "collected_at": "2026-01-29T21:21:30.605Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:19.440Z",
+        "data_start_date": "2016-02-01",
         "price": 78.93000030517578,
         "change": 0.2667671255287368,
         "volume": 8872991,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-01-01",
         "ghl_last_change_price": 55.22999954223633,
         "ghl_change_percent_from_last_change": 42.91146289946142,
-        "rsi": 74.2663324184701,
+        "rsi": 74.26633266160215,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-19",
         "rsi_last_change_price": 77.79000091552734,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 73.82170652319883,
+        "ml_value": 73.82170652369338,
         "ml_last_change_date": "2025-04-21",
         "ml_last_change_price": 61.9900016784668,
         "ml_change_percent_from_last_change": 27.32698526864754

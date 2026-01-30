@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "EW",
         "name": "Edwards Lifesciences Corporation",
-        "collected_at": "2026-01-29T21:21:11.344Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:20.367Z",
+        "data_start_date": "2016-02-01",
         "price": 81.48999786376953,
         "change": -0.4519945563440941,
         "volume": 3308665,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-11-03",
         "ghl_last_change_price": 82.55000305175781,
         "ghl_change_percent_from_last_change": -1.2840764976394636,
-        "rsi": 49.5509209094926,
+        "rsi": 49.55092091095498,
         "rsi_status": "open",
         "rsi_last_change_date": "2024-07-22",
         "rsi_last_change_price": 63.959999084472656,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.3524,
         "number_of_employees": 15800,
         "ml_direction": 1,
-        "ml_value": 74.0285613656183,
+        "ml_value": 74.02856136735652,
         "ml_last_change_date": "2025-08-18",
         "ml_last_change_price": 81.76000213623047,
         "ml_change_percent_from_last_change": -0.3302400506436487

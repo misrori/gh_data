@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VNQ",
         "name": "Vanguard Real Estate ETF",
-        "collected_at": "2026-01-29T21:21:39.752Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:28.758Z",
+        "data_start_date": "2016-02-01",
         "price": 90.70999908447266,
         "change": 1.3972725383326763,
         "volume": 6213784,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-12-22",
         "ghl_last_change_price": 89.23999786376953,
         "ghl_change_percent_from_last_change": 1.6472447959346326,
-        "rsi": 51.63756624581456,
+        "rsi": 51.63756642762061,
         "rsi_status": "close",
         "rsi_last_change_date": "2024-08-19",
         "rsi_last_change_price": 95.16999816894531,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 95.00743609075242,
+        "ml_value": 95.00743604858135,
         "ml_last_change_date": "2024-12-23",
         "ml_last_change_price": 88.41999816894531,
         "ml_change_percent_from_last_change": 2.58991287372774

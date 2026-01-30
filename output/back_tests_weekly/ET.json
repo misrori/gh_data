@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "ET",
         "name": "Energy Transfer LP",
-        "collected_at": "2026-01-29T21:20:57.656Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:06.598Z",
+        "data_start_date": "2016-02-01",
         "price": 18.530000686645508,
         "change": 1.5899173199910948,
         "volume": 16777261,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-10-06",
         "ghl_last_change_price": 16.3700008392334,
         "ghl_change_percent_from_last_change": 13.194867053612569,
-        "rsi": 65.1004290110136,
+        "rsi": 65.10042928258005,
         "rsi_status": "close",
         "rsi_last_change_date": "2024-12-23",
         "rsi_last_change_price": 19.229999542236328,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.2572,
         "number_of_employees": 16248,
         "ml_direction": 1,
-        "ml_value": 16.668825892623577,
+        "ml_value": 16.668825892797813,
         "ml_last_change_date": "2026-01-29",
         "ml_last_change_price": 18.530000686645508,
         "ml_change_percent_from_last_change": 0

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "MBB",
         "name": "iShares MBS ETF",
-        "collected_at": "2026-01-29T21:21:37.195Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:26.009Z",
+        "data_start_date": "2016-02-01",
         "price": 95.79000091552734,
         "change": 0.10450253064036204,
         "volume": 1908364,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-08-11",
         "ghl_last_change_price": 93.55999755859375,
         "ghl_change_percent_from_last_change": 2.3835008712318695,
-        "rsi": 59.59348341235041,
+        "rsi": 59.59348338255651,
         "rsi_status": "open",
         "rsi_last_change_date": "2023-09-25",
         "rsi_last_change_price": 87.94000244140625,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 93.76400688268782,
+        "ml_value": 93.76400688292026,
         "ml_last_change_date": "2025-09-01",
         "ml_last_change_price": 95.18000030517578,
         "ml_change_percent_from_last_change": 0.6408915826809469

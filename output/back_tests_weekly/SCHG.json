@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "SCHG",
         "name": "Schwab U.S. Large-Cap Growth ETF",
-        "collected_at": "2026-01-29T21:21:31.669Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:20.456Z",
+        "data_start_date": "2016-02-01",
         "price": 32.2400016784668,
         "change": -0.7694674887188171,
         "volume": 14914635,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-19",
         "ghl_last_change_price": 18.309999465942383,
         "ghl_change_percent_from_last_change": 76.0786598516018,
-        "rsi": 54.61702425826919,
+        "rsi": 54.617024282273675,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-10-27",
         "rsi_last_change_price": 33.63999938964844,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 29.828217265912905,
+        "ml_value": 29.82821726622684,
         "ml_last_change_date": "2025-06-02",
         "ml_last_change_price": 28.1299991607666,
         "ml_change_percent_from_last_change": 14.610745255309098

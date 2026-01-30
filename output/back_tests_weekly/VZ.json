@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VZ",
         "name": "Verizon Communications Inc.",
-        "collected_at": "2026-01-29T21:20:21.013Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:00:30.140Z",
+        "data_start_date": "2016-02-01",
         "price": 39.810001373291016,
         "change": 1.0149746953251324,
         "volume": 43746009,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2026-01-12",
         "ghl_last_change_price": 38.88999938964844,
         "ghl_change_percent_from_last_change": 2.3656518335854138,
-        "rsi": 43.53959794154405,
+        "rsi": 43.53959793592007,
         "rsi_status": "open",
         "rsi_last_change_date": "2022-09-19",
         "rsi_last_change_price": 39.22999954223633,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 4.6963,
         "number_of_employees": 99600,
         "ml_direction": -1,
-        "ml_value": 43.72374973633768,
+        "ml_value": 43.7237497355523,
         "ml_last_change_date": "2025-10-20",
         "ml_last_change_price": 38.810001373291016,
         "ml_change_percent_from_last_change": 2.576655409984596

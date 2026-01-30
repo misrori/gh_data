@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "CVS",
         "name": "CVS Health Corporation",
-        "collected_at": "2026-01-29T21:20:36.700Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:00:46.816Z",
+        "data_start_date": "2016-02-01",
         "price": 74.44000244140625,
         "change": 0.5538344844928406,
         "volume": 7528508,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-09-08",
         "ghl_last_change_price": 74.94999694824219,
         "ghl_change_percent_from_last_change": -0.6804463343582534,
-        "rsi": 47.77193745219487,
+        "rsi": 47.77193746343751,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-10-13",
         "rsi_last_change_price": 82.45999908447266,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.3907,
         "number_of_employees": 300000,
         "ml_direction": 1,
-        "ml_value": 69.62214039432011,
+        "ml_value": 69.6221403956571,
         "ml_last_change_date": "2025-02-10",
         "ml_last_change_price": 64.8499984741211,
         "ml_change_percent_from_last_change": 14.78797870922406

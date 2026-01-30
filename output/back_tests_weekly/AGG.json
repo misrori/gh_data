@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "AGG",
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "collected_at": "2026-01-29T21:21:22.869Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:11.433Z",
+        "data_start_date": "2016-02-01",
         "price": 100.1500015258789,
         "change": 0,
         "volume": 9355016,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-08-04",
         "ghl_last_change_price": 99.01000213623047,
         "ghl_change_percent_from_last_change": 1.1513982073042328,
-        "rsi": 53.913881561726,
+        "rsi": 53.91388155849322,
         "rsi_status": "open",
         "rsi_last_change_date": "2023-10-16",
         "rsi_last_change_price": 91.69999694824219,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 98.63363167731593,
+        "ml_value": 98.63363167838774,
         "ml_last_change_date": "2025-09-01",
         "ml_last_change_price": 100.33000183105469,
         "ml_change_percent_from_last_change": -0.17940825465037058

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "REGN",
         "name": "Regeneron Pharmaceuticals, Inc.",
-        "collected_at": "2026-01-29T21:20:47.337Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:00:56.725Z",
+        "data_start_date": "2016-02-01",
         "price": 749.4400024414062,
         "change": -0.22499466542678132,
         "volume": 886551,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-12-29",
         "ghl_last_change_price": 769.719970703125,
         "ghl_change_percent_from_last_change": -2.6347202922633484,
-        "rsi": 58.42441628495025,
+        "rsi": 58.42441621831096,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-11-24",
         "rsi_last_change_price": 775.5999755859375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 43.4414,
         "number_of_employees": 15106,
         "ml_direction": 1,
-        "ml_value": 649.8169208294368,
+        "ml_value": 649.8169208379306,
         "ml_last_change_date": "2025-11-10",
         "ml_last_change_price": 693.3400268554688,
         "ml_change_percent_from_last_change": 8.091264518560948

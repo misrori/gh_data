@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "SMH",
         "name": "VanEck Semiconductor ETF",
-        "collected_at": "2026-01-29T21:21:34.443Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:23.159Z",
+        "data_start_date": "2016-02-01",
         "price": 417.5199890136719,
         "change": 0.21361498702180728,
         "volume": 9235773,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-06-02",
         "ghl_last_change_price": 255,
         "ghl_change_percent_from_last_change": 63.73332902496935,
-        "rsi": 76.97025405011414,
+        "rsi": 76.97025408447638,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-05",
         "rsi_last_change_price": 385.6700134277344,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 355.081139232652,
+        "ml_value": 355.0811392335399,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 241.39999389648438,
         "ml_change_percent_from_last_change": 72.95774630081813

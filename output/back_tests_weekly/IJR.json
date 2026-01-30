@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IJR",
         "name": "iShares Core S&P Small Cap ETF",
-        "collected_at": "2026-01-29T21:21:26.133Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:14.807Z",
+        "data_start_date": "2016-02-01",
         "price": 127.86000061035156,
         "change": 0.6296262137018308,
         "volume": 7246904,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-08-25",
         "ghl_last_change_price": 116.70999908447266,
         "ghl_change_percent_from_last_change": 9.55359576158401,
-        "rsi": 63.7689293839445,
+        "rsi": 63.76892956646311,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-03-31",
         "rsi_last_change_price": 91.05999755859375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 115.1608671676107,
+        "ml_value": 115.1608671687105,
         "ml_last_change_date": "2025-06-30",
         "ml_last_change_price": 112.2699966430664,
         "ml_change_percent_from_last_change": 13.886171224222599

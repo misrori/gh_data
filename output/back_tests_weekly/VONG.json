@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VONG",
         "name": "Vanguard Russell 1000 Growth ETF",
-        "collected_at": "2026-01-29T21:21:38.052Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:26.728Z",
+        "data_start_date": "2016-02-01",
         "price": 120.80000305175781,
         "change": -0.8128728601095804,
         "volume": 2961193,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-19",
         "ghl_last_change_price": 69.20999908447266,
         "ghl_change_percent_from_last_change": 74.54125798256142,
-        "rsi": 54.85513853161128,
+        "rsi": 54.85513855615645,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-10-27",
         "rsi_last_change_price": 126.16000366210938,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 112.536113238205,
+        "ml_value": 112.53611323987411,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 101.79000091552734,
         "ml_change_percent_from_last_change": 18.67570681329136

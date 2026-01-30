@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "ALNY",
         "name": "Alnylam Pharmaceuticals, Inc.",
-        "collected_at": "2026-01-29T21:21:12.564Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:21.629Z",
+        "data_start_date": "2016-02-01",
         "price": 346.7900085449219,
         "change": -0.7980943230475817,
         "volume": 1606275,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-07-22",
         "ghl_last_change_price": 235.3300018310547,
         "ghl_change_percent_from_last_change": 47.363279584676675,
-        "rsi": 35.10947274103175,
+        "rsi": 35.109472694020695,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-07-28",
         "rsi_last_change_price": 406.6499938964844,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.3108,
         "number_of_employees": 2230,
         "ml_direction": -1,
-        "ml_value": 438.0989417105488,
+        "ml_value": 438.09894170881034,
         "ml_last_change_date": "2025-12-08",
         "ml_last_change_price": 394.2200012207031,
         "ml_change_percent_from_last_change": -12.031351156439085

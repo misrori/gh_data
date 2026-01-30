@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VTEB",
         "name": "Vanguard Tax-Exempt Bond ETF",
-        "collected_at": "2026-01-29T21:21:34.973Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:23.641Z",
+        "data_start_date": "2016-02-01",
         "price": 50.52000045776367,
         "change": -0.09887134143222912,
         "volume": 9407894,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-12-29",
         "ghl_last_change_price": 50.40999984741211,
         "ghl_change_percent_from_last_change": 0.21821188392090463,
-        "rsi": 61.40971176287576,
+        "rsi": 61.409712292223915,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-04-07",
         "rsi_last_change_price": 48.619998931884766,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 49.81676939798839,
+        "ml_value": 49.81676939837101,
         "ml_last_change_date": "2025-09-08",
         "ml_last_change_price": 50.06999969482422,
         "ml_change_percent_from_last_change": 0.8987432907573423

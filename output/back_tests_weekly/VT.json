@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VT",
         "name": "Vanguard Total World Stock ETF",
-        "collected_at": "2026-01-29T21:21:29.925Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:18.747Z",
+        "data_start_date": "2016-02-01",
         "price": 146.72000122070312,
         "change": -0.05449715898608051,
         "volume": 8691619,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-07-10",
         "ghl_last_change_price": 98.69000244140625,
         "ghl_change_percent_from_last_change": 48.66754239651885,
-        "rsi": 70.34896955768212,
+        "rsi": 70.34896977428795,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-26",
         "rsi_last_change_price": 147.47999572753906,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 137.80366389688012,
+        "ml_value": 137.8036638977583,
         "ml_last_change_date": "2025-04-28",
         "ml_last_change_price": 118.76000213623047,
         "ml_change_percent_from_last_change": 23.543279371449934

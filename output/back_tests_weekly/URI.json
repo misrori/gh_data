@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "URI",
         "name": "United Rentals, Inc.",
-        "collected_at": "2026-01-29T21:21:09.027Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:18.059Z",
+        "data_start_date": "2016-02-01",
         "price": 787.0399780273438,
         "change": -12.85997676016101,
         "volume": 2572854,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-07-07",
         "ghl_last_change_price": 809.77001953125,
         "ghl_change_percent_from_last_change": -2.8069749380279507,
-        "rsi": 41.67599862010981,
+        "rsi": 41.67599861672337,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-09-29",
         "rsi_last_change_price": 979.780029296875,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 38.7387,
         "number_of_employees": 28500,
         "ml_direction": -1,
-        "ml_value": 960.035805373645,
+        "ml_value": 960.0358053692097,
         "ml_last_change_date": "2025-11-17",
         "ml_last_change_price": 801.0999755859375,
         "ml_change_percent_from_last_change": -1.7550865044416053

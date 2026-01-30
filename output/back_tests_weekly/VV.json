@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VV",
         "name": "Vanguard Large-Cap ETF",
-        "collected_at": "2026-01-29T21:21:32.694Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:21.456Z",
+        "data_start_date": "2016-02-01",
         "price": 319.69000244140625,
         "change": -0.20913439280533488,
         "volume": 387456,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-19",
         "ghl_last_change_price": 197.9600067138672,
         "ghl_change_percent_from_last_change": 61.4922164068667,
-        "rsi": 62.93382599840741,
+        "rsi": 62.933826119630275,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-10-27",
         "rsi_last_change_price": 317.04998779296875,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 299.284179049945,
+        "ml_value": 299.2841790518096,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 271.0299987792969,
         "ml_change_percent_from_last_change": 17.953733491226487

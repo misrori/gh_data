@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "FAST",
         "name": "Fastenal Company",
-        "collected_at": "2026-01-29T21:21:09.657Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:18.794Z",
+        "data_start_date": "2016-02-01",
         "price": 43.31999969482422,
         "change": -0.6877561769981095,
         "volume": 12436719,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-05-08",
         "ghl_last_change_price": 27.329999923706055,
         "ghl_change_percent_from_last_change": 58.5071343423182,
-        "rsi": 51.58019568730407,
+        "rsi": 51.58019566879818,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-08-18",
         "rsi_last_change_price": 50.02000045776367,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.0967,
         "number_of_employees": 24489,
         "ml_direction": -1,
-        "ml_value": 46.25783935118612,
+        "ml_value": 46.257839350874654,
         "ml_last_change_date": "2025-10-13",
         "ml_last_change_price": 42.56999969482422,
         "ml_change_percent_from_last_change": 1.761804100015496

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "DYNF",
         "name": "iShares U.S. Equity Factor Rotation Active ETF",
-        "collected_at": "2026-01-29T21:21:41.800Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:30.575Z",
+        "data_start_date": "2019-03-18",
         "price": 61.83000183105469,
         "change": 0.04854788732124856,
         "volume": 3908344,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-19",
         "ghl_last_change_price": 34.83000183105469,
         "ghl_change_percent_from_last_change": 77.5193757696751,
-        "rsi": 63.98082130502493,
+        "rsi": 63.980821439332665,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-10-27",
         "rsi_last_change_price": 61.25,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 57.568904107332926,
+        "ml_value": 57.56890410769315,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 51.77000045776367,
         "ml_change_percent_from_last_change": 19.43210601571932

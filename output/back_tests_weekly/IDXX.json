@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IDXX",
         "name": "IDEXX Laboratories, Inc.",
-        "collected_at": "2026-01-29T21:21:04.620Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:13.738Z",
+        "data_start_date": "2016-02-01",
         "price": 676.7100219726562,
         "change": -1.6037991709570134,
         "volume": 548566,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-07-07",
         "ghl_last_change_price": 530.7100219726562,
         "ghl_change_percent_from_last_change": 27.510315229645755,
-        "rsi": 53.73320295744346,
+        "rsi": 53.733202958609475,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-11-17",
         "rsi_last_change_price": 733.0499877929688,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 12.7097,
         "number_of_employees": 11000,
         "ml_direction": 1,
-        "ml_value": 618.5292544126805,
+        "ml_value": 618.5292544206197,
         "ml_last_change_date": "2025-05-05",
         "ml_last_change_price": 500,
         "ml_change_percent_from_last_change": 35.34200439453126

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IWR",
         "name": "iShares Russell Midcap ETF",
-        "collected_at": "2026-01-29T21:21:32.958Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:21.763Z",
+        "data_start_date": "2016-02-01",
         "price": 100.05000305175781,
         "change": -0.13973389184246485,
         "volume": 2873604,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-12-18",
         "ghl_last_change_price": 77.68000030517578,
         "ghl_change_percent_from_last_change": 28.797634730559494,
-        "rsi": 62.679884233044,
+        "rsi": 62.67988444120583,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-03-31",
         "rsi_last_change_price": 74.81999969482422,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 92.93346082208524,
+        "ml_value": 92.93346082294003,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 89.62999725341797,
         "ml_change_percent_from_last_change": 11.625578620602361

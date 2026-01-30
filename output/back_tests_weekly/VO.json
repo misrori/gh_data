@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VO",
         "name": "Vanguard Mid-Cap ETF",
-        "collected_at": "2026-01-29T21:21:25.847Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:14.546Z",
+        "data_start_date": "2016-02-01",
         "price": 299,
         "change": -0.15360698196878433,
         "volume": 940319,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-12-18",
         "ghl_last_change_price": 231.97000122070312,
         "ghl_change_percent_from_last_change": 28.89597724988695,
-        "rsi": 60.75866250829615,
+        "rsi": 60.75866270487788,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-03-31",
         "rsi_last_change_price": 227.22000122070312,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 279.28735998136733,
+        "ml_value": 279.28735998376555,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 271.3800048828125,
         "ml_change_percent_from_last_change": 10.177608747967405

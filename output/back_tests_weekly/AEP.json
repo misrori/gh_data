@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "AEP",
         "name": "American Electric Power Company, Inc.",
-        "collected_at": "2026-01-29T21:20:57.414Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:06.342Z",
+        "data_start_date": "2016-02-01",
         "price": 119.20999908447266,
         "change": 0.07555098708491871,
         "volume": 2694489,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-07-15",
         "ghl_last_change_price": 93.44000244140625,
         "ghl_change_percent_from_last_change": 27.57919089227987,
-        "rsi": 57.834218666671774,
+        "rsi": 57.83421888361329,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-11-24",
         "rsi_last_change_price": 123.11000061035156,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.858,
         "number_of_employees": 16330,
         "ml_direction": 1,
-        "ml_value": 109.99567918719762,
+        "ml_value": 109.99567919109107,
         "ml_last_change_date": "2024-02-26",
         "ml_last_change_price": 84.62000274658203,
         "ml_change_percent_from_last_change": 40.87685560762735

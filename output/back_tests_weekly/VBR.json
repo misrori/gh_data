@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VBR",
         "name": "Vanguard Small Cap Value ETF",
-        "collected_at": "2026-01-29T21:21:40.741Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:29.623Z",
+        "data_start_date": "2016-02-01",
         "price": 224.07000732421875,
         "change": 0.4482897597912213,
         "volume": 548538,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-07-14",
         "ghl_last_change_price": 201.1699981689453,
         "ghl_change_percent_from_last_change": 11.383411723273817,
-        "rsi": 67.1475583216095,
+        "rsi": 67.14755859846437,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-03-31",
         "rsi_last_change_price": 163.1199951171875,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 205.4915805772237,
+        "ml_value": 205.491580579055,
         "ml_last_change_date": "2025-06-30",
         "ml_last_change_price": 200.42999267578125,
         "ml_change_percent_from_last_change": 11.794649260242185

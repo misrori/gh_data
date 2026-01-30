@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VIG",
         "name": "Vanguard Dividend Appreciation ETF",
-        "collected_at": "2026-01-29T21:21:25.166Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:13.975Z",
+        "data_start_date": "2016-02-01",
         "price": 224.30999755859375,
         "change": 0.17416907504357293,
         "volume": 1969737,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-04-17",
         "ghl_last_change_price": 156.41000366210938,
         "ghl_change_percent_from_last_change": 43.411541657634565,
-        "rsi": 62.52038861841529,
+        "rsi": 62.52038877377066,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-03-31",
         "rsi_last_change_price": 172.6199951171875,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 211.93313524839536,
+        "ml_value": 211.93313524992965,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 197.6199951171875,
         "ml_change_percent_from_last_change": 13.505719613837265

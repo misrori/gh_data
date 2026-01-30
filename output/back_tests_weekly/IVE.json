@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IVE",
         "name": "iShares S&P 500 Value ETF",
-        "collected_at": "2026-01-29T21:21:32.434Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:21.185Z",
+        "data_start_date": "2016-02-01",
         "price": 216.67999267578125,
         "change": 0.15252441088803964,
         "volume": 1236265,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-01-16",
         "ghl_last_change_price": 151.2899932861328,
         "ghl_change_percent_from_last_change": 43.22162885285954,
-        "rsi": 64.67777071967214,
+        "rsi": 64.67777095947667,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-03-31",
         "rsi_last_change_price": 168.2899932861328,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 204.7145379288449,
+        "ml_value": 204.7145379303802,
         "ml_last_change_date": "2025-06-30",
         "ml_last_change_price": 198.11000061035156,
         "ml_change_percent_from_last_change": 9.373576300145325

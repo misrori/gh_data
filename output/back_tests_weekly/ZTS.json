@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "ZTS",
         "name": "Zoetis Inc.",
-        "collected_at": "2026-01-29T21:21:05.106Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:14.119Z",
+        "data_start_date": "2016-02-01",
         "price": 121.72000122070312,
         "change": -0.17222921672029393,
         "volume": 4698224,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-01-13",
         "ghl_last_change_price": 166.63999938964844,
         "ghl_change_percent_from_last_change": -26.956312010005757,
-        "rsi": 35.791734694167985,
+        "rsi": 35.791734631750984,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-11-03",
         "rsi_last_change_price": 120.43000030517578,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.9404,
         "number_of_employees": 13800,
         "ml_direction": -1,
-        "ml_value": 142.3606484690414,
+        "ml_value": 142.36064846724858,
         "ml_last_change_date": "2024-12-16",
         "ml_last_change_price": 164.83999633789062,
         "ml_change_percent_from_last_change": -26.158696963811934

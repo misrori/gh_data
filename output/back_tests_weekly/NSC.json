@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "NSC",
         "name": "Norfolk Southern Corporation",
-        "collected_at": "2026-01-29T21:20:52.695Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:01.919Z",
+        "data_start_date": "2016-02-01",
         "price": 290.1600036621094,
         "change": 2.0002117681968583,
         "volume": 796732,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-06-23",
         "ghl_last_change_price": 255.9199981689453,
         "ghl_change_percent_from_last_change": 13.379183236223913,
-        "rsi": 56.75745314306079,
+        "rsi": 56.75745328574568,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-09-22",
         "rsi_last_change_price": 297.2300109863281,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 13.1244,
         "number_of_employees": 19600,
         "ml_direction": 1,
-        "ml_value": 265.4407604262858,
+        "ml_value": 265.440760430168,
         "ml_last_change_date": "2025-06-30",
         "ml_last_change_price": 261.44000244140625,
         "ml_change_percent_from_last_change": 10.985312481834075

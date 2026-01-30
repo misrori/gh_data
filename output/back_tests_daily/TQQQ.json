@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TQQQ",
         "name": "ProShares UltraPro QQQ",
-        "collected_at": "2026-01-29T21:21:42.950Z",
-        "data_start_date": "2020-01-31",
+        "collected_at": "2026-01-30T02:10:31.662Z",
+        "data_start_date": "2016-02-02",
         "price": 56.040000915527344,
         "change": -1.7875927676390135,
-        "volume": 119463416,
+        "volume": 120810902,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 237,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 51.051455256662614,
         "ml_last_change_date": "2026-01-28",
-        "ml_last_change_price": 56.95000076293945,
-        "ml_change_percent_from_last_change": -1.5978925991591897
+        "ml_last_change_price": 56.939998626708984,
+        "ml_change_percent_from_last_change": -1.5806071880716144
     }
 }

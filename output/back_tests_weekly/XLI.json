@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "XLI",
         "name": "State Street Industrial Select Sector SPDR ETF",
-        "collected_at": "2026-01-29T21:21:45.184Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:33.653Z",
+        "data_start_date": "2016-02-01",
         "price": 165.86000061035156,
         "change": 1.0478866986102826,
         "volume": 16317493,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-01-09",
         "ghl_last_change_price": 102.4000015258789,
         "ghl_change_percent_from_last_change": 61.97265443246582,
-        "rsi": 68.6363763039074,
+        "rsi": 68.63637650027505,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-12",
         "rsi_last_change_price": 164.75999450683594,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 152.97810553361037,
+        "ml_value": 152.97810553472223,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 142.38999938964844,
         "ml_change_percent_from_last_change": 16.482900007940703

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "LNG",
         "name": "Cheniere Energy, Inc.",
-        "collected_at": "2026-01-29T21:21:12.390Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:21.428Z",
+        "data_start_date": "2016-02-01",
         "price": 212.99000549316406,
         "change": 2.379356069399181,
         "volume": 1758541,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-12-15",
         "ghl_last_change_price": 190,
         "ghl_change_percent_from_last_change": 12.100002891138972,
-        "rsi": 50.69556737077571,
+        "rsi": 50.69556740100102,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-01-06",
         "rsi_last_change_price": 225.67999267578125,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 18.0274,
         "number_of_employees": 1714,
         "ml_direction": -1,
-        "ml_value": 223.07119022784275,
+        "ml_value": 223.07119022685694,
         "ml_last_change_date": "2025-12-08",
         "ml_last_change_price": 189.00999450683594,
         "ml_change_percent_from_last_change": 12.687165590844373

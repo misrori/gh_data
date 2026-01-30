@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IXUS",
         "name": "iShares Core MSCI Total International Stock ETF",
-        "collected_at": "2026-01-29T21:21:31.404Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:20.188Z",
+        "data_start_date": "2016-02-01",
         "price": 90.88999938964844,
         "change": 0.26475218944261825,
         "volume": 2001712,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-01-01",
         "ghl_last_change_price": 63.77000045776367,
         "ghl_change_percent_from_last_change": 42.527832424663316,
-        "rsi": 73.71206048730846,
+        "rsi": 73.71206072850465,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-19",
         "rsi_last_change_price": 89.56999969482422,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 84.7873661547115,
+        "ml_value": 84.78736615530966,
         "ml_last_change_date": "2025-04-21",
         "ml_last_change_price": 71.38999938964844,
         "ml_change_percent_from_last_change": 27.314750198509596

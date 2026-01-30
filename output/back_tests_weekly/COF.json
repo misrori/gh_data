@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "COF",
         "name": "Capital One Financial Corporation",
-        "collected_at": "2026-01-29T21:20:25.992Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:00:35.668Z",
+        "data_start_date": "2016-02-01",
         "price": 219.30999755859375,
         "change": 0.41206624302644496,
         "volume": 3006738,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-01-08",
         "ghl_last_change_price": 126.9000015258789,
         "ghl_change_percent_from_last_change": 72.82111498940331,
-        "rsi": 48.068854931208264,
+        "rsi": 48.06885498537771,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-01-20",
         "rsi_last_change_price": 203.02000427246094,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.3768,
         "number_of_employees": 52600,
         "ml_direction": 1,
-        "ml_value": 212.04097346658426,
+        "ml_value": 212.04097346909433,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 195.7899932861328,
         "ml_change_percent_from_last_change": 12.012873527243118

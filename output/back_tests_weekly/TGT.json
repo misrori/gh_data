@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "TGT",
         "name": "Target Corporation",
-        "collected_at": "2026-01-29T21:21:11.927Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:20.923Z",
+        "data_start_date": "2016-02-01",
         "price": 102.83999633789062,
         "change": 1.0811858631980693,
         "volume": 5974721,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-12-02",
         "ghl_last_change_price": 133.35000610351562,
         "ghl_change_percent_from_last_change": -22.879646321081527,
-        "rsi": 54.44900227107957,
+        "rsi": 54.449002276272964,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-05-19",
         "rsi_last_change_price": 95.55999755859375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 8.2669,
         "number_of_employees": 440000,
         "ml_direction": 1,
-        "ml_value": 89.84798656353092,
+        "ml_value": 89.84798656450012,
         "ml_last_change_date": "2026-01-05",
         "ml_last_change_price": 105.58000183105469,
         "ml_change_percent_from_last_change": -2.5951936405045006

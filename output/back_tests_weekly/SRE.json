@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "SRE",
         "name": "DBA Sempra",
-        "collected_at": "2026-01-29T21:21:02.181Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:11.198Z",
+        "data_start_date": "2016-02-01",
         "price": 87.0999984741211,
         "change": 0.3687482130969575,
         "volume": 4446554,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-09-01",
         "ghl_last_change_price": 81.4000015258789,
         "ghl_change_percent_from_last_change": 7.0024531221047015,
-        "rsi": 49.63017278335716,
+        "rsi": 49.63017287993201,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-11-03",
         "rsi_last_change_price": 93.94999694824219,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.2609,
         "number_of_employees": 16773,
         "ml_direction": 1,
-        "ml_value": 83.14389925192121,
+        "ml_value": 83.1438992545811,
         "ml_last_change_date": "2025-08-18",
         "ml_last_change_price": 82.16000366210938,
         "ml_change_percent_from_last_change": 6.0126516453527845

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "MSI",
         "name": "Motorola Solutions, Inc.",
-        "collected_at": "2026-01-29T21:20:55.501Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:04.371Z",
+        "data_start_date": "2016-02-01",
         "price": 403.1499938964844,
         "change": -0.47644730417629316,
         "volume": 702803,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-11-24",
         "ghl_last_change_price": 369.67999267578125,
         "ghl_change_percent_from_last_change": 9.053776748490993,
-        "rsi": 48.2725434664449,
+        "rsi": 48.27254352365196,
         "rsi_status": "open",
         "rsi_last_change_date": "2025-12-08",
         "rsi_last_change_price": 363.8900146484375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 12.6818,
         "number_of_employees": 21000,
         "ml_direction": -1,
-        "ml_value": 421.36023401773036,
+        "ml_value": 421.36023401399683,
         "ml_last_change_date": "2025-10-27",
         "ml_last_change_price": 404.79998779296875,
         "ml_change_percent_from_last_change": -0.4076072001583775

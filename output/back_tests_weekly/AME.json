@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "AME",
         "name": "AMETEK, Inc.",
-        "collected_at": "2026-01-29T21:21:05.840Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:14.828Z",
+        "data_start_date": "2016-02-01",
         "price": 226.6199951171875,
         "change": 1.856258493440655,
         "volume": 952822,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-05-19",
         "ghl_last_change_price": 179.7100067138672,
         "ghl_change_percent_from_last_change": 26.103158784034775,
-        "rsi": 79.39652549549162,
+        "rsi": 79.39652567347123,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-05",
         "rsi_last_change_price": 209.9199981689453,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.3626,
         "number_of_employees": 21500,
         "ml_direction": 1,
-        "ml_value": 201.99311602304851,
+        "ml_value": 201.99311602442563,
         "ml_last_change_date": "2025-08-18",
         "ml_last_change_price": 187.3000030517578,
         "ml_change_percent_from_last_change": 20.993054684875865

@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IWF",
         "name": "iShares Russell 1000 Growth ETF",
-        "collected_at": "2026-01-29T21:21:23.792Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:12.371Z",
+        "data_start_date": "2016-02-01",
         "price": 469.44000244140625,
         "change": -0.8134560278067239,
         "volume": 3149382,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-19",
         "ghl_last_change_price": 268.8999938964844,
         "ghl_change_percent_from_last_change": 74.57791487422708,
-        "rsi": 54.88123000401658,
+        "rsi": 54.881230028868124,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-10-27",
         "rsi_last_change_price": 489.55999755859375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 437.4847791805446,
+        "ml_value": 437.48477918722654,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 396.05999755859375,
         "ml_change_percent_from_last_change": 18.527497181019026

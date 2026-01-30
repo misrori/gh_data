@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "MGK",
         "name": "Vanguard Mega Cap Growth ETF",
-        "collected_at": "2026-01-29T21:21:41.498Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:30.374Z",
+        "data_start_date": "2016-02-01",
         "price": 409.05999755859375,
         "change": -0.8315335540220851,
         "volume": 499158,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-06-19",
         "ghl_last_change_price": 230.47000122070312,
         "ghl_change_percent_from_last_change": 77.48947602376629,
-        "rsi": 55.850301908702185,
+        "rsi": 55.85030193225826,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-10-20",
         "rsi_last_change_price": 417.0400085449219,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 378.3959677308557,
+        "ml_value": 378.39596773469714,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 341.6600036621094,
         "ml_change_percent_from_last_change": 19.72721219166782

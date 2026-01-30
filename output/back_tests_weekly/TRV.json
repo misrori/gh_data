@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "TRV",
         "name": "The Travelers Companies, Inc.",
-        "collected_at": "2026-01-29T21:20:57.957Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:06.917Z",
+        "data_start_date": "2016-02-01",
         "price": 284.2900085449219,
         "change": 0.7977591589250117,
         "volume": 1157738,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-12-18",
         "ghl_last_change_price": 185.27000427246094,
         "ghl_change_percent_from_last_change": 53.44632265827585,
-        "rsi": 54.28381224730475,
+        "rsi": 54.28381232648239,
         "rsi_status": "close",
         "rsi_last_change_date": "2024-11-25",
         "rsi_last_change_price": 267.2099914550781,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 27.9694,
         "number_of_employees": 30000,
         "ml_direction": 1,
-        "ml_value": 258.2870744682303,
+        "ml_value": 258.2870744709854,
         "ml_last_change_date": "2024-08-26",
         "ml_last_change_price": 226.24000549316406,
         "ml_change_percent_from_last_change": 25.658593370884542

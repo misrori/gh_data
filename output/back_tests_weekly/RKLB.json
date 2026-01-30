@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RKLB",
         "name": "Rocket Lab Corporation",
-        "collected_at": "2026-01-29T21:21:12.728Z",
+        "collected_at": "2026-01-30T02:01:21.855Z",
         "data_start_date": "2020-11-23",
         "price": 85.68000030517578,
         "change": -3.2629551762517632,
-        "volume": 15265552,
+        "volume": 15680441,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 500,

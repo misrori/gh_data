@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "ROST",
         "name": "Ross Stores, Inc.",
-        "collected_at": "2026-01-29T21:20:59.541Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:08.449Z",
+        "data_start_date": "2016-02-01",
         "price": 186.5,
         "change": 0.247262271806089,
         "volume": 2008515,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-09-08",
         "ghl_last_change_price": 147.89999389648438,
         "ghl_change_percent_from_last_change": 26.098720552031864,
-        "rsi": 70.51983563243839,
+        "rsi": 70.51983587360806,
         "rsi_status": "close",
         "rsi_last_change_date": "2025-11-17",
         "rsi_last_change_price": 173.3699951171875,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.4412,
         "number_of_employees": 107000,
         "ml_direction": 1,
-        "ml_value": 169.75688482188542,
+        "ml_value": 169.7568848242353,
         "ml_last_change_date": "2025-10-13",
         "ml_last_change_price": 157.32000732421875,
         "ml_change_percent_from_last_change": 18.548176530175574

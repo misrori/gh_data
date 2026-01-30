@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IEMG",
         "name": "iShares Core MSCI Emerging Markets ETF",
-        "collected_at": "2026-01-29T21:21:22.585Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:11.178Z",
+        "data_start_date": "2016-02-01",
         "price": 74.08999633789062,
         "change": -0.483546843664528,
         "volume": 24983967,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2024-04-29",
         "ghl_last_change_price": 53.38999938964844,
         "ghl_change_percent_from_last_change": 38.77130021517778,
-        "rsi": 73.1670121232828,
+        "rsi": 73.16701229768827,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-19",
         "rsi_last_change_price": 72.44999694824219,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 68.24350682271593,
+        "ml_value": 68.24350682314628,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 56.970001220703125,
         "ml_change_percent_from_last_change": 30.050894769800408

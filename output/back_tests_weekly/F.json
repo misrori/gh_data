@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "F",
         "name": "Ford Motor Company",
-        "collected_at": "2026-01-29T21:21:03.426Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:12.407Z",
+        "data_start_date": "2016-02-01",
         "price": 14,
         "change": 1.3024624395845237,
         "volume": 72046536,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-10-20",
         "ghl_last_change_price": 13.800000190734863,
         "ghl_change_percent_from_last_change": 1.4492739601511984,
-        "rsi": 61.67176048397413,
+        "rsi": 61.67176063853615,
         "rsi_status": "open",
         "rsi_last_change_date": "2023-10-23",
         "rsi_last_change_price": 10.079999923706055,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.183,
         "number_of_employees": 171000,
         "ml_direction": 1,
-        "ml_value": 11.913739990117973,
+        "ml_value": 11.913739990258724,
         "ml_last_change_date": "2025-06-30",
         "ml_last_change_price": 11.600000381469727,
         "ml_change_percent_from_last_change": 20.689651203495842

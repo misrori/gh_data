@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "MSCI",
         "name": "MSCI Inc.",
-        "collected_at": "2026-01-29T21:21:13.106Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:01:22.109Z",
+        "data_start_date": "2016-02-01",
         "price": 608.239990234375,
         "change": -1.0782775115817602,
         "volume": 569553,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2026-01-05",
         "ghl_last_change_price": 578.260009765625,
         "ghl_change_percent_from_last_change": 5.1845156093192735,
-        "rsi": 58.364108985042655,
+        "rsi": 58.36410897932701,
         "rsi_status": "close",
         "rsi_last_change_date": "2021-06-21",
         "rsi_last_change_price": 534.97998046875,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 15.7143,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 526.5640769318751,
+        "ml_value": 526.5640769371432,
         "ml_last_change_date": "2026-01-12",
         "ml_last_change_price": 594.4400024414062,
         "ml_change_percent_from_last_change": 2.3215106211377456

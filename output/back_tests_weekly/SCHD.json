@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "SCHD",
         "name": "Schwab US Dividend Equity ETF",
-        "collected_at": "2026-01-29T21:21:27.076Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:15.830Z",
+        "data_start_date": "2016-02-01",
         "price": 29.3700008392334,
         "change": 0.238913324217118,
         "volume": 25263651,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2025-12-22",
         "ghl_last_change_price": 27.639999389648438,
         "ghl_change_percent_from_last_change": 6.259050245250264,
-        "rsi": 70.58605715587407,
+        "rsi": 70.58605739874533,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-26",
         "rsi_last_change_price": 29.459999084472656,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 27.3446797400956,
+        "ml_value": 27.34467974029657,
         "ml_last_change_date": "2026-01-12",
         "ml_last_change_price": 28.700000762939453,
         "ml_change_percent_from_last_change": 2.3344949772932555

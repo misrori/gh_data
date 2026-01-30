@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "IWD",
         "name": "iShares Russell 1000 Value ETF",
-        "collected_at": "2026-01-29T21:21:29.163Z",
-        "data_start_date": "2020-01-27",
+        "collected_at": "2026-01-30T02:10:17.966Z",
+        "data_start_date": "2016-02-01",
         "price": 220.25,
         "change": 0.42861814412045063,
         "volume": 5404774,
@@ -13,7 +13,7 @@
         "ghl_last_change_date": "2023-12-11",
         "ghl_last_change_price": 164.66000366210938,
         "ghl_change_percent_from_last_change": 33.760473157746375,
-        "rsi": 73.13678433302908,
+        "rsi": 73.13678466825309,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-01-05",
         "rsi_last_change_price": 216.80999755859375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 206.9189141587306,
+        "ml_value": 206.91891416039434,
         "ml_last_change_date": "2025-06-23",
         "ml_last_change_price": 194.02999877929688,
         "ml_change_percent_from_last_change": 13.51337493462934
