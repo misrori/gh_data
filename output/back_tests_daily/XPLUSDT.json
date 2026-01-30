@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XPLUSDT",
         "name": "Plasma",
-        "collected_at": "2026-01-30T02:45:35.226Z",
+        "collected_at": "2026-01-30T03:45:42.825Z",
         "data_start_date": "2025-09-25",
         "price": 0.1216,
         "change": -3.492063492063493,
-        "volume": 34165205.8,
+        "volume": 38938287.4,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 99,
