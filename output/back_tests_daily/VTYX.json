@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VTYX",
         "name": "Ventyx Biosciences, Inc.",
-        "collected_at": "2026-01-31T02:08:33.920Z",
+        "collected_at": "2026-02-01T02:08:13.746Z",
         "data_start_date": "2021-10-21",
         "price": 13.949999809265137,
         "change": 0,
-        "volume": 1012194,
+        "volume": 1014600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 128,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.4995,
         "number_of_employees": 82,
         "ml_direction": 1,
-        "ml_value": 11.79518243349816,
+        "ml_value": 11.793896689784782,
         "ml_last_change_date": "2026-01-06",
         "ml_last_change_price": 15.319999694824219,
         "ml_change_percent_from_last_change": -8.942558177869476

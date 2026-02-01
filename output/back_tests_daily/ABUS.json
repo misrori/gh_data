@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ABUS",
         "name": "Arbutus Biopharma Corporation",
-        "collected_at": "2026-01-31T02:09:08.090Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:08:48.078Z",
+        "data_start_date": "2016-02-04",
         "price": 4.130000114440918,
         "change": 0,
-        "volume": 829817,
+        "volume": 886000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 8,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.2218,
         "number_of_employees": 44,
         "ml_direction": -1,
-        "ml_value": 4.826988876648723,
+        "ml_value": 4.8263460047920335,
         "ml_last_change_date": "2026-01-16",
         "ml_last_change_price": 3.930000066757202,
         "ml_change_percent_from_last_change": 5.089059651053485

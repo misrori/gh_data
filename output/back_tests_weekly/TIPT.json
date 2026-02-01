@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TIPT",
         "name": "Tiptree Inc.",
-        "collected_at": "2026-01-31T02:09:27.299Z",
+        "collected_at": "2026-02-01T02:09:06.934Z",
         "data_start_date": "2016-02-01",
         "price": 17.8799991607666,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.3437,
         "number_of_employees": 1144,
         "ml_direction": -1,
-        "ml_value": 21.675505135536262,
+        "ml_value": 21.677892945289678,
         "ml_last_change_date": "2025-09-22",
         "ml_last_change_price": 19.040000915527344,
         "ml_change_percent_from_last_change": -6.092445898018561

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BRO",
         "name": "Brown & Brown, Inc.",
-        "collected_at": "2026-01-31T02:02:02.068Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:01:57.363Z",
+        "data_start_date": "2016-02-04",
         "price": 72.0999984741211,
         "change": 0,
-        "volume": 4472184,
+        "volume": 4472300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 253,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.4088,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 78.57984539382923,
+        "ml_value": 78.5804878978401,
         "ml_last_change_date": "2025-04-04",
         "ml_last_change_price": 113.83000183105469,
         "ml_change_percent_from_last_change": -36.659933836132964

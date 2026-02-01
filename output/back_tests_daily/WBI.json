@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WBI",
         "name": "WaterBridge Infrastructure LLC",
-        "collected_at": "2026-01-31T02:08:42.038Z",
+        "collected_at": "2026-02-01T02:08:21.612Z",
         "data_start_date": "2025-09-17",
         "price": 21.940000534057617,
         "change": -2.5322065261148734,
-        "volume": 360333,
+        "volume": 362200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 73,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OEF",
         "name": "iShares S&P 100 ETF",
-        "collected_at": "2026-01-31T02:10:31.966Z",
+        "collected_at": "2026-02-01T02:10:08.863Z",
         "data_start_date": "2016-02-01",
         "price": 343.55999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:OEF",
-        "market_capitalization": 29515951797.6,
+        "market_capitalization": 29453801554.35,
         "commodity_name": null,
         "display_name": "iShares S&P 100 ETF",
         "sma_50": 312.1170010375977,

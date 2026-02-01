@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OVV",
         "name": "Ovintiv Inc. (DE)",
-        "collected_at": "2026-01-31T02:03:13.383Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:03:03.765Z",
+        "data_start_date": "2016-02-04",
         "price": 43.470001220703125,
         "change": 0,
-        "volume": 4531946,
+        "volume": 4544400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 9,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.9219,
         "number_of_employees": 1623,
         "ml_direction": 1,
-        "ml_value": 39.248548821116856,
+        "ml_value": 39.2482918195125,
         "ml_last_change_date": "2026-01-23",
         "ml_last_change_price": 41.27000045776367,
         "ml_change_percent_from_last_change": 5.330750517415095

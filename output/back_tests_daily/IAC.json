@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IAC",
         "name": "IAC Inc.",
-        "collected_at": "2026-01-31T02:06:11.548Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:05:55.935Z",
+        "data_start_date": "2016-02-04",
         "price": 36.95000076293945,
         "change": -1.8070695877602863,
-        "volume": 1919868,
+        "volume": 2012500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 49,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:IAC",
-        "market_capitalization": 2861132695.4969444,
+        "market_capitalization": 2861132673.0000005,
         "commodity_name": null,
         "display_name": "IAC Inc.",
         "sma_50": 37.87849994659424,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 40.290393207953045,
         "ml_last_change_date": "2026-01-29",
-        "ml_last_change_price": 37.400001525878906,
-        "ml_change_percent_from_last_change": -1.203210547005129
+        "ml_last_change_price": 37.099998474121094,
+        "ml_change_percent_from_last_change": -0.4043065157705361
     }
 }

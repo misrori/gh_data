@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CCEC",
         "name": "Capital Clean Energy Carriers Corp.",
-        "collected_at": "2026-01-31T02:08:05.404Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:07:45.980Z",
+        "data_start_date": "2016-02-04",
         "price": 21.889999389648438,
         "change": -3.0558039698361847,
-        "volume": 1389,
+        "volume": 1700,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 8,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NASDAQ:CCEC",
-        "market_capitalization": 1293312005.5460587,
+        "market_capitalization": 1293311974,
         "commodity_name": null,
         "display_name": "Capital Clean Energy Carriers Corp.",
         "sma_50": 20.800800094604494,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 20.71591959982842,
         "ml_last_change_date": "2026-01-29",
-        "ml_last_change_price": 21.844999313354492,
-        "ml_change_percent_from_last_change": 0.20599715133171603
+        "ml_last_change_price": 21.850000381469727,
+        "ml_change_percent_from_last_change": 0.18306181913219088
     }
 }

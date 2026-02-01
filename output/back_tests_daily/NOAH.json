@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NOAH",
         "name": "Noah Holdings Ltd. Sponsored ADR Class A",
-        "collected_at": "2026-01-31T02:09:03.652Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:08:43.832Z",
+        "data_start_date": "2016-02-04",
         "price": 11.859999656677246,
         "change": -0.3361341439939272,
-        "volume": 148578,
+        "volume": 149400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.3173,
         "number_of_employees": 1990,
         "ml_direction": 1,
-        "ml_value": 10.76984314482706,
+        "ml_value": 10.77001026943905,
         "ml_last_change_date": "2026-01-02",
         "ml_last_change_price": 10.59000015258789,
         "ml_change_percent_from_last_change": 11.992440847878584

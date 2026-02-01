@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TAL",
         "name": "TAL Education Group Sponsored ADR Class A",
-        "collected_at": "2026-01-31T02:03:53.462Z",
+        "collected_at": "2026-02-01T02:03:42.474Z",
         "data_start_date": "2016-02-01",
         "price": 12.699999809265137,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 347,
         "percent_fall_from_last_local_max": 16.993466333707595,
-        "price_per_earning": 38.356991845363936,
+        "price_per_earning": 26.083384678578764,
         "earnings_per_share_basic_ttm": 0.4937,
         "number_of_employees": 23000,
         "ml_direction": -1,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADEA",
         "name": "Adeia Inc.",
-        "collected_at": "2026-01-31T02:06:59.884Z",
+        "collected_at": "2026-02-01T02:06:42.952Z",
         "data_start_date": "2016-02-01",
         "price": 18.09000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ADEA",
-        "market_capitalization": 1981039318.2208726,
+        "market_capitalization": 1981039267.9999998,
         "commodity_name": null,
         "display_name": "Adeia Inc.",
         "sma_50": 14.642500076293945,

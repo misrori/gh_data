@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QRVO",
         "name": "Qorvo, Inc.",
-        "collected_at": "2026-01-31T02:04:00.828Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:03:49.721Z",
+        "data_start_date": "2016-02-04",
         "price": 78.11000061035156,
         "change": 0,
-        "volume": 1520479,
+        "volume": 1803800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 70,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.6726,
         "number_of_employees": 6200,
         "ml_direction": -1,
-        "ml_value": 85.77929992053524,
+        "ml_value": 85.7799424245461,
         "ml_last_change_date": "2025-11-17",
         "ml_last_change_price": 81,
         "ml_change_percent_from_last_change": -3.567900481047459

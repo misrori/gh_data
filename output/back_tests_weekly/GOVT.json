@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GOVT",
         "name": "iShares U.S. Treasury Bond ETF",
-        "collected_at": "2026-01-31T02:10:28.493Z",
+        "collected_at": "2026-02-01T02:10:04.963Z",
         "data_start_date": "2016-02-01",
         "price": 23.03499984741211,
         "change": -0.021706023943184855,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CBOE:GOVT",
-        "market_capitalization": 35365097951.2,
+        "market_capitalization": 35460644404.5,
         "commodity_name": null,
         "display_name": "iShares U.S. Treasury Bond ETF",
         "sma_50": 22.957100067138672,

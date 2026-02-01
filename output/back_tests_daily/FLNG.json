@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FLNG",
         "name": "FLEX LNG Ltd.",
-        "collected_at": "2026-01-31T02:07:52.840Z",
+        "collected_at": "2026-02-01T02:07:33.961Z",
         "data_start_date": "2019-06-17",
         "price": 26.700000762939453,
         "change": 0,
-        "volume": 407733,
+        "volume": 418600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 16,

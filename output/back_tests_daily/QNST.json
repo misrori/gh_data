@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QNST",
         "name": "QuinStreet, Inc.",
-        "collected_at": "2026-01-31T02:09:16.269Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:08:55.559Z",
+        "data_start_date": "2016-02-04",
         "price": 13.289999961853027,
         "change": -1.5555558381257233,
-        "volume": 753693,
+        "volume": 769300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 2,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NASDAQ:QNST",
-        "market_capitalization": 754228438.1488888,
+        "market_capitalization": 754228436,
         "commodity_name": null,
         "display_name": "QuinStreet, Inc.",
         "sma_50": 14.39420000076294,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 15.08057797151201,
         "ml_last_change_date": "2026-01-29",
-        "ml_last_change_price": 13.319999694824219,
-        "ml_change_percent_from_last_change": -0.22522322566455033
+        "ml_last_change_price": 13.270000457763672,
+        "ml_change_percent_from_last_change": 0.1507121582475568
     }
 }

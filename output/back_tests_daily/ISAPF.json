@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ISAPF",
         "name": "IShares Plc.",
-        "collected_at": "2026-01-31T02:10:27.454Z",
+        "collected_at": "2026-02-01T02:10:03.778Z",
         "data_start_date": "2016-06-30",
         "price": 48.9635009765625,
         "change": -0.3482283582398944,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "OTC:ISAPF",
-        "market_capitalization": 36625490109.414,
+        "market_capitalization": 36582566180.391,
         "commodity_name": null,
         "display_name": "IShares Plc.",
         "sma_50": 45.5199781036377,

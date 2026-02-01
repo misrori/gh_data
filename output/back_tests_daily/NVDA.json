@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "collected_at": "2026-01-31T02:00:06.969Z",
-        "data_start_date": "2016-02-03",
+        "collected_at": "2026-02-01T02:00:06.157Z",
+        "data_start_date": "2016-02-04",
         "price": 191.1300048828125,
         "change": -0.7168405087531363,
-        "volume": 175685267,
+        "volume": 178936900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 28,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:NVDA",
-        "market_capitalization": 4644458867472.875,
+        "market_capitalization": 4644459118652,
         "commodity_name": null,
         "display_name": "NVIDIA Corporation",
         "sma_50": 183.81720092773438,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 176.9346272331116,
         "ml_last_change_date": "2026-01-29",
-        "ml_last_change_price": 191.21499633789062,
-        "ml_change_percent_from_last_change": -0.044448111657491296
+        "ml_last_change_price": 191.2100067138672,
+        "ml_change_percent_from_last_change": -0.04183977210691081
     }
 }
