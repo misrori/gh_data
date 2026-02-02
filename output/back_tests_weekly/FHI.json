@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FHI",
         "name": "Federated Hermes, Inc.",
-        "collected_at": "2026-02-01T02:05:06.449Z",
+        "collected_at": "2026-02-02T02:05:22.778Z",
         "data_start_date": "2016-02-01",
         "price": 53.279998779296875,
         "change": 0,
-        "volume": 909434,
+        "volume": 995806,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 466,

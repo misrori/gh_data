@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PPC",
         "name": "Pilgrim's Pride Corporation",
-        "collected_at": "2026-02-01T02:03:11.113Z",
+        "collected_at": "2026-02-02T02:03:19.686Z",
         "data_start_date": "2016-02-01",
         "price": 43.369998931884766,
         "change": 0,
-        "volume": 867109,
+        "volume": 889118,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

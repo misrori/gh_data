@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JBLU",
         "name": "JetBlue Airways Corporation",
-        "collected_at": "2026-02-01T02:07:01.651Z",
+        "collected_at": "2026-02-02T02:07:23.916Z",
         "data_start_date": "2016-02-01",
         "price": 4.869999885559082,
         "change": 0,
-        "volume": 17021796,
+        "volume": 17339168,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

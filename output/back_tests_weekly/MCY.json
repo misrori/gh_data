@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MCY",
         "name": "Mercury General Corporation",
-        "collected_at": "2026-02-01T02:04:42.959Z",
+        "collected_at": "2026-02-02T02:04:56.607Z",
         "data_start_date": "2016-02-01",
         "price": 87.58999633789062,
         "change": 0,
-        "volume": 276751,
+        "volume": 289093,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APPF",
         "name": "AppFolio, Inc.",
-        "collected_at": "2026-02-01T02:03:56.738Z",
+        "collected_at": "2026-02-02T02:04:09.558Z",
         "data_start_date": "2016-02-01",
         "price": 189.8800048828125,
         "change": 0,
-        "volume": 1329375,
+        "volume": 1349283,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

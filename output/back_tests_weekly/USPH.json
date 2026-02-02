@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "USPH",
         "name": "U.S. Physical Therapy, Inc.",
-        "collected_at": "2026-02-01T02:07:47.643Z",
+        "collected_at": "2026-02-02T02:08:11.743Z",
         "data_start_date": "2016-02-01",
         "price": 83.87000274658203,
         "change": 0,
-        "volume": 207848,
+        "volume": 215499,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DOW",
         "name": "Dow Inc.",
-        "collected_at": "2026-02-01T02:02:14.767Z",
+        "collected_at": "2026-02-02T02:02:18.709Z",
         "data_start_date": "2019-03-18",
         "price": 27.549999237060547,
         "change": 0,
-        "volume": 18943929,
+        "volume": 18949358,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 508,

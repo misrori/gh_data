@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RBC",
         "name": "RBC Bearings Incorporated",
-        "collected_at": "2026-02-01T02:02:30.363Z",
+        "collected_at": "2026-02-02T02:02:35.383Z",
         "data_start_date": "2016-02-01",
         "price": 499.6700134277344,
         "change": 0,
-        "volume": 271962,
+        "volume": 295809,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 907,

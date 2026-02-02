@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APTV",
         "name": "Aptiv PLC",
-        "collected_at": "2026-02-01T02:02:27.782Z",
+        "collected_at": "2026-02-02T02:02:32.714Z",
         "data_start_date": "2016-02-01",
         "price": 75.75,
         "change": 0,
-        "volume": 3350154,
+        "volume": 3350523,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

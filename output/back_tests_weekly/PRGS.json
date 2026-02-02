@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRGS",
         "name": "Progress Software Corporation",
-        "collected_at": "2026-02-01T02:07:05.205Z",
+        "collected_at": "2026-02-02T02:07:27.873Z",
         "data_start_date": "2016-02-01",
         "price": 40.91999816894531,
         "change": 0,
-        "volume": 1076671,
+        "volume": 1076691,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 179,

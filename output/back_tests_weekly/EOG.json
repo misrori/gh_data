@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EOG",
         "name": "EOG Resources, Inc.",
-        "collected_at": "2026-02-01T02:01:04.812Z",
+        "collected_at": "2026-02-02T02:01:07.666Z",
         "data_start_date": "2016-02-01",
         "price": 112.12999725341797,
         "change": 0,
-        "volume": 6750850,
+        "volume": 6757713,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 277,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MASI",
         "name": "Masimo Corporation",
-        "collected_at": "2026-02-01T02:03:47.041Z",
+        "collected_at": "2026-02-02T02:03:59.719Z",
         "data_start_date": "2016-02-01",
         "price": 137.3300018310547,
         "change": 0,
-        "volume": 614242,
+        "volume": 629949,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IWR",
         "name": "iShares Russell Midcap ETF",
-        "collected_at": "2026-02-01T02:09:58.443Z",
+        "collected_at": "2026-02-02T02:10:30.584Z",
         "data_start_date": "2016-02-01",
         "price": 99.18000030517578,
         "change": 0,
-        "volume": 2692014,
+        "volume": 2705449,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 774,

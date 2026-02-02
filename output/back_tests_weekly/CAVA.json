@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CAVA",
         "name": "CAVA Group, Inc.",
-        "collected_at": "2026-02-01T02:03:52.483Z",
+        "collected_at": "2026-02-02T02:04:05.367Z",
         "data_start_date": "2023-06-12",
         "price": 60.619998931884766,
         "change": 0,
-        "volume": 2877555,
+        "volume": 2881664,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 144,

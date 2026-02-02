@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EQH",
         "name": "Equitable Holdings, Inc.",
-        "collected_at": "2026-02-01T02:02:48.896Z",
+        "collected_at": "2026-02-02T02:02:56.428Z",
         "data_start_date": "2018-05-07",
         "price": 46.400001525878906,
         "change": 0,
-        "volume": 3176835,
+        "volume": 3273863,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VYM",
         "name": "Vanguard High Dividend Yield Index ETF",
-        "collected_at": "2026-02-01T02:09:54.067Z",
+        "collected_at": "2026-02-02T02:10:25.856Z",
         "data_start_date": "2016-02-01",
         "price": 149.9600067138672,
         "change": 0,
-        "volume": 1783958,
+        "volume": 1785460,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 767,

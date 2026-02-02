@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPXC",
         "name": "SPX Technologies, Inc.",
-        "collected_at": "2026-02-01T02:03:09.614Z",
+        "collected_at": "2026-02-02T02:03:18.037Z",
         "data_start_date": "2016-02-01",
         "price": 208.41000366210938,
         "change": 0,
-        "volume": 292615,
+        "volume": 316184,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1250,

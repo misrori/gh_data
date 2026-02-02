@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VIG",
         "name": "Vanguard Dividend Appreciation ETF",
-        "collected_at": "2026-02-01T02:09:50.954Z",
+        "collected_at": "2026-02-02T02:10:22.361Z",
         "data_start_date": "2016-02-01",
         "price": 224.02000427246094,
         "change": 0,
-        "volume": 2349393,
+        "volume": 2356215,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1019,

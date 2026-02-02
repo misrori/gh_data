@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STE",
         "name": "STERIS plc (Ireland)",
-        "collected_at": "2026-02-01T02:01:54.273Z",
+        "collected_at": "2026-02-02T02:01:57.312Z",
         "data_start_date": "2016-02-01",
         "price": 262.6000061035156,
         "change": 0,
-        "volume": 851944,
+        "volume": 1018463,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

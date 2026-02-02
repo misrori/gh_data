@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KR",
         "name": "Kroger Company (The)",
-        "collected_at": "2026-02-01T02:01:25.372Z",
+        "collected_at": "2026-02-02T02:01:28.112Z",
         "data_start_date": "2016-02-01",
         "price": 62.849998474121094,
         "change": 0,
-        "volume": 6537342,
+        "volume": 6600078,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

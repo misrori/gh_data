@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EIG",
         "name": "Employers Holdings Inc",
-        "collected_at": "2026-02-01T02:08:16.265Z",
+        "collected_at": "2026-02-02T02:08:42.000Z",
         "data_start_date": "2016-02-01",
         "price": 43.619998931884766,
         "change": 0,
-        "volume": 288095,
+        "volume": 298687,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

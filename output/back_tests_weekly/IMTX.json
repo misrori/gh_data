@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IMTX",
         "name": "Immatics N.V.",
-        "collected_at": "2026-02-01T02:07:47.127Z",
+        "collected_at": "2026-02-02T02:08:11.275Z",
         "data_start_date": "2018-12-10",
         "price": 9.550000190734863,
         "change": 0,
-        "volume": 553291,
+        "volume": 571471,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

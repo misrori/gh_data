@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RDDT",
         "name": "Reddit, Inc.",
-        "collected_at": "2026-02-01T02:01:34.900Z",
+        "collected_at": "2026-02-02T02:01:37.423Z",
         "data_start_date": "2024-03-18",
         "price": 180.27000427246094,
         "change": 0,
-        "volume": 4218862,
+        "volume": 4248199,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 487,

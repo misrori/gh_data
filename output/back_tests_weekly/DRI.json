@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DRI",
         "name": "Darden Restaurants, Inc.",
-        "collected_at": "2026-02-01T02:02:04.512Z",
+        "collected_at": "2026-02-02T02:02:07.639Z",
         "data_start_date": "2016-02-01",
         "price": 199.35000610351562,
         "change": 0,
-        "volume": 1350419,
+        "volume": 1408528,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

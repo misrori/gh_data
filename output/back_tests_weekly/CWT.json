@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CWT",
         "name": "California Water Service Group",
-        "collected_at": "2026-02-01T02:06:07.614Z",
+        "collected_at": "2026-02-02T02:06:26.203Z",
         "data_start_date": "2016-02-01",
         "price": 44.70000076293945,
         "change": 0,
-        "volume": 455516,
+        "volume": 490540,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 403,

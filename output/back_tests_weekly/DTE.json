@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DTE",
         "name": "DTE Energy Company",
-        "collected_at": "2026-02-01T02:01:47.383Z",
+        "collected_at": "2026-02-02T02:01:50.302Z",
         "data_start_date": "2016-02-01",
         "price": 134.3800048828125,
         "change": 0,
-        "volume": 3240624,
+        "volume": 3240656,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 550,

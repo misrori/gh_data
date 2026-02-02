@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GSAT",
         "name": "Globalstar, Inc.",
-        "collected_at": "2026-02-01T02:03:40.264Z",
+        "collected_at": "2026-02-02T02:03:51.859Z",
         "data_start_date": "2016-02-01",
         "price": 61.619998931884766,
         "change": 0,
-        "volume": 649262,
+        "volume": 652465,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

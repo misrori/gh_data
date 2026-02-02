@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OCFC",
         "name": "OceanFirst Financial Corp.",
-        "collected_at": "2026-02-01T02:08:06.443Z",
+        "collected_at": "2026-02-02T02:08:31.599Z",
         "data_start_date": "2016-02-01",
         "price": 18.75,
         "change": 0,
-        "volume": 1532561,
+        "volume": 1690660,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

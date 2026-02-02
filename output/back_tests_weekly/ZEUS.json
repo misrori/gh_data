@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZEUS",
         "name": "Olympic Steel, Inc.",
-        "collected_at": "2026-02-01T02:09:35.022Z",
+        "collected_at": "2026-02-02T02:10:04.390Z",
         "data_start_date": "2016-02-01",
         "price": 48.09000015258789,
         "change": 0,
-        "volume": 119265,
+        "volume": 121295,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

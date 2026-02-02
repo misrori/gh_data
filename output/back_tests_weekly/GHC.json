@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GHC",
         "name": "Graham Holdings Company",
-        "collected_at": "2026-02-01T02:04:34.612Z",
+        "collected_at": "2026-02-02T02:04:48.472Z",
         "data_start_date": "2016-02-01",
         "price": 1166.6300048828125,
         "change": 0,
-        "volume": 14793,
+        "volume": 16558,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 795,

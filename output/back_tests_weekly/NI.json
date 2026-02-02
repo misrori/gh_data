@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NI",
         "name": "NiSource Inc",
-        "collected_at": "2026-02-01T02:02:11.679Z",
+        "collected_at": "2026-02-02T02:02:15.423Z",
         "data_start_date": "2016-02-01",
         "price": 44.290000915527344,
         "change": 0,
-        "volume": 4767251,
+        "volume": 4945136,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 620,

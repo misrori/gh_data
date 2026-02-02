@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UI",
         "name": "Ubiquiti Inc.",
-        "collected_at": "2026-02-01T02:01:36.830Z",
+        "collected_at": "2026-02-02T02:01:39.428Z",
         "data_start_date": "2016-02-01",
         "price": 551.4199829101562,
         "change": 0,
-        "volume": 140191,
+        "volume": 143925,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 466,

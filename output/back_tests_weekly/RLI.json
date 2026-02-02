@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RLI",
         "name": "RLI Corp.",
-        "collected_at": "2026-02-01T02:04:27.568Z",
+        "collected_at": "2026-02-02T02:04:40.928Z",
         "data_start_date": "2016-02-01",
         "price": 58.43000030517578,
         "change": 0,
-        "volume": 1158423,
+        "volume": 1333807,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 172,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BR",
         "name": "Broadridge Financial Solutions, Inc.",
-        "collected_at": "2026-02-01T02:02:03.953Z",
+        "collected_at": "2026-02-02T02:02:07.110Z",
         "data_start_date": "2016-02-01",
         "price": 197.11000061035156,
         "change": 0,
-        "volume": 939068,
+        "volume": 939142,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

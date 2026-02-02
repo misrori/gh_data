@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FBIN",
         "name": "Fortune Brands Innovations, Inc.",
-        "collected_at": "2026-02-01T02:04:01.200Z",
+        "collected_at": "2026-02-02T02:04:13.865Z",
         "data_start_date": "2016-02-01",
         "price": 54.099998474121094,
         "change": 0,
-        "volume": 1245511,
+        "volume": 1293818,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 312,

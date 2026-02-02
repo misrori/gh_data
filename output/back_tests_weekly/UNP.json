@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UNP",
         "name": "Union Pacific Corporation",
-        "collected_at": "2026-02-01T02:00:32.328Z",
+        "collected_at": "2026-02-02T02:00:34.754Z",
         "data_start_date": "2016-02-01",
         "price": 235.10000610351562,
         "change": 0,
-        "volume": 3836793,
+        "volume": 3841166,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

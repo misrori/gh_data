@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DXC",
         "name": "DXC Technology Company",
-        "collected_at": "2026-02-01T02:06:13.419Z",
+        "collected_at": "2026-02-02T02:06:32.155Z",
         "data_start_date": "2016-02-01",
         "price": 14.430000305175781,
         "change": 0,
-        "volume": 4804896,
+        "volume": 4929456,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 340,

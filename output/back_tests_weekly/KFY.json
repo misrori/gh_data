@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KFY",
         "name": "Korn Ferry",
-        "collected_at": "2026-02-01T02:05:22.837Z",
+        "collected_at": "2026-02-02T02:05:39.954Z",
         "data_start_date": "2016-02-01",
         "price": 69.47000122070312,
         "change": 0,
-        "volume": 669550,
+        "volume": 701941,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

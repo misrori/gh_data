@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HUM",
         "name": "Humana Inc.",
-        "collected_at": "2026-02-01T02:02:01.940Z",
+        "collected_at": "2026-02-02T02:02:04.867Z",
         "data_start_date": "2016-02-01",
         "price": 195.1999969482422,
         "change": 0,
-        "volume": 3176764,
+        "volume": 3220371,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 739,

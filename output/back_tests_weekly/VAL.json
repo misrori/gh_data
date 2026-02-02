@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VAL",
         "name": "Valaris Limited",
-        "collected_at": "2026-02-01T02:05:08.567Z",
+        "collected_at": "2026-02-02T02:05:24.923Z",
         "data_start_date": "2021-05-03",
         "price": 57.72999954223633,
         "change": 0,
-        "volume": 1362163,
+        "volume": 1362510,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GRMN",
         "name": "Garmin Ltd.",
-        "collected_at": "2026-02-01T02:01:29.070Z",
+        "collected_at": "2026-02-02T02:01:31.291Z",
         "data_start_date": "2016-02-01",
         "price": 201.63999938964844,
         "change": 0,
-        "volume": 791488,
+        "volume": 866116,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 802,

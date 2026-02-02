@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GPI",
         "name": "Group 1 Automotive, Inc.",
-        "collected_at": "2026-02-01T02:04:54.933Z",
+        "collected_at": "2026-02-02T02:05:09.557Z",
         "data_start_date": "2016-02-01",
         "price": 354.260009765625,
         "change": 0,
-        "volume": 525099,
+        "volume": 538466,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

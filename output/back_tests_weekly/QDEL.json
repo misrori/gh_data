@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QDEL",
         "name": "QuidelOrtho Corporation",
-        "collected_at": "2026-02-01T02:06:54.555Z",
+        "collected_at": "2026-02-02T02:07:16.755Z",
         "data_start_date": "2016-02-01",
         "price": 27.170000076293945,
         "change": 0,
-        "volume": 715042,
+        "volume": 742480,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1670,

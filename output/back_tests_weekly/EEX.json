@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EEX",
         "name": "Emerald Holding, Inc.",
-        "collected_at": "2026-02-01T02:08:14.728Z",
+        "collected_at": "2026-02-02T02:08:39.984Z",
         "data_start_date": "2017-04-24",
         "price": 5.039999961853027,
         "change": 0,
-        "volume": 37731,
+        "volume": 39704,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

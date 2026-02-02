@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AGG",
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "collected_at": "2026-02-01T02:09:48.769Z",
+        "collected_at": "2026-02-02T02:10:19.982Z",
         "data_start_date": "2016-02-01",
         "price": 100.12999725341797,
         "change": 0,
-        "volume": 11869328,
+        "volume": 12469668,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 179,

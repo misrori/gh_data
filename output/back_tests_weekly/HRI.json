@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HRI",
         "name": "Herc Holdings Inc.",
-        "collected_at": "2026-02-01T02:04:45.156Z",
+        "collected_at": "2026-02-02T02:04:59.129Z",
         "data_start_date": "2016-02-01",
         "price": 143.33999633789062,
         "change": 0,
-        "volume": 528696,
+        "volume": 556122,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CACI",
         "name": "CACI International, Inc.",
-        "collected_at": "2026-02-01T02:02:44.895Z",
+        "collected_at": "2026-02-02T02:02:52.268Z",
         "data_start_date": "2016-02-01",
         "price": 620.5800170898438,
         "change": 0,
-        "volume": 201008,
+        "volume": 205920,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

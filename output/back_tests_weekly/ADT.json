@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADT",
         "name": "ADT Inc.",
-        "collected_at": "2026-02-01T02:04:10.568Z",
+        "collected_at": "2026-02-02T02:04:23.305Z",
         "data_start_date": "2018-01-15",
         "price": 8,
         "change": 0,
-        "volume": 7185589,
+        "volume": 7379637,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 550,

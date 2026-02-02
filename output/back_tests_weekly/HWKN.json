@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HWKN",
         "name": "Hawkins, Inc.",
-        "collected_at": "2026-02-01T02:06:04.673Z",
+        "collected_at": "2026-02-02T02:06:23.223Z",
         "data_start_date": "2016-02-01",
         "price": 130.25,
         "change": 0,
-        "volume": 475503,
+        "volume": 477690,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 2020,

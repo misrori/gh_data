@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TXNM",
         "name": "TXNM Energy, Inc.",
-        "collected_at": "2026-02-01T02:04:03.918Z",
+        "collected_at": "2026-02-02T02:04:16.977Z",
         "data_start_date": "2016-02-01",
         "price": 58.91999816894531,
         "change": 0,
-        "volume": 747787,
+        "volume": 826336,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 424,

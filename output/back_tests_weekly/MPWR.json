@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MPWR",
         "name": "Monolithic Power Systems, Inc.",
-        "collected_at": "2026-02-01T02:01:09.263Z",
+        "collected_at": "2026-02-02T02:01:11.847Z",
         "data_start_date": "2016-02-01",
         "price": 1124.1500244140625,
         "change": 0,
-        "volume": 1045297,
+        "volume": 1046263,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 186,

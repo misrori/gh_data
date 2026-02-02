@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EPAM",
         "name": "EPAM Systems, Inc.",
-        "collected_at": "2026-02-01T02:02:59.989Z",
+        "collected_at": "2026-02-02T02:03:07.488Z",
         "data_start_date": "2016-02-01",
         "price": 208.60000610351562,
         "change": 0,
-        "volume": 482528,
+        "volume": 489787,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

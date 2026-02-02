@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PHR",
         "name": "Phreesia, Inc.",
-        "collected_at": "2026-02-01T02:08:45.064Z",
+        "collected_at": "2026-02-02T02:09:12.464Z",
         "data_start_date": "2019-07-15",
         "price": 13.430000305175781,
         "change": 0,
-        "volume": 1328875,
+        "volume": 1379960,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

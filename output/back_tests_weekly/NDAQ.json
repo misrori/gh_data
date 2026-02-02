@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NDAQ",
         "name": "Nasdaq, Inc.",
-        "collected_at": "2026-02-01T02:01:08.178Z",
+        "collected_at": "2026-02-02T02:01:10.650Z",
         "data_start_date": "2016-02-01",
         "price": 96.88999938964844,
         "change": 0,
-        "volume": 4533994,
+        "volume": 4547609,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 683,

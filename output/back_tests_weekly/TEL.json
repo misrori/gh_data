@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TEL",
         "name": "TE Connectivity plc",
-        "collected_at": "2026-02-01T02:01:01.796Z",
+        "collected_at": "2026-02-02T02:01:04.540Z",
         "data_start_date": "2016-02-01",
         "price": 222.77999877929688,
         "change": 0,
-        "volume": 1921614,
+        "volume": 1986437,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

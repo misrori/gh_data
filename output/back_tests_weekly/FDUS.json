@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FDUS",
         "name": "Fidus Investment Corporation",
-        "collected_at": "2026-02-01T02:09:02.420Z",
+        "collected_at": "2026-02-02T02:09:30.694Z",
         "data_start_date": "2016-02-01",
         "price": 19.290000915527344,
         "change": 0,
-        "volume": 162028,
+        "volume": 170252,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

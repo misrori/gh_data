@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CC",
         "name": "Chemours Company (The)",
-        "collected_at": "2026-02-01T02:06:27.393Z",
+        "collected_at": "2026-02-02T02:06:47.673Z",
         "data_start_date": "2016-02-01",
         "price": 14.989999771118164,
         "change": 0,
-        "volume": 2602171,
+        "volume": 3028425,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 837,

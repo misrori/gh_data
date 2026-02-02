@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LHX",
         "name": "L3Harris Technologies, Inc.",
-        "collected_at": "2026-02-01T02:01:02.446Z",
+        "collected_at": "2026-02-02T02:01:05.385Z",
         "data_start_date": "2016-02-01",
         "price": 342.8500061035156,
         "change": 0,
-        "volume": 2158422,
+        "volume": 2253946,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 249,

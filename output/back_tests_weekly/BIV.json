@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIV",
         "name": "Vanguard Intermediate-Term Bond ETF",
-        "collected_at": "2026-02-01T02:10:10.105Z",
+        "collected_at": "2026-02-02T02:10:42.675Z",
         "data_start_date": "2016-02-01",
         "price": 77.87000274658203,
         "change": 0,
-        "volume": 2138556,
+        "volume": 2138626,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 319,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WINA",
         "name": "Winmark Corporation",
-        "collected_at": "2026-02-01T02:07:15.797Z",
+        "collected_at": "2026-02-02T02:07:39.087Z",
         "data_start_date": "2016-02-01",
         "price": 450.69000244140625,
         "change": 0,
-        "volume": 72344,
+        "volume": 76998,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 249,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BURL",
         "name": "Burlington Stores, Inc.",
-        "collected_at": "2026-02-01T02:02:17.661Z",
+        "collected_at": "2026-02-02T02:02:21.787Z",
         "data_start_date": "2016-02-01",
         "price": 295.8599853515625,
         "change": 0,
-        "volume": 698953,
+        "volume": 745215,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,

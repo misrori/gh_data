@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TSN",
         "name": "Tyson Foods, Inc.",
-        "collected_at": "2026-02-01T02:02:05.461Z",
+        "collected_at": "2026-02-02T02:02:08.571Z",
         "data_start_date": "2016-02-01",
         "price": 65.33000183105469,
         "change": 0,
-        "volume": 4421531,
+        "volume": 4432795,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

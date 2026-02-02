@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PATK",
         "name": "Patrick Industries, Inc.",
-        "collected_at": "2026-02-01T02:05:03.954Z",
+        "collected_at": "2026-02-02T02:05:19.886Z",
         "data_start_date": "2016-02-01",
         "price": 126.16999816894531,
         "change": 0,
-        "volume": 328916,
+        "volume": 339451,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 998,

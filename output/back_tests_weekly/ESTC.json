@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ESTC",
         "name": "Elastic N.V.",
-        "collected_at": "2026-02-01T02:03:53.236Z",
+        "collected_at": "2026-02-02T02:04:05.968Z",
         "data_start_date": "2018-10-01",
         "price": 65.93000030517578,
         "change": 0,
-        "volume": 1714569,
+        "volume": 1716557,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 249,

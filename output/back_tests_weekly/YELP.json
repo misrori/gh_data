@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "YELP",
         "name": "Yelp Inc.",
-        "collected_at": "2026-02-01T02:07:08.133Z",
+        "collected_at": "2026-02-02T02:07:31.215Z",
         "data_start_date": "2016-02-01",
         "price": 27.3799991607666,
         "change": 0,
-        "volume": 1028216,
+        "volume": 1239558,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 333,

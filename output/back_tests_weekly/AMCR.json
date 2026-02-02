@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMCR",
         "name": "Amcor plc",
-        "collected_at": "2026-02-01T02:02:12.442Z",
+        "collected_at": "2026-02-02T02:02:16.288Z",
         "data_start_date": "2016-02-01",
         "price": 44.25,
         "change": 0,
-        "volume": 6680859,
+        "volume": 6783036,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 326,

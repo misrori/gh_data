@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WYNN",
         "name": "Wynn Resorts, Limited",
-        "collected_at": "2026-02-01T02:03:02.355Z",
+        "collected_at": "2026-02-02T02:03:10.270Z",
         "data_start_date": "2016-02-01",
         "price": 107.44999694824219,
         "change": 0,
-        "volume": 1238389,
+        "volume": 1238564,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,

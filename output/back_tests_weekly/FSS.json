@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FSS",
         "name": "Federal Signal Corporation",
-        "collected_at": "2026-02-01T02:04:00.452Z",
+        "collected_at": "2026-02-02T02:04:13.189Z",
         "data_start_date": "2016-02-01",
         "price": 108.08999633789062,
         "change": 0,
-        "volume": 774338,
+        "volume": 795155,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 249,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WMK",
         "name": "Weis Markets, Inc.",
-        "collected_at": "2026-02-01T02:07:02.315Z",
+        "collected_at": "2026-02-02T02:07:24.766Z",
         "data_start_date": "2016-02-01",
         "price": 71.1500015258789,
         "change": 0,
-        "volume": 137184,
+        "volume": 162038,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

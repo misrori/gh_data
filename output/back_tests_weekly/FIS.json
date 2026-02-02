@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIS",
         "name": "Fidelity National Information Services, Inc.",
-        "collected_at": "2026-02-01T02:01:44.898Z",
+        "collected_at": "2026-02-02T02:01:47.614Z",
         "data_start_date": "2016-02-01",
         "price": 55.25,
         "change": 0,
-        "volume": 5840151,
+        "volume": 5853569,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,

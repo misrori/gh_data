@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DAVE",
         "name": "Dave Inc.",
-        "collected_at": "2026-02-01T02:06:29.239Z",
+        "collected_at": "2026-02-02T02:06:49.562Z",
         "data_start_date": "2021-04-26",
         "price": 163.69000244140625,
         "change": 0,
-        "volume": 806374,
+        "volume": 815411,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 473,

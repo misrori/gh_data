@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROG",
         "name": "Rogers Corporation",
-        "collected_at": "2026-02-01T02:07:02.850Z",
+        "collected_at": "2026-02-02T02:07:25.317Z",
         "data_start_date": "2016-02-01",
         "price": 97.23999786376953,
         "change": 0,
-        "volume": 124958,
+        "volume": 131159,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XLI",
         "name": "State Street Industrial Select Sector SPDR ETF",
-        "collected_at": "2026-02-01T02:10:09.650Z",
+        "collected_at": "2026-02-02T02:10:42.186Z",
         "data_start_date": "2016-02-01",
         "price": 165.44000244140625,
         "change": 0,
-        "volume": 11585100,
+        "volume": 11612496,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1117,

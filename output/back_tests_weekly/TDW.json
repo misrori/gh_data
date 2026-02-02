@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TDW",
         "name": "Tidewater Inc.",
-        "collected_at": "2026-02-01T02:05:43.503Z",
+        "collected_at": "2026-02-02T02:06:01.383Z",
         "data_start_date": "2016-02-01",
         "price": 62.4900016784668,
         "change": 0,
-        "volume": 877727,
+        "volume": 913116,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

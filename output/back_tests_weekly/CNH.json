@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNH",
         "name": "CNH Industrial N.V.",
-        "collected_at": "2026-02-01T02:02:47.883Z",
+        "collected_at": "2026-02-02T02:02:55.489Z",
         "data_start_date": "2016-02-01",
         "price": 10.760000228881836,
         "change": 0,
-        "volume": 10873572,
+        "volume": 11132255,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 116,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MXL",
         "name": "MaxLinear, Inc",
-        "collected_at": "2026-02-01T02:07:25.940Z",
+        "collected_at": "2026-02-02T02:07:49.631Z",
         "data_start_date": "2016-02-01",
         "price": 17.350000381469727,
         "change": 0,
-        "volume": 3802591,
+        "volume": 3802960,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

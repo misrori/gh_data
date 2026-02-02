@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BAP",
         "name": "Credicorp Ltd.",
-        "collected_at": "2026-02-01T02:01:45.322Z",
+        "collected_at": "2026-02-02T02:01:48.109Z",
         "data_start_date": "2016-02-01",
         "price": 356.8299865722656,
         "change": 0,
-        "volume": 965448,
+        "volume": 973272,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 753,

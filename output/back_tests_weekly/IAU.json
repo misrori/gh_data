@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IAU",
         "name": "iShares Gold Trust",
-        "collected_at": "2026-02-01T02:09:51.942Z",
+        "collected_at": "2026-02-02T02:10:23.520Z",
         "data_start_date": "2016-02-01",
         "price": 91.19999694824219,
         "change": 0,
-        "volume": 75919049,
+        "volume": 76121480,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1089,

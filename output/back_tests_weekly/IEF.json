@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IEF",
         "name": "iShares 7-10 Year Treasury Bond ETF",
-        "collected_at": "2026-02-01T02:09:59.010Z",
+        "collected_at": "2026-02-02T02:10:31.130Z",
         "data_start_date": "2016-02-01",
         "price": 95.94000244140625,
         "change": 0,
-        "volume": 8235252,
+        "volume": 8238456,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 137,

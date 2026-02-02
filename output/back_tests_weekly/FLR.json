@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FLR",
         "name": "Fluor Corporation",
-        "collected_at": "2026-02-01T02:03:45.567Z",
+        "collected_at": "2026-02-02T02:03:58.128Z",
         "data_start_date": "2016-02-01",
         "price": 46.189998626708984,
         "change": 0,
-        "volume": 2256576,
+        "volume": 2271589,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

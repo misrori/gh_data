@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NKLR",
         "name": "Terra Innovatum Global N.V.",
-        "collected_at": "2026-02-01T02:09:31.904Z",
+        "collected_at": "2026-02-02T02:10:01.311Z",
         "data_start_date": "2025-10-06",
         "price": 4.980000019073486,
         "change": -2.352938976529794,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:NKLR",
-        "market_capitalization": 550294711.0799999,
+        "market_capitalization": 550294711.08,
         "commodity_name": null,
         "display_name": "Terra Innovatum Global N.V.",
         "sma_50": 5.269199962615967,

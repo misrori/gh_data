@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRIM",
         "name": "Primoris Services Corporation",
-        "collected_at": "2026-02-01T02:03:36.461Z",
+        "collected_at": "2026-02-02T02:03:47.535Z",
         "data_start_date": "2016-02-01",
         "price": 148.25,
         "change": 0,
-        "volume": 711996,
+        "volume": 783118,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 991,

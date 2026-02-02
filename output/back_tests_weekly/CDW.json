@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CDW",
         "name": "CDW Corporation",
-        "collected_at": "2026-02-01T02:02:27.221Z",
+        "collected_at": "2026-02-02T02:02:32.001Z",
         "data_start_date": "2016-02-01",
         "price": 126.38999938964844,
         "change": 0,
-        "volume": 1698482,
+        "volume": 1740192,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 410,

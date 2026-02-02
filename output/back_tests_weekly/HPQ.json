@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HPQ",
         "name": "HP Inc.",
-        "collected_at": "2026-02-01T02:02:20.868Z",
+        "collected_at": "2026-02-02T02:02:25.320Z",
         "data_start_date": "2016-02-01",
         "price": 19.440000534057617,
         "change": 0,
-        "volume": 21500294,
+        "volume": 21546187,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

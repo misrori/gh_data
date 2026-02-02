@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GATX",
         "name": "GATX Corporation",
-        "collected_at": "2026-02-01T02:04:01.496Z",
+        "collected_at": "2026-02-02T02:04:14.236Z",
         "data_start_date": "2016-02-01",
         "price": 181.91000366210938,
         "change": 0,
-        "volume": 335773,
+        "volume": 498361,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 781,

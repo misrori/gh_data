@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SUN",
         "name": "Sunoco LP",
-        "collected_at": "2026-02-01T02:03:28.080Z",
+        "collected_at": "2026-02-02T02:03:38.860Z",
         "data_start_date": "2016-02-01",
         "price": 57.58000183105469,
         "change": 0,
-        "volume": 399019,
+        "volume": 406035,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 4,

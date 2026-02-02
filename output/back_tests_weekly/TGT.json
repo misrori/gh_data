@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TGT",
         "name": "Target Corporation",
-        "collected_at": "2026-02-01T02:01:15.801Z",
+        "collected_at": "2026-02-02T02:01:18.540Z",
         "data_start_date": "2016-02-01",
         "price": 105.47000122070312,
         "change": 0,
-        "volume": 6110073,
+        "volume": 6181799,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 424,

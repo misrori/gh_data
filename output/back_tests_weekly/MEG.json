@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MEG",
         "name": "Montrose Environmental Group, Inc.",
-        "collected_at": "2026-02-01T02:08:49.484Z",
+        "collected_at": "2026-02-02T02:09:16.955Z",
         "data_start_date": "2020-07-20",
         "price": 22.280000686645508,
         "change": 0,
-        "volume": 294889,
+        "volume": 308843,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 144,

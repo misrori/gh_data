@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PKG",
         "name": "Packaging Corporation of America",
-        "collected_at": "2026-02-01T02:02:13.918Z",
+        "collected_at": "2026-02-02T02:02:17.781Z",
         "data_start_date": "2016-02-01",
         "price": 222.5500030517578,
         "change": 0,
-        "volume": 1642756,
+        "volume": 1699681,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 32,

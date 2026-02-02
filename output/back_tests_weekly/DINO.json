@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DINO",
         "name": "HF Sinclair Corporation",
-        "collected_at": "2026-02-01T02:03:18.931Z",
+        "collected_at": "2026-02-02T02:03:28.138Z",
         "data_start_date": "2016-02-01",
         "price": 51.9900016784668,
         "change": 0,
-        "volume": 2280252,
+        "volume": 2564259,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

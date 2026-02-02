@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CACC",
         "name": "Credit Acceptance Corporation",
-        "collected_at": "2026-02-01T02:04:24.110Z",
+        "collected_at": "2026-02-02T02:04:37.334Z",
         "data_start_date": "2016-02-01",
         "price": 498.239990234375,
         "change": 0,
-        "volume": 308673,
+        "volume": 312993,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

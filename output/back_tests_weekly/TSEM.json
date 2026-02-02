@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TSEM",
         "name": "Tower Semiconductor Ltd.",
-        "collected_at": "2026-02-01T02:02:34.892Z",
+        "collected_at": "2026-02-02T02:02:40.082Z",
         "data_start_date": "2016-02-01",
         "price": 134.72999572753906,
         "change": 0,
-        "volume": 2368483,
+        "volume": 2369137,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

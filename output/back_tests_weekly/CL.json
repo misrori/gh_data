@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CL",
         "name": "Colgate-Palmolive Company",
-        "collected_at": "2026-02-01T02:00:57.105Z",
+        "collected_at": "2026-02-02T02:00:59.467Z",
         "data_start_date": "2016-02-01",
         "price": 90.29000091552734,
         "change": 0,
-        "volume": 13913063,
+        "volume": 13920058,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 151,

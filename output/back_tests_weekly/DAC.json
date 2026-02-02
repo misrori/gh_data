@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DAC",
         "name": "Danaos Corporation",
-        "collected_at": "2026-02-01T02:06:50.190Z",
+        "collected_at": "2026-02-02T02:07:12.063Z",
         "data_start_date": "2016-02-01",
         "price": 103.44999694824219,
         "change": 0,
-        "volume": 53014,
+        "volume": 53368,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

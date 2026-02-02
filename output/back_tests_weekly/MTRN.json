@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MTRN",
         "name": "Materion Corporation",
-        "collected_at": "2026-02-01T02:05:55.566Z",
+        "collected_at": "2026-02-02T02:06:13.750Z",
         "data_start_date": "2016-02-01",
         "price": 138.27999877929688,
         "change": 0,
-        "volume": 218201,
+        "volume": 244021,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 109,

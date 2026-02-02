@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DDS",
         "name": "Dillard's, Inc.",
-        "collected_at": "2026-02-01T02:03:20.290Z",
+        "collected_at": "2026-02-02T02:03:29.507Z",
         "data_start_date": "2016-02-01",
         "price": 607.5599975585938,
         "change": 0,
-        "volume": 129661,
+        "volume": 131809,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

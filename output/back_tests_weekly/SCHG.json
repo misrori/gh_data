@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCHG",
         "name": "Schwab U.S. Large-Cap Growth ETF",
-        "collected_at": "2026-02-01T02:09:57.161Z",
+        "collected_at": "2026-02-02T02:10:29.267Z",
         "data_start_date": "2016-02-01",
         "price": 32,
         "change": 0,
-        "volume": 13675452,
+        "volume": 13696905,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 956,

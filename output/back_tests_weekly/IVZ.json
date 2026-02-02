@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IVZ",
         "name": "Invesco Ltd",
-        "collected_at": "2026-02-01T02:02:55.774Z",
+        "collected_at": "2026-02-02T02:03:03.410Z",
         "data_start_date": "2016-02-01",
         "price": 27.290000915527344,
         "change": 0,
-        "volume": 9013742,
+        "volume": 10813355,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 186,

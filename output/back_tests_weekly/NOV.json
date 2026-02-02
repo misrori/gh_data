@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NOV",
         "name": "NOV Inc.",
-        "collected_at": "2026-02-01T02:03:58.358Z",
+        "collected_at": "2026-02-02T02:04:11.236Z",
         "data_start_date": "2016-02-01",
         "price": 18.350000381469727,
         "change": 0,
-        "volume": 4764888,
+        "volume": 4766042,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

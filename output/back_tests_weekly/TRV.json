@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRV",
         "name": "The Travelers Companies, Inc.",
-        "collected_at": "2026-02-01T02:01:03.470Z",
+        "collected_at": "2026-02-02T02:01:06.388Z",
         "data_start_date": "2016-02-01",
         "price": 284.510009765625,
         "change": 0,
-        "volume": 2389777,
+        "volume": 2389887,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 774,

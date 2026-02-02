@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HSIC",
         "name": "Henry Schein, Inc.",
-        "collected_at": "2026-02-01T02:03:26.467Z",
+        "collected_at": "2026-02-02T02:03:37.258Z",
         "data_start_date": "2016-02-01",
         "price": 75.4800033569336,
         "change": 0,
-        "volume": 997518,
+        "volume": 1066088,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,

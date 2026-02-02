@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UGI",
         "name": "UGI Corporation",
-        "collected_at": "2026-02-01T02:03:30.280Z",
+        "collected_at": "2026-02-02T02:03:41.455Z",
         "data_start_date": "2016-02-01",
         "price": 40.11000061035156,
         "change": 0,
-        "volume": 6267581,
+        "volume": 7366561,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 354,

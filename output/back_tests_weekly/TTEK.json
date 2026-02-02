@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TTEK",
         "name": "Tetra Tech, Inc.",
-        "collected_at": "2026-02-01T02:03:16.362Z",
+        "collected_at": "2026-02-02T02:03:25.521Z",
         "data_start_date": "2016-02-01",
         "price": 37.65999984741211,
         "change": 0,
-        "volume": 3851842,
+        "volume": 3857631,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

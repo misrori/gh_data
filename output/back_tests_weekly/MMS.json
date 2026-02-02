@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MMS",
         "name": "Maximus, Inc.",
-        "collected_at": "2026-02-01T02:04:32.679Z",
+        "collected_at": "2026-02-02T02:04:46.480Z",
         "data_start_date": "2016-02-01",
         "price": 94.44000244140625,
         "change": 0,
-        "volume": 622890,
+        "volume": 661491,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 123,

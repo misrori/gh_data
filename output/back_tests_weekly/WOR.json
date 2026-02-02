@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WOR",
         "name": "Worthington Enterprises, Inc.",
-        "collected_at": "2026-02-01T02:06:02.127Z",
+        "collected_at": "2026-02-02T02:06:20.500Z",
         "data_start_date": "2016-02-01",
         "price": 55.56999969482422,
         "change": 0,
-        "volume": 275858,
+        "volume": 292975,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

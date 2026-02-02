@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AKAM",
         "name": "Akamai Technologies, Inc.",
-        "collected_at": "2026-02-01T02:02:41.834Z",
+        "collected_at": "2026-02-02T02:02:47.118Z",
         "data_start_date": "2016-02-01",
         "price": 97.1500015258789,
         "change": 0,
-        "volume": 2820148,
+        "volume": 2983802,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

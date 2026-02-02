@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TWI",
         "name": "Titan International, Inc. (DE)",
-        "collected_at": "2026-02-01T02:09:20.846Z",
+        "collected_at": "2026-02-02T02:09:50.123Z",
         "data_start_date": "2016-02-01",
         "price": 9.539999961853027,
         "change": 0,
-        "volume": 697091,
+        "volume": 715288,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

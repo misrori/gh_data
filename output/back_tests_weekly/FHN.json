@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FHN",
         "name": "First Horizon Corporation",
-        "collected_at": "2026-02-01T02:02:58.646Z",
+        "collected_at": "2026-02-02T02:03:06.320Z",
         "data_start_date": "2016-02-01",
         "price": 24.489999771118164,
         "change": 0,
-        "volume": 8271332,
+        "volume": 10270538,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 459,

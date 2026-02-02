@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FDS",
         "name": "FactSet Research Systems Inc.",
-        "collected_at": "2026-02-01T02:03:21.426Z",
+        "collected_at": "2026-02-02T02:03:30.688Z",
         "data_start_date": "2016-02-01",
         "price": 254.36000061035156,
         "change": 0,
-        "volume": 956189,
+        "volume": 1028104,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 186,

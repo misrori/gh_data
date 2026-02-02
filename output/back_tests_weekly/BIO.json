@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIO",
         "name": "Bio-Rad Laboratories, Inc.",
-        "collected_at": "2026-02-01T02:03:37.290Z",
+        "collected_at": "2026-02-02T02:03:48.298Z",
         "data_start_date": "2016-02-01",
         "price": 293.70001220703125,
         "change": 0,
-        "volume": 165163,
+        "volume": 173163,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

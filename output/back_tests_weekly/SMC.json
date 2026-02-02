@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMC",
         "name": "Summit Midstream Corporation",
-        "collected_at": "2026-02-01T02:09:35.867Z",
+        "collected_at": "2026-02-02T02:10:05.200Z",
         "data_start_date": "2016-02-01",
         "price": 28.709999084472656,
         "change": 0,
-        "volume": 72196,
+        "volume": 74002,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 172,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMP",
         "name": "Standard Motor Products, Inc.",
-        "collected_at": "2026-02-01T02:08:33.277Z",
+        "collected_at": "2026-02-02T02:08:59.536Z",
         "data_start_date": "2016-02-01",
         "price": 39.93000030517578,
         "change": 0,
-        "volume": 103789,
+        "volume": 113662,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 144,

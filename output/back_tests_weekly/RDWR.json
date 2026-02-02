@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RDWR",
         "name": "Radware Ltd.",
-        "collected_at": "2026-02-01T02:08:09.294Z",
+        "collected_at": "2026-02-02T02:08:34.822Z",
         "data_start_date": "2016-02-01",
         "price": 24.149999618530273,
         "change": 0,
-        "volume": 172117,
+        "volume": 179501,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 487,

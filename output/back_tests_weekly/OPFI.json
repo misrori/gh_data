@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OPFI",
         "name": "OppFi Inc.",
-        "collected_at": "2026-02-01T02:08:41.679Z",
+        "collected_at": "2026-02-02T02:09:08.296Z",
         "data_start_date": "2020-11-16",
         "price": 9.520000457763672,
         "change": 0,
-        "volume": 571130,
+        "volume": 585663,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 592,

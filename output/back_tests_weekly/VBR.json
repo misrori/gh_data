@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VBR",
         "name": "Vanguard Small Cap Value ETF",
-        "collected_at": "2026-02-01T02:10:06.269Z",
+        "collected_at": "2026-02-02T02:10:38.898Z",
         "data_start_date": "2016-02-01",
         "price": 223.08999633789062,
         "change": 0,
-        "volume": 339794,
+        "volume": 339878,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

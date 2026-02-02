@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ABBV",
         "name": "AbbVie Inc.",
-        "collected_at": "2026-02-01T02:00:11.556Z",
+        "collected_at": "2026-02-02T02:00:13.397Z",
         "data_start_date": "2016-02-01",
         "price": 223.00999450683594,
         "change": 0,
-        "volume": 6552492,
+        "volume": 6622248,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 760,

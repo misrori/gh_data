@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QXO",
         "name": "QXO, Inc.",
-        "collected_at": "2026-02-01T02:02:31.563Z",
+        "collected_at": "2026-02-02T02:02:36.677Z",
         "data_start_date": "2016-02-01",
         "price": 22.18000030517578,
         "change": 0,
-        "volume": 6017258,
+        "volume": 6120468,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 480,

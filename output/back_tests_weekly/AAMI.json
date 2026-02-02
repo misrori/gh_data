@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AAMI",
         "name": "Acadian Asset Management Inc.",
-        "collected_at": "2026-02-01T02:06:43.336Z",
+        "collected_at": "2026-02-02T02:07:04.865Z",
         "data_start_date": "2016-02-01",
         "price": 55.41999816894531,
         "change": 0,
-        "volume": 412605,
+        "volume": 429105,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 669,

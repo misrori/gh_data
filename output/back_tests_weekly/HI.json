@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HI",
         "name": "Hillenbrand Inc",
-        "collected_at": "2026-02-01T02:06:27.158Z",
+        "collected_at": "2026-02-02T02:06:47.455Z",
         "data_start_date": "2016-02-01",
         "price": 31.90999984741211,
         "change": 0,
-        "volume": 883988,
+        "volume": 912318,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

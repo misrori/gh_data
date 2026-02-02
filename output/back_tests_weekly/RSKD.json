@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RSKD",
         "name": "Riskified Ltd.",
-        "collected_at": "2026-02-01T02:09:12.311Z",
+        "collected_at": "2026-02-02T02:09:41.240Z",
         "data_start_date": "2021-07-26",
         "price": 4.260000228881836,
         "change": 0,
-        "volume": 461905,
+        "volume": 577368,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 158,

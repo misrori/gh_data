@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AFL",
         "name": "AFLAC Incorporated",
-        "collected_at": "2026-02-01T02:01:05.742Z",
+        "collected_at": "2026-02-02T02:01:08.537Z",
         "data_start_date": "2016-02-01",
         "price": 110.94999694824219,
         "change": 0,
-        "volume": 3668225,
+        "volume": 3669884,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1782,

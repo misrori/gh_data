@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BALY",
         "name": "Bally's Corporation",
-        "collected_at": "2026-02-01T02:08:56.143Z",
+        "collected_at": "2026-02-02T02:09:24.133Z",
         "data_start_date": "2024-12-02",
         "price": 15.279999732971191,
         "change": 0,
-        "volume": 96874,
+        "volume": 98236,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 32,

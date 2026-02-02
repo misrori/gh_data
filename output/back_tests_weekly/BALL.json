@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BALL",
         "name": "Ball Corporation",
-        "collected_at": "2026-02-01T02:02:33.187Z",
+        "collected_at": "2026-02-02T02:02:38.297Z",
         "data_start_date": "2016-02-01",
         "price": 56.869998931884766,
         "change": 0,
-        "volume": 2084499,
+        "volume": 2164762,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 382,

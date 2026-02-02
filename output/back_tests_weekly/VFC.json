@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VFC",
         "name": "V.F. Corporation",
-        "collected_at": "2026-02-01T02:03:42.784Z",
+        "collected_at": "2026-02-02T02:03:54.961Z",
         "data_start_date": "2016-02-01",
         "price": 19.59000015258789,
         "change": 0,
-        "volume": 7492866,
+        "volume": 8168827,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

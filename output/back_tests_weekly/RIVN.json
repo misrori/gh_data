@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RIVN",
         "name": "Rivian Automotive, Inc.",
-        "collected_at": "2026-02-01T02:02:19.641Z",
+        "collected_at": "2026-02-02T02:02:23.776Z",
         "data_start_date": "2021-11-08",
         "price": 14.75,
         "change": 0,
-        "volume": 23680426,
+        "volume": 25350730,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

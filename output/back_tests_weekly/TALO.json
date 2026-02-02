@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TALO",
         "name": "Talos Energy, Inc.",
-        "collected_at": "2026-02-01T02:06:39.422Z",
+        "collected_at": "2026-02-02T02:07:00.223Z",
         "data_start_date": "2018-05-07",
         "price": 11.920000076293945,
         "change": 0,
-        "volume": 2350535,
+        "volume": 2494843,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

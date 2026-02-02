@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GPK",
         "name": "Graphic Packaging Holding Company",
-        "collected_at": "2026-02-01T02:05:00.223Z",
+        "collected_at": "2026-02-02T02:05:15.523Z",
         "data_start_date": "2016-02-01",
         "price": 14.649999618530273,
         "change": 0,
-        "volume": 13386801,
+        "volume": 13514113,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 256,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OMC",
         "name": "Omnicom Group Inc.",
-        "collected_at": "2026-02-01T02:01:59.066Z",
+        "collected_at": "2026-02-02T02:02:02.418Z",
         "data_start_date": "2016-02-01",
         "price": 77.04000091552734,
         "change": 0,
-        "volume": 5606491,
+        "volume": 6338807,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 312,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EEM",
         "name": "iShares MSCI Emerging Markets ETF",
-        "collected_at": "2026-02-01T02:10:10.692Z",
+        "collected_at": "2026-02-02T02:10:43.207Z",
         "data_start_date": "2016-02-01",
         "price": 59.099998474121094,
         "change": 0,
-        "volume": 72573846,
+        "volume": 73861242,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 620,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IWB",
         "name": "iShares Russell 1000 ETF",
-        "collected_at": "2026-02-01T02:09:58.735Z",
+        "collected_at": "2026-02-02T02:10:30.857Z",
         "data_start_date": "2016-02-01",
         "price": 378.4599914550781,
         "change": 0,
-        "volume": 2043044,
+        "volume": 2043144,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 956,

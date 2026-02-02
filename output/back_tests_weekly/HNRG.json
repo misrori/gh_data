@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HNRG",
         "name": "Hallador Energy Company",
-        "collected_at": "2026-02-01T02:08:37.201Z",
+        "collected_at": "2026-02-02T02:09:03.462Z",
         "data_start_date": "2016-02-01",
         "price": 18.489999771118164,
         "change": 0,
-        "volume": 582871,
+        "volume": 596917,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 445,

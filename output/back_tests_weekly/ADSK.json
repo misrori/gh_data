@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADSK",
         "name": "Autodesk, Inc.",
-        "collected_at": "2026-02-01T02:01:09.935Z",
+        "collected_at": "2026-02-02T02:01:12.472Z",
         "data_start_date": "2016-02-01",
         "price": 252.8699951171875,
         "change": 0,
-        "volume": 1739173,
+        "volume": 1739341,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

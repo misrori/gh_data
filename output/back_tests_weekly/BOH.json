@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BOH",
         "name": "Bank of Hawaii Corporation",
-        "collected_at": "2026-02-01T02:05:50.104Z",
+        "collected_at": "2026-02-02T02:06:08.498Z",
         "data_start_date": "2016-02-01",
         "price": 74.77999877929688,
         "change": 0,
-        "volume": 436069,
+        "volume": 464539,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,

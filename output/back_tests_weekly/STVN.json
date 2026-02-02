@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STVN",
         "name": "Stevanato Group S.p.A.",
-        "collected_at": "2026-02-01T02:05:02.366Z",
+        "collected_at": "2026-02-02T02:05:18.081Z",
         "data_start_date": "2021-07-12",
         "price": 15.579999923706055,
         "change": 0,
-        "volume": 532558,
+        "volume": 532564,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MLM",
         "name": "Martin Marietta Materials, Inc.",
-        "collected_at": "2026-02-01T02:01:27.977Z",
+        "collected_at": "2026-02-02T02:01:30.265Z",
         "data_start_date": "2016-02-01",
         "price": 651.9500122070312,
         "change": 0,
-        "volume": 429848,
+        "volume": 429893,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MPLX",
         "name": "MPLX LP",
-        "collected_at": "2026-02-01T02:01:07.229Z",
+        "collected_at": "2026-02-02T02:01:09.724Z",
         "data_start_date": "2016-02-01",
         "price": 55.900001525878906,
         "change": 0,
-        "volume": 1590248,
+        "volume": 1605812,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1747,

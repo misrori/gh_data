@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BOKF",
         "name": "BOK Financial Corporation",
-        "collected_at": "2026-02-01T02:03:34.617Z",
+        "collected_at": "2026-02-02T02:03:45.678Z",
         "data_start_date": "2016-02-01",
         "price": 129.94000244140625,
         "change": 0,
-        "volume": 370737,
+        "volume": 396799,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

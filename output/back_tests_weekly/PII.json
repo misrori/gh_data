@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PII",
         "name": "Polaris Inc.",
-        "collected_at": "2026-02-01T02:05:24.308Z",
+        "collected_at": "2026-02-02T02:05:41.336Z",
         "data_start_date": "2016-02-01",
         "price": 63.84000015258789,
         "change": 0,
-        "volume": 2225020,
+        "volume": 2608543,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

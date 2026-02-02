@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LINC",
         "name": "Lincoln Educational Services Corporation",
-        "collected_at": "2026-02-01T02:08:39.759Z",
+        "collected_at": "2026-02-02T02:09:06.339Z",
         "data_start_date": "2016-02-01",
         "price": 26.65999984741211,
         "change": 0,
-        "volume": 180762,
+        "volume": 185111,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 914,

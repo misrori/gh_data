@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SNOW",
         "name": "Snowflake Inc.",
-        "collected_at": "2026-02-01T02:01:01.151Z",
+        "collected_at": "2026-02-02T02:01:03.888Z",
         "data_start_date": "2020-09-14",
         "price": 192.6999969482422,
         "change": 0,
-        "volume": 5735916,
+        "volume": 5753459,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

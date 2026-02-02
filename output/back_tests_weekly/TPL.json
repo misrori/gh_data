@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TPL",
         "name": "Texas Pacific Land Corporation",
-        "collected_at": "2026-02-01T02:02:00.572Z",
+        "collected_at": "2026-02-02T02:02:03.995Z",
         "data_start_date": "2016-02-01",
         "price": 348.3599853515625,
         "change": 0,
-        "volume": 392401,
+        "volume": 392737,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PBF",
         "name": "PBF Energy Inc.",
-        "collected_at": "2026-02-01T02:05:12.327Z",
+        "collected_at": "2026-02-02T02:05:29.132Z",
         "data_start_date": "2016-02-01",
         "price": 33.459999084472656,
         "change": 0,
-        "volume": 2519161,
+        "volume": 2524680,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

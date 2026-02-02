@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IEFA",
         "name": "iShares Core MSCI EAFE ETF",
-        "collected_at": "2026-02-01T02:09:47.805Z",
+        "collected_at": "2026-02-02T02:10:18.753Z",
         "data_start_date": "2016-02-01",
         "price": 94.05000305175781,
         "change": 0,
-        "volume": 23238207,
+        "volume": 23238547,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 802,

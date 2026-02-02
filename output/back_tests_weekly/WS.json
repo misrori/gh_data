@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WS",
         "name": "Worthington Steel, Inc.",
-        "collected_at": "2026-02-01T02:06:38.289Z",
+        "collected_at": "2026-02-02T02:06:59.070Z",
         "data_start_date": "2023-11-27",
         "price": 40.22999954223633,
         "change": 0,
-        "volume": 281695,
+        "volume": 290630,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

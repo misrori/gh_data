@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSV",
         "name": "Carriage Services, Inc.",
-        "collected_at": "2026-02-01T02:09:07.163Z",
+        "collected_at": "2026-02-02T02:09:35.729Z",
         "data_start_date": "2016-02-01",
         "price": 42.90999984741211,
         "change": 0,
-        "volume": 80991,
+        "volume": 82866,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 487,

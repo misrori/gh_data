@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IR",
         "name": "Ingersoll Rand Inc.",
-        "collected_at": "2026-02-01T02:01:35.400Z",
+        "collected_at": "2026-02-02T02:01:37.977Z",
         "data_start_date": "2017-05-08",
         "price": 86.08999633789062,
         "change": 0,
-        "volume": 3518589,
+        "volume": 3674345,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 172,

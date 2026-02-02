@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KALU",
         "name": "Kaiser Aluminum Corporation",
-        "collected_at": "2026-02-01T02:06:42.320Z",
+        "collected_at": "2026-02-02T02:07:03.792Z",
         "data_start_date": "2016-02-01",
         "price": 122.62000274658203,
         "change": 0,
-        "volume": 220744,
+        "volume": 229468,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 151,

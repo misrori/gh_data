@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MCHP",
         "name": "Microchip Technology Incorporated",
-        "collected_at": "2026-02-01T02:01:23.071Z",
+        "collected_at": "2026-02-02T02:01:25.755Z",
         "data_start_date": "2016-02-01",
         "price": 75.91999816894531,
         "change": 0,
-        "volume": 12011396,
+        "volume": 12510667,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

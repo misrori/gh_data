@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DEC",
         "name": "Diversified Energy Company",
-        "collected_at": "2026-02-01T02:08:07.229Z",
+        "collected_at": "2026-02-02T02:08:32.561Z",
         "data_start_date": "2021-01-04",
         "price": 13.390000343322754,
         "change": 0,
-        "volume": 451716,
+        "volume": 462462,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LCII",
         "name": "LCI Industries",
-        "collected_at": "2026-02-01T02:05:27.418Z",
+        "collected_at": "2026-02-02T02:05:44.477Z",
         "data_start_date": "2016-02-01",
         "price": 146.69000244140625,
         "change": 0,
-        "volume": 251875,
+        "volume": 330963,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 32,

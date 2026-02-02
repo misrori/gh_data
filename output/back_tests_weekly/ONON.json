@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ONON",
         "name": "On Holding AG",
-        "collected_at": "2026-02-01T02:02:35.945Z",
+        "collected_at": "2026-02-02T02:02:41.116Z",
         "data_start_date": "2021-09-13",
         "price": 45.25,
         "change": 0,
-        "volume": 4618695,
+        "volume": 5922515,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 130,

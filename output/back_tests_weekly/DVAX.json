@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DVAX",
         "name": "Dynavax Technologies Corporation",
-        "collected_at": "2026-02-01T02:06:57.007Z",
+        "collected_at": "2026-02-02T02:07:19.436Z",
         "data_start_date": "2016-02-01",
         "price": 15.484999656677246,
         "change": -0.032279628888316175,
-        "volume": 1397586,
+        "volume": 1559096,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 18,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EVER",
         "name": "EverQuote, Inc.",
-        "collected_at": "2026-02-01T02:08:43.337Z",
+        "collected_at": "2026-02-02T02:09:10.299Z",
         "data_start_date": "2018-06-25",
         "price": 22.700000762939453,
         "change": 0,
-        "volume": 542588,
+        "volume": 551096,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 690,

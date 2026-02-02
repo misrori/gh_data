@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CTS",
         "name": "CTS Corporation",
-        "collected_at": "2026-02-01T02:07:27.518Z",
+        "collected_at": "2026-02-02T02:07:51.106Z",
         "data_start_date": "2016-02-01",
         "price": 51.40999984741211,
         "change": 0,
-        "volume": 183956,
+        "volume": 197996,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

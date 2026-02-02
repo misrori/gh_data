@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VTI",
         "name": "Vanguard Total Stock Market ETF",
-        "collected_at": "2026-02-01T02:09:46.623Z",
+        "collected_at": "2026-02-02T02:10:17.445Z",
         "data_start_date": "2016-02-01",
         "price": 340.57000732421875,
         "change": 0,
-        "volume": 9898557,
+        "volume": 9905765,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 942,

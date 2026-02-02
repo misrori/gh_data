@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KMX",
         "name": "CarMax Inc",
-        "collected_at": "2026-02-01T02:04:06.158Z",
+        "collected_at": "2026-02-02T02:04:19.388Z",
         "data_start_date": "2016-02-01",
         "price": 44.540000915527344,
         "change": 0,
-        "volume": 3193705,
+        "volume": 3283258,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 284,

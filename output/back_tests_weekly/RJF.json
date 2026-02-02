@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RJF",
         "name": "Raymond James Financial, Inc.",
-        "collected_at": "2026-02-01T02:01:38.644Z",
+        "collected_at": "2026-02-02T02:01:41.113Z",
         "data_start_date": "2016-02-01",
         "price": 165.86000061035156,
         "change": 0,
-        "volume": 1458486,
+        "volume": 1645200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 788,

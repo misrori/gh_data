@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALLY",
         "name": "Ally Financial Inc.",
-        "collected_at": "2026-02-01T02:02:49.807Z",
+        "collected_at": "2026-02-02T02:02:57.360Z",
         "data_start_date": "2016-02-01",
         "price": 42.279998779296875,
         "change": 0,
-        "volume": 4020970,
+        "volume": 4023129,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

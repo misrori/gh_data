@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RES",
         "name": "RPC, Inc.",
-        "collected_at": "2026-02-01T02:07:30.046Z",
+        "collected_at": "2026-02-02T02:07:53.310Z",
         "data_start_date": "2016-02-01",
         "price": 6.650000095367432,
         "change": 0,
-        "volume": 3724935,
+        "volume": 3797582,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

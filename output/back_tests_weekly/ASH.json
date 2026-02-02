@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASH",
         "name": "Ashland Inc.",
-        "collected_at": "2026-02-01T02:05:59.428Z",
+        "collected_at": "2026-02-02T02:06:17.694Z",
         "data_start_date": "2016-02-01",
         "price": 61.15999984741211,
         "change": 0,
-        "volume": 551276,
+        "volume": 565085,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 501,

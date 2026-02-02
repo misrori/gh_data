@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BAX",
         "name": "Baxter International Inc.",
-        "collected_at": "2026-02-01T02:03:10.831Z",
+        "collected_at": "2026-02-02T02:03:19.324Z",
         "data_start_date": "2016-02-01",
         "price": 20.06999969482422,
         "change": 0,
-        "volume": 7295957,
+        "volume": 7301466,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1383,

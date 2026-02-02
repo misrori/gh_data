@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSL",
         "name": "Carlisle Companies Incorporated",
-        "collected_at": "2026-02-01T02:02:40.178Z",
+        "collected_at": "2026-02-02T02:02:45.440Z",
         "data_start_date": "2016-02-01",
         "price": 340.8900146484375,
         "change": 0,
-        "volume": 367410,
+        "volume": 441907,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MSA",
         "name": "MSA Safety Incorporated",
-        "collected_at": "2026-02-01T02:03:53.685Z",
+        "collected_at": "2026-02-02T02:04:06.410Z",
         "data_start_date": "2016-02-01",
         "price": 177.14999389648438,
         "change": 0,
-        "volume": 289945,
+        "volume": 400931,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 4,

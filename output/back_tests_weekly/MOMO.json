@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MOMO",
         "name": "Hello Group Inc. Sponsored ADR",
-        "collected_at": "2026-02-01T02:08:06.882Z",
+        "collected_at": "2026-02-02T02:08:32.108Z",
         "data_start_date": "2016-02-01",
         "price": 6.820000171661377,
         "change": 0,
-        "volume": 710971,
+        "volume": 710978,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

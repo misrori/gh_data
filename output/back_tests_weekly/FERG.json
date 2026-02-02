@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FERG",
         "name": "Ferguson Enterprises Inc.",
-        "collected_at": "2026-02-01T02:01:14.503Z",
+        "collected_at": "2026-02-02T02:01:17.333Z",
         "data_start_date": "2016-02-01",
         "price": 252.4600067138672,
         "change": 0,
-        "volume": 1287283,
+        "volume": 1331658,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 214,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PFSI",
         "name": "PennyMac Financial Services, Inc.",
-        "collected_at": "2026-02-01T02:04:32.115Z",
+        "collected_at": "2026-02-02T02:04:45.970Z",
         "data_start_date": "2016-02-01",
         "price": 99.91999816894531,
         "change": 0,
-        "volume": 5219128,
+        "volume": 5227438,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1096,

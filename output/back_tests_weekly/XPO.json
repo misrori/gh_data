@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XPO",
         "name": "XPO, Inc.",
-        "collected_at": "2026-02-01T02:02:22.499Z",
+        "collected_at": "2026-02-02T02:02:27.106Z",
         "data_start_date": "2016-02-01",
         "price": 148.11000061035156,
         "change": 0,
-        "volume": 1345814,
+        "volume": 1377687,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 221,

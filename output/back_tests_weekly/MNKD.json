@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MNKD",
         "name": "MannKind Corporation",
-        "collected_at": "2026-02-01T02:07:00.462Z",
+        "collected_at": "2026-02-02T02:07:22.828Z",
         "data_start_date": "2016-02-01",
         "price": 5.78000020980835,
         "change": 0,
-        "volume": 4162433,
+        "volume": 4275162,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

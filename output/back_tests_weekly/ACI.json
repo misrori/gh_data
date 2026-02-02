@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACI",
         "name": "Albertsons Companies, Inc.",
-        "collected_at": "2026-02-01T02:03:30.628Z",
+        "collected_at": "2026-02-02T02:03:41.820Z",
         "data_start_date": "2020-06-22",
         "price": 16.649999618530273,
         "change": 0,
-        "volume": 5542574,
+        "volume": 6097152,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 151,

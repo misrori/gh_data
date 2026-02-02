@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHE",
         "name": "Chemed Corp",
-        "collected_at": "2026-02-01T02:04:11.849Z",
+        "collected_at": "2026-02-02T02:04:24.519Z",
         "data_start_date": "2016-02-01",
         "price": 427.1400146484375,
         "change": 0,
-        "volume": 292587,
+        "volume": 315914,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 207,

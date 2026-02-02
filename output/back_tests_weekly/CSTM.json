@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSTM",
         "name": "Constellium SE",
-        "collected_at": "2026-02-01T02:05:43.681Z",
+        "collected_at": "2026-02-02T02:06:01.618Z",
         "data_start_date": "2016-02-01",
         "price": 22.469999313354492,
         "change": 0,
-        "volume": 1328797,
+        "volume": 1587159,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

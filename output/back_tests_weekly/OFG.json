@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OFG",
         "name": "OFG Bancorp",
-        "collected_at": "2026-02-01T02:07:01.461Z",
+        "collected_at": "2026-02-02T02:07:23.715Z",
         "data_start_date": "2016-02-01",
         "price": 40.29999923706055,
         "change": 0,
-        "volume": 385255,
+        "volume": 524473,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

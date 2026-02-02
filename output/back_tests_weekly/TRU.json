@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRU",
         "name": "TransUnion",
-        "collected_at": "2026-02-01T02:02:32.487Z",
+        "collected_at": "2026-02-02T02:02:37.662Z",
         "data_start_date": "2016-02-01",
         "price": 79.0199966430664,
         "change": 0,
-        "volume": 2175261,
+        "volume": 2409605,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

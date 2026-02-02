@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DHR",
         "name": "Danaher Corporation",
-        "collected_at": "2026-02-01T02:00:29.291Z",
+        "collected_at": "2026-02-02T02:00:31.601Z",
         "data_start_date": "2016-02-01",
         "price": 218.88999938964844,
         "change": 0,
-        "volume": 5565832,
+        "volume": 5627918,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

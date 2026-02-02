@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OXY",
         "name": "Occidental Petroleum Corporation",
-        "collected_at": "2026-02-01T02:01:19.138Z",
+        "collected_at": "2026-02-02T02:01:21.982Z",
         "data_start_date": "2016-02-01",
         "price": 45.38999938964844,
         "change": 0,
-        "volume": 11370673,
+        "volume": 11482362,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 508,

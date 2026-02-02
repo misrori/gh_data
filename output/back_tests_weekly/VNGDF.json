@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VNGDF",
         "name": "Vanguard Funds PLC",
-        "collected_at": "2026-02-01T02:09:57.627Z",
+        "collected_at": "2026-02-02T02:10:29.708Z",
         "data_start_date": "2016-02-01",
         "price": 131.97720336914062,
         "change": 0.5708378850870884,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 125.84498282740032,
+        "ml_value": 125.84498282740034,
         "ml_last_change_date": "2025-05-12",
         "ml_last_change_price": 112.17890167236328,
         "ml_change_percent_from_last_change": 17.648863914358426

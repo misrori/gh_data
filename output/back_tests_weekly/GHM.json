@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GHM",
         "name": "Graham Corporation",
-        "collected_at": "2026-02-01T02:08:53.397Z",
+        "collected_at": "2026-02-02T02:09:21.153Z",
         "data_start_date": "2016-02-01",
         "price": 69.91999816894531,
         "change": 0,
-        "volume": 71476,
+        "volume": 73644,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1047,

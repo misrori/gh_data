@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VUG",
         "name": "Vanguard Growth ETF",
-        "collected_at": "2026-02-01T02:09:47.393Z",
+        "collected_at": "2026-02-02T02:10:18.337Z",
         "data_start_date": "2016-02-01",
         "price": 481.54998779296875,
         "change": 0,
-        "volume": 1852820,
+        "volume": 1854416,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 942,

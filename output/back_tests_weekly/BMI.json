@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BMI",
         "name": "Badger Meter, Inc.",
-        "collected_at": "2026-02-01T02:05:00.747Z",
+        "collected_at": "2026-02-02T02:05:16.101Z",
         "data_start_date": "2016-02-01",
         "price": 146.5800018310547,
         "change": 0,
-        "volume": 559999,
+        "volume": 603837,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

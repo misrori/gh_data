@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRGY",
         "name": "Crescent Energy Company",
-        "collected_at": "2026-02-01T02:05:39.148Z",
+        "collected_at": "2026-02-02T02:05:56.794Z",
         "data_start_date": "2021-12-06",
         "price": 9.770000457763672,
         "change": 0,
-        "volume": 7780942,
+        "volume": 7888275,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 284,

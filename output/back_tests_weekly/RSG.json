@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RSG",
         "name": "Republic Services, Inc.",
-        "collected_at": "2026-02-01T02:01:00.964Z",
+        "collected_at": "2026-02-02T02:01:03.591Z",
         "data_start_date": "2016-02-01",
         "price": 215.08999633789062,
         "change": 0,
-        "volume": 2208366,
+        "volume": 2213054,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

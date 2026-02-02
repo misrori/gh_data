@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MUX",
         "name": "McEwen Inc.",
-        "collected_at": "2026-02-01T02:07:32.685Z",
+        "collected_at": "2026-02-02T02:07:55.977Z",
         "data_start_date": "2016-02-01",
         "price": 24.149999618530273,
         "change": 0,
-        "volume": 2411763,
+        "volume": 2415556,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

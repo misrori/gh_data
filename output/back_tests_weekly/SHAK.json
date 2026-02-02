@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SHAK",
         "name": "Shake Shack, Inc.",
-        "collected_at": "2026-02-01T02:05:16.111Z",
+        "collected_at": "2026-02-02T02:05:32.714Z",
         "data_start_date": "2016-02-01",
         "price": 88.56999969482422,
         "change": 0,
-        "volume": 1297592,
+        "volume": 1314538,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

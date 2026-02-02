@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KRP",
         "name": "Kimbell Royalty Partners",
-        "collected_at": "2026-02-01T02:07:11.834Z",
+        "collected_at": "2026-02-02T02:07:35.136Z",
         "data_start_date": "2017-01-30",
         "price": 13.430000305175781,
         "change": 0,
-        "volume": 600360,
+        "volume": 616571,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 333,

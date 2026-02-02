@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JOE",
         "name": "St. Joe Company (The)",
-        "collected_at": "2026-02-01T02:05:14.638Z",
+        "collected_at": "2026-02-02T02:05:31.178Z",
         "data_start_date": "2016-02-01",
         "price": 66.19000244140625,
         "change": 0,
-        "volume": 207975,
+        "volume": 220749,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 74,

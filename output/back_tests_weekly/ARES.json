@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARES",
         "name": "Ares Management Corporation",
-        "collected_at": "2026-02-01T02:01:39.282Z",
+        "collected_at": "2026-02-02T02:01:41.865Z",
         "data_start_date": "2016-02-01",
         "price": 149.6699981689453,
         "change": 0,
-        "volume": 2941899,
+        "volume": 2996928,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NUE",
         "name": "Nucor Corporation",
-        "collected_at": "2026-02-01T02:01:23.720Z",
+        "collected_at": "2026-02-02T02:01:26.535Z",
         "data_start_date": "2016-02-01",
         "price": 177.72000122070312,
         "change": 0,
-        "volume": 3049367,
+        "volume": 3064698,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 39,

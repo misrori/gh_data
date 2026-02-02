@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HSY",
         "name": "The Hershey Company",
-        "collected_at": "2026-02-01T02:01:26.899Z",
+        "collected_at": "2026-02-02T02:01:29.610Z",
         "data_start_date": "2016-02-01",
         "price": 194.75,
         "change": 0,
-        "volume": 1377810,
+        "volume": 1401747,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 0,

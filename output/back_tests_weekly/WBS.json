@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WBS",
         "name": "Webster Financial Corporation",
-        "collected_at": "2026-02-01T02:03:07.627Z",
+        "collected_at": "2026-02-02T02:03:15.888Z",
         "data_start_date": "2016-02-01",
         "price": 65.7699966430664,
         "change": 0,
-        "volume": 1364173,
+        "volume": 1491400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 494,

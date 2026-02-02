@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FCX",
         "name": "Freeport-McMoRan, Inc.",
-        "collected_at": "2026-02-01T02:00:48.238Z",
+        "collected_at": "2026-02-02T02:00:50.150Z",
         "data_start_date": "2016-02-01",
         "price": 60.22999954223633,
         "change": 0,
-        "volume": 40742640,
+        "volume": 40774422,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SD",
         "name": "SandRidge Energy, Inc.",
-        "collected_at": "2026-02-01T02:09:25.924Z",
+        "collected_at": "2026-02-02T02:09:55.337Z",
         "data_start_date": "2016-10-03",
         "price": 15.850000381469727,
         "change": 0,
-        "volume": 317240,
+        "volume": 333003,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

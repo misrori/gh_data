@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MOS",
         "name": "Mosaic Company (The)",
-        "collected_at": "2026-02-01T02:03:29.686Z",
+        "collected_at": "2026-02-02T02:03:40.472Z",
         "data_start_date": "2016-02-01",
         "price": 27.5,
         "change": 0,
-        "volume": 8281887,
+        "volume": 8286016,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

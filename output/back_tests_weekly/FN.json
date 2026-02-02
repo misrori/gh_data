@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FN",
         "name": "Fabrinet",
-        "collected_at": "2026-02-01T02:02:21.681Z",
+        "collected_at": "2026-02-02T02:02:26.187Z",
         "data_start_date": "2016-02-01",
         "price": 489.44000244140625,
         "change": 0,
-        "volume": 763159,
+        "volume": 808267,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 235,

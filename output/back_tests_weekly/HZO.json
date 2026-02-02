@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HZO",
         "name": "MarineMax, Inc. (FL)",
-        "collected_at": "2026-02-01T02:09:23.100Z",
+        "collected_at": "2026-02-02T02:09:52.493Z",
         "data_start_date": "2016-02-01",
         "price": 27.030000686645508,
         "change": 0,
-        "volume": 614582,
+        "volume": 618139,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 410,

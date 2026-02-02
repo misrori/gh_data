@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BLD",
         "name": "TopBuild Corp.",
-        "collected_at": "2026-02-01T02:02:49.328Z",
+        "collected_at": "2026-02-02T02:02:56.937Z",
         "data_start_date": "2016-02-01",
         "price": 468.04998779296875,
         "change": 0,
-        "volume": 260681,
+        "volume": 283306,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

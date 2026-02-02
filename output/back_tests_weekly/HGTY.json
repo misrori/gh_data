@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HGTY",
         "name": "Hagerty, Inc.",
-        "collected_at": "2026-02-01T02:05:00.894Z",
+        "collected_at": "2026-02-02T02:05:16.402Z",
         "data_start_date": "2021-05-31",
         "price": 12.609999656677246,
         "change": 0,
-        "volume": 93332,
+        "volume": 100718,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

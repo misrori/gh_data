@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SR",
         "name": "Spire Inc.",
-        "collected_at": "2026-02-01T02:04:38.279Z",
+        "collected_at": "2026-02-02T02:04:52.176Z",
         "data_start_date": "2016-02-01",
         "price": 84.48999786376953,
         "change": 0,
-        "volume": 683286,
+        "volume": 851040,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 466,

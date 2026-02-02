@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CADE",
         "name": "Cadence Bank",
-        "collected_at": "2026-02-01T02:03:42.251Z",
+        "collected_at": "2026-02-02T02:03:54.303Z",
         "data_start_date": "2016-02-01",
         "price": 42.11000061035156,
         "change": 0,
-        "volume": 55742069,
+        "volume": 80610979,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

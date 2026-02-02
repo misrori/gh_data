@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZYME",
         "name": "Zymeworks Inc.",
-        "collected_at": "2026-02-01T02:07:07.493Z",
+        "collected_at": "2026-02-02T02:07:30.552Z",
         "data_start_date": "2017-04-24",
         "price": 22.530000686645508,
         "change": 0,
-        "volume": 538752,
+        "volume": 560163,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 529,

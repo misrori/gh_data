@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HLIO",
         "name": "Helios Technologies, Inc.",
-        "collected_at": "2026-02-01T02:06:31.670Z",
+        "collected_at": "2026-02-02T02:06:52.101Z",
         "data_start_date": "2016-02-01",
         "price": 64.77999877929688,
         "change": 0,
-        "volume": 299388,
+        "volume": 314647,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

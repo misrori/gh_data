@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SJM",
         "name": "The J.M. Smucker Company",
-        "collected_at": "2026-02-01T02:03:02.088Z",
+        "collected_at": "2026-02-02T02:03:09.935Z",
         "data_start_date": "2016-02-01",
         "price": 104.86000061035156,
         "change": 0,
-        "volume": 1574897,
+        "volume": 2467438,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 837,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALG",
         "name": "Alamo Group, Inc.",
-        "collected_at": "2026-02-01T02:06:20.091Z",
+        "collected_at": "2026-02-02T02:06:39.239Z",
         "data_start_date": "2016-02-01",
         "price": 195.30999755859375,
         "change": 0,
-        "volume": 122464,
+        "volume": 124875,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

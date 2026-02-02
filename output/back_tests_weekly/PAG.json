@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PAG",
         "name": "Penske Automotive Group, Inc.",
-        "collected_at": "2026-02-01T02:03:10.502Z",
+        "collected_at": "2026-02-02T02:03:18.980Z",
         "data_start_date": "2016-02-01",
         "price": 156.7899932861328,
         "change": 0,
-        "volume": 263238,
+        "volume": 280379,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

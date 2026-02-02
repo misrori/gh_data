@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LEN",
         "name": "Lennar Corporation",
-        "collected_at": "2026-02-01T02:01:51.092Z",
+        "collected_at": "2026-02-02T02:01:54.017Z",
         "data_start_date": "2016-02-01",
         "price": 109.3499984741211,
         "change": 0,
-        "volume": 2387388,
+        "volume": 2392401,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

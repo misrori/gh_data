@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KEX",
         "name": "Kirby Corporation",
-        "collected_at": "2026-02-01T02:04:05.179Z",
+        "collected_at": "2026-02-02T02:04:18.497Z",
         "data_start_date": "2016-02-01",
         "price": 117.66000366210938,
         "change": 0,
-        "volume": 1474447,
+        "volume": 1477096,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,

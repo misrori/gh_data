@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "F",
         "name": "Ford Motor Company",
-        "collected_at": "2026-02-01T02:01:08.468Z",
+        "collected_at": "2026-02-02T02:01:11.035Z",
         "data_start_date": "2016-02-01",
         "price": 13.880000114440918,
         "change": 0,
-        "volume": 65993811,
+        "volume": 66996343,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

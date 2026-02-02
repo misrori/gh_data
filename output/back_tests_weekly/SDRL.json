@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SDRL",
         "name": "Seadrill Limited",
-        "collected_at": "2026-02-01T02:06:18.592Z",
+        "collected_at": "2026-02-02T02:06:37.591Z",
         "data_start_date": "2022-10-10",
         "price": 38.47999954223633,
         "change": 0,
-        "volume": 843778,
+        "volume": 869596,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

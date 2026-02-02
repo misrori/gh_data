@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AWI",
         "name": "Armstrong World Industries Inc",
-        "collected_at": "2026-02-01T02:03:37.529Z",
+        "collected_at": "2026-02-02T02:03:48.560Z",
         "data_start_date": "2016-02-01",
         "price": 183.74000549316406,
         "change": 0,
-        "volume": 393643,
+        "volume": 408665,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 767,

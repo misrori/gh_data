@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CMCO",
         "name": "Columbus McKinnon Corporation",
-        "collected_at": "2026-02-01T02:09:21.278Z",
+        "collected_at": "2026-02-02T02:09:50.539Z",
         "data_start_date": "2016-02-01",
         "price": 21.079999923706055,
         "change": 0,
-        "volume": 1474346,
+        "volume": 1556605,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 522,

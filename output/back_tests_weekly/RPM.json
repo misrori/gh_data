@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RPM",
         "name": "RPM International Inc.",
-        "collected_at": "2026-02-01T02:02:45.210Z",
+        "collected_at": "2026-02-02T02:02:52.663Z",
         "data_start_date": "2016-02-01",
         "price": 106.95999908447266,
         "change": 0,
-        "volume": 1037553,
+        "volume": 1294611,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

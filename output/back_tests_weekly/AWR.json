@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AWR",
         "name": "American States Water Company",
-        "collected_at": "2026-02-01T02:05:57.757Z",
+        "collected_at": "2026-02-02T02:06:15.989Z",
         "data_start_date": "2016-02-01",
         "price": 72.95999908447266,
         "change": 0,
-        "volume": 387939,
+        "volume": 388017,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 368,

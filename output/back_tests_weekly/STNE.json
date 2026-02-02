@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STNE",
         "name": "StoneCo Ltd.",
-        "collected_at": "2026-02-01T02:04:57.967Z",
+        "collected_at": "2026-02-02T02:05:13.123Z",
         "data_start_date": "2018-10-22",
         "price": 16.139999389648438,
         "change": 0,
-        "volume": 6123282,
+        "volume": 8764514,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,

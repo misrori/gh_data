@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ON",
         "name": "ON Semiconductor Corporation",
-        "collected_at": "2026-02-01T02:01:59.823Z",
+        "collected_at": "2026-02-02T02:02:03.205Z",
         "data_start_date": "2016-02-01",
         "price": 59.88999938964844,
         "change": 0,
-        "volume": 12180755,
+        "volume": 13349863,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

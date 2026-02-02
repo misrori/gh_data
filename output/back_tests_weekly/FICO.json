@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FICO",
         "name": "Fair Isaac Corporation",
-        "collected_at": "2026-02-01T02:01:34.580Z",
+        "collected_at": "2026-02-02T02:01:37.028Z",
         "data_start_date": "2016-02-01",
         "price": 1463.1700439453125,
         "change": 0,
-        "volume": 282543,
+        "volume": 282628,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 186,

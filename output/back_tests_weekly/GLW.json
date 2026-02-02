@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLW",
         "name": "Corning Incorporated",
-        "collected_at": "2026-02-01T02:00:46.110Z",
+        "collected_at": "2026-02-02T02:00:48.083Z",
         "data_start_date": "2016-02-01",
         "price": 103.25,
         "change": 0,
-        "volume": 13273315,
+        "volume": 13378658,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 599,

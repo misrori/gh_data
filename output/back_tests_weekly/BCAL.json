@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BCAL",
         "name": "California BanCorp",
-        "collected_at": "2026-02-01T02:09:26.290Z",
+        "collected_at": "2026-02-02T02:09:55.690Z",
         "data_start_date": "2016-02-01",
         "price": 17.989999771118164,
         "change": 0,
-        "volume": 273864,
+        "volume": 279292,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

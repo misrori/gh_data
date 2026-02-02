@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STT",
         "name": "State Street Corporation",
-        "collected_at": "2026-02-01T02:01:32.558Z",
+        "collected_at": "2026-02-02T02:01:34.835Z",
         "data_start_date": "2016-02-01",
         "price": 130.86000061035156,
         "change": 0,
-        "volume": 2037008,
+        "volume": 2127602,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 564,

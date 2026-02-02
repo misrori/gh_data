@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GEF",
         "name": "Greif Inc.",
-        "collected_at": "2026-02-01T02:05:23.204Z",
+        "collected_at": "2026-02-02T02:05:40.231Z",
         "data_start_date": "2016-02-01",
         "price": 70.62000274658203,
         "change": 0,
-        "volume": 302324,
+        "volume": 315271,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

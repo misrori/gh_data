@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MAIN",
         "name": "Main Street Capital Corporation",
-        "collected_at": "2026-02-01T02:04:18.283Z",
+        "collected_at": "2026-02-02T02:04:31.526Z",
         "data_start_date": "2016-02-01",
         "price": 63.79999923706055,
         "change": 0,
-        "volume": 371360,
+        "volume": 371613,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 928,

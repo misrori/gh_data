@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STBA",
         "name": "S&T Bancorp, Inc.",
-        "collected_at": "2026-02-01T02:07:12.994Z",
+        "collected_at": "2026-02-02T02:07:36.245Z",
         "data_start_date": "2016-02-01",
         "price": 42.63999938964844,
         "change": 0,
-        "volume": 288652,
+        "volume": 321245,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 74,

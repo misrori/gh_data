@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SSD",
         "name": "Simpson Manufacturing Company, Inc.",
-        "collected_at": "2026-02-01T02:03:48.614Z",
+        "collected_at": "2026-02-02T02:04:01.242Z",
         "data_start_date": "2016-02-01",
         "price": 176.77999877929688,
         "change": 0,
-        "volume": 265892,
+        "volume": 276040,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FUL",
         "name": "H. B. Fuller Company",
-        "collected_at": "2026-02-01T02:05:37.910Z",
+        "collected_at": "2026-02-02T02:05:55.496Z",
         "data_start_date": "2016-02-01",
         "price": 60.099998474121094,
         "change": 0,
-        "volume": 455402,
+        "volume": 499346,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 375,

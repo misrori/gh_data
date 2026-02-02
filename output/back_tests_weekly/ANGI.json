@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ANGI",
         "name": "Angi Inc.",
-        "collected_at": "2026-02-01T02:09:29.957Z",
+        "collected_at": "2026-02-02T02:09:59.360Z",
         "data_start_date": "2016-02-01",
         "price": 12.979999542236328,
         "change": 0,
-        "volume": 851612,
+        "volume": 885577,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 445,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.7478,
         "number_of_employees": 2800,
         "ml_direction": -1,
-        "ml_value": 16.173435117527287,
+        "ml_value": 16.173435117527283,
         "ml_last_change_date": "2024-11-11",
         "ml_last_change_price": 17.799999237060547,
         "ml_change_percent_from_last_change": -27.078651131561415

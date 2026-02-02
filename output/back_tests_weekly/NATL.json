@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NATL",
         "name": "NCR Atleos Corporation",
-        "collected_at": "2026-02-01T02:06:01.801Z",
+        "collected_at": "2026-02-02T02:06:20.174Z",
         "data_start_date": "2023-10-09",
         "price": 37.29999923706055,
         "change": 0,
-        "volume": 335426,
+        "volume": 362573,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 179,

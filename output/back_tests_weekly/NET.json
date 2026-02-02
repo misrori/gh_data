@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NET",
         "name": "Cloudflare, Inc.",
-        "collected_at": "2026-02-01T02:01:03.962Z",
+        "collected_at": "2026-02-02T02:01:06.780Z",
         "data_start_date": "2019-09-09",
         "price": 177.35000610351562,
         "change": 0,
-        "volume": 3354320,
+        "volume": 3497618,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 760,

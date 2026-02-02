@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STC",
         "name": "Stewart Information Services Corporation",
-        "collected_at": "2026-02-01T02:06:40.342Z",
+        "collected_at": "2026-02-02T02:07:01.621Z",
         "data_start_date": "2016-02-01",
         "price": 67.43000030517578,
         "change": 0,
-        "volume": 205364,
+        "volume": 351792,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

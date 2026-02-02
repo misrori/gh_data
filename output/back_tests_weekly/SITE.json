@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SITE",
         "name": "SiteOne Landscape Supply, Inc.",
-        "collected_at": "2026-02-01T02:04:04.630Z",
+        "collected_at": "2026-02-02T02:04:17.830Z",
         "data_start_date": "2016-05-09",
         "price": 143.5399932861328,
         "change": 0,
-        "volume": 578941,
+        "volume": 588029,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

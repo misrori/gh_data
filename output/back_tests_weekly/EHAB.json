@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EHAB",
         "name": "Enhabit, Inc.",
-        "collected_at": "2026-02-01T02:09:36.444Z",
+        "collected_at": "2026-02-02T02:10:05.838Z",
         "data_start_date": "2022-06-20",
         "price": 10.630000114440918,
         "change": 0,
-        "volume": 331439,
+        "volume": 367629,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 4,

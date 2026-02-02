@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OSK",
         "name": "Oshkosh Corporation (Holding Company)",
-        "collected_at": "2026-02-01T02:03:23.573Z",
+        "collected_at": "2026-02-02T02:03:33.155Z",
         "data_start_date": "2016-02-01",
         "price": 143.82000732421875,
         "change": 0,
-        "volume": 898457,
+        "volume": 920456,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

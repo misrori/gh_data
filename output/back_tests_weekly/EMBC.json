@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EMBC",
         "name": "Embecta Corp.",
-        "collected_at": "2026-02-01T02:09:17.431Z",
+        "collected_at": "2026-02-02T02:09:46.756Z",
         "data_start_date": "2022-03-21",
         "price": 10.609999656677246,
         "change": 0,
-        "volume": 754584,
+        "volume": 795125,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 312,

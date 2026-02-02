@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FAF",
         "name": "First American Corporation (New)",
-        "collected_at": "2026-02-01T02:04:03.269Z",
+        "collected_at": "2026-02-02T02:04:16.291Z",
         "data_start_date": "2016-02-01",
         "price": 63.18000030517578,
         "change": 0,
-        "volume": 1330801,
+        "volume": 1799669,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

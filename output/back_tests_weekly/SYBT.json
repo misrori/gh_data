@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYBT",
         "name": "Stock Yards Bancorp, Inc.",
-        "collected_at": "2026-02-01T02:06:42.070Z",
+        "collected_at": "2026-02-02T02:07:03.564Z",
         "data_start_date": "2016-02-01",
         "price": 67.69000244140625,
         "change": 0,
-        "volume": 99183,
+        "volume": 104677,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

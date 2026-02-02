@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CBRE",
         "name": "CBRE Group Inc",
-        "collected_at": "2026-02-01T02:01:13.311Z",
+        "collected_at": "2026-02-02T02:01:15.915Z",
         "data_start_date": "2016-02-01",
         "price": 170.3300018310547,
         "change": 0,
-        "volume": 1297002,
+        "volume": 1423550,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 760,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JLL",
         "name": "Jones Lang LaSalle Incorporated",
-        "collected_at": "2026-02-01T02:02:24.935Z",
+        "collected_at": "2026-02-02T02:02:29.621Z",
         "data_start_date": "2016-02-01",
         "price": 357.9100036621094,
         "change": 0,
-        "volume": 311905,
+        "volume": 382221,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 690,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EFV",
         "name": "iShares MSCI EAFE Value ETF",
-        "collected_at": "2026-02-01T02:10:08.571Z",
+        "collected_at": "2026-02-02T02:10:41.212Z",
         "data_start_date": "2016-02-01",
         "price": 75.33999633789062,
         "change": 0,
-        "volume": 3291110,
+        "volume": 3441153,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1012,

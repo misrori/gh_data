@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WAT",
         "name": "Waters Corporation",
-        "collected_at": "2026-02-01T02:02:07.276Z",
+        "collected_at": "2026-02-02T02:02:10.376Z",
         "data_start_date": "2016-02-01",
         "price": 370.7200012207031,
         "change": 0,
-        "volume": 848192,
+        "volume": 865220,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 67,

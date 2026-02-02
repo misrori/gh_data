@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AGX",
         "name": "Argan, Inc.",
-        "collected_at": "2026-02-01T02:04:43.830Z",
+        "collected_at": "2026-02-02T02:04:57.735Z",
         "data_start_date": "2016-02-01",
         "price": 347.1099853515625,
         "change": 0,
-        "volume": 528667,
+        "volume": 528709,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 949,

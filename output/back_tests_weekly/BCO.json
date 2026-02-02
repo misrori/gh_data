@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BCO",
         "name": "Brinks Company (The)",
-        "collected_at": "2026-02-01T02:04:29.675Z",
+        "collected_at": "2026-02-02T02:04:43.131Z",
         "data_start_date": "2016-02-01",
         "price": 127.04000091552734,
         "change": 0,
-        "volume": 221038,
+        "volume": 238970,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

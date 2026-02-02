@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RXO",
         "name": "RXO, Inc.",
-        "collected_at": "2026-02-01T02:06:18.426Z",
+        "collected_at": "2026-02-02T02:06:37.442Z",
         "data_start_date": "2022-10-24",
         "price": 14.579999923706055,
         "change": 0,
-        "volume": 1259831,
+        "volume": 1306499,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

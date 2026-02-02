@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DLTR",
         "name": "Dollar Tree, Inc.",
-        "collected_at": "2026-02-01T02:02:02.272Z",
+        "collected_at": "2026-02-02T02:02:05.270Z",
         "data_start_date": "2016-02-01",
         "price": 117.58999633789062,
         "change": 0,
-        "volume": 3244880,
+        "volume": 3275428,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

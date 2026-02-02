@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HEI",
         "name": "Heico Corporation",
-        "collected_at": "2026-02-01T02:01:25.958Z",
+        "collected_at": "2026-02-02T02:01:28.803Z",
         "data_start_date": "2016-02-01",
         "price": 330.9100036621094,
         "change": 0,
-        "volume": 246359,
+        "volume": 271153,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1908,

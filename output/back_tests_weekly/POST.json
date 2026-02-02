@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "POST",
         "name": "Post Holdings, Inc.",
-        "collected_at": "2026-02-01T02:04:29.402Z",
+        "collected_at": "2026-02-02T02:04:42.810Z",
         "data_start_date": "2016-02-01",
         "price": 102.30999755859375,
         "change": 0,
-        "volume": 877569,
+        "volume": 902608,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ET",
         "name": "Energy Transfer LP",
-        "collected_at": "2026-02-01T02:01:03.786Z",
+        "collected_at": "2026-02-02T02:01:06.609Z",
         "data_start_date": "2016-02-01",
         "price": 18.450000762939453,
         "change": 0,
-        "volume": 13532716,
+        "volume": 13628117,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 116,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MZTI",
         "name": "The Marzetti Company",
-        "collected_at": "2026-02-01T02:04:47.816Z",
+        "collected_at": "2026-02-02T02:05:01.869Z",
         "data_start_date": "2016-02-01",
         "price": 171.57000732421875,
         "change": 0,
-        "volume": 181838,
+        "volume": 245492,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 389,

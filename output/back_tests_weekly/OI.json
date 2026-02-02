@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OI",
         "name": "O-I Glass, Inc.",
-        "collected_at": "2026-02-01T02:06:20.622Z",
+        "collected_at": "2026-02-02T02:06:39.822Z",
         "data_start_date": "2016-02-01",
         "price": 15.279999732971191,
         "change": 0,
-        "volume": 1163623,
+        "volume": 1241751,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XIFR",
         "name": "XPLR Infrastructure, LP",
-        "collected_at": "2026-02-01T02:06:52.053Z",
+        "collected_at": "2026-02-02T02:07:14.083Z",
         "data_start_date": "2016-02-01",
         "price": 9.739999771118164,
         "change": 0,
-        "volume": 1131994,
+        "volume": 1145522,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1068,

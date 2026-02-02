@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OTIS",
         "name": "Otis Worldwide Corporation",
-        "collected_at": "2026-02-01T02:01:37.335Z",
+        "collected_at": "2026-02-02T02:01:40.022Z",
         "data_start_date": "2020-03-16",
         "price": 85.41999816894531,
         "change": 0,
-        "volume": 5816170,
+        "volume": 5825385,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 144,

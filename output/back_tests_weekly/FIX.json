@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIX",
         "name": "Comfort Systems USA, Inc.",
-        "collected_at": "2026-02-01T02:01:24.321Z",
+        "collected_at": "2026-02-02T02:01:27.101Z",
         "data_start_date": "2016-02-01",
         "price": 1142.0999755859375,
         "change": 0,
-        "volume": 298929,
+        "volume": 312126,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1950,

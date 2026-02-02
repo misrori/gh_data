@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNA",
         "name": "CNA Financial Corporation",
-        "collected_at": "2026-02-01T02:02:50.876Z",
+        "collected_at": "2026-02-02T02:02:58.417Z",
         "data_start_date": "2016-02-01",
         "price": 47.86000061035156,
         "change": 0,
-        "volume": 282297,
+        "volume": 305093,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 214,

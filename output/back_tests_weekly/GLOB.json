@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLOB",
         "name": "Globant S.A.",
-        "collected_at": "2026-02-01T02:05:50.982Z",
+        "collected_at": "2026-02-02T02:06:09.310Z",
         "data_start_date": "2016-02-01",
         "price": 66.87999725341797,
         "change": 0,
-        "volume": 1664972,
+        "volume": 2036857,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 326,

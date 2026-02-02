@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCHB",
         "name": "Schwab U.S. Broad Market ETF",
-        "collected_at": "2026-02-01T02:10:02.794Z",
+        "collected_at": "2026-02-02T02:10:35.376Z",
         "data_start_date": "2016-02-01",
         "price": 26.649999618530273,
         "change": 0,
-        "volume": 9092921,
+        "volume": 9122610,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 949,

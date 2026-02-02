@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "EIX",
         "name": "Edison International",
-        "collected_at": "2026-02-01T02:02:00.863Z",
-        "data_start_date": "2016-02-04",
+        "collected_at": "2026-02-02T02:02:04.331Z",
+        "data_start_date": "2016-02-05",
         "price": 62.279998779296875,
         "change": 0.17693519960003662,
         "volume": 4506400,

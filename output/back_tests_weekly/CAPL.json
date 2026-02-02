@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CAPL",
         "name": "CrossAmerica Partners LP",
-        "collected_at": "2026-02-01T02:08:37.792Z",
+        "collected_at": "2026-02-02T02:09:04.105Z",
         "data_start_date": "2016-02-01",
         "price": 22.549999237060547,
         "change": 0,
-        "volume": 53615,
+        "volume": 53959,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 123,

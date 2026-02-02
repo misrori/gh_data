@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYY",
         "name": "Sysco Corporation",
-        "collected_at": "2026-02-01T02:01:24.700Z",
+        "collected_at": "2026-02-02T02:01:27.411Z",
         "data_start_date": "2016-02-01",
         "price": 83.8499984741211,
         "change": 0,
-        "volume": 5243004,
+        "volume": 5243189,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

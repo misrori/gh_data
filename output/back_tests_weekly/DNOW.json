@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DNOW",
         "name": "DNOW Inc.",
-        "collected_at": "2026-02-01T02:05:58.291Z",
+        "collected_at": "2026-02-02T02:06:16.534Z",
         "data_start_date": "2016-02-01",
         "price": 15.1899995803833,
         "change": 0,
-        "volume": 4767967,
+        "volume": 5196598,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

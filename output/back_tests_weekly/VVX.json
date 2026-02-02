@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VVX",
         "name": "V2X, Inc.",
-        "collected_at": "2026-02-01T02:06:30.707Z",
+        "collected_at": "2026-02-02T02:06:51.123Z",
         "data_start_date": "2016-02-01",
         "price": 68.83000183105469,
         "change": 0,
-        "volume": 558484,
+        "volume": 569251,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

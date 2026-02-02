@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BANR",
         "name": "Banner Corporation",
-        "collected_at": "2026-02-01T02:06:33.828Z",
+        "collected_at": "2026-02-02T02:06:54.516Z",
         "data_start_date": "2016-02-01",
         "price": 61.84000015258789,
         "change": 0,
-        "volume": 311962,
+        "volume": 332863,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 515,

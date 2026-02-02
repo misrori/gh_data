@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNC",
         "name": "Centene Corporation",
-        "collected_at": "2026-02-01T02:02:10.440Z",
+        "collected_at": "2026-02-02T02:02:14.237Z",
         "data_start_date": "2016-02-01",
         "price": 43.31999969482422,
         "change": 0,
-        "volume": 4862755,
+        "volume": 5136526,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 466,

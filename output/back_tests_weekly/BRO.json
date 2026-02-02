@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BRO",
         "name": "Brown & Brown, Inc.",
-        "collected_at": "2026-02-01T02:01:57.489Z",
+        "collected_at": "2026-02-02T02:02:00.718Z",
         "data_start_date": "2016-02-01",
         "price": 72.0999984741211,
         "change": 0,
-        "volume": 4472184,
+        "volume": 4472255,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

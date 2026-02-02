@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XYZ",
         "name": "Block, Inc.",
-        "collected_at": "2026-02-01T02:01:32.246Z",
+        "collected_at": "2026-02-02T02:01:34.428Z",
         "data_start_date": "2016-02-01",
         "price": 60.43000030517578,
         "change": 0,
-        "volume": 7228614,
+        "volume": 7234170,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

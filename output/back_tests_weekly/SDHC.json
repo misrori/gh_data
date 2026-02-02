@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SDHC",
         "name": "Smith Douglas Homes Corp.",
-        "collected_at": "2026-02-01T02:08:25.004Z",
+        "collected_at": "2026-02-02T02:08:51.375Z",
         "data_start_date": "2024-01-08",
         "price": 18.040000915527344,
         "change": 0,
-        "volume": 33361,
+        "volume": 33470,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 340,

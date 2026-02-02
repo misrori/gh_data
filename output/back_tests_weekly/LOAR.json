@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LOAR",
         "name": "Loar Holdings Inc.",
-        "collected_at": "2026-02-01T02:04:03.626Z",
+        "collected_at": "2026-02-02T02:04:16.574Z",
         "data_start_date": "2024-04-22",
         "price": 68.58000183105469,
         "change": 0,
-        "volume": 623374,
+        "volume": 633047,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

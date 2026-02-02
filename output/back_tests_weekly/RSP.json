@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RSP",
         "name": "Invesco S&P 500 Equal Weight ETF",
-        "collected_at": "2026-02-01T02:09:52.426Z",
+        "collected_at": "2026-02-02T02:10:24.036Z",
         "data_start_date": "2016-02-01",
         "price": 198.0800018310547,
         "change": 0,
-        "volume": 24743883,
+        "volume": 25403203,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 781,

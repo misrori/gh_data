@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PFGC",
         "name": "Performance Food Group Company",
-        "collected_at": "2026-02-01T02:02:35.541Z",
+        "collected_at": "2026-02-02T02:02:40.811Z",
         "data_start_date": "2016-02-01",
         "price": 95.44999694824219,
         "change": 0,
-        "volume": 2623646,
+        "volume": 2706688,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1278,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BDX",
         "name": "Becton, Dickinson and Company",
-        "collected_at": "2026-02-01T02:01:06.505Z",
+        "collected_at": "2026-02-02T02:01:08.991Z",
         "data_start_date": "2016-02-01",
         "price": 203.47999572753906,
         "change": 0,
-        "volume": 2616028,
+        "volume": 2767387,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 746,

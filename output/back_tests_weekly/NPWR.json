@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NPWR",
         "name": "NET Power Inc.",
-        "collected_at": "2026-02-01T02:09:38.726Z",
+        "collected_at": "2026-02-02T02:10:08.417Z",
         "data_start_date": "2021-08-02",
         "price": 2.369999885559082,
         "change": 0,
-        "volume": 1386161,
+        "volume": 1401212,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 382,

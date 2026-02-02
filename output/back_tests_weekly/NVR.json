@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVR",
         "name": "NVR, Inc.",
-        "collected_at": "2026-02-01T02:02:09.068Z",
+        "collected_at": "2026-02-02T02:02:12.842Z",
         "data_start_date": "2016-02-01",
         "price": 7635.72998046875,
         "change": 0,
-        "volume": 29105,
+        "volume": 34065,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

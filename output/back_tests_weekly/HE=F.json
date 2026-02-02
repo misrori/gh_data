@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HE=F",
         "name": "Lean Hogs",
-        "collected_at": "2026-02-01T02:09:44.319Z",
+        "collected_at": "2026-02-02T02:10:14.544Z",
         "data_start_date": "2016-02-01",
         "price": 95.1500015258789,
         "change": 9.054443009603332,
-        "volume": 5662,
+        "volume": 18552,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 85.63401526210069,
+        "ml_value": 83.96258603672402,
         "ml_last_change_date": "2026-01-30",
         "ml_last_change_price": 95.1500015258789,
         "ml_change_percent_from_last_change": 0

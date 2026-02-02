@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AEE",
         "name": "Ameren Corporation",
-        "collected_at": "2026-02-01T02:01:46.719Z",
+        "collected_at": "2026-02-02T02:01:49.693Z",
         "data_start_date": "2016-02-01",
         "price": 103.27999877929688,
         "change": 0,
-        "volume": 1865585,
+        "volume": 1865707,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 473,

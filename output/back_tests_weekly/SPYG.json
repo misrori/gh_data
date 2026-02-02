@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPYG",
         "name": "State Street SPDR Portfolio S&P 500 Growth ETF",
-        "collected_at": "2026-02-01T02:09:59.302Z",
+        "collected_at": "2026-02-02T02:10:31.396Z",
         "data_start_date": "2016-02-01",
         "price": 107.25,
         "change": 0,
-        "volume": 5511873,
+        "volume": 5512633,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 921,

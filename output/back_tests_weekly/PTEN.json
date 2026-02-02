@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PTEN",
         "name": "Patterson-UTI Energy, Inc.",
-        "collected_at": "2026-02-01T02:05:56.933Z",
+        "collected_at": "2026-02-02T02:06:15.237Z",
         "data_start_date": "2016-02-01",
         "price": 7.53000020980835,
         "change": 0,
-        "volume": 8847465,
+        "volume": 9039265,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 788,

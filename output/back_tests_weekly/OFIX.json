@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OFIX",
         "name": "Orthofix Medical Inc.",
-        "collected_at": "2026-02-01T02:09:39.644Z",
+        "collected_at": "2026-02-02T02:10:09.403Z",
         "data_start_date": "2016-02-01",
         "price": 13.229999542236328,
         "change": 0,
-        "volume": 182772,
+        "volume": 245553,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

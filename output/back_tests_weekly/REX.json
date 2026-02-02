@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "REX",
         "name": "REX American Resources Corporation",
-        "collected_at": "2026-02-01T02:08:03.300Z",
+        "collected_at": "2026-02-02T02:08:28.064Z",
         "data_start_date": "2016-02-01",
         "price": 33.810001373291016,
         "change": 0,
-        "volume": 270361,
+        "volume": 279577,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

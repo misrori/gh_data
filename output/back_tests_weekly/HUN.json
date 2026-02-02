@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HUN",
         "name": "Huntsman Corporation",
-        "collected_at": "2026-02-01T02:06:51.368Z",
+        "collected_at": "2026-02-02T02:07:13.329Z",
         "data_start_date": "2016-02-01",
         "price": 10.819999694824219,
         "change": 0,
-        "volume": 6087020,
+        "volume": 6217934,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1201,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIVN",
         "name": "Five9, Inc.",
-        "collected_at": "2026-02-01T02:07:37.581Z",
+        "collected_at": "2026-02-02T02:08:01.070Z",
         "data_start_date": "2016-02-01",
         "price": 17.65999984741211,
         "change": 0,
-        "volume": 1708525,
+        "volume": 1781336,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 711,

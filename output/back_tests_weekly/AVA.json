@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVA",
         "name": "Avista Corporation",
-        "collected_at": "2026-02-01T02:05:33.369Z",
+        "collected_at": "2026-02-02T02:05:51.124Z",
         "data_start_date": "2016-02-01",
         "price": 41.290000915527344,
         "change": 0,
-        "volume": 992964,
+        "volume": 1153727,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 81,

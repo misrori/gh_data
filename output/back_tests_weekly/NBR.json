@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NBR",
         "name": "Nabors Industries Ltd.",
-        "collected_at": "2026-02-01T02:08:17.259Z",
+        "collected_at": "2026-02-02T02:08:43.022Z",
         "data_start_date": "2016-02-01",
         "price": 66.83999633789062,
         "change": 0,
-        "volume": 263434,
+        "volume": 277198,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

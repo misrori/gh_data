@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WD",
         "name": "Walker & Dunlop, Inc",
-        "collected_at": "2026-02-01T02:06:31.909Z",
+        "collected_at": "2026-02-02T02:06:52.411Z",
         "data_start_date": "2016-02-01",
         "price": 62.88999938964844,
         "change": 0,
-        "volume": 320213,
+        "volume": 330126,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

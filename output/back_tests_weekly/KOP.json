@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KOP",
         "name": "Koppers Holdings Inc.",
-        "collected_at": "2026-02-01T02:09:26.974Z",
+        "collected_at": "2026-02-02T02:09:56.473Z",
         "data_start_date": "2016-02-01",
         "price": 29.459999084472656,
         "change": 0,
-        "volume": 149813,
+        "volume": 155989,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 445,

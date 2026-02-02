@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WSO",
         "name": "Watsco, Inc.",
-        "collected_at": "2026-02-01T02:02:31.372Z",
+        "collected_at": "2026-02-02T02:02:36.432Z",
         "data_start_date": "2016-02-01",
         "price": 386.45001220703125,
         "change": 0,
-        "volume": 451931,
+        "volume": 466107,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,

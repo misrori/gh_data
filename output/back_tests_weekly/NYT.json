@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NYT",
         "name": "New York Times Company (The)",
-        "collected_at": "2026-02-01T02:02:57.989Z",
+        "collected_at": "2026-02-02T02:03:05.698Z",
         "data_start_date": "2016-02-01",
         "price": 73.30999755859375,
         "change": 0,
-        "volume": 1602696,
+        "volume": 1915214,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 270,

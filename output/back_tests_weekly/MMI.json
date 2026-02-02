@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MMI",
         "name": "Marcus & Millichap, Inc.",
-        "collected_at": "2026-02-01T02:08:08.342Z",
+        "collected_at": "2026-02-02T02:08:33.669Z",
         "data_start_date": "2016-02-01",
         "price": 27.200000762939453,
         "change": 0,
-        "volume": 229265,
+        "volume": 242902,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 277,

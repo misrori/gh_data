@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CW",
         "name": "Curtiss-Wright Corporation",
-        "collected_at": "2026-02-01T02:01:59.372Z",
+        "collected_at": "2026-02-02T02:02:02.778Z",
         "data_start_date": "2016-02-01",
         "price": 656.6900024414062,
         "change": 0,
-        "volume": 203736,
+        "volume": 216133,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1754,

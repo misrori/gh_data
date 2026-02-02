@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IBTA",
         "name": "Ibotta, Inc.",
-        "collected_at": "2026-02-01T02:09:32.102Z",
+        "collected_at": "2026-02-02T02:10:01.547Z",
         "data_start_date": "2024-04-15",
         "price": 20.65999984741211,
         "change": 0,
-        "volume": 371185,
+        "volume": 378091,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 459,

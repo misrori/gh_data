@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IMAX",
         "name": "Imax Corporation",
-        "collected_at": "2026-02-01T02:06:51.837Z",
+        "collected_at": "2026-02-02T02:07:13.842Z",
         "data_start_date": "2016-02-01",
         "price": 34.90999984741211,
         "change": 0,
-        "volume": 1014231,
+        "volume": 1050885,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 543,

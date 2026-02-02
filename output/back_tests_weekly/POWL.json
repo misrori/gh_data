@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "POWL",
         "name": "Powell Industries, Inc.",
-        "collected_at": "2026-02-01T02:04:27.109Z",
+        "collected_at": "2026-02-02T02:04:40.471Z",
         "data_start_date": "2016-02-01",
         "price": 443.5899963378906,
         "change": 0,
-        "volume": 285689,
+        "volume": 285784,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

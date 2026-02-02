@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STGW",
         "name": "Stagwell Inc.",
-        "collected_at": "2026-02-01T02:07:24.627Z",
+        "collected_at": "2026-02-02T02:07:48.299Z",
         "data_start_date": "2016-02-01",
         "price": 6.010000228881836,
         "change": 0,
-        "volume": 2111505,
+        "volume": 2111542,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

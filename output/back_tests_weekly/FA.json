@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FA",
         "name": "First Advantage Corporation",
-        "collected_at": "2026-02-01T02:06:20.435Z",
+        "collected_at": "2026-02-02T02:06:39.623Z",
         "data_start_date": "2021-06-21",
         "price": 13.5,
         "change": 0,
-        "volume": 1048271,
+        "volume": 1066931,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,

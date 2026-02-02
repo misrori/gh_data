@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WLKP",
         "name": "Westlake Chemical Partners LP",
-        "collected_at": "2026-02-01T02:08:54.915Z",
+        "collected_at": "2026-02-02T02:09:22.728Z",
         "data_start_date": "2016-02-01",
         "price": 21.459999084472656,
         "change": 0,
-        "volume": 48298,
+        "volume": 48313,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 200,

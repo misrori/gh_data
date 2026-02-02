@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KFRC",
         "name": "Kforce, Inc.",
-        "collected_at": "2026-02-01T02:09:15.217Z",
+        "collected_at": "2026-02-02T02:09:44.424Z",
         "data_start_date": "2016-02-01",
         "price": 35.33000183105469,
         "change": 0,
-        "volume": 306148,
+        "volume": 311313,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 473,

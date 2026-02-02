@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WHD",
         "name": "Cactus, Inc. Class A Common Stock",
-        "collected_at": "2026-02-01T02:04:54.107Z",
+        "collected_at": "2026-02-02T02:05:08.544Z",
         "data_start_date": "2018-02-05",
         "price": 56.22999954223633,
         "change": 0,
-        "volume": 697869,
+        "volume": 728423,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

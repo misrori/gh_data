@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EFSC",
         "name": "Enterprise Financial Services Corporation",
-        "collected_at": "2026-02-01T02:06:33.345Z",
+        "collected_at": "2026-02-02T02:06:53.912Z",
         "data_start_date": "2016-02-01",
         "price": 57.349998474121094,
         "change": 0,
-        "volume": 156135,
+        "volume": 164617,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 529,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CINT",
         "name": "CI&T Inc",
-        "collected_at": "2026-02-01T02:09:17.014Z",
+        "collected_at": "2026-02-02T02:09:46.340Z",
         "data_start_date": "2021-11-08",
         "price": 4.869999885559082,
         "change": 0,
-        "volume": 349148,
+        "volume": 350118,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 193,

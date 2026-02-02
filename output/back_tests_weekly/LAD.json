@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LAD",
         "name": "Lithia Motors, Inc.",
-        "collected_at": "2026-02-01T02:03:39.225Z",
+        "collected_at": "2026-02-02T02:03:50.513Z",
         "data_start_date": "2016-02-01",
         "price": 323.44000244140625,
         "change": 0,
-        "volume": 326904,
+        "volume": 415531,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

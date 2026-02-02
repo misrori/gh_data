@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FTI",
         "name": "TechnipFMC plc",
-        "collected_at": "2026-02-01T02:02:05.703Z",
+        "collected_at": "2026-02-02T02:02:08.883Z",
         "data_start_date": "2016-02-01",
         "price": 55.720001220703125,
         "change": 0,
-        "volume": 2632866,
+        "volume": 2633382,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1222,

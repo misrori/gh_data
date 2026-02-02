@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OC",
         "name": "Owens Corning Inc",
-        "collected_at": "2026-02-01T02:03:16.147Z",
+        "collected_at": "2026-02-02T02:03:25.296Z",
         "data_start_date": "2016-02-01",
         "price": 119.83999633789062,
         "change": 0,
-        "volume": 1448127,
+        "volume": 1793884,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 235,

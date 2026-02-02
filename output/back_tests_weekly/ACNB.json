@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACNB",
         "name": "ACNB Corporation",
-        "collected_at": "2026-02-01T02:09:39.468Z",
+        "collected_at": "2026-02-02T02:10:09.201Z",
         "data_start_date": "2016-02-01",
         "price": 50.52000045776367,
         "change": 0,
-        "volume": 30554,
+        "volume": 31673,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 550,

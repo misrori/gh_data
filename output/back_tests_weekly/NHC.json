@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NHC",
         "name": "National HealthCare Corporation",
-        "collected_at": "2026-02-01T02:06:28.675Z",
+        "collected_at": "2026-02-02T02:06:49.043Z",
         "data_start_date": "2016-02-01",
         "price": 143.11000061035156,
         "change": 0,
-        "volume": 110248,
+        "volume": 115198,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 144,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CMC",
         "name": "Commercial Metals Company",
-        "collected_at": "2026-02-01T02:03:30.970Z",
+        "collected_at": "2026-02-02T02:03:42.120Z",
         "data_start_date": "2016-02-01",
         "price": 76.87000274658203,
         "change": 0,
-        "volume": 1390515,
+        "volume": 1528331,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 151,

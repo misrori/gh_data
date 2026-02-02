@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATO",
         "name": "Atmos Energy Corporation",
-        "collected_at": "2026-02-01T02:01:50.033Z",
+        "collected_at": "2026-02-02T02:01:52.912Z",
         "data_start_date": "2016-02-01",
         "price": 166.33999633789062,
         "change": 0,
-        "volume": 2977682,
+        "volume": 3291716,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 683,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARHS",
         "name": "Arhaus, Inc.",
-        "collected_at": "2026-02-01T02:07:32.276Z",
+        "collected_at": "2026-02-02T02:07:55.616Z",
         "data_start_date": "2021-11-01",
         "price": 10.180000305175781,
         "change": 0,
-        "volume": 788008,
+        "volume": 824274,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

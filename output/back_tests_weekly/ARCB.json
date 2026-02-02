@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARCB",
         "name": "ArcBest Corporation",
-        "collected_at": "2026-02-01T02:06:39.214Z",
+        "collected_at": "2026-02-02T02:07:00.063Z",
         "data_start_date": "2016-02-01",
         "price": 90.22000122070312,
         "change": 0,
-        "volume": 884139,
+        "volume": 901388,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 389,

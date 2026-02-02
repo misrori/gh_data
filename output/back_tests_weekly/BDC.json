@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BDC",
         "name": "Belden Inc",
-        "collected_at": "2026-02-01T02:04:50.284Z",
+        "collected_at": "2026-02-02T02:05:04.143Z",
         "data_start_date": "2016-02-01",
         "price": 117.51000213623047,
         "change": 0,
-        "volume": 231625,
+        "volume": 244604,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 683,

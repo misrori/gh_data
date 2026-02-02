@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DAY",
         "name": "Dayforce, Inc.",
-        "collected_at": "2026-02-01T02:03:03.302Z",
+        "collected_at": "2026-02-02T02:03:11.105Z",
         "data_start_date": "2018-04-23",
         "price": 69.2699966430664,
         "change": 0,
-        "volume": 7047142,
+        "volume": 7249265,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

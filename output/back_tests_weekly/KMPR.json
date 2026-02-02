@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KMPR",
         "name": "Kemper Corporation",
-        "collected_at": "2026-02-01T02:06:23.152Z",
+        "collected_at": "2026-02-02T02:06:43.144Z",
         "data_start_date": "2016-02-01",
         "price": 39.40999984741211,
         "change": 0,
-        "volume": 777578,
+        "volume": 805512,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

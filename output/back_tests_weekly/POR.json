@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "POR",
         "name": "Portland General Electric Co",
-        "collected_at": "2026-02-01T02:04:20.225Z",
+        "collected_at": "2026-02-02T02:04:33.526Z",
         "data_start_date": "2016-02-01",
         "price": 50.25,
         "change": 0,
-        "volume": 1405777,
+        "volume": 1725094,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 67,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CGON",
         "name": "CG Oncology, Inc.",
-        "collected_at": "2026-02-01T02:05:03.722Z",
+        "collected_at": "2026-02-02T02:05:19.533Z",
         "data_start_date": "2024-01-22",
         "price": 52.04999923706055,
         "change": 0,
-        "volume": 778002,
+        "volume": 778007,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 88,

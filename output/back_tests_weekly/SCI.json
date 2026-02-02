@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCI",
         "name": "Service Corporation International",
-        "collected_at": "2026-02-01T02:03:00.923Z",
+        "collected_at": "2026-02-02T02:03:08.776Z",
         "data_start_date": "2016-02-01",
         "price": 80.43000030517578,
         "change": 0,
-        "volume": 1210141,
+        "volume": 1591149,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 718,

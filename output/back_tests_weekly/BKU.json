@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BKU",
         "name": "BankUnited, Inc.",
-        "collected_at": "2026-02-01T02:05:26.099Z",
+        "collected_at": "2026-02-02T02:05:43.185Z",
         "data_start_date": "2016-02-01",
         "price": 47.470001220703125,
         "change": 0,
-        "volume": 811006,
+        "volume": 841039,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 550,

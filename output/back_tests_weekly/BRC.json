@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BRC",
         "name": "Brady Corporation",
-        "collected_at": "2026-02-01T02:05:07.438Z",
+        "collected_at": "2026-02-02T02:05:23.821Z",
         "data_start_date": "2016-02-01",
         "price": 86.47000122070312,
         "change": 0,
-        "volume": 275085,
+        "volume": 288755,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1068,

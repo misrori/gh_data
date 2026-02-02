@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LAR",
         "name": "Lithium Argentina AG",
-        "collected_at": "2026-02-01T02:08:05.106Z",
+        "collected_at": "2026-02-02T02:08:30.142Z",
         "data_start_date": "2016-02-01",
         "price": 6.730000019073486,
         "change": 0,
-        "volume": 2729855,
+        "volume": 2752967,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

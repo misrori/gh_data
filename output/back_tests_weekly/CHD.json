@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHD",
         "name": "Church & Dwight Company, Inc.",
-        "collected_at": "2026-02-01T02:02:03.106Z",
+        "collected_at": "2026-02-02T02:02:06.185Z",
         "data_start_date": "2016-02-01",
         "price": 96.25,
         "change": 0,
-        "volume": 4954602,
+        "volume": 4994276,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 193,

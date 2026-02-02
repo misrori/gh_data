@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FROG",
         "name": "JFrog Ltd.",
-        "collected_at": "2026-02-01T02:04:02.468Z",
+        "collected_at": "2026-02-02T02:04:15.502Z",
         "data_start_date": "2020-09-14",
         "price": 54.79999923706055,
         "change": 0,
-        "volume": 1623486,
+        "volume": 1654368,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 354,

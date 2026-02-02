@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CMCL",
         "name": "Caledonia Mining Corporation Plc",
-        "collected_at": "2026-02-01T02:09:38.416Z",
+        "collected_at": "2026-02-02T02:10:08.018Z",
         "data_start_date": "2016-02-01",
         "price": 27.440000534057617,
         "change": 0,
-        "volume": 583744,
+        "volume": 585025,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 270,

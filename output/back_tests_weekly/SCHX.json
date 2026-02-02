@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCHX",
         "name": "Schwab U.S. Large-Cap ETF",
-        "collected_at": "2026-02-01T02:09:55.180Z",
+        "collected_at": "2026-02-02T02:10:27.167Z",
         "data_start_date": "2016-02-01",
         "price": 27.239999771118164,
         "change": 0,
-        "volume": 31042100,
+        "volume": 31050842,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 956,

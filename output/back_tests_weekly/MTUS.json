@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MTUS",
         "name": "Metallus Inc.",
-        "collected_at": "2026-02-01T02:08:41.166Z",
+        "collected_at": "2026-02-02T02:09:07.681Z",
         "data_start_date": "2016-02-01",
         "price": 19.950000762939453,
         "change": 0,
-        "volume": 751574,
+        "volume": 898948,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 18,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GIC",
         "name": "Global Industrial Company",
-        "collected_at": "2026-02-01T02:07:57.873Z",
+        "collected_at": "2026-02-02T02:08:22.323Z",
         "data_start_date": "2016-02-01",
         "price": 30.559999465942383,
         "change": 0,
-        "volume": 94369,
+        "volume": 121524,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 18,

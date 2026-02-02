@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MET",
         "name": "MetLife, Inc.",
-        "collected_at": "2026-02-01T02:01:11.276Z",
+        "collected_at": "2026-02-02T02:01:13.708Z",
         "data_start_date": "2016-02-01",
         "price": 78.87999725341797,
         "change": 0,
-        "volume": 3969461,
+        "volume": 3979274,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

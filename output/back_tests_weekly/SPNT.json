@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPNT",
         "name": "SiriusPoint Ltd.",
-        "collected_at": "2026-02-01T02:06:18.769Z",
+        "collected_at": "2026-02-02T02:06:37.830Z",
         "data_start_date": "2016-02-01",
         "price": 20.40999984741211,
         "change": 0,
-        "volume": 526654,
+        "volume": 557154,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 998,

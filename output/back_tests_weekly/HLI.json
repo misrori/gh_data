@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HLI",
         "name": "Houlihan Lokey, Inc.",
-        "collected_at": "2026-02-01T02:02:59.208Z",
+        "collected_at": "2026-02-02T02:03:06.753Z",
         "data_start_date": "2016-02-01",
         "price": 168.32000732421875,
         "change": 0,
-        "volume": 621892,
+        "volume": 635090,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1152,

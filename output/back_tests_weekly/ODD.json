@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ODD",
         "name": "ODDITY Tech Ltd.",
-        "collected_at": "2026-02-01T02:06:50.335Z",
+        "collected_at": "2026-02-02T02:07:12.207Z",
         "data_start_date": "2023-07-17",
         "price": 32.84000015258789,
         "change": 0,
-        "volume": 522479,
+        "volume": 540508,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

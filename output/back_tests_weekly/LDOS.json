@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LDOS",
         "name": "Leidos Holdings, Inc.",
-        "collected_at": "2026-02-01T02:02:00.056Z",
+        "collected_at": "2026-02-02T02:02:03.458Z",
         "data_start_date": "2016-02-01",
         "price": 188.27999877929688,
         "change": 0,
-        "volume": 864822,
+        "volume": 946327,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 270,

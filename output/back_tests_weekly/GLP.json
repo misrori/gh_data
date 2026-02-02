@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLP",
         "name": "Global Partners LP",
-        "collected_at": "2026-02-01T02:07:16.027Z",
+        "collected_at": "2026-02-02T02:07:39.335Z",
         "data_start_date": "2016-02-01",
         "price": 47.220001220703125,
         "change": 0,
-        "volume": 32665,
+        "volume": 35354,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

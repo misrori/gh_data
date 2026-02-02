@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TE",
         "name": "T1 Energy Inc.",
-        "collected_at": "2026-02-01T02:06:26.926Z",
+        "collected_at": "2026-02-02T02:06:47.220Z",
         "data_start_date": "2020-01-06",
         "price": 8.329999923706055,
         "change": 0,
-        "volume": 16225803,
+        "volume": 16306666,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 67,

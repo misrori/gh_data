@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PCG",
         "name": "Pacific Gas & Electric Co.",
-        "collected_at": "2026-02-01T02:01:35.743Z",
+        "collected_at": "2026-02-02T02:01:38.318Z",
         "data_start_date": "2016-02-01",
         "price": 15.420000076293945,
         "change": 0,
-        "volume": 26530629,
+        "volume": 26571061,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 242,

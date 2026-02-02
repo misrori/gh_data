@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LEA",
         "name": "Lear Corporation",
-        "collected_at": "2026-02-01T02:04:11.350Z",
+        "collected_at": "2026-02-02T02:04:24.067Z",
         "data_start_date": "2016-02-01",
         "price": 117.08999633789062,
         "change": 0,
-        "volume": 760942,
+        "volume": 797501,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 4,

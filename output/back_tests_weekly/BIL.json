@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIL",
         "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
-        "collected_at": "2026-02-01T02:10:01.551Z",
+        "collected_at": "2026-02-02T02:10:33.914Z",
         "data_start_date": "2016-02-01",
         "price": 91.6500015258789,
         "change": 0,
-        "volume": 14306070,
+        "volume": 14545830,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

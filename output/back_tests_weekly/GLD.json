@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLD",
         "name": "SPDR Gold Shares",
-        "collected_at": "2026-02-01T02:09:47.582Z",
+        "collected_at": "2026-02-02T02:10:18.524Z",
         "data_start_date": "2016-02-01",
         "price": 444.95001220703125,
         "change": 0,
-        "volume": 86321130,
+        "volume": 86593519,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1089,

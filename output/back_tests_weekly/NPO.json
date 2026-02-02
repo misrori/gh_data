@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NPO",
         "name": "Enpro Inc.",
-        "collected_at": "2026-02-01T02:04:37.539Z",
+        "collected_at": "2026-02-02T02:04:51.403Z",
         "data_start_date": "2016-02-01",
         "price": 238.77999877929688,
         "change": 0,
-        "volume": 205226,
+        "volume": 214296,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1187,

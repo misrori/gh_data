@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPYV",
         "name": "State Street SPDR Portfolio S&P 500 Value ETF",
-        "collected_at": "2026-02-01T02:10:07.175Z",
+        "collected_at": "2026-02-02T02:10:39.720Z",
         "data_start_date": "2016-02-01",
         "price": 58.16999816894531,
         "change": 0,
-        "volume": 5095958,
+        "volume": 5096180,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1110,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JCI",
         "name": "Johnson Controls International plc",
-        "collected_at": "2026-02-01T02:00:56.726Z",
+        "collected_at": "2026-02-02T02:00:59.150Z",
         "data_start_date": "2016-02-01",
         "price": 119.26000213623047,
         "change": 0,
-        "volume": 5936203,
+        "volume": 6034411,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 641,

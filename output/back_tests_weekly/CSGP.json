@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSGP",
         "name": "CoStar Group, Inc.",
-        "collected_at": "2026-02-01T02:01:52.165Z",
+        "collected_at": "2026-02-02T02:01:54.878Z",
         "data_start_date": "2016-02-01",
         "price": 61.5,
         "change": 0,
-        "volume": 4662818,
+        "volume": 4662902,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

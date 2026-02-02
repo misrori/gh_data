@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRL",
         "name": "Charles River Laboratories International, Inc.",
-        "collected_at": "2026-02-01T02:03:09.964Z",
+        "collected_at": "2026-02-02T02:03:18.421Z",
         "data_start_date": "2016-02-01",
         "price": 210.47999572753906,
         "change": 0,
-        "volume": 365964,
+        "volume": 384520,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 4,

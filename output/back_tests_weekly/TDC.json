@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TDC",
         "name": "Teradata Corporation",
-        "collected_at": "2026-02-01T02:06:07.792Z",
+        "collected_at": "2026-02-02T02:06:26.381Z",
         "data_start_date": "2016-02-01",
         "price": 28.520000457763672,
         "change": 0,
-        "volume": 1525920,
+        "volume": 1814102,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VO",
         "name": "Vanguard Mid-Cap ETF",
-        "collected_at": "2026-02-01T02:09:51.214Z",
+        "collected_at": "2026-02-02T02:10:22.603Z",
         "data_start_date": "2016-02-01",
         "price": 296.0899963378906,
         "change": 0,
-        "volume": 1080509,
+        "volume": 1080740,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 774,

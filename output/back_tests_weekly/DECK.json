@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DECK",
         "name": "Deckers Outdoor Corporation",
-        "collected_at": "2026-02-01T02:02:22.002Z",
+        "collected_at": "2026-02-02T02:02:26.636Z",
         "data_start_date": "2016-02-01",
         "price": 119.33999633789062,
         "change": 0,
-        "volume": 9749246,
+        "volume": 9768810,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 228,

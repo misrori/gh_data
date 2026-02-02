@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HRL",
         "name": "Hormel Foods Corporation",
-        "collected_at": "2026-02-01T02:02:47.195Z",
+        "collected_at": "2026-02-02T02:02:54.675Z",
         "data_start_date": "2016-02-01",
         "price": 24.610000610351562,
         "change": 0,
-        "volume": 12895791,
+        "volume": 12901560,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1131,

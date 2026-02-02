@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NAMS",
         "name": "NewAmsterdam Pharma Company N.V.",
-        "collected_at": "2026-02-01T02:05:28.034Z",
+        "collected_at": "2026-02-02T02:05:45.098Z",
         "data_start_date": "2021-02-08",
         "price": 31.1200008392334,
         "change": 0,
-        "volume": 358580,
+        "volume": 371140,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

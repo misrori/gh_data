@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "YEXT",
         "name": "Yext, Inc.",
-        "collected_at": "2026-02-01T02:08:33.453Z",
+        "collected_at": "2026-02-02T02:08:59.714Z",
         "data_start_date": "2017-04-10",
         "price": 7.159999847412109,
         "change": 0,
-        "volume": 767211,
+        "volume": 830246,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 242,

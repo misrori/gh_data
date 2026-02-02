@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ES",
         "name": "Eversource Energy (D/B/A)",
-        "collected_at": "2026-02-01T02:01:53.398Z",
+        "collected_at": "2026-02-02T02:01:56.341Z",
         "data_start_date": "2016-02-01",
         "price": 69.12999725341797,
         "change": 0,
-        "volume": 3178652,
+        "volume": 3315617,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 151,

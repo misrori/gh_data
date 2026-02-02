@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ABG",
         "name": "Asbury Automotive Group Inc",
-        "collected_at": "2026-02-01T02:04:51.962Z",
+        "collected_at": "2026-02-02T02:05:06.231Z",
         "data_start_date": "2016-02-01",
         "price": 234.50999450683594,
         "change": 0,
-        "volume": 181769,
+        "volume": 191924,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

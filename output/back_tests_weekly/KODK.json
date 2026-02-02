@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KODK",
         "name": "Eastman Kodak Company",
-        "collected_at": "2026-02-01T02:09:01.737Z",
+        "collected_at": "2026-02-02T02:09:29.863Z",
         "data_start_date": "2016-02-01",
         "price": 7.320000171661377,
         "change": 0,
-        "volume": 529968,
+        "volume": 545433,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 606,

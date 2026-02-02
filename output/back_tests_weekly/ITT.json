@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ITT",
         "name": "ITT Inc.",
-        "collected_at": "2026-02-01T02:02:31.090Z",
+        "collected_at": "2026-02-02T02:02:36.148Z",
         "data_start_date": "2016-02-01",
         "price": 182.3000030517578,
         "change": 0,
-        "volume": 773809,
+        "volume": 810652,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1082,

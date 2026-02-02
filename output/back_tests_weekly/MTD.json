@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MTD",
         "name": "Mettler-Toledo International, Inc.",
-        "collected_at": "2026-02-01T02:01:46.395Z",
+        "collected_at": "2026-02-02T02:01:49.389Z",
         "data_start_date": "2016-02-01",
         "price": 1373.239990234375,
         "change": 0,
-        "volume": 156517,
+        "volume": 156521,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 81,

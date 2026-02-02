@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VB",
         "name": "Vanguard Small-Cap ETF",
-        "collected_at": "2026-02-01T02:09:53.851Z",
+        "collected_at": "2026-02-02T02:10:25.626Z",
         "data_start_date": "2016-02-01",
         "price": 269.8900146484375,
         "change": 0,
-        "volume": 1079654,
+        "volume": 1093484,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

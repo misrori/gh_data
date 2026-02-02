@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ABCB",
         "name": "Ameris Bancorp",
-        "collected_at": "2026-02-01T02:04:23.597Z",
+        "collected_at": "2026-02-02T02:04:36.900Z",
         "data_start_date": "2016-02-01",
         "price": 80.62000274658203,
         "change": 0,
-        "volume": 871687,
+        "volume": 923770,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 753,

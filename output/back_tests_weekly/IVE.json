@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IVE",
         "name": "iShares S&P 500 Value ETF",
-        "collected_at": "2026-02-01T02:09:57.896Z",
+        "collected_at": "2026-02-02T02:10:30.023Z",
         "data_start_date": "2016-02-01",
         "price": 217.24000549316406,
         "change": 0,
-        "volume": 821111,
+        "volume": 821112,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1110,

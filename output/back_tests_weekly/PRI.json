@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRI",
         "name": "Primerica, Inc.",
-        "collected_at": "2026-02-01T02:03:32.783Z",
+        "collected_at": "2026-02-02T02:03:43.978Z",
         "data_start_date": "2016-02-01",
         "price": 263.0400085449219,
         "change": 0,
-        "volume": 323809,
+        "volume": 432634,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

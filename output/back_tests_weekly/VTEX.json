@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VTEX",
         "name": "VTEX",
-        "collected_at": "2026-02-01T02:09:30.108Z",
+        "collected_at": "2026-02-02T02:09:59.510Z",
         "data_start_date": "2021-07-19",
         "price": 3.140000104904175,
         "change": 0,
-        "volume": 1189289,
+        "volume": 1226197,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 382,

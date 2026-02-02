@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WK",
         "name": "Workiva Inc.",
-        "collected_at": "2026-02-01T02:05:00.414Z",
+        "collected_at": "2026-02-02T02:05:15.722Z",
         "data_start_date": "2016-02-01",
         "price": 77.0199966430664,
         "change": 0,
-        "volume": 702329,
+        "volume": 737430,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

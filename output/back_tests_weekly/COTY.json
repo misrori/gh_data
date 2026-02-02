@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COTY",
         "name": "Coty Inc.",
-        "collected_at": "2026-02-01T02:06:00.441Z",
+        "collected_at": "2026-02-02T02:06:18.798Z",
         "data_start_date": "2016-02-01",
         "price": 3.1700000762939453,
         "change": 0,
-        "volume": 6658381,
+        "volume": 6761645,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 529,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLNG",
         "name": "Golar LNG Limited",
-        "collected_at": "2026-02-01T02:05:02.802Z",
+        "collected_at": "2026-02-02T02:05:18.637Z",
         "data_start_date": "2016-02-01",
         "price": 40.59000015258789,
         "change": 0,
-        "volume": 850945,
+        "volume": 874841,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 669,

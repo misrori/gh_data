@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GDOT",
         "name": "Green Dot Corporation",
-        "collected_at": "2026-02-01T02:09:06.706Z",
+        "collected_at": "2026-02-02T02:09:35.169Z",
         "data_start_date": "2016-02-01",
         "price": 12.180000305175781,
         "change": 0,
-        "volume": 835804,
+        "volume": 857368,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 130,

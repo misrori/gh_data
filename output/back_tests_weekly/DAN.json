@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DAN",
         "name": "Dana Incorporated",
-        "collected_at": "2026-02-01T02:05:32.513Z",
+        "collected_at": "2026-02-02T02:05:50.206Z",
         "data_start_date": "2016-02-01",
         "price": 28.899999618530273,
         "change": 0,
-        "volume": 1167434,
+        "volume": 1244586,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

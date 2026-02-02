@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AZZ",
         "name": "AZZ Inc.",
-        "collected_at": "2026-02-01T02:05:20.119Z",
+        "collected_at": "2026-02-02T02:05:37.199Z",
         "data_start_date": "2016-02-01",
         "price": 124.29000091552734,
         "change": 0,
-        "volume": 166143,
+        "volume": 174419,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 844,

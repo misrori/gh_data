@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CARS",
         "name": "Cars.com Inc.",
-        "collected_at": "2026-02-01T02:09:05.989Z",
+        "collected_at": "2026-02-02T02:09:34.374Z",
         "data_start_date": "2017-05-29",
         "price": 11.359999656677246,
         "change": 0,
-        "volume": 633919,
+        "volume": 664014,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 340,

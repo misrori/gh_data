@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AGM",
         "name": "Federal Agricultural Mortgage Corporation",
-        "collected_at": "2026-02-01T02:06:58.058Z",
+        "collected_at": "2026-02-02T02:07:20.547Z",
         "data_start_date": "2016-02-01",
         "price": 169.3000030517578,
         "change": 0,
-        "volume": 181043,
+        "volume": 183038,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

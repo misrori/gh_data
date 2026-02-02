@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NABL",
         "name": "N-able, Inc.",
-        "collected_at": "2026-02-01T02:08:01.840Z",
+        "collected_at": "2026-02-02T02:08:26.471Z",
         "data_start_date": "2021-07-19",
         "price": 6.070000171661377,
         "change": 0,
-        "volume": 1105685,
+        "volume": 1145917,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 438,

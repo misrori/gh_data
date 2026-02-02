@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMG",
         "name": "Scotts Miracle-Gro Company (The)",
-        "collected_at": "2026-02-01T02:05:19.491Z",
+        "collected_at": "2026-02-02T02:05:36.465Z",
         "data_start_date": "2016-02-01",
         "price": 64.22000122070312,
         "change": 0,
-        "volume": 1296799,
+        "volume": 1323709,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 319,

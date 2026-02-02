@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MANU",
         "name": "Manchester",
-        "collected_at": "2026-02-01T02:05:45.270Z",
+        "collected_at": "2026-02-02T02:06:03.531Z",
         "data_start_date": "2016-02-01",
         "price": 17.700000762939453,
         "change": 0,
-        "volume": 349599,
+        "volume": 362564,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

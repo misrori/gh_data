@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WBI",
         "name": "WaterBridge Infrastructure LLC",
-        "collected_at": "2026-02-01T02:08:21.612Z",
+        "collected_at": "2026-02-02T02:08:47.865Z",
         "data_start_date": "2025-09-17",
         "price": 21.940000534057617,
         "change": -2.5322065261148734,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:WBI",
-        "market_capitalization": 949230808.9999999,
+        "market_capitalization": 949230809,
         "commodity_name": null,
         "display_name": "WaterBridge Infrastructure LLC",
         "sma_50": 21.384599838256836,

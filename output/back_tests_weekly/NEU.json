@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NEU",
         "name": "NewMarket Corp",
-        "collected_at": "2026-02-01T02:04:06.838Z",
+        "collected_at": "2026-02-02T02:04:19.983Z",
         "data_start_date": "2016-02-01",
         "price": 670.7899780273438,
         "change": 0,
-        "volume": 172604,
+        "volume": 174651,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 305,

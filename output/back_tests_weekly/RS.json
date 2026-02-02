@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RS",
         "name": "Reliance, Inc.",
-        "collected_at": "2026-02-01T02:02:24.020Z",
+        "collected_at": "2026-02-02T02:02:28.598Z",
         "data_start_date": "2016-02-01",
         "price": 329.5,
         "change": 0,
-        "volume": 511804,
+        "volume": 627325,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

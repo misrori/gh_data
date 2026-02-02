@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DAL",
         "name": "Delta Air Lines, Inc.",
-        "collected_at": "2026-02-01T02:01:20.469Z",
+        "collected_at": "2026-02-02T02:01:23.191Z",
         "data_start_date": "2016-02-01",
         "price": 65.88999938964844,
         "change": 0,
-        "volume": 6663864,
+        "volume": 6680579,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "THC",
         "name": "Tenet Healthcare Corporation",
-        "collected_at": "2026-02-01T02:02:26.155Z",
+        "collected_at": "2026-02-02T02:02:30.808Z",
         "data_start_date": "2016-02-01",
         "price": 189.27999877929688,
         "change": 0,
-        "volume": 591881,
+        "volume": 631405,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 795,

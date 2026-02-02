@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DCO",
         "name": "Ducommun Incorporated",
-        "collected_at": "2026-02-01T02:07:07.939Z",
+        "collected_at": "2026-02-02T02:07:31.026Z",
         "data_start_date": "2016-02-01",
         "price": 113.3499984741211,
         "change": 0,
-        "volume": 146938,
+        "volume": 150720,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 767,

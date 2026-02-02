@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TTC",
         "name": "Toro Company (The)",
-        "collected_at": "2026-02-01T02:03:25.354Z",
+        "collected_at": "2026-02-02T02:03:35.947Z",
         "data_start_date": "2016-02-01",
         "price": 91.5,
         "change": 0,
-        "volume": 1584465,
+        "volume": 1882488,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

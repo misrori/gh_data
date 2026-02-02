@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WEX",
         "name": "WEX Inc.",
-        "collected_at": "2026-02-01T02:04:29.851Z",
+        "collected_at": "2026-02-02T02:04:43.408Z",
         "data_start_date": "2016-02-01",
         "price": 153.89999389648438,
         "change": 0,
-        "volume": 404533,
+        "volume": 421864,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 403,

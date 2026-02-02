@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VGK",
         "name": "Vanguard FTSE Europe ETF",
-        "collected_at": "2026-02-01T02:10:07.924Z",
+        "collected_at": "2026-02-02T02:10:40.557Z",
         "data_start_date": "2016-02-01",
         "price": 87.5,
         "change": 0,
-        "volume": 7643232,
+        "volume": 7946090,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 795,

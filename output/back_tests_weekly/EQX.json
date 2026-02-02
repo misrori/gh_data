@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EQX",
         "name": "Equinox Gold Corp.",
-        "collected_at": "2026-02-01T02:03:01.103Z",
+        "collected_at": "2026-02-02T02:03:08.985Z",
         "data_start_date": "2019-01-01",
         "price": 14.300000190734863,
         "change": 0,
-        "volume": 14315697,
+        "volume": 14416508,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 654,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VYX",
         "name": "NCR Voyix Corporation",
-        "collected_at": "2026-02-01T02:07:38.166Z",
+        "collected_at": "2026-02-02T02:08:01.567Z",
         "data_start_date": "2016-02-01",
         "price": 9.920000076293945,
         "change": 0,
-        "volume": 1401551,
+        "volume": 1439845,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MPC",
         "name": "Marathon Petroleum Corporation",
-        "collected_at": "2026-02-01T02:01:10.475Z",
+        "collected_at": "2026-02-02T02:01:12.950Z",
         "data_start_date": "2016-02-01",
         "price": 176.19000244140625,
         "change": 0,
-        "volume": 2082060,
+        "volume": 2098525,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

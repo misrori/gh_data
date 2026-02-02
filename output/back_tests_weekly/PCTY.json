@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PCTY",
         "name": "Paylocity Holding Corporation",
-        "collected_at": "2026-02-01T02:03:48.134Z",
+        "collected_at": "2026-02-02T02:04:00.823Z",
         "data_start_date": "2016-02-01",
         "price": 134.97999572753906,
         "change": 0,
-        "volume": 576092,
+        "volume": 619492,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 123,

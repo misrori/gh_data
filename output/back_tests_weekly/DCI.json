@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DCI",
         "name": "Donaldson Company, Inc.",
-        "collected_at": "2026-02-01T02:02:59.560Z",
+        "collected_at": "2026-02-02T02:03:07.045Z",
         "data_start_date": "2016-02-01",
         "price": 101.94000244140625,
         "change": 0,
-        "volume": 1631303,
+        "volume": 1751578,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

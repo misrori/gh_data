@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EME",
         "name": "EMCOR Group, Inc.",
-        "collected_at": "2026-02-01T02:01:40.187Z",
+        "collected_at": "2026-02-02T02:01:42.703Z",
         "data_start_date": "2016-02-01",
         "price": 720.72998046875,
         "change": 0,
-        "volume": 269770,
+        "volume": 306742,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1229,

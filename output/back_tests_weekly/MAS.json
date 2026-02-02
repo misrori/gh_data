@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MAS",
         "name": "Masco Corporation",
-        "collected_at": "2026-02-01T02:02:44.699Z",
+        "collected_at": "2026-02-02T02:02:52.045Z",
         "data_start_date": "2016-02-01",
         "price": 66.08999633789062,
         "change": 0,
-        "volume": 1834098,
+        "volume": 1903670,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

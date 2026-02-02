@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PHIN",
         "name": "PHINIA Inc.",
-        "collected_at": "2026-02-01T02:06:03.870Z",
+        "collected_at": "2026-02-02T02:06:22.370Z",
         "data_start_date": "2023-06-26",
         "price": 71.16999816894531,
         "change": 0,
-        "volume": 445529,
+        "volume": 462015,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GRAL",
         "name": "GRAIL, Inc.",
-        "collected_at": "2026-02-01T02:05:14.930Z",
+        "collected_at": "2026-02-02T02:05:31.468Z",
         "data_start_date": "2024-06-10",
         "price": 97.81999969482422,
         "change": 0,
-        "volume": 797535,
+        "volume": 799181,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 403,

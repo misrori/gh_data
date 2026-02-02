@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BOX",
         "name": "Box, Inc.",
-        "collected_at": "2026-02-01T02:05:22.626Z",
+        "collected_at": "2026-02-02T02:05:39.732Z",
         "data_start_date": "2016-02-01",
         "price": 25.350000381469727,
         "change": 0,
-        "volume": 2574375,
+        "volume": 2624828,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

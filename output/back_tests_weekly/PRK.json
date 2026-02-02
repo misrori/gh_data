@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRK",
         "name": "Park National Corporation",
-        "collected_at": "2026-02-01T02:06:09.630Z",
+        "collected_at": "2026-02-02T02:06:28.257Z",
         "data_start_date": "2016-02-01",
         "price": 162.94000244140625,
         "change": 0,
-        "volume": 81334,
+        "volume": 85189,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

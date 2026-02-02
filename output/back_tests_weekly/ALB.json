@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALB",
         "name": "Albemarle Corporation",
-        "collected_at": "2026-02-01T02:02:13.480Z",
+        "collected_at": "2026-02-02T02:02:17.516Z",
         "data_start_date": "2016-02-01",
         "price": 170.6300048828125,
         "change": 0,
-        "volume": 6900211,
+        "volume": 6911300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 32,

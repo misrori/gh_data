@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CBZ",
         "name": "CBIZ, Inc.",
-        "collected_at": "2026-02-01T02:06:32.221Z",
+        "collected_at": "2026-02-02T02:06:52.878Z",
         "data_start_date": "2016-02-01",
         "price": 39.349998474121094,
         "change": 0,
-        "volume": 796303,
+        "volume": 814827,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

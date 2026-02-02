@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GYRE",
         "name": "Gyre Therapeutics, Inc.",
-        "collected_at": "2026-02-01T02:08:57.593Z",
+        "collected_at": "2026-02-02T02:09:25.599Z",
         "data_start_date": "2016-02-01",
         "price": 8.09000015258789,
         "change": 0,
-        "volume": 89556,
+        "volume": 91808,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 417,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.0748,
         "number_of_employees": 5,
         "ml_direction": -1,
-        "ml_value": 10.030766159042082,
+        "ml_value": 10.03076615904208,
         "ml_last_change_date": "2024-01-22",
         "ml_last_change_price": 14.680000305175781,
         "ml_change_percent_from_last_change": -44.8910082805954

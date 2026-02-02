@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNMD",
         "name": "CONMED Corporation",
-        "collected_at": "2026-02-01T02:07:56.472Z",
+        "collected_at": "2026-02-02T02:08:21.020Z",
         "data_start_date": "2016-02-01",
         "price": 38.38999938964844,
         "change": 0,
-        "volume": 844152,
+        "volume": 871175,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 830,

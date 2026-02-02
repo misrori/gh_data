@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GPN",
         "name": "Global Payments Inc.",
-        "collected_at": "2026-02-01T02:02:13.196Z",
+        "collected_at": "2026-02-02T02:02:17.198Z",
         "data_start_date": "2016-02-01",
         "price": 71.73999786376953,
         "change": 0,
-        "volume": 2846150,
+        "volume": 2846502,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 599,

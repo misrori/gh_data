@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FSLY",
         "name": "Fastly, Inc.",
-        "collected_at": "2026-02-01T02:07:37.084Z",
+        "collected_at": "2026-02-02T02:08:00.499Z",
         "data_start_date": "2019-05-13",
         "price": 9.25,
         "change": 0,
-        "volume": 1880516,
+        "volume": 1975081,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

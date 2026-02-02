@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JEPQ",
         "name": "JPMorgan NASDAQ Equity Premium Income ETF",
-        "collected_at": "2026-02-01T02:10:05.677Z",
+        "collected_at": "2026-02-02T02:10:38.233Z",
         "data_start_date": "2022-05-02",
         "price": 59.43000030517578,
         "change": 0,
-        "volume": 8498192,
+        "volume": 8725465,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

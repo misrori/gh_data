@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VRTS",
         "name": "Virtus Investment Partners, Inc.",
-        "collected_at": "2026-02-01T02:08:03.949Z",
+        "collected_at": "2026-02-02T02:08:28.720Z",
         "data_start_date": "2016-02-01",
         "price": 163.25,
         "change": 0,
-        "volume": 282072,
+        "volume": 329065,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 347,

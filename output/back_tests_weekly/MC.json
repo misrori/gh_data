@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MC",
         "name": "Moelis & Company",
-        "collected_at": "2026-02-01T02:04:17.030Z",
+        "collected_at": "2026-02-02T02:04:30.242Z",
         "data_start_date": "2016-02-01",
         "price": 71.66999816894531,
         "change": 0,
-        "volume": 918264,
+        "volume": 981283,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 179,

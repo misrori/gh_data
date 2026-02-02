@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADM",
         "name": "Archer-Daniels-Midland Company",
-        "collected_at": "2026-02-01T02:01:39.961Z",
+        "collected_at": "2026-02-02T02:01:42.439Z",
         "data_start_date": "2016-02-01",
         "price": 67.30999755859375,
         "change": 0,
-        "volume": 5275954,
+        "volume": 5377467,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,

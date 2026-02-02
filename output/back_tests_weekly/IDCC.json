@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IDCC",
         "name": "InterDigital, Inc.",
-        "collected_at": "2026-02-01T02:03:32.568Z",
+        "collected_at": "2026-02-02T02:03:43.730Z",
         "data_start_date": "2016-02-01",
         "price": 326.44000244140625,
         "change": 0,
-        "volume": 281055,
+        "volume": 346110,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1047,

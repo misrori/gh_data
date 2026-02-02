@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRIP",
         "name": "TripAdvisor, Inc.",
-        "collected_at": "2026-02-01T02:07:20.439Z",
+        "collected_at": "2026-02-02T02:07:44.189Z",
         "data_start_date": "2016-02-01",
         "price": 13.289999961853027,
         "change": 0,
-        "volume": 1789852,
+        "volume": 1899226,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

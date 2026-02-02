@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENS",
         "name": "EnerSys",
-        "collected_at": "2026-02-01T02:03:59.026Z",
+        "collected_at": "2026-02-02T02:04:11.854Z",
         "data_start_date": "2016-02-01",
         "price": 180.19000244140625,
         "change": 0,
-        "volume": 477375,
+        "volume": 498763,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 137,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HUT",
         "name": "Hut 8 Corp.",
-        "collected_at": "2026-02-01T02:04:12.198Z",
+        "collected_at": "2026-02-02T02:04:24.895Z",
         "data_start_date": "2018-03-05",
         "price": 55.83000183105469,
         "change": 0,
-        "volume": 7451169,
+        "volume": 7467055,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

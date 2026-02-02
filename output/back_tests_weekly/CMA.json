@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CMA",
         "name": "Comerica Incorporated",
-        "collected_at": "2026-02-01T02:03:00.595Z",
+        "collected_at": "2026-02-02T02:03:08.403Z",
         "data_start_date": "2016-02-01",
         "price": 88.66999816894531,
         "change": 0,
-        "volume": 37786563,
+        "volume": 49187391,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

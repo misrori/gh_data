@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OBDC",
         "name": "Blue Owl Capital Corporation",
-        "collected_at": "2026-02-01T02:04:09.989Z",
+        "collected_at": "2026-02-02T02:04:22.815Z",
         "data_start_date": "2019-07-15",
         "price": 12,
         "change": 0,
-        "volume": 4228668,
+        "volume": 4232894,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 270,

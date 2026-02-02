@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VTV",
         "name": "Vanguard Value ETF",
-        "collected_at": "2026-02-01T02:09:48.091Z",
+        "collected_at": "2026-02-02T02:10:19.014Z",
         "data_start_date": "2016-02-01",
         "price": 199.75,
         "change": 0,
-        "volume": 3420016,
+        "volume": 3422027,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 788,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KAI",
         "name": "Kadant Inc",
-        "collected_at": "2026-02-01T02:05:15.936Z",
+        "collected_at": "2026-02-02T02:05:32.538Z",
         "data_start_date": "2016-02-01",
         "price": 321.0400085449219,
         "change": 0,
-        "volume": 203166,
+        "volume": 206264,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

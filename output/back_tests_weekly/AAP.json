@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AAP",
         "name": "Advance Auto Parts Inc.",
-        "collected_at": "2026-02-01T02:05:55.146Z",
+        "collected_at": "2026-02-02T02:06:13.265Z",
         "data_start_date": "2016-02-01",
         "price": 48.0099983215332,
         "change": 0,
-        "volume": 2037563,
+        "volume": 2037686,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

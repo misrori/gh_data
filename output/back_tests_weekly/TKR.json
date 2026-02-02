@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TKR",
         "name": "Timken Company (The)",
-        "collected_at": "2026-02-01T02:04:02.316Z",
+        "collected_at": "2026-02-02T02:04:15.304Z",
         "data_start_date": "2016-02-01",
         "price": 93.19000244140625,
         "change": 0,
-        "volume": 968059,
+        "volume": 999621,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MKC",
         "name": "McCormick & Company, Incorporated",
-        "collected_at": "2026-02-01T02:02:26.730Z",
+        "collected_at": "2026-02-02T02:02:31.512Z",
         "data_start_date": "2016-02-01",
         "price": 61.83000183105469,
         "change": 0,
-        "volume": 4798843,
+        "volume": 4938088,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 235,

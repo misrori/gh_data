@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XLE",
         "name": "State Street Energy Select Sector SPDR ETF",
-        "collected_at": "2026-02-01T02:10:06.806Z",
+        "collected_at": "2026-02-02T02:10:39.422Z",
         "data_start_date": "2016-02-01",
         "price": 51.04999923706055,
         "change": 0,
-        "volume": 72050602,
+        "volume": 74039404,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FCF",
         "name": "First",
-        "collected_at": "2026-02-01T02:06:52.485Z",
+        "collected_at": "2026-02-02T02:07:14.496Z",
         "data_start_date": "2016-02-01",
         "price": 18.030000686645508,
         "change": 0,
-        "volume": 1138409,
+        "volume": 1211514,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

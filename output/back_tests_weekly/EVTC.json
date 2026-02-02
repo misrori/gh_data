@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EVTC",
         "name": "Evertec, Inc.",
-        "collected_at": "2026-02-01T02:06:48.425Z",
+        "collected_at": "2026-02-02T02:07:10.056Z",
         "data_start_date": "2016-02-01",
         "price": 30.010000228881836,
         "change": 0,
-        "volume": 915549,
+        "volume": 1040495,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 123,

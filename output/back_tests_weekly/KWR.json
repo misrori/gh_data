@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KWR",
         "name": "Quaker Houghton",
-        "collected_at": "2026-02-01T02:06:07.165Z",
+        "collected_at": "2026-02-02T02:06:25.688Z",
         "data_start_date": "2016-02-01",
         "price": 153.74000549316406,
         "change": 0,
-        "volume": 134490,
+        "volume": 140872,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

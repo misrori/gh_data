@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EG",
         "name": "Everest Group, Ltd.",
-        "collected_at": "2026-02-01T02:02:42.403Z",
+        "collected_at": "2026-02-02T02:02:47.596Z",
         "data_start_date": "2016-02-01",
         "price": 331.2799987792969,
         "change": 0,
-        "volume": 280813,
+        "volume": 294323,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 340,

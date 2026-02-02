@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CPS",
         "name": "Cooper-Standard Holdings Inc.",
-        "collected_at": "2026-02-01T02:09:31.084Z",
+        "collected_at": "2026-02-02T02:10:00.484Z",
         "data_start_date": "2016-02-01",
         "price": 31.3700008392334,
         "change": 0,
-        "volume": 116742,
+        "volume": 119035,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 277,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AOS",
         "name": "A.O. Smith Corporation",
-        "collected_at": "2026-02-01T02:03:11.798Z",
+        "collected_at": "2026-02-02T02:03:20.466Z",
         "data_start_date": "2016-02-01",
         "price": 73.48999786376953,
         "change": 0,
-        "volume": 1684590,
+        "volume": 1939411,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 368,

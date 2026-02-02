@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FMC",
         "name": "FMC Corporation",
-        "collected_at": "2026-02-01T02:06:44.035Z",
+        "collected_at": "2026-02-02T02:07:05.635Z",
         "data_start_date": "2016-02-01",
         "price": 15.800000190734863,
         "change": 0,
-        "volume": 5329493,
+        "volume": 5330529,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 935,

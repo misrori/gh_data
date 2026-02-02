@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CLBK",
         "name": "Columbia Financial, Inc.",
-        "collected_at": "2026-02-01T02:07:07.694Z",
+        "collected_at": "2026-02-02T02:07:30.813Z",
         "data_start_date": "2018-04-23",
         "price": 16.270000457763672,
         "change": 0,
-        "volume": 133801,
+        "volume": 145085,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

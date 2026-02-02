@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IEMG",
         "name": "iShares Core MSCI Emerging Markets ETF",
-        "collected_at": "2026-02-01T02:09:48.533Z",
+        "collected_at": "2026-02-02T02:10:19.682Z",
         "data_start_date": "2016-02-01",
         "price": 72.55999755859375,
         "change": 0,
-        "volume": 23560096,
+        "volume": 23566382,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 641,

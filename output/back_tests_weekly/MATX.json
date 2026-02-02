@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MATX",
         "name": "Matson, Inc.",
-        "collected_at": "2026-02-01T02:04:37.946Z",
+        "collected_at": "2026-02-02T02:04:51.878Z",
         "data_start_date": "2016-02-01",
         "price": 160.3000030517578,
         "change": 0,
-        "volume": 307437,
+        "volume": 319199,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 4,
