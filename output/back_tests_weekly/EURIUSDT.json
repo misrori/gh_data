@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EURIUSDT",
         "name": "EURI / USDT",
-        "collected_at": "2026-02-03T03:47:12.213Z",
+        "collected_at": "2026-02-03T04:47:12.311Z",
         "data_start_date": "2024-08-26",
         "price": 1.182,
         "change": -0.2952340784479172,
-        "volume": 2193536.4,
+        "volume": 2210287.6,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 287,
