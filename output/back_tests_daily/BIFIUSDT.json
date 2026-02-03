@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIFIUSDT",
         "name": "BIFI / USDT",
-        "collected_at": "2026-02-03T16:48:59.825Z",
+        "collected_at": "2026-02-03T17:49:00.598Z",
         "data_start_date": "2022-04-01",
         "price": 134.3,
         "change": -3.2420749279538903,
-        "volume": 4400.424,
+        "volume": 4543.123,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": -18.944370883554665,
+        "ml_value": -18.95722802641179,
         "ml_last_change_date": "2025-12-24",
         "ml_last_change_price": 133.3,
         "ml_change_percent_from_last_change": 0.7501875468867159
