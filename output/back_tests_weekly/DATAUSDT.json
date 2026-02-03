@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DATAUSDT",
         "name": "DATA / USDT",
-        "collected_at": "2026-02-03T20:49:03.155Z",
+        "collected_at": "2026-02-03T21:49:07.303Z",
         "data_start_date": "2020-04-06",
         "price": 0.00282,
         "change": -18.731988472622476,
-        "volume": 826355215.6,
+        "volume": 840742351.2,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 385,
