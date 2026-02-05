@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CELOUSDT",
         "name": "Celo",
-        "collected_at": "2026-02-05T08:48:22.260Z",
+        "collected_at": "2026-02-05T09:49:04.465Z",
         "data_start_date": "2021-01-04",
         "price": 0.0868,
         "change": -6.666666666666663,
-        "volume": 62990307,
+        "volume": 63373678.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 378,
