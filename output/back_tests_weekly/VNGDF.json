@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VNGDF",
         "name": "Vanguard Funds PLC",
-        "collected_at": "2026-02-06T02:10:41.430Z",
+        "collected_at": "2026-02-07T02:10:14.631Z",
         "data_start_date": "2016-02-08",
         "price": 129.61959838867188,
         "change": -1.786372888865149,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "OTC:VNGDF",
-        "market_capitalization": 49695517231.5376,
+        "market_capitalization": 49441396211.515,
         "commodity_name": null,
         "display_name": "Vanguard Funds PLC",
         "sma_50": 119.57029479980469,
