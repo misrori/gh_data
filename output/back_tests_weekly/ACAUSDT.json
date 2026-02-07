@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACAUSDT",
         "name": "ACA / USDT",
-        "collected_at": "2026-02-07T22:47:54.183Z",
+        "collected_at": "2026-02-07T23:48:16.005Z",
         "data_start_date": "2022-01-24",
         "price": 0.004,
         "change": -28.57142857142857,
-        "volume": 1673470907.93,
+        "volume": 1676170292.84,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 616,
