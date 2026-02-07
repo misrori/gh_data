@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DUSKUSDT",
         "name": "Dusk",
-        "collected_at": "2026-02-07T14:47:36.697Z",
+        "collected_at": "2026-02-07T15:47:37.628Z",
         "data_start_date": "2019-07-22",
         "price": 0.0824,
         "change": -5.287356321839073,
-        "volume": 13087271,
+        "volume": 14453485,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 24,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.16137388372480072,
+        "ml_value": 0.16143816943908643,
         "ml_last_change_date": "2026-01-30",
         "ml_last_change_price": 0.1212,
         "ml_change_percent_from_last_change": -32.01320132013201
