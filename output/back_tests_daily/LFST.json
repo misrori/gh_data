@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LFST",
         "name": "LifeStance Health Group, Inc.",
-        "collected_at": "2026-02-07T02:06:19.142Z",
+        "collected_at": "2026-02-08T02:06:11.899Z",
         "data_start_date": "2021-06-10",
         "price": 6.829999923706055,
         "change": 4.434250207103357,
-        "volume": 2486081,
+        "volume": 2629400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 88,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:LFST",
-        "market_capitalization": 2656871859.974006,
+        "market_capitalization": 2656871846,
         "commodity_name": null,
         "display_name": "LifeStance Health Group, Inc.",
         "sma_50": 6.974600028991699,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 7.27269938901557,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 6.679999828338623,
-        "ml_change_percent_from_last_change": 2.245510467396783
+        "ml_last_change_price": 6.550000190734863,
+        "ml_change_percent_from_last_change": 4.274804959048062
     }
 }

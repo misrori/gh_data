@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UDMY",
         "name": "Udemy, Inc.",
-        "collected_at": "2026-02-07T02:09:22.190Z",
+        "collected_at": "2026-02-08T02:09:11.529Z",
         "data_start_date": "2021-10-25",
         "price": 4.690000057220459,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.025,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 6.560540377274235,
+        "ml_value": 6.567373023819334,
         "ml_last_change_date": "2025-03-31",
         "ml_last_change_price": 6.230000019073486,
         "ml_change_percent_from_last_change": -24.719100435605668

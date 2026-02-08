@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HLNE",
         "name": "Hamilton Lane Incorporated",
-        "collected_at": "2026-02-07T02:03:55.510Z",
+        "collected_at": "2026-02-08T02:03:51.476Z",
         "data_start_date": "2017-03-01",
         "price": 131.72000122070312,
         "change": 0,
-        "volume": 597380,
+        "volume": 606500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 30,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.6484,
         "number_of_employees": 760,
         "ml_direction": -1,
-        "ml_value": 150.66263382171402,
+        "ml_value": 150.6716347633993,
         "ml_last_change_date": "2026-02-03",
         "ml_last_change_price": 137.74000549316406,
         "ml_change_percent_from_last_change": -4.370556143733928

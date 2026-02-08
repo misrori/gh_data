@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APLD",
         "name": "Applied Digital Corporation",
-        "collected_at": "2026-02-07T02:03:25.939Z",
+        "collected_at": "2026-02-08T02:03:22.116Z",
         "data_start_date": "2022-04-13",
         "price": 34.95000076293945,
         "change": 25.51625650849772,
-        "volume": 44242491,
+        "volume": 44383200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 30,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:APLD",
-        "market_capitalization": 9771524008.72868,
+        "market_capitalization": 9771524463,
         "commodity_name": null,
         "display_name": "Applied Digital Corporation",
         "sma_50": 30.92270004272461,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 39.30199528539216,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 29.6299991607666,
-        "ml_change_percent_from_last_change": 17.954781481118374
+        "ml_last_change_price": 29.600000381469727,
+        "ml_change_percent_from_last_change": 18.07432538014071
     }
 }

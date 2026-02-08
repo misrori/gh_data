@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HUBB",
         "name": "Hubbell Inc",
-        "collected_at": "2026-02-07T02:01:52.527Z",
+        "collected_at": "2026-02-08T02:01:52.163Z",
         "data_start_date": "2016-02-08",
         "price": 503.79998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:HUBB",
-        "market_capitalization": 26774325975.1149,
+        "market_capitalization": 26774325662.000004,
         "commodity_name": null,
         "display_name": "Hubbell Inc",
         "sma_50": 417.6097985839844,

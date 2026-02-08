@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MELI",
         "name": "MercadoLibre, Inc.",
-        "collected_at": "2026-02-07T02:00:40.554Z",
-        "data_start_date": "2016-02-10",
+        "collected_at": "2026-02-08T02:00:40.631Z",
+        "data_start_date": "2016-02-11",
         "price": 1970.1500244140625,
         "change": -3.175312323884557,
-        "volume": 937224,
+        "volume": 937700,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:MELI",
-        "market_capitalization": 99881053008.54651,
+        "market_capitalization": 99881053767,
         "commodity_name": null,
         "display_name": "MercadoLibre, Inc.",
         "sma_50": 2076.3454052734373,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 40.9686,
         "number_of_employees": 84207,
         "ml_direction": -1,
-        "ml_value": 2239.789327038339,
+        "ml_value": 2240.775475545593,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 2032.5899658203125,
-        "ml_change_percent_from_last_change": -3.0719398627479966
+        "ml_last_change_price": 2042.4300537109375,
+        "ml_change_percent_from_last_change": -3.538923115900483
     }
 }

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IEF",
         "name": "iShares 7-10 Year Treasury Bond ETF",
-        "collected_at": "2026-02-07T02:10:15.676Z",
+        "collected_at": "2026-02-08T02:10:04.369Z",
         "data_start_date": "2016-02-08",
         "price": 96.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:IEF",
-        "market_capitalization": 46466389682.4,
+        "market_capitalization": 46638094203,
         "commodity_name": null,
         "display_name": "iShares 7-10 Year Treasury Bond ETF",
         "sma_50": 95.6334001159668,

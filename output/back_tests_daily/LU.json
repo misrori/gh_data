@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LU",
         "name": "Lufax Holding Ltd Sponsored ADR Class A",
-        "collected_at": "2026-02-07T02:06:35.286Z",
+        "collected_at": "2026-02-08T02:06:27.849Z",
         "data_start_date": "2020-10-30",
         "price": 2.890000104904175,
         "change": 10.305352333535595,
-        "volume": 2585765,
+        "volume": 2615600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 85,

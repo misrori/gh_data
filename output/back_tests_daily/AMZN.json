@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "collected_at": "2026-02-07T02:00:07.183Z",
-        "data_start_date": "2016-02-10",
+        "collected_at": "2026-02-08T02:00:07.339Z",
+        "data_start_date": "2016-02-11",
         "price": 210.32000732421875,
         "change": -5.5548048774404535,
-        "volume": 179383581,
+        "volume": 179021600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 38,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:AMZN",
-        "market_capitalization": 2248366215977.9517,
+        "market_capitalization": 2248366269626,
         "commodity_name": null,
         "display_name": "Amazon.com, Inc.",
         "sma_50": 233.30139984130858,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 237.06102357839262,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 202.6300048828125,
-        "ml_change_percent_from_last_change": 3.7950956206380226
+        "ml_last_change_price": 202.6999969482422,
+        "ml_change_percent_from_last_change": 3.7592552988159555
     }
 }

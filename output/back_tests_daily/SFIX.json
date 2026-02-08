@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SFIX",
         "name": "Stitch Fix, Inc.",
-        "collected_at": "2026-02-07T02:09:43.018Z",
+        "collected_at": "2026-02-08T02:09:33.090Z",
         "data_start_date": "2017-11-17",
         "price": 4.28000020980835,
         "change": -2.7272700672307866,
-        "volume": 1877547,
+        "volume": 1915000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 56,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NASDAQ:SFIX",
-        "market_capitalization": 574371681.090909,
+        "market_capitalization": 574371697.0000001,
         "commodity_name": null,
         "display_name": "Stitch Fix, Inc.",
         "sma_50": 5.048400001525879,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 5.359412317729087,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 4.5,
-        "ml_change_percent_from_last_change": -4.888884226481116
+        "ml_last_change_price": 4.489999771118164,
+        "ml_change_percent_from_last_change": -4.677050601664446
     }
 }

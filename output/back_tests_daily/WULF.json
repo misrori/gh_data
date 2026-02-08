@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WULF",
         "name": "TeraWulf Inc.",
-        "collected_at": "2026-02-07T02:04:23.073Z",
-        "data_start_date": "2016-02-10",
+        "collected_at": "2026-02-08T02:04:18.368Z",
+        "data_start_date": "2016-02-11",
         "price": 14.289999961853027,
         "change": 19.88254924823742,
-        "volume": 46210133,
+        "volume": 46372800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 23,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:WULF",
-        "market_capitalization": 5982964171.176174,
+        "market_capitalization": 5982964117,
         "commodity_name": null,
         "display_name": "TeraWulf Inc.",
         "sma_50": 13.608000049591064,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 16.09083562686378,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 12.725000381469727,
-        "ml_change_percent_from_last_change": 12.298621088155471
+        "ml_last_change_price": 12.729999542236328,
+        "ml_change_percent_from_last_change": 12.254520626185727
     }
 }

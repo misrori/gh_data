@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLUE",
         "name": "Monte Rosa Therapeutics, Inc.",
-        "collected_at": "2026-02-07T02:07:41.851Z",
+        "collected_at": "2026-02-08T02:07:32.818Z",
         "data_start_date": "2021-06-24",
         "price": 19.549999237060547,
         "change": 3.4391514902094986,
-        "volume": 1350142,
+        "volume": 1358800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 144,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:GLUE",
-        "market_capitalization": 1490545921.7962964,
+        "market_capitalization": 1490545894.0000002,
         "commodity_name": null,
         "display_name": "Monte Rosa Therapeutics, Inc.",
         "sma_50": 19.108199996948244,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 23.499136021990203,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 19.094999313354492,
-        "ml_change_percent_from_last_change": 2.3828224145985732
+        "ml_last_change_price": 19.270000457763672,
+        "ml_change_percent_from_last_change": 1.4530294377033348
     }
 }

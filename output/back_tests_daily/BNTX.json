@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BNTX",
         "name": "BioNTech SE Sponsored ADR",
-        "collected_at": "2026-02-07T02:01:56.825Z",
+        "collected_at": "2026-02-08T02:01:56.584Z",
         "data_start_date": "2019-10-10",
         "price": 106.62000274658203,
         "change": 1.0233104241860913,
-        "volume": 631255,
+        "volume": 739300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 15,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:BNTX",
-        "market_capitalization": 25377668413,
+        "market_capitalization": 25637360739,
         "commodity_name": null,
         "display_name": "BioNTech SE Sponsored ADR",
         "sma_50": 101.89829956054687,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 116.28379725500531,
         "ml_last_change_date": "2026-02-05",
-        "ml_last_change_price": 107.01000213623047,
-        "ml_change_percent_from_last_change": -0.3644513427370488
+        "ml_last_change_price": 107.29000091552734,
+        "ml_change_percent_from_last_change": -0.624474008041831
     }
 }
