@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BETHUSDT",
         "name": "Beacon ETH",
-        "collected_at": "2026-02-08T17:49:15.587Z",
+        "collected_at": "2026-02-08T18:48:54.715Z",
         "data_start_date": "2023-03-03",
         "price": 1556.27,
         "change": -1.057911768632668,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:BETHUSD",
-        "market_capitalization": 210724592.62,
+        "market_capitalization": 213189343.54999998,
         "commodity_name": null,
         "display_name": "Beacon ETH",
         "sma_50": 1630.7488,
