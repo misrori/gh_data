@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ANIMEUSDT",
         "name": "Animecoin",
-        "collected_at": "2026-02-08T12:46:42.880Z",
+        "collected_at": "2026-02-08T13:46:54.025Z",
         "data_start_date": "2025-01-23",
         "price": 0.00556,
         "change": -0.17953321364453248,
-        "volume": 323886552.6,
+        "volume": 325630200.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 19,
