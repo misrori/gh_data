@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KHC",
         "name": "The Kraft Heinz Company",
-        "collected_at": "2026-02-08T02:01:44.778Z",
+        "collected_at": "2026-02-09T02:01:45.896Z",
         "data_start_date": "2016-02-08",
         "price": 24.639999389648438,
         "change": 0,
-        "volume": 11465208,
+        "volume": 11515135,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 613,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AAON",
         "name": "AAON, Inc.",
-        "collected_at": "2026-02-08T02:03:42.930Z",
+        "collected_at": "2026-02-09T02:03:48.808Z",
         "data_start_date": "2016-02-08",
         "price": 96.43000030517578,
         "change": 0,
-        "volume": 1094882,
+        "volume": 1152180,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

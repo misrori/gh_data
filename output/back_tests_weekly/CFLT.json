@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CFLT",
         "name": "Confluent, Inc.",
-        "collected_at": "2026-02-08T02:03:09.052Z",
+        "collected_at": "2026-02-09T02:03:14.748Z",
         "data_start_date": "2021-06-21",
         "price": 30.56999969482422,
         "change": 0,
-        "volume": 41717625,
+        "volume": 42113724,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

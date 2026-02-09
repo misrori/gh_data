@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TWST",
         "name": "Twist Bioscience Corporation",
-        "collected_at": "2026-02-08T02:05:54.084Z",
+        "collected_at": "2026-02-09T02:06:01.741Z",
         "data_start_date": "2018-10-29",
         "price": 49.2400016784668,
         "change": 0,
-        "volume": 2064857,
+        "volume": 2066008,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.2681,
         "number_of_employees": 979,
         "ml_direction": 1,
-        "ml_value": 33.85239366353593,
+        "ml_value": 33.82410828276374,
         "ml_last_change_date": "2026-01-12",
         "ml_last_change_price": 39.13999938964844,
         "ml_change_percent_from_last_change": 25.804809520486494

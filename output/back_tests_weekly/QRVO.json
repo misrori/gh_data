@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QRVO",
         "name": "Qorvo, Inc.",
-        "collected_at": "2026-02-08T02:03:43.964Z",
+        "collected_at": "2026-02-09T02:03:49.852Z",
         "data_start_date": "2016-02-08",
         "price": 83.72000122070312,
         "change": 0,
-        "volume": 1519929,
+        "volume": 1630995,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FLEX",
         "name": "Flex Ltd.",
-        "collected_at": "2026-02-08T02:02:03.797Z",
+        "collected_at": "2026-02-09T02:02:05.610Z",
         "data_start_date": "2016-02-08",
         "price": 63.97999954223633,
         "change": 0,
-        "volume": 5503799,
+        "volume": 5504558,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1243,

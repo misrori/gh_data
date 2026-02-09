@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LILA",
         "name": "Liberty Latin America Ltd.",
-        "collected_at": "2026-02-08T02:07:18.725Z",
+        "collected_at": "2026-02-09T02:07:33.677Z",
         "data_start_date": "2016-02-08",
         "price": 8,
         "change": 0,
-        "volume": 363011,
+        "volume": 372228,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 74,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -3.6966,
         "number_of_employees": 10000,
         "ml_direction": 1,
-        "ml_value": 6.84015792100738,
+        "ml_value": 6.840157921007382,
         "ml_last_change_date": "2025-07-28",
         "ml_last_change_price": 6.96999979019165,
         "ml_change_percent_from_last_change": 14.777621819412246

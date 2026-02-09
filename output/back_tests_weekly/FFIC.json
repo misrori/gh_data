@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FFIC",
         "name": "Flushing Financial Corporation",
-        "collected_at": "2026-02-08T02:09:35.057Z",
+        "collected_at": "2026-02-09T02:09:51.387Z",
         "data_start_date": "2016-02-08",
         "price": 16.84000015258789,
         "change": 0,
-        "volume": 320139,
+        "volume": 327783,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

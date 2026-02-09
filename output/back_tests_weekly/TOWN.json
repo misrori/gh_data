@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TOWN",
         "name": "Towne Bank",
-        "collected_at": "2026-02-08T02:05:35.056Z",
+        "collected_at": "2026-02-09T02:05:42.917Z",
         "data_start_date": "2016-02-08",
         "price": 37.650001525878906,
         "change": 0,
-        "volume": 561066,
+        "volume": 576675,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 571,

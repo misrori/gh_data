@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LE=F",
         "name": "Live Cattle",
-        "collected_at": "2026-02-08T02:09:49.771Z",
+        "collected_at": "2026-02-09T02:10:06.687Z",
         "data_start_date": "2016-02-08",
         "price": 237.25,
         "change": -0.2103049421661409,
-        "volume": 15134,
+        "volume": 38321,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1824,

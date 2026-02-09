@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVMI",
         "name": "Nova Ltd.",
-        "collected_at": "2026-02-08T02:02:42.955Z",
+        "collected_at": "2026-02-09T02:02:48.290Z",
         "data_start_date": "2016-02-08",
         "price": 459.95001220703125,
         "change": 0,
-        "volume": 421329,
+        "volume": 449177,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 977,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EBC",
         "name": "Eastern Bankshares, Inc.",
-        "collected_at": "2026-02-08T02:04:36.441Z",
+        "collected_at": "2026-02-09T02:04:44.034Z",
         "data_start_date": "2020-10-12",
         "price": 21.889999389648438,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.4131,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 18.174654396312427,
+        "ml_value": 18.170797165172292,
         "ml_last_change_date": "2025-09-15",
         "ml_last_change_price": 17.989999771118164,
         "ml_change_percent_from_last_change": 21.678708550021675

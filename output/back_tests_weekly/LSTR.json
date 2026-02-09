@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LSTR",
         "name": "Landstar System, Inc.",
-        "collected_at": "2026-02-08T02:04:27.297Z",
+        "collected_at": "2026-02-09T02:04:34.350Z",
         "data_start_date": "2016-02-08",
         "price": 162.0800018310547,
         "change": 0,
-        "volume": 420583,
+        "volume": 501190,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 375,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.3079,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 135.52078823513045,
+        "ml_value": 135.45393054295693,
         "ml_last_change_date": "2025-12-08",
         "ml_last_change_price": 148.1699981689453,
         "ml_change_percent_from_last_change": 9.387867877442368

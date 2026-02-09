@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NTAP",
         "name": "NetApp, Inc.",
-        "collected_at": "2026-02-08T02:02:14.220Z",
+        "collected_at": "2026-02-09T02:02:19.535Z",
         "data_start_date": "2016-02-08",
         "price": 103.33999633789062,
         "change": 0,
-        "volume": 1758060,
+        "volume": 1884356,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

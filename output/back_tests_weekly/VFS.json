@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VFS",
         "name": "VinFast Auto Ltd.",
-        "collected_at": "2026-02-08T02:03:43.525Z",
+        "collected_at": "2026-02-09T02:03:49.404Z",
         "data_start_date": "2021-09-06",
         "price": 3.3299999237060547,
         "change": 0,
-        "volume": 314515,
+        "volume": 318169,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 767,

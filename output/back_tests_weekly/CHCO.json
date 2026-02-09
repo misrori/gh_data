@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHCO",
         "name": "City Holding Company",
-        "collected_at": "2026-02-08T02:06:59.731Z",
+        "collected_at": "2026-02-09T02:07:14.644Z",
         "data_start_date": "2016-02-08",
         "price": 127.83999633789062,
         "change": 0,
-        "volume": 74755,
+        "volume": 75893,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1789,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SDGR",
         "name": "Schrodinger, Inc.",
-        "collected_at": "2026-02-08T02:08:20.700Z",
+        "collected_at": "2026-02-09T02:08:36.421Z",
         "data_start_date": "2020-02-03",
         "price": 13.489999771118164,
         "change": 0,
-        "volume": 1156688,
+        "volume": 1157420,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 235,

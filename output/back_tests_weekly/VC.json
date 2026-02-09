@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VC",
         "name": "Visteon Corporation",
-        "collected_at": "2026-02-08T02:06:05.942Z",
+        "collected_at": "2026-02-09T02:06:13.828Z",
         "data_start_date": "2016-02-08",
         "price": 100.9000015258789,
         "change": 0,
-        "volume": 495678,
+        "volume": 502824,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

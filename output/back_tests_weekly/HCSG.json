@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HCSG",
         "name": "Healthcare Services Group, Inc.",
-        "collected_at": "2026-02-08T02:07:44.969Z",
+        "collected_at": "2026-02-09T02:08:00.543Z",
         "data_start_date": "2016-02-08",
         "price": 19.399999618530273,
         "change": 0,
-        "volume": 777176,
+        "volume": 785552,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

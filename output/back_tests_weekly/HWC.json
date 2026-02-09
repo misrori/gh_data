@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HWC",
         "name": "Hancock Whitney Corporation",
-        "collected_at": "2026-02-08T02:04:13.639Z",
+        "collected_at": "2026-02-09T02:04:19.578Z",
         "data_start_date": "2016-02-08",
         "price": 74.41000366210938,
         "change": 0,
-        "volume": 728091,
+        "volume": 818055,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 641,

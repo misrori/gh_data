@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CROX",
         "name": "Crocs, Inc.",
-        "collected_at": "2026-02-08T02:05:00.486Z",
+        "collected_at": "2026-02-09T02:05:08.076Z",
         "data_start_date": "2016-02-08",
         "price": 85.80999755859375,
         "change": 0,
-        "volume": 737964,
+        "volume": 738259,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 361,

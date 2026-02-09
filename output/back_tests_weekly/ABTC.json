@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ABTC",
         "name": "American Bitcoin Corp.",
-        "collected_at": "2026-02-08T02:07:59.202Z",
+        "collected_at": "2026-02-09T02:08:15.130Z",
         "data_start_date": "2018-02-26",
         "price": 1.309999942779541,
         "change": 0,
-        "volume": 12118065,
+        "volume": 12487298,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 2307,

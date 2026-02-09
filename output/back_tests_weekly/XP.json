@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XP",
         "name": "XP Inc.",
-        "collected_at": "2026-02-08T02:03:18.137Z",
+        "collected_at": "2026-02-09T02:03:23.683Z",
         "data_start_date": "2019-12-09",
         "price": 19.389999389648438,
         "change": 0,
-        "volume": 4474819,
+        "volume": 4495864,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 228,

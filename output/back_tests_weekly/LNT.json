@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LNT",
         "name": "Alliant Energy Corporation",
-        "collected_at": "2026-02-08T02:02:27.174Z",
+        "collected_at": "2026-02-09T02:02:32.525Z",
         "data_start_date": "2016-02-08",
         "price": 66.69000244140625,
         "change": 0,
-        "volume": 3772772,
+        "volume": 4807292,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 529,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.1847,
         "number_of_employees": 2998,
         "ml_direction": 1,
-        "ml_value": 62.83362375095924,
+        "ml_value": 62.83362375095925,
         "ml_last_change_date": "2025-02-17",
         "ml_last_change_price": 63.099998474121094,
         "ml_change_percent_from_last_change": 5.689388358317493

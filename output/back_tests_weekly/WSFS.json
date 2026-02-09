@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WSFS",
         "name": "WSFS Financial Corporation",
-        "collected_at": "2026-02-08T02:05:21.513Z",
+        "collected_at": "2026-02-09T02:05:29.153Z",
         "data_start_date": "2016-02-08",
         "price": 70.6500015258789,
         "change": 0,
-        "volume": 562792,
+        "volume": 584444,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 641,

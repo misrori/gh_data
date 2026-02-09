@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LMAT",
         "name": "LeMaitre Vascular, Inc.",
-        "collected_at": "2026-02-08T02:06:49.608Z",
+        "collected_at": "2026-02-09T02:07:04.343Z",
         "data_start_date": "2016-02-08",
         "price": 87.41999816894531,
         "change": 0,
-        "volume": 125694,
+        "volume": 129975,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

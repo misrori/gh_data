@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IAC",
         "name": "IAC Inc.",
-        "collected_at": "2026-02-08T02:06:05.257Z",
+        "collected_at": "2026-02-09T02:06:13.096Z",
         "data_start_date": "2016-02-08",
         "price": 35.650001525878906,
         "change": 0,
-        "volume": 1246954,
+        "volume": 1282214,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

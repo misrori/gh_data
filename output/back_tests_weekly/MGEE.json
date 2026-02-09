@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MGEE",
         "name": "MGE Energy Inc.",
-        "collected_at": "2026-02-08T02:05:59.752Z",
+        "collected_at": "2026-02-09T02:06:07.850Z",
         "data_start_date": "2016-02-08",
         "price": 79.58000183105469,
         "change": 0,
-        "volume": 175048,
+        "volume": 179493,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

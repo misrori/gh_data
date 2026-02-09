@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IBIT",
         "name": "iShares Bitcoin Trust ETF",
-        "collected_at": "2026-02-08T02:10:03.290Z",
+        "collected_at": "2026-02-09T02:10:20.649Z",
         "data_start_date": "2024-01-08",
         "price": 39.68000030517578,
         "change": 0,
-        "volume": 161089938,
+        "volume": 163384166,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

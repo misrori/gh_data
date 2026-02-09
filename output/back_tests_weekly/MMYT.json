@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MMYT",
         "name": "MakeMyTrip Limited",
-        "collected_at": "2026-02-08T02:04:32.091Z",
+        "collected_at": "2026-02-09T02:04:39.483Z",
         "data_start_date": "2016-02-08",
         "price": 57.099998474121094,
         "change": 0,
-        "volume": 2455073,
+        "volume": 2511380,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.5001,
         "number_of_employees": 5122,
         "ml_direction": -1,
-        "ml_value": 79.85825688748841,
+        "ml_value": 79.862113873398,
         "ml_last_change_date": "2025-03-03",
         "ml_last_change_price": 84.4800033569336,
         "ml_change_percent_from_last_change": -32.41004237077284

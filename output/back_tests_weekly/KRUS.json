@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KRUS",
         "name": "Kura Sushi USA, Inc.",
-        "collected_at": "2026-02-08T02:08:26.793Z",
+        "collected_at": "2026-02-09T02:08:42.821Z",
         "data_start_date": "2019-07-29",
         "price": 79.29000091552734,
         "change": 0,
-        "volume": 362718,
+        "volume": 364085,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,

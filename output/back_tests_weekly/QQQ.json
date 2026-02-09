@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QQQ",
         "name": "Invesco QQQ Trust Series I",
-        "collected_at": "2026-02-08T02:09:52.118Z",
+        "collected_at": "2026-02-09T02:10:09.133Z",
         "data_start_date": "2016-02-08",
         "price": 609.6500244140625,
         "change": 0,
-        "volume": 77303779,
+        "volume": 78019338,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 970,

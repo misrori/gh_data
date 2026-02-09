@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VRSK",
         "name": "Verisk Analytics, Inc.",
-        "collected_at": "2026-02-08T02:01:58.454Z",
+        "collected_at": "2026-02-09T02:02:00.124Z",
         "data_start_date": "2016-02-08",
         "price": 179.10000610351562,
         "change": 0,
-        "volume": 3822074,
+        "volume": 3856165,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

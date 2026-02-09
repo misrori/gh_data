@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KRNY",
         "name": "Kearny Financial",
-        "collected_at": "2026-02-08T02:09:45.219Z",
+        "collected_at": "2026-02-09T02:10:02.165Z",
         "data_start_date": "2016-02-08",
         "price": 8.149999618530273,
         "change": 0,
-        "volume": 289891,
+        "volume": 297028,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,
