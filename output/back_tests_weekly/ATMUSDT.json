@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATMUSDT",
         "name": "ATM / USDT",
-        "collected_at": "2026-02-09T19:47:33.044Z",
+        "collected_at": "2026-02-09T20:47:21.251Z",
         "data_start_date": "2020-12-28",
         "price": 0.884,
         "change": 2.671312427409991,
-        "volume": 1742361.26,
+        "volume": 1754066.62,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 588,

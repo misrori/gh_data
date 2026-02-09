@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LITUSDT",
         "name": "Lighter",
-        "collected_at": "2026-02-09T19:49:21.977Z",
+        "collected_at": "2026-02-09T20:49:06.060Z",
         "data_start_date": "2021-02-04",
         "price": 0.743,
         "change": 7.06051873198848,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:LITLUSD",
-        "market_capitalization": 387475000,
+        "market_capitalization": 386575000,
         "commodity_name": null,
         "display_name": "Lighter",
         "sma_50": 0.81656,
