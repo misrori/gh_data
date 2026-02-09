@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CITYUSDT",
         "name": "CITY / USDT",
-        "collected_at": "2026-02-09T03:48:37.025Z",
+        "collected_at": "2026-02-09T04:48:38.934Z",
         "data_start_date": "2021-11-10",
         "price": 0.527,
         "change": 0,
-        "volume": 82006,
+        "volume": 100681.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 20,
