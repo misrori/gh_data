@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DFUSDT",
         "name": "DF / USDT",
-        "collected_at": "2026-02-10T14:47:34.891Z",
+        "collected_at": "2026-02-10T15:47:28.448Z",
         "data_start_date": "2021-09-24",
         "price": 0.00445,
         "change": 30.882352941176478,
-        "volume": 313832952,
+        "volume": 335944213,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 312,
