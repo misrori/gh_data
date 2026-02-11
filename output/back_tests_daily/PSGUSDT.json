@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PSGUSDT",
         "name": "PSG / USDT",
-        "collected_at": "2026-02-11T17:48:29.683Z",
+        "collected_at": "2026-02-11T18:48:56.107Z",
         "data_start_date": "2020-12-21",
         "price": 0.683,
         "change": -2.9829545454545325,
-        "volume": 692918.97,
+        "volume": 730343.98,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 164,
