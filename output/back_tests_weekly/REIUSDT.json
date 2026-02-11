@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "REIUSDT",
         "name": "REI NETWORK",
-        "collected_at": "2026-02-11T02:49:02.083Z",
+        "collected_at": "2026-02-11T03:49:11.703Z",
         "data_start_date": "2022-05-02",
         "price": 0.00401,
         "change": -27.74774774774776,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:REI2USD",
-        "market_capitalization": 29626000,
+        "market_capitalization": 29356000,
         "commodity_name": null,
         "display_name": "REI NETWORK",
         "sma_50": 0.020798600000000004,
