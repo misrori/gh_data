@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHESSUSDT",
         "name": "CHESS / USDT",
-        "collected_at": "2026-02-11T19:47:21.814Z",
+        "collected_at": "2026-02-11T20:47:39.632Z",
         "data_start_date": "2021-10-18",
         "price": 0.00702,
         "change": -15.42168674698795,
-        "volume": 1763012517.8,
+        "volume": 1768836915.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 644,
