@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GHSTUSDT",
         "name": "GHST / USDT",
-        "collected_at": "2026-02-11T10:46:03.453Z",
+        "collected_at": "2026-02-11T11:46:04.878Z",
         "data_start_date": "2021-08-16",
         "price": 0.134,
         "change": 63.41463414634146,
-        "volume": 60955002.6,
+        "volume": 61501165.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 518,
