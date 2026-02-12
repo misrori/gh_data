@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NKNUSDT",
         "name": "NKN / USDT",
-        "collected_at": "2026-02-12T11:47:53.294Z",
+        "collected_at": "2026-02-12T12:47:57.275Z",
         "data_start_date": "2019-10-07",
         "price": 0.0077,
         "change": 48.07692307692309,
-        "volume": 1384281175,
+        "volume": 1390251914,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 588,
