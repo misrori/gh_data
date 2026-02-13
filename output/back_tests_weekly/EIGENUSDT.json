@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EIGENUSDT",
         "name": "EigenCloud",
-        "collected_at": "2026-02-13T04:46:22.205Z",
+        "collected_at": "2026-02-13T05:46:18.770Z",
         "data_start_date": "2024-09-30",
         "price": 0.2,
         "change": -3.381642512077285,
-        "volume": 93037958.1,
+        "volume": 93386445.34,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 301,
