@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARBUSDT",
         "name": "Arbitrum",
-        "collected_at": "2026-02-15T20:46:09.351Z",
+        "collected_at": "2026-02-15T21:46:02.418Z",
         "data_start_date": "2023-03-23",
         "price": 0.114,
         "change": -5.394190871369288,
-        "volume": 54050221.1,
+        "volume": 55626293.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 128,
