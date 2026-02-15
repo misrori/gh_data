@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RNW",
         "name": "ReNew Energy Global plc",
-        "collected_at": "2026-02-14T02:06:44.404Z",
+        "collected_at": "2026-02-15T02:07:01.535Z",
         "data_start_date": "2021-02-01",
         "price": 5.349999904632568,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.2858,
         "number_of_employees": 4336,
         "ml_direction": -1,
-        "ml_value": 6.51112789604446,
+        "ml_value": 6.514112601307715,
         "ml_last_change_date": "2025-12-15",
         "ml_last_change_price": 5.349999904632568,
         "ml_change_percent_from_last_change": 0

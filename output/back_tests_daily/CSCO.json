@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSCO",
         "name": "Cisco Systems, Inc.",
-        "collected_at": "2026-02-14T02:00:15.540Z",
-        "data_start_date": "2016-02-17",
+        "collected_at": "2026-02-15T02:00:22.010Z",
+        "data_start_date": "2016-02-18",
         "price": 76.8499984741211,
         "change": 2.466664632161458,
-        "volume": 42862221,
+        "volume": 42872900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 18,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:CSCO",
-        "market_capitalization": 303641610974.4893,
+        "market_capitalization": 303641604945,
         "commodity_name": null,
         "display_name": "Cisco Systems, Inc.",
         "sma_50": 77.8906004333496,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 82.90548403702199,
         "ml_last_change_date": "2026-02-12",
-        "ml_last_change_price": 74.375,
-        "ml_change_percent_from_last_change": 3.3277290408350924
+        "ml_last_change_price": 74.37999725341797,
+        "ml_change_percent_from_last_change": 3.320786921096075
     }
 }

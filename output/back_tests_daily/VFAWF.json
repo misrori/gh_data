@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VFAWF",
         "name": "Vanguard Funds PLC",
-        "collected_at": "2026-02-14T02:10:12.028Z",
+        "collected_at": "2026-02-15T02:10:30.662Z",
         "data_start_date": "2020-09-11",
         "price": 175.09750366210938,
         "change": -1.6355908855804708,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "OTC:VFAWF",
-        "market_capitalization": 35316081442.574,
+        "market_capitalization": 35136362523.0917,
         "commodity_name": null,
         "display_name": "Vanguard Funds PLC",
         "sma_50": 167.5500601196289,

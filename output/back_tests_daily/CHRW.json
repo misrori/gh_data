@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHRW",
         "name": "C.H. Robinson Worldwide, Inc.",
-        "collected_at": "2026-02-14T02:02:08.954Z",
-        "data_start_date": "2016-02-17",
+        "collected_at": "2026-02-15T02:02:25.251Z",
+        "data_start_date": "2016-02-18",
         "price": 176.00999450683594,
         "change": 4.905230532493364,
-        "volume": 6342274,
+        "volume": 6396700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 214,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Air Freight/Couriers",
         "tradingview_id": "NASDAQ:CHRW",
-        "market_capitalization": 20793324286.62123,
+        "market_capitalization": 20793323788.999996,
         "commodity_name": null,
         "display_name": "C.H. Robinson Worldwide, Inc.",
         "sma_50": 173.08100036621093,
@@ -48,13 +48,13 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 7,
         "percent_fall_from_last_local_max": 13.440544075569052,
-        "price_per_earning": 36.42138807267309,
+        "price_per_earning": 36.417620160973286,
         "earnings_per_share_basic_ttm": 4.8831,
         "number_of_employees": 11855,
         "ml_direction": -1,
         "ml_value": 191.7238835604244,
         "ml_last_change_date": "2026-02-12",
-        "ml_last_change_price": 172.14999389648438,
-        "ml_change_percent_from_last_change": 2.242231046881482
+        "ml_last_change_price": 171.88999938964844,
+        "ml_change_percent_from_last_change": 2.3968788945353925
     }
 }

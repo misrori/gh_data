@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTUS",
         "name": "Metallus Inc.",
-        "collected_at": "2026-02-14T02:08:38.009Z",
+        "collected_at": "2026-02-15T02:08:55.672Z",
         "data_start_date": "2016-02-15",
         "price": 20.700000762939453,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.192,
         "number_of_employees": 1880,
         "ml_direction": 1,
-        "ml_value": 16.62358144214263,
+        "ml_value": 16.61049703986276,
         "ml_last_change_date": "2025-06-30",
         "ml_last_change_price": 16.459999084472656,
         "ml_change_percent_from_last_change": 25.75942839794294

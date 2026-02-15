@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EVGO",
         "name": "EVgo Inc.",
-        "collected_at": "2026-02-14T02:08:31.310Z",
+        "collected_at": "2026-02-15T02:08:49.305Z",
         "data_start_date": "2020-11-16",
         "price": 2.9200000762939453,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.3845,
         "number_of_employees": 331,
         "ml_direction": -1,
-        "ml_value": 4.232653839549174,
+        "ml_value": 4.234362001185449,
         "ml_last_change_date": "2025-11-10",
         "ml_last_change_price": 2.950000047683716,
         "ml_change_percent_from_last_change": -1.0169481662661628

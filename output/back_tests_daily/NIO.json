@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NIO",
         "name": "NIO Inc.",
-        "collected_at": "2026-02-14T02:03:06.126Z",
+        "collected_at": "2026-02-15T02:03:24.379Z",
         "data_start_date": "2018-09-12",
         "price": 4.949999809265137,
         "change": 0,
-        "volume": 30555331,
+        "volume": 31346700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 70,

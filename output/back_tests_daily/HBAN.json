@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HBAN",
         "name": "Huntington Bancshares Incorporated",
-        "collected_at": "2026-02-14T02:01:32.426Z",
-        "data_start_date": "2016-02-17",
+        "collected_at": "2026-02-15T02:01:41.861Z",
+        "data_start_date": "2016-02-18",
         "price": 17.260000228881836,
         "change": -0.4039220723161387,
-        "volume": 21167213,
+        "volume": 21207900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 63,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:HBAN",
-        "market_capitalization": 35155221361.58569,
+        "market_capitalization": 35155221982.00001,
         "commodity_name": null,
         "display_name": "Huntington Bancshares Incorporated",
         "sma_50": 17.79539993286133,
@@ -48,13 +48,13 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 7,
         "percent_fall_from_last_local_max": 11.305236172113817,
-        "price_per_earning": 12.447713832395788,
+        "price_per_earning": 12.419053101165638,
         "earnings_per_share_basic_ttm": 1.4139,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 18.976424765566442,
+        "ml_value": 18.97578201632502,
         "ml_last_change_date": "2026-02-12",
-        "ml_last_change_price": 17.2549991607666,
-        "ml_change_percent_from_last_change": 0.02898329967240265
+        "ml_last_change_price": 17.209999084472656,
+        "ml_change_percent_from_last_change": 0.2905354274788552
     }
 }

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SLV",
         "name": "iShares Silver Trust",
-        "collected_at": "2026-02-14T02:10:06.784Z",
-        "data_start_date": "2016-02-17",
+        "collected_at": "2026-02-15T02:10:25.451Z",
+        "data_start_date": "2016-02-18",
         "price": 69.72000122070312,
         "change": 2.938133419663876,
-        "volume": 68189360,
+        "volume": 69387200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 303,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 90.90190157442265,
+        "ml_value": 90.90191432641066,
         "ml_last_change_date": "2026-01-30",
         "ml_last_change_price": 73.80000305175781,
         "ml_change_percent_from_last_change": -5.528457537045462

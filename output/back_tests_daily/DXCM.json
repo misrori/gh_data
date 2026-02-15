@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DXCM",
         "name": "DexCom, Inc.",
-        "collected_at": "2026-02-14T02:01:49.342Z",
-        "data_start_date": "2016-02-17",
+        "collected_at": "2026-02-15T02:01:59.095Z",
+        "data_start_date": "2016-02-18",
         "price": 70.0199966430664,
         "change": 7.590649466845077,
-        "volume": 10813834,
+        "volume": 11020600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 21,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:DXCM",
-        "market_capitalization": 27308941841.35925,
+        "market_capitalization": 26948234640,
         "commodity_name": null,
         "display_name": "DexCom, Inc.",
         "sma_50": 68.88320022583008,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 72.14316070696276,
         "ml_last_change_date": "2026-02-12",
-        "ml_last_change_price": 63.58000183105469,
-        "ml_change_percent_from_last_change": 10.128962923159591
+        "ml_last_change_price": 64.44999694824219,
+        "ml_change_percent_from_last_change": 8.642358353092416
     }
 }

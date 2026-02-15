@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PHAT",
         "name": "Phathom Pharmaceuticals, Inc.",
-        "collected_at": "2026-02-14T02:08:24.405Z",
+        "collected_at": "2026-02-15T02:08:42.568Z",
         "data_start_date": "2019-10-25",
         "price": 12.020000457763672,
         "change": 0,
-        "volume": 686853,
+        "volume": 698500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -3.813,
         "number_of_employees": 427,
         "ml_direction": -1,
-        "ml_value": 14.701562554488515,
+        "ml_value": 14.702848298201895,
         "ml_last_change_date": "2026-01-09",
         "ml_last_change_price": 15.010000228881836,
         "ml_change_percent_from_last_change": -19.920051469185772

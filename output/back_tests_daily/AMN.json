@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMN",
         "name": "AMN Healthcare Services Inc",
-        "collected_at": "2026-02-14T02:09:17.763Z",
-        "data_start_date": "2016-02-17",
+        "collected_at": "2026-02-15T02:09:34.793Z",
+        "data_start_date": "2016-02-18",
         "price": 16.25,
         "change": -0.061502021777792015,
-        "volume": 2311611,
+        "volume": 2527900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 14,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Personnel Services",
         "tradingview_id": "NYSE:AMN",
-        "market_capitalization": 624223937.1924968,
+        "market_capitalization": 624223928,
         "commodity_name": null,
         "display_name": "AMN Healthcare Services Inc",
         "sma_50": 17.659200019836426,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": -7.1963,
         "number_of_employees": 2968,
         "ml_direction": -1,
-        "ml_value": 20.157698418814338,
+        "ml_value": 20.158984162527716,
         "ml_last_change_date": "2026-02-12",
-        "ml_last_change_price": 16.385000228881836,
-        "ml_change_percent_from_last_change": -0.8239257064145189
+        "ml_last_change_price": 16.389999389648438,
+        "ml_change_percent_from_last_change": -0.854175685551628
     }
 }
