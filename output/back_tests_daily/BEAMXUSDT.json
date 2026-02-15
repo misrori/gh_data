@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BEAMXUSDT",
         "name": "BEAMX / USDT",
-        "collected_at": "2026-02-15T22:47:53.830Z",
+        "collected_at": "2026-02-15T23:47:55.113Z",
         "data_start_date": "2023-11-14",
         "price": 0.002367,
         "change": -5.584363781412043,
-        "volume": 470800256,
+        "volume": 477251259,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 122,
