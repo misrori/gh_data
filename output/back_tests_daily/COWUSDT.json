@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COWUSDT",
         "name": "CoW Protocol",
-        "collected_at": "2026-02-15T08:46:00.266Z",
+        "collected_at": "2026-02-15T09:45:49.808Z",
         "data_start_date": "2024-11-06",
         "price": 0.2109,
         "change": -6.391478029294273,
-        "volume": 6725954.9,
+        "volume": 6876424.4,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 17,
