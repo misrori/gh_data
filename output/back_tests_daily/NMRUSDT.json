@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NMRUSDT",
         "name": "Numeraire",
-        "collected_at": "2026-02-16T21:48:45.801Z",
+        "collected_at": "2026-02-16T22:48:54.926Z",
         "data_start_date": "2020-08-19",
         "price": 8.58,
         "change": 2.0214030915576684,
-        "volume": 91270.31,
+        "volume": 93043.53,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 103,
