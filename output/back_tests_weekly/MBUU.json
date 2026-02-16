@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MBUU",
         "name": "Malibu Boats, Inc.",
-        "collected_at": "2026-02-15T02:09:44.042Z",
+        "collected_at": "2026-02-16T02:09:29.810Z",
         "data_start_date": "2016-02-15",
         "price": 31.520000457763672,
         "change": 0,
-        "volume": 165667,
+        "volume": 166689,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1397,

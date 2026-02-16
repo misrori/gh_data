@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSWC",
         "name": "Capital Southwest Corporation",
-        "collected_at": "2026-02-15T02:07:54.786Z",
+        "collected_at": "2026-02-16T02:07:40.027Z",
         "data_start_date": "2016-02-15",
         "price": 22.809999465942383,
         "change": 0,
-        "volume": 632362,
+        "volume": 632854,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CCAP",
         "name": "Crescent Capital BDC, Inc.",
-        "collected_at": "2026-02-15T02:10:00.890Z",
+        "collected_at": "2026-02-16T02:09:46.403Z",
         "data_start_date": "2020-02-03",
         "price": 13.970000267028809,
         "change": 0,
-        "volume": 214212,
+        "volume": 214427,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 270,

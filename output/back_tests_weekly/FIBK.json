@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIBK",
         "name": "First Interstate BancSystem, Inc.",
-        "collected_at": "2026-02-15T02:05:33.247Z",
+        "collected_at": "2026-02-16T02:05:19.129Z",
         "data_start_date": "2016-02-15",
         "price": 37.65999984741211,
         "change": 0,
-        "volume": 656376,
+        "volume": 674802,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

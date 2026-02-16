@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SSYS",
         "name": "Stratasys, Ltd.",
-        "collected_at": "2026-02-15T02:08:44.662Z",
+        "collected_at": "2026-02-16T02:08:30.736Z",
         "data_start_date": "2016-02-15",
         "price": 10.970000267028809,
         "change": 0,
-        "volume": 594597,
+        "volume": 604032,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

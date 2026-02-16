@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FBNC",
         "name": "First Bancorp",
-        "collected_at": "2026-02-15T02:06:29.215Z",
+        "collected_at": "2026-02-16T02:06:15.688Z",
         "data_start_date": "2016-02-15",
         "price": 60.93000030517578,
         "change": 0,
-        "volume": 152640,
+        "volume": 158358,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 543,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XXI",
         "name": "Twenty One Capital, Inc.",
-        "collected_at": "2026-02-15T02:05:22.398Z",
+        "collected_at": "2026-02-16T02:06:31.405Z",
         "data_start_date": "2024-08-12",
         "price": 6.400000095367432,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:XXI",
-        "market_capitalization": 4168901881.5999994,
+        "market_capitalization": 2217908224,
         "commodity_name": null,
         "display_name": "Twenty One Capital, Inc.",
         "sma_50": 20.823000020980835,

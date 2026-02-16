@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RGLD",
         "name": "Royal Gold, Inc.",
-        "collected_at": "2026-02-15T02:02:08.502Z",
+        "collected_at": "2026-02-16T02:02:01.997Z",
         "data_start_date": "2016-02-15",
         "price": 286.1000061035156,
         "change": 0,
-        "volume": 701308,
+        "volume": 713987,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 669,

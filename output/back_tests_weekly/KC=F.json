@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KC=F",
         "name": "Coffee",
-        "collected_at": "2026-02-15T02:10:05.059Z",
+        "collected_at": "2026-02-16T02:09:50.483Z",
         "data_start_date": "2016-02-15",
         "price": 297.54998779296875,
         "change": -0.8331945014858568,
-        "volume": 18585,
+        "volume": 0,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 690,

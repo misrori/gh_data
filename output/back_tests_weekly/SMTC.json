@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMTC",
         "name": "Semtech Corporation",
-        "collected_at": "2026-02-15T02:03:53.216Z",
+        "collected_at": "2026-02-16T02:03:39.516Z",
         "data_start_date": "2016-02-15",
         "price": 87.11499786376953,
         "change": -0.005744814801094983,
-        "volume": 847157,
+        "volume": 847227,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

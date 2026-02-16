@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACIC",
         "name": "American Coastal Insurance Corporation",
-        "collected_at": "2026-02-15T02:09:55.437Z",
+        "collected_at": "2026-02-16T02:09:41.147Z",
         "data_start_date": "2016-02-15",
         "price": 11.09000015258789,
         "change": 0,
-        "volume": 191495,
+        "volume": 219254,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

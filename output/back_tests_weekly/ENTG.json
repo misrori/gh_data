@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENTG",
         "name": "Entegris, Inc.",
-        "collected_at": "2026-02-15T02:02:28.421Z",
+        "collected_at": "2026-02-16T02:02:16.123Z",
         "data_start_date": "2016-02-15",
         "price": 131.42999267578125,
         "change": 0,
-        "volume": 2810937,
+        "volume": 2811876,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

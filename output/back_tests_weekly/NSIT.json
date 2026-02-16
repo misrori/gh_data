@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NSIT",
         "name": "Insight Enterprises, Inc.",
-        "collected_at": "2026-02-15T02:06:24.502Z",
+        "collected_at": "2026-02-16T02:06:10.799Z",
         "data_start_date": "2016-02-15",
         "price": 85.11000061035156,
         "change": 0,
-        "volume": 270277,
+        "volume": 276982,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 312,

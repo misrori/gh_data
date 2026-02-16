@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PODD",
         "name": "Insulet Corporation",
-        "collected_at": "2026-02-15T02:02:42.196Z",
+        "collected_at": "2026-02-16T02:02:29.667Z",
         "data_start_date": "2016-02-15",
         "price": 242.74000549316406,
         "change": 0,
-        "volume": 734599,
+        "volume": 776046,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

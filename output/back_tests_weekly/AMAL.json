@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMAL",
         "name": "Amalgamated Financial Corp.",
-        "collected_at": "2026-02-15T02:08:10.062Z",
+        "collected_at": "2026-02-16T02:07:55.730Z",
         "data_start_date": "2018-08-06",
         "price": 41.38999938964844,
         "change": 0,
-        "volume": 135890,
+        "volume": 139017,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 39,

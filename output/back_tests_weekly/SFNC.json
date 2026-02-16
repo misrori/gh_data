@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SFNC",
         "name": "Simmons First National Corporation",
-        "collected_at": "2026-02-15T02:06:02.594Z",
+        "collected_at": "2026-02-16T02:05:47.837Z",
         "data_start_date": "2016-02-15",
         "price": 21.360000610351562,
         "change": 0,
-        "volume": 817003,
+        "volume": 869686,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 242,

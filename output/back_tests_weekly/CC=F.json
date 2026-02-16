@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CC=F",
         "name": "Cocoa",
-        "collected_at": "2026-02-15T02:10:05.635Z",
+        "collected_at": "2026-02-16T02:09:51.098Z",
         "data_start_date": "2016-02-15",
         "price": 3589,
         "change": 0.2234012845573862,
-        "volume": 17702,
+        "volume": 0,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 109,

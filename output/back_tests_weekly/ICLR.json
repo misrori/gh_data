@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ICLR",
         "name": "ICON plc",
-        "collected_at": "2026-02-15T02:04:08.719Z",
+        "collected_at": "2026-02-16T02:03:55.205Z",
         "data_start_date": "2016-02-15",
         "price": 93,
         "change": 0,
-        "volume": 14177581,
+        "volume": 14188052,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 424,

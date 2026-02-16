@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INMD",
         "name": "InMode Ltd.",
-        "collected_at": "2026-02-15T02:08:47.690Z",
+        "collected_at": "2026-02-16T02:08:33.599Z",
         "data_start_date": "2019-08-05",
         "price": 14.300000190734863,
         "change": 0,
-        "volume": 682383,
+        "volume": 752343,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 858,

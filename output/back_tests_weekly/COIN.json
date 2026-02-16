@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COIN",
         "name": "Coinbase Global, Inc. - 3",
-        "collected_at": "2026-02-15T02:01:28.783Z",
+        "collected_at": "2026-02-16T02:01:22.946Z",
         "data_start_date": "2021-04-12",
         "price": 164.32000732421875,
         "change": 0,
-        "volume": 31884824,
+        "volume": 32410122,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

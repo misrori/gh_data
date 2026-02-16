@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NNNN",
         "name": "Anbio Biotechnology",
-        "collected_at": "2026-02-15T02:05:47.623Z",
+        "collected_at": "2026-02-16T02:05:33.372Z",
         "data_start_date": "2025-02-17",
         "price": 24.200000762939453,
         "change": 0,
-        "volume": 130411,
+        "volume": 130494,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

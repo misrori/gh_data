@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TLN",
         "name": "Talen Energy Corporation",
-        "collected_at": "2026-02-15T02:02:40.869Z",
+        "collected_at": "2026-02-16T02:02:28.370Z",
         "data_start_date": "2023-05-29",
         "price": 376.70001220703125,
         "change": 0,
-        "volume": 663218,
+        "volume": 663514,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 795,

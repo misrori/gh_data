@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INTA",
         "name": "Intapp, Inc.",
-        "collected_at": "2026-02-15T02:07:06.888Z",
+        "collected_at": "2026-02-16T02:06:52.851Z",
         "data_start_date": "2021-06-28",
         "price": 23.229999542236328,
         "change": 0,
-        "volume": 2558749,
+        "volume": 2605791,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 123,

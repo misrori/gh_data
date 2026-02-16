@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRST",
         "name": "TrustCo Bank Corp NY",
-        "collected_at": "2026-02-15T02:08:58.501Z",
+        "collected_at": "2026-02-16T02:08:44.142Z",
         "data_start_date": "2016-02-15",
         "price": 45.720001220703125,
         "change": 0,
-        "volume": 81304,
+        "volume": 83094,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 221,

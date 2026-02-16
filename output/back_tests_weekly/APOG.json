@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APOG",
         "name": "Apogee Enterprises, Inc.",
-        "collected_at": "2026-02-15T02:08:49.990Z",
+        "collected_at": "2026-02-16T02:08:35.647Z",
         "data_start_date": "2016-02-15",
         "price": 41.439998626708984,
         "change": 0,
-        "volume": 164748,
+        "volume": 167374,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

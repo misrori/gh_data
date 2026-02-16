@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BLMN",
         "name": "Bloomin' Brands, Inc.",
-        "collected_at": "2026-02-15T02:09:56.333Z",
+        "collected_at": "2026-02-16T02:09:42.002Z",
         "data_start_date": "2016-02-15",
         "price": 6.25,
         "change": 0,
-        "volume": 3042156,
+        "volume": 3071441,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 599,

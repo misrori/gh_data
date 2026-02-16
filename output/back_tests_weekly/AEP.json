@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AEP",
         "name": "American Electric Power Company, Inc.",
-        "collected_at": "2026-02-15T02:01:06.195Z",
+        "collected_at": "2026-02-16T02:01:00.514Z",
         "data_start_date": "2016-02-15",
         "price": 129.94000244140625,
         "change": 0,
-        "volume": 4671221,
+        "volume": 4671858,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 578,

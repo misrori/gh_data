@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALTI",
         "name": "AlTi Global, Inc.",
-        "collected_at": "2026-02-15T02:09:31.136Z",
+        "collected_at": "2026-02-16T02:09:17.009Z",
         "data_start_date": "2021-04-26",
         "price": 4.380000114440918,
         "change": 0,
-        "volume": 70405,
+        "volume": 71405,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

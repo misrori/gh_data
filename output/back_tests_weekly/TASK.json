@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TASK",
         "name": "TaskUs, Inc.",
-        "collected_at": "2026-02-15T02:08:47.897Z",
+        "collected_at": "2026-02-16T02:08:33.750Z",
         "data_start_date": "2021-06-07",
         "price": 10.020000457763672,
         "change": 0,
-        "volume": 312148,
+        "volume": 322366,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

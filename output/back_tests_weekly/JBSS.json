@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JBSS",
         "name": "John B. Sanfilippo & Son, Inc.",
-        "collected_at": "2026-02-15T02:08:43.562Z",
+        "collected_at": "2026-02-16T02:08:29.557Z",
         "data_start_date": "2016-02-15",
         "price": 80.12000274658203,
         "change": 0,
-        "volume": 50620,
+        "volume": 51452,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

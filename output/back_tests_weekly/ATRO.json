@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATRO",
         "name": "Astronics Corporation",
-        "collected_at": "2026-02-15T02:06:19.914Z",
+        "collected_at": "2026-02-16T02:06:06.086Z",
         "data_start_date": "2016-02-15",
         "price": 76.94000244140625,
         "change": 0,
-        "volume": 364280,
+        "volume": 368474,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 347,

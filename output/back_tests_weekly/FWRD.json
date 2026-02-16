@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FWRD",
         "name": "Forward Air Corporation",
-        "collected_at": "2026-02-15T02:08:58.943Z",
+        "collected_at": "2026-02-16T02:08:44.651Z",
         "data_start_date": "2016-02-15",
         "price": 26.809999465942383,
         "change": 0,
-        "volume": 496764,
+        "volume": 498000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 900,

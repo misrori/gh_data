@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DORM",
         "name": "Dorman Products, Inc.",
-        "collected_at": "2026-02-15T02:05:26.937Z",
+        "collected_at": "2026-02-16T02:05:12.792Z",
         "data_start_date": "2016-02-15",
         "price": 131.1699981689453,
         "change": 0,
-        "volume": 129536,
+        "volume": 134100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 641,

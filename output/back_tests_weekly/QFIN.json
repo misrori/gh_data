@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QFIN",
         "name": "Qfin Holdings, Inc.",
-        "collected_at": "2026-02-15T02:07:18.197Z",
+        "collected_at": "2026-02-16T02:07:03.819Z",
         "data_start_date": "2018-12-10",
         "price": 15.550000190734863,
         "change": 0,
-        "volume": 1137574,
+        "volume": 1144533,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

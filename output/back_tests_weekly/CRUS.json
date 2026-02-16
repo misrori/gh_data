@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRUS",
         "name": "Cirrus Logic, Inc.",
-        "collected_at": "2026-02-15T02:04:03.980Z",
+        "collected_at": "2026-02-16T02:03:50.824Z",
         "data_start_date": "2016-02-15",
         "price": 144.625,
         "change": -0.0034604733758774623,
-        "volume": 539774,
+        "volume": 675719,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

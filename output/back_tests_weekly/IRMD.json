@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IRMD",
         "name": "iRadimed Corporation",
-        "collected_at": "2026-02-15T02:08:07.200Z",
+        "collected_at": "2026-02-16T02:07:52.884Z",
         "data_start_date": "2016-02-15",
         "price": 99.80999755859375,
         "change": 0,
-        "volume": 56999,
+        "volume": 58250,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1054,

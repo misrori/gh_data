@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KMB",
         "name": "Kimberly-Clark Corporation",
-        "collected_at": "2026-02-15T02:01:39.200Z",
+        "collected_at": "2026-02-16T02:01:32.562Z",
         "data_start_date": "2016-02-15",
         "price": 109.41000366210938,
         "change": 0,
-        "volume": 5231980,
+        "volume": 5233716,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 165,

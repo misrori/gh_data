@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OMCL",
         "name": "Omnicell, Inc.",
-        "collected_at": "2026-02-15T02:07:30.073Z",
+        "collected_at": "2026-02-16T02:07:15.620Z",
         "data_start_date": "2016-02-15",
         "price": 36.5,
         "change": 0,
-        "volume": 507729,
+        "volume": 531798,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 18,

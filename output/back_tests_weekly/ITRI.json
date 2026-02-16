@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ITRI",
         "name": "Itron, Inc.",
-        "collected_at": "2026-02-15T02:05:24.894Z",
+        "collected_at": "2026-02-16T02:05:10.729Z",
         "data_start_date": "2016-02-15",
         "price": 89.36000061035156,
         "change": 0,
-        "volume": 2224518,
+        "volume": 2273221,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

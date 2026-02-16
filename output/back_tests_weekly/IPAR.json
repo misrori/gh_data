@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IPAR",
         "name": "Interparfums, Inc.",
-        "collected_at": "2026-02-15T02:05:55.218Z",
+        "collected_at": "2026-02-16T02:05:40.386Z",
         "data_start_date": "2016-02-15",
         "price": 102.23999786376953,
         "change": 0,
-        "volume": 151290,
+        "volume": 153377,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 186,

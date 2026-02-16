@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FFBC",
         "name": "First Financial Bancorp.",
-        "collected_at": "2026-02-15T02:05:58.498Z",
+        "collected_at": "2026-02-16T02:05:43.663Z",
         "data_start_date": "2016-02-15",
         "price": 30.309999465942383,
         "change": 0,
-        "volume": 587967,
+        "volume": 606578,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

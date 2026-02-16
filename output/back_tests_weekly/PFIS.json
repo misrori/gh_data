@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PFIS",
         "name": "Peoples Financial Services Corp.",
-        "collected_at": "2026-02-15T02:09:48.081Z",
+        "collected_at": "2026-02-16T02:09:33.696Z",
         "data_start_date": "2016-02-15",
         "price": 56.880001068115234,
         "change": 0,
-        "volume": 12250,
+        "volume": 12376,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 277,

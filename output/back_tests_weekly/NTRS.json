@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NTRS",
         "name": "Northern Trust Corporation",
-        "collected_at": "2026-02-15T02:01:56.502Z",
+        "collected_at": "2026-02-16T02:01:49.603Z",
         "data_start_date": "2016-02-15",
         "price": 146.3800048828125,
         "change": 0,
-        "volume": 883406,
+        "volume": 924796,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 522,

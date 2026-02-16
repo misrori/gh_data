@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FISI",
         "name": "Financial Institutions, Inc.",
-        "collected_at": "2026-02-15T02:09:22.717Z",
+        "collected_at": "2026-02-16T02:09:08.774Z",
         "data_start_date": "2016-02-15",
         "price": 34.40999984741211,
         "change": 0,
-        "volume": 86259,
+        "volume": 97074,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 529,

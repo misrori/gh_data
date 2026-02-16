@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MRNA",
         "name": "Moderna, Inc.",
-        "collected_at": "2026-02-15T02:02:44.116Z",
+        "collected_at": "2026-02-16T02:02:31.598Z",
         "data_start_date": "2018-12-03",
         "price": 42.22999954223633,
         "change": 0,
-        "volume": 16329314,
+        "volume": 16336584,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 543,

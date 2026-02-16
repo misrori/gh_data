@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VEON",
         "name": "VEON Ltd.",
-        "collected_at": "2026-02-15T02:05:42.890Z",
+        "collected_at": "2026-02-16T02:05:28.840Z",
         "data_start_date": "2016-02-15",
         "price": 52.45000076293945,
         "change": 0,
-        "volume": 75733,
+        "volume": 75782,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 718,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PLXS",
         "name": "Plexus Corp.",
-        "collected_at": "2026-02-15T02:04:45.808Z",
+        "collected_at": "2026-02-16T02:04:31.903Z",
         "data_start_date": "2016-02-15",
         "price": 201.27999877929688,
         "change": 0,
-        "volume": 313745,
+        "volume": 318405,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 655,

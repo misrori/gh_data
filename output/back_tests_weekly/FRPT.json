@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FRPT",
         "name": "Freshpet, Inc.",
-        "collected_at": "2026-02-15T02:05:54.003Z",
+        "collected_at": "2026-02-16T02:05:39.233Z",
         "data_start_date": "2016-02-15",
         "price": 67.72000122070312,
         "change": 0,
-        "volume": 958708,
+        "volume": 981338,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 270,

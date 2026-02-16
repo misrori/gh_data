@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INCY",
         "name": "Incyte Corporation",
-        "collected_at": "2026-02-15T02:02:27.684Z",
+        "collected_at": "2026-02-16T02:02:15.371Z",
         "data_start_date": "2016-02-15",
         "price": 101.0999984741211,
         "change": 0,
-        "volume": 1340568,
+        "volume": 1384666,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 235,

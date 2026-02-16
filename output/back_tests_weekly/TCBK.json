@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TCBK",
         "name": "TriCo Bancshares",
-        "collected_at": "2026-02-15T02:07:30.604Z",
+        "collected_at": "2026-02-16T02:07:16.219Z",
         "data_start_date": "2016-02-15",
         "price": 50.29999923706055,
         "change": 0,
-        "volume": 141690,
+        "volume": 156715,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

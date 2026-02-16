@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MANH",
         "name": "Manhattan Associates, Inc.",
-        "collected_at": "2026-02-15T02:03:50.121Z",
+        "collected_at": "2026-02-16T02:03:36.429Z",
         "data_start_date": "2016-02-15",
         "price": 140.4499969482422,
         "change": 0,
-        "volume": 975033,
+        "volume": 990807,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

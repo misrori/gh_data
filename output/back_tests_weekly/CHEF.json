@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHEF",
         "name": "The Chefs' Warehouse, Inc.",
-        "collected_at": "2026-02-15T02:06:18.328Z",
+        "collected_at": "2026-02-16T02:06:04.522Z",
         "data_start_date": "2016-02-15",
         "price": 68.44000244140625,
         "change": 0,
-        "volume": 240424,
+        "volume": 246287,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 690,

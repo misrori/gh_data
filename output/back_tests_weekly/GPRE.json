@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GPRE",
         "name": "Green Plains, Inc.",
-        "collected_at": "2026-02-15T02:08:39.774Z",
+        "collected_at": "2026-02-16T02:08:25.868Z",
         "data_start_date": "2016-02-15",
         "price": 13.699999809265137,
         "change": 0,
-        "volume": 1740693,
+        "volume": 1741678,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

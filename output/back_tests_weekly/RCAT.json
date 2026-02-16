@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RCAT",
         "name": "Red Cat Holdings, Inc.",
-        "collected_at": "2026-02-15T02:07:55.965Z",
+        "collected_at": "2026-02-16T02:07:41.296Z",
         "data_start_date": "2016-02-15",
         "price": 11.369999885559082,
         "change": 0,
-        "volume": 5979131,
+        "volume": 6005730,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 557,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": 115,
         "ml_direction": 1,
-        "ml_value": 7.692535943325629,
+        "ml_value": 7.692535943325637,
         "ml_last_change_date": "2025-07-14",
         "ml_last_change_price": 11.5,
         "ml_change_percent_from_last_change": -1.1304357777471075

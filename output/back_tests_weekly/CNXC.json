@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNXC",
         "name": "Concentrix Corporation",
-        "collected_at": "2026-02-15T02:07:06.654Z",
+        "collected_at": "2026-02-16T02:06:52.702Z",
         "data_start_date": "2020-11-23",
         "price": 30.385000228881836,
         "change": 0,
-        "volume": 2296236,
+        "volume": 2319137,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1285,

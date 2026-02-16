@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COHU",
         "name": "Cohu, Inc.",
-        "collected_at": "2026-02-15T02:07:50.177Z",
+        "collected_at": "2026-02-16T02:07:35.469Z",
         "data_start_date": "2016-02-15",
         "price": 30.600000381469727,
         "change": 0,
-        "volume": 3443895,
+        "volume": 3453728,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 0,

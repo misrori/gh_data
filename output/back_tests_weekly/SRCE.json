@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SRCE",
         "name": "1st Source Corporation",
-        "collected_at": "2026-02-15T02:07:21.214Z",
+        "collected_at": "2026-02-16T02:07:06.912Z",
         "data_start_date": "2016-02-15",
         "price": 70.47000122070312,
         "change": 0,
-        "volume": 126472,
+        "volume": 127372,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 781,

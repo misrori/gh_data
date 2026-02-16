@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZBRA",
         "name": "Zebra Technologies Corporation",
-        "collected_at": "2026-02-15T02:03:04.374Z",
+        "collected_at": "2026-02-16T02:02:51.746Z",
         "data_start_date": "2016-02-15",
         "price": 264.6199951171875,
         "change": 0,
-        "volume": 982961,
+        "volume": 983005,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 284,

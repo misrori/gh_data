@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MGNI",
         "name": "Magnite, Inc.",
-        "collected_at": "2026-02-15T02:07:24.689Z",
+        "collected_at": "2026-02-16T02:07:10.500Z",
         "data_start_date": "2016-02-15",
         "price": 11.699999809265137,
         "change": 0,
-        "volume": 1283878,
+        "volume": 1365224,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

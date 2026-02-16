@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INDI",
         "name": "indie Semiconductor, Inc.",
-        "collected_at": "2026-02-15T02:09:00.785Z",
+        "collected_at": "2026-02-16T02:08:46.645Z",
         "data_start_date": "2019-09-30",
         "price": 3.75,
         "change": 0,
-        "volume": 3077658,
+        "volume": 3103193,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 123,

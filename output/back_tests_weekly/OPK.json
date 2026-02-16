@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OPK",
         "name": "Opko Health, Inc.",
-        "collected_at": "2026-02-15T02:08:41.673Z",
+        "collected_at": "2026-02-16T02:08:27.685Z",
         "data_start_date": "2016-02-15",
         "price": 1.2300000190734863,
         "change": 0,
-        "volume": 2131092,
+        "volume": 2144684,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 249,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.2405,
         "number_of_employees": 2997,
         "ml_direction": -1,
-        "ml_value": 1.5569346904823358,
+        "ml_value": 1.5569346904823356,
         "ml_last_change_date": "2025-04-28",
         "ml_last_change_price": 1.3799999952316284,
         "ml_change_percent_from_last_change": -10.869563527278503

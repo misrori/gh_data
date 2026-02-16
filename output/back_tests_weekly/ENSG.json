@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENSG",
         "name": "The Ensign Group, Inc.",
-        "collected_at": "2026-02-15T02:03:08.951Z",
+        "collected_at": "2026-02-16T02:02:55.969Z",
         "data_start_date": "2016-02-15",
         "price": 213.33999633789062,
         "change": 0,
-        "volume": 427340,
+        "volume": 435529,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1278,

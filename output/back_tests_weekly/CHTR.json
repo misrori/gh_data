@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHTR",
         "name": "Charter Communications, Inc.",
-        "collected_at": "2026-02-15T02:01:43.284Z",
+        "collected_at": "2026-02-16T02:01:36.315Z",
         "data_start_date": "2016-02-15",
         "price": 239.08999633789062,
         "change": 0,
-        "volume": 1699656,
+        "volume": 1699721,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 179,

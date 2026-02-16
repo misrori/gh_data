@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SNPS",
         "name": "Synopsys, Inc.",
-        "collected_at": "2026-02-15T02:00:57.968Z",
+        "collected_at": "2026-02-16T02:00:52.362Z",
         "data_start_date": "2016-02-15",
         "price": 437.0899963378906,
         "change": 0,
-        "volume": 1735460,
+        "volume": 1739099,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

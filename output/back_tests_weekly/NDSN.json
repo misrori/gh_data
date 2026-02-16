@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NDSN",
         "name": "Nordson Corporation",
-        "collected_at": "2026-02-15T02:02:43.200Z",
+        "collected_at": "2026-02-16T02:02:30.658Z",
         "data_start_date": "2016-02-15",
         "price": 298.19000244140625,
         "change": 0,
-        "volume": 446080,
+        "volume": 460535,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

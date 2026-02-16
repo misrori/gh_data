@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RMR",
         "name": "The RMR Group Inc.",
-        "collected_at": "2026-02-15T02:09:54.574Z",
+        "collected_at": "2026-02-16T02:09:40.218Z",
         "data_start_date": "2016-02-15",
         "price": 17.040000915527344,
         "change": 0,
-        "volume": 137208,
+        "volume": 137574,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 452,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TTD",
         "name": "The Trade Desk, Inc.",
-        "collected_at": "2026-02-15T02:03:07.811Z",
+        "collected_at": "2026-02-16T02:02:54.907Z",
         "data_start_date": "2016-09-19",
         "price": 25.809999465942383,
         "change": 0,
-        "volume": 13186064,
+        "volume": 13286151,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

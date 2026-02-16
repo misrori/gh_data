@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CASS",
         "name": "Cass Information Systems, Inc",
-        "collected_at": "2026-02-15T02:09:42.675Z",
+        "collected_at": "2026-02-16T02:09:28.397Z",
         "data_start_date": "2016-02-15",
         "price": 45.01499938964844,
         "change": -0.011108547455316482,
-        "volume": 50424,
+        "volume": 50625,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

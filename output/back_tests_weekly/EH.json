@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EH",
         "name": "EHang Holdings Limited",
-        "collected_at": "2026-02-15T02:08:59.560Z",
+        "collected_at": "2026-02-16T02:08:45.351Z",
         "data_start_date": "2019-12-09",
         "price": 11.579999923706055,
         "change": 0,
-        "volume": 293796,
+        "volume": 293879,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,
