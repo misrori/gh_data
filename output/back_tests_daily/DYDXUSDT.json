@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DYDXUSDT",
         "name": "dYdX",
-        "collected_at": "2026-02-17T10:48:07.606Z",
+        "collected_at": "2026-02-17T11:48:11.238Z",
         "data_start_date": "2021-09-09",
         "price": 0.1052,
         "change": -3.663003663003666,
-        "volume": 2256095.22,
+        "volume": 2724655.46,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.13632682126724793,
+        "ml_value": 0.13633967841010508,
         "ml_last_change_date": "2026-01-20",
         "ml_last_change_price": 0.1686,
         "ml_change_percent_from_last_change": -37.60379596678529
