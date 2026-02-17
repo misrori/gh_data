@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COIN",
         "name": "Coinbase Global, Inc. - 3",
-        "collected_at": "2026-02-16T02:01:22.875Z",
+        "collected_at": "2026-02-17T02:01:26.730Z",
         "data_start_date": "2021-04-14",
         "price": 164.32000732421875,
         "change": 16.464676156554383,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:COIN",
-        "market_capitalization": 43393625599.99999,
+        "market_capitalization": 43392786089.12,
         "commodity_name": null,
         "display_name": "Coinbase Global, Inc. - 3",
         "sma_50": 226.76279815673828,

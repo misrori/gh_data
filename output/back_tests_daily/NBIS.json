@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NBIS",
         "name": "Nebius Group N.V.",
-        "collected_at": "2026-02-16T02:02:00.383Z",
+        "collected_at": "2026-02-17T02:02:04.338Z",
         "data_start_date": "2024-10-21",
         "price": 98.01000213623047,
         "change": 9.227681343508012,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:NBIS",
-        "market_capitalization": 24679626962,
+        "market_capitalization": 24670140476,
         "commodity_name": null,
         "display_name": "Nebius Group N.V.",
         "sma_50": 92.73440032958985,
