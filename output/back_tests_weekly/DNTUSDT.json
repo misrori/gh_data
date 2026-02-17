@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DNTUSDT",
         "name": "district0x",
-        "collected_at": "2026-02-17T17:49:05.417Z",
+        "collected_at": "2026-02-17T18:48:47.339Z",
         "data_start_date": "2020-11-09",
         "price": 0.036,
         "change": 18.421052631578938,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:DNTUSD",
-        "market_capitalization": 11200000,
+        "market_capitalization": 11300000,
         "commodity_name": null,
         "display_name": "district0x",
         "sma_50": 0.077576,
