@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYNUSDT",
         "name": "SYN / USDT",
-        "collected_at": "2026-02-17T01:49:04.102Z",
+        "collected_at": "2026-02-17T02:48:43.870Z",
         "data_start_date": "2023-02-22",
         "price": 0.0517,
         "change": 1.1741682974559753,
-        "volume": 680010.9,
+        "volume": 973214,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.07992449319369523,
+        "ml_value": 0.07993735033655236,
         "ml_last_change_date": "2026-02-05",
         "ml_last_change_price": 0.068,
         "ml_change_percent_from_last_change": -23.970588235294123
