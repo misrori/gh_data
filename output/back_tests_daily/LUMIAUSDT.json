@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LUMIAUSDT",
         "name": "LUMIA / USDT",
-        "collected_at": "2026-02-18T02:48:00.912Z",
+        "collected_at": "2026-02-18T03:48:10.241Z",
         "data_start_date": "2024-10-18",
         "price": 0.0679,
         "change": 1.646706586826353,
-        "volume": 303755.45,
+        "volume": 403935.11,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 142,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.08702084560272688,
+        "ml_value": 0.0870594170312983,
         "ml_last_change_date": "2026-01-20",
         "ml_last_change_price": 0.107,
         "ml_change_percent_from_last_change": -36.54205607476635
