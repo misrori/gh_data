@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VICUSDT",
         "name": "VIC / USDT",
-        "collected_at": "2026-02-18T16:49:04.613Z",
+        "collected_at": "2026-02-18T17:49:03.903Z",
         "data_start_date": "2023-11-20",
         "price": 0.0502,
         "change": -5.283018867924523,
-        "volume": 46278535.47,
+        "volume": 46670997.06,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 623,
