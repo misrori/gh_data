@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "METISUSDT",
         "name": "Metis",
-        "collected_at": "2026-02-18T08:48:13.514Z",
+        "collected_at": "2026-02-18T09:48:03.883Z",
         "data_start_date": "2024-03-11",
         "price": 3.73,
         "change": 3.0386740331491677,
-        "volume": 128922.822,
+        "volume": 134224.444,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 173,
