@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UNIUSDT",
         "name": "Uniswap",
-        "collected_at": "2026-02-19T02:45:30.882Z",
+        "collected_at": "2026-02-19T03:45:36.389Z",
         "data_start_date": "2020-09-14",
         "price": 3.415,
         "change": -1.6133679055027383,
-        "volume": 11492868.21,
+        "volume": 11573977.54,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 119,
