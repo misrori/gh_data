@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PYRUSDT",
         "name": "Vulcan Forged (PYR)",
-        "collected_at": "2026-02-20T19:48:52.985Z",
+        "collected_at": "2026-02-20T20:48:46.595Z",
         "data_start_date": "2021-11-26",
         "price": 0.328,
         "change": 0.9230769230769239,
-        "volume": 1969236.868,
+        "volume": 2021102.285,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 147,
