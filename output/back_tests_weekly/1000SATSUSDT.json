@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "1000SATSUSDT",
         "name": "1000SATS / USDT",
-        "collected_at": "2026-02-20T00:48:51.698Z",
+        "collected_at": "2026-02-20T01:49:11.116Z",
         "data_start_date": "2023-12-11",
         "price": 0.00001105,
         "change": -4.741379310344841,
-        "volume": 294265123713,
+        "volume": 294935550345,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 602,

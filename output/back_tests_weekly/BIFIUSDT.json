@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIFIUSDT",
         "name": "BIFI / USDT",
-        "collected_at": "2026-02-20T00:47:36.794Z",
+        "collected_at": "2026-02-20T01:47:43.729Z",
         "data_start_date": "2022-03-28",
         "price": 122.5,
         "change": 0.7401315789473731,
-        "volume": 18793.638,
+        "volume": 18821.457,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 56,
