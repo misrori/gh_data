@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACEUSDT",
         "name": "Fusionist",
-        "collected_at": "2026-02-20T01:48:49.506Z",
+        "collected_at": "2026-02-20T02:49:10.549Z",
         "data_start_date": "2023-12-18",
         "price": 0.161,
         "change": -4.16666666666667,
-        "volume": 32469269.6,
+        "volume": 32493833.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 595,
