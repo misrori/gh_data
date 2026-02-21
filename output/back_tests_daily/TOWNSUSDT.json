@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TOWNSUSDT",
         "name": "TOWNS / USDT",
-        "collected_at": "2026-02-21T04:48:35.473Z",
+        "collected_at": "2026-02-21T05:48:27.202Z",
         "data_start_date": "2025-08-05",
         "price": 0.00373,
         "change": 0.2688172043010643,
-        "volume": 19156130,
+        "volume": 19212151,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 172,
