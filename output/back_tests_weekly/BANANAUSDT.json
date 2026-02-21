@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BANANAUSDT",
         "name": "Banana Gun",
-        "collected_at": "2026-02-21T03:48:06.362Z",
+        "collected_at": "2026-02-21T04:47:59.857Z",
         "data_start_date": "2024-07-15",
         "price": 4.56,
         "change": -0.8695652173913052,
-        "volume": 612623.353,
+        "volume": 615081.839,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 385,
