@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZROUSDT",
         "name": "LayerZero",
-        "collected_at": "2026-02-21T07:45:39.743Z",
+        "collected_at": "2026-02-21T08:45:37.812Z",
         "data_start_date": "2024-06-17",
         "price": 1.679,
         "change": -3.9473684210526288,
-        "volume": 30844113.74,
+        "volume": 31018559.59,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 350,
