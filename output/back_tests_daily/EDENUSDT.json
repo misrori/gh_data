@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EDENUSDT",
         "name": "EDEN / USDT",
-        "collected_at": "2026-02-21T22:48:28.888Z",
+        "collected_at": "2026-02-21T23:48:55.392Z",
         "data_start_date": "2025-09-30",
         "price": 0.0351,
         "change": -2.2284122562674153,
-        "volume": 14599243.9,
+        "volume": 14865012.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 116,
