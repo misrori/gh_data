@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JPST",
         "name": "JPMorgan Ultra-Short Income ETF",
-        "collected_at": "2026-02-21T02:10:26.508Z",
+        "collected_at": "2026-02-22T02:10:26.821Z",
         "data_start_date": "2017-05-19",
         "price": 50.72999954223633,
         "change": 0.0197127785736763,
-        "volume": 5627298,
+        "volume": 5705900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 29,

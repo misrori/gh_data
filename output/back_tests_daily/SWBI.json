@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SWBI",
         "name": "Smith & Wesson Brands, Inc.",
-        "collected_at": "2026-02-21T02:09:55.917Z",
-        "data_start_date": "2016-02-24",
+        "collected_at": "2026-02-22T02:09:55.922Z",
+        "data_start_date": "2016-02-25",
         "price": 12.010000228881836,
         "change": 0,
-        "volume": 453028,
+        "volume": 460500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 73,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.2249,
         "number_of_employees": 1416,
         "ml_direction": 1,
-        "ml_value": 10.99136622152945,
+        "ml_value": 10.99135346954145,
         "ml_last_change_date": "2026-01-09",
         "ml_last_change_price": 10.84000015258789,
         "ml_change_percent_from_last_change": 10.793358485466676

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BWIN",
         "name": "The Baldwin Insurance Group, Inc.",
-        "collected_at": "2026-02-21T02:06:37.641Z",
+        "collected_at": "2026-02-22T02:06:33.852Z",
         "data_start_date": "2019-10-24",
         "price": 16.530000686645508,
         "change": 0,
-        "volume": 830987,
+        "volume": 831000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 205,

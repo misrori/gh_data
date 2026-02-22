@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AROC",
         "name": "Archrock, Inc.",
-        "collected_at": "2026-02-21T02:04:34.469Z",
-        "data_start_date": "2016-02-24",
+        "collected_at": "2026-02-22T02:04:31.188Z",
+        "data_start_date": "2016-02-25",
         "price": 32.869998931884766,
         "change": 0,
-        "volume": 1434638,
+        "volume": 1459300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 71,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.5042,
         "number_of_employees": 1300,
         "ml_direction": 1,
-        "ml_value": 30.094810304418875,
+        "ml_value": 30.09545329889083,
         "ml_last_change_date": "2025-12-10",
         "ml_last_change_price": 25.93000030517578,
         "ml_change_percent_from_last_change": 26.76435998854856

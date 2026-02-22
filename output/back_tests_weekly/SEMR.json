@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SEMR",
         "name": "SEMrush Holdings, Inc.",
-        "collected_at": "2026-02-21T02:07:16.326Z",
+        "collected_at": "2026-02-22T02:07:13.417Z",
         "data_start_date": "2021-03-22",
         "price": 11.819999694824219,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.0301,
         "number_of_employees": 1561,
         "ml_direction": 1,
-        "ml_value": 10.37440273057384,
+        "ml_value": 10.372694528211778,
         "ml_last_change_date": "2025-11-17",
         "ml_last_change_price": 11.789999961853027,
         "ml_change_percent_from_last_change": 0.25445066215654677

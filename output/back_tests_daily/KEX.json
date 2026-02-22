@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KEX",
         "name": "Kirby Corporation",
-        "collected_at": "2026-02-21T02:04:08.523Z",
-        "data_start_date": "2016-02-24",
+        "collected_at": "2026-02-22T02:04:04.661Z",
+        "data_start_date": "2016-02-25",
         "price": 130.94000244140625,
         "change": 2.0338195068270983,
-        "volume": 353761,
+        "volume": 504200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 99,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:KEX",
-        "market_capitalization": 7024407327.7490835,
+        "market_capitalization": 7024407359,
         "commodity_name": null,
         "display_name": "Kirby Corporation",
         "sma_50": 119.81580032348633,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 6.3708,
         "number_of_employees": 5233,
         "ml_direction": 1,
-        "ml_value": 119.64877311695452,
+        "ml_value": 119.58577437253487,
         "ml_last_change_date": "2026-02-19",
-        "ml_last_change_price": 128.6750030517578,
-        "ml_change_percent_from_last_change": 1.7602481724732222
+        "ml_last_change_price": 128.67999267578125,
+        "ml_change_percent_from_last_change": 1.7563023735315708
     }
 }

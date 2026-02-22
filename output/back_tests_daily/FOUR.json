@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FOUR",
         "name": "Shift4 Payments, Inc.",
-        "collected_at": "2026-02-21T02:04:49.765Z",
+        "collected_at": "2026-02-22T02:04:46.652Z",
         "data_start_date": "2020-06-05",
         "price": 58.4900016784668,
         "change": 0,
-        "volume": 1610432,
+        "volume": 1610400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 183,

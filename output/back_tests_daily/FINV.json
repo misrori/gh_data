@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FINV",
         "name": "FinVolution Group",
-        "collected_at": "2026-02-21T02:07:50.739Z",
+        "collected_at": "2026-02-22T02:07:48.216Z",
         "data_start_date": "2017-11-09",
         "price": 5.71999979019165,
         "change": 0,
-        "volume": 768914,
+        "volume": 810000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 1,

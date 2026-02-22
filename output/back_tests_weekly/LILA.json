@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LILA",
         "name": "Liberty Latin America Ltd.",
-        "collected_at": "2026-02-21T02:07:33.169Z",
+        "collected_at": "2026-02-22T02:07:29.627Z",
         "data_start_date": "2016-02-22",
         "price": 8.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Major Telecommunications",
         "tradingview_id": "NASDAQ:LILA",
-        "market_capitalization": 1616272027,
+        "market_capitalization": 1619448100,
         "commodity_name": null,
         "display_name": "Liberty Latin America Ltd.",
         "sma_50": 7.063100023269653,

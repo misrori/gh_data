@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FLYW",
         "name": "Flywire Corporation - Voting",
-        "collected_at": "2026-02-21T02:07:57.106Z",
+        "collected_at": "2026-02-22T02:07:54.702Z",
         "data_start_date": "2021-05-26",
         "price": 11.229999542236328,
         "change": 0,
-        "volume": 995540,
+        "volume": 995500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

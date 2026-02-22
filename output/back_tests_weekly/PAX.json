@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PAX",
         "name": "Patria Investments Limited",
-        "collected_at": "2026-02-21T02:06:45.096Z",
+        "collected_at": "2026-02-22T02:06:41.212Z",
         "data_start_date": "2021-01-18",
         "price": 14,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.5384,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 17.15045359737638,
+        "ml_value": 17.15899444628354,
         "ml_last_change_date": "2026-02-02",
         "ml_last_change_price": 14.220000267028809,
         "ml_change_percent_from_last_change": -1.5471185857774739

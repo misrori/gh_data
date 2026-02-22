@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BWIN",
         "name": "The Baldwin Insurance Group, Inc.",
-        "collected_at": "2026-02-21T02:06:37.716Z",
+        "collected_at": "2026-02-22T02:06:33.925Z",
         "data_start_date": "2019-10-21",
         "price": 16.530000686645508,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.4197,
         "number_of_employees": 4116,
         "ml_direction": -1,
-        "ml_value": 25.973161260095253,
+        "ml_value": 25.983410474267615,
         "ml_last_change_date": "2024-12-09",
         "ml_last_change_price": 40.779998779296875,
         "ml_change_percent_from_last_change": -59.46542133042576

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DV",
         "name": "DoubleVerify Holdings, Inc.",
-        "collected_at": "2026-02-21T02:07:40.416Z",
+        "collected_at": "2026-02-22T02:07:37.836Z",
         "data_start_date": "2021-04-19",
         "price": 9.59000015258789,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.2696,
         "number_of_employees": 1197,
         "ml_direction": -1,
-        "ml_value": 12.509683886746702,
+        "ml_value": 12.542993018291165,
         "ml_last_change_date": "2025-02-24",
         "ml_last_change_price": 13.8100004196167,
         "ml_change_percent_from_last_change": -30.557567985547795

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LIF",
         "name": "Life360, Inc.",
-        "collected_at": "2026-02-21T02:05:29.764Z",
+        "collected_at": "2026-02-22T02:05:26.004Z",
         "data_start_date": "2024-06-03",
         "price": 50.61000061035156,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.3885,
         "number_of_employees": 569,
         "ml_direction": -1,
-        "ml_value": 76.94095718101065,
+        "ml_value": 77.04942526164804,
         "ml_last_change_date": "2025-11-10",
         "ml_last_change_price": 70.23999786376953,
         "ml_change_percent_from_last_change": -27.94703566405333

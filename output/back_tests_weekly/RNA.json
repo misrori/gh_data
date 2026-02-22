@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RNA",
         "name": "Avidity Biosciences, Inc.",
-        "collected_at": "2026-02-21T02:03:14.215Z",
+        "collected_at": "2026-02-22T02:03:10.118Z",
         "data_start_date": "2020-06-08",
         "price": 72.86000061035156,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -4.1703,
         "number_of_employees": 391,
         "ml_direction": 1,
-        "ml_value": 65.73796081552562,
+        "ml_value": 65.73539867488569,
         "ml_last_change_date": "2025-08-04",
         "ml_last_change_price": 44.459999084472656,
         "ml_change_percent_from_last_change": 63.87764757241619
