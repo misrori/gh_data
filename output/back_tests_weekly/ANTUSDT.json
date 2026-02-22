@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANTUSDT",
         "name": "Autonomi",
-        "collected_at": "2026-02-22T21:49:10.238Z",
+        "collected_at": "2026-02-22T22:49:10.622Z",
         "data_start_date": "2020-08-10",
         "price": 7.407,
         "change": 1.5492185357828414,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:ANTAUSD",
-        "market_capitalization": 26200488.006522,
+        "market_capitalization": 26198990.031152,
         "commodity_name": null,
         "display_name": "Autonomi",
         "sma_50": 4.559480000000001,
