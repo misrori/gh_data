@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IDEXUSDT",
         "name": "IDEX / USDT",
-        "collected_at": "2026-02-22T06:46:58.017Z",
+        "collected_at": "2026-02-22T07:46:45.337Z",
         "data_start_date": "2021-09-09",
         "price": 0.00662,
         "change": -7.152875175315568,
-        "volume": 24266872.3,
+        "volume": 26201229.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 135,
