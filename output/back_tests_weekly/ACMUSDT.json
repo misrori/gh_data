@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACMUSDT",
         "name": "ACM / USDT",
-        "collected_at": "2026-02-22T08:47:51.414Z",
+        "collected_at": "2026-02-22T09:47:52.735Z",
         "data_start_date": "2021-02-22",
         "price": 0.462,
         "change": -0.858369098712447,
-        "volume": 5718990.7,
+        "volume": 5735985.6,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1624,
