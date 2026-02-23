@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VOR",
         "name": "Vor Biopharma Inc.",
-        "collected_at": "2026-02-22T02:09:50.749Z",
+        "collected_at": "2026-02-23T02:09:53.655Z",
         "data_start_date": "2021-02-01",
         "price": 13.550000190734863,
         "change": 0,
-        "volume": 422102,
+        "volume": 424026,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

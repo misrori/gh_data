@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRME",
         "name": "Prime Medicine, Inc.",
-        "collected_at": "2026-02-22T02:09:42.953Z",
+        "collected_at": "2026-02-23T02:09:45.514Z",
         "data_start_date": "2022-10-17",
         "price": 3.2699999809265137,
         "change": 0,
-        "volume": 1664006,
+        "volume": 1673808,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 144,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INSM",
         "name": "Insmed Incorporated",
-        "collected_at": "2026-02-22T02:01:38.361Z",
+        "collected_at": "2026-02-23T02:01:38.389Z",
         "data_start_date": "2016-02-22",
         "price": 164.91000366210938,
         "change": 0,
-        "volume": 4122247,
+        "volume": 4138223,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 851,

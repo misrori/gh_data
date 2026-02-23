@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FRHC",
         "name": "Freedom Holding Corp.",
-        "collected_at": "2026-02-22T02:04:00.165Z",
+        "collected_at": "2026-02-23T02:04:07.177Z",
         "data_start_date": "2018-02-05",
         "price": 119.6500015258789,
         "change": 0,
-        "volume": 147194,
+        "volume": 147195,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

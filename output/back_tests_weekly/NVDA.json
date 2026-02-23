@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "collected_at": "2026-02-22T02:00:08.546Z",
+        "collected_at": "2026-02-23T02:00:07.315Z",
         "data_start_date": "2016-02-22",
         "price": 189.82000732421875,
         "change": 0,
-        "volume": 177681620,
+        "volume": 178422337,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1075,

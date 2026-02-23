@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LE=F",
         "name": "Live Cattle",
-        "collected_at": "2026-02-22T02:10:05.418Z",
+        "collected_at": "2026-02-23T02:10:09.498Z",
         "data_start_date": "2016-02-22",
         "price": 242,
         "change": -1.8554180289425335,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 223.69033939481199,
         "ml_last_change_date": "2026-02-16",
-        "ml_last_change_price": 247.5500030517578,
-        "ml_change_percent_from_last_change": -2.2419725240711896
+        "ml_last_change_price": 243.3000030517578,
+        "ml_change_percent_from_last_change": -0.5343210174482693
     }
 }

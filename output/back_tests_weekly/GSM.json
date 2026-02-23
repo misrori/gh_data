@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GSM",
         "name": "Ferroglobe PLC",
-        "collected_at": "2026-02-22T02:08:41.436Z",
+        "collected_at": "2026-02-23T02:08:45.128Z",
         "data_start_date": "2016-02-22",
         "price": 5.03000020980835,
         "change": 0,
-        "volume": 1413932,
+        "volume": 1455859,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 39,

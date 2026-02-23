@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FITB",
         "name": "Fifth Third Bancorp",
-        "collected_at": "2026-02-22T02:01:19.160Z",
+        "collected_at": "2026-02-23T02:01:18.878Z",
         "data_start_date": "2016-02-22",
         "price": 53.619998931884766,
         "change": 0,
-        "volume": 8395260,
+        "volume": 8395760,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 221,

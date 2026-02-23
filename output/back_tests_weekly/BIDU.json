@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIDU",
         "name": "Baidu, Inc.",
-        "collected_at": "2026-02-22T02:01:23.061Z",
+        "collected_at": "2026-02-23T02:01:22.836Z",
         "data_start_date": "2016-02-22",
         "price": 135.86000061035156,
         "change": 0,
-        "volume": 2264914,
+        "volume": 2269909,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 137,

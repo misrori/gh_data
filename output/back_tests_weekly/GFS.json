@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GFS",
         "name": "GlobalFoundries Inc.",
-        "collected_at": "2026-02-22T02:01:59.385Z",
+        "collected_at": "2026-02-23T02:01:59.720Z",
         "data_start_date": "2021-10-25",
         "price": 46.189998626708984,
         "change": 0,
-        "volume": 2501924,
+        "volume": 2504050,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

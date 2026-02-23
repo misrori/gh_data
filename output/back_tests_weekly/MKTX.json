@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MKTX",
         "name": "MarketAxess Holdings, Inc.",
-        "collected_at": "2026-02-22T02:04:08.907Z",
+        "collected_at": "2026-02-23T02:04:16.039Z",
         "data_start_date": "2016-02-22",
         "price": 181.22999572753906,
         "change": 0,
-        "volume": 368374,
+        "volume": 375861,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 389,

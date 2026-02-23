@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MRCY",
         "name": "Mercury Systems Inc",
-        "collected_at": "2026-02-22T02:04:44.337Z",
+        "collected_at": "2026-02-23T02:04:50.444Z",
         "data_start_date": "2016-02-22",
         "price": 87.62999725341797,
         "change": 0,
-        "volume": 290450,
+        "volume": 290463,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 396,

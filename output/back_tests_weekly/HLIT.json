@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HLIT",
         "name": "Harmonic Inc.",
-        "collected_at": "2026-02-22T02:08:11.434Z",
+        "collected_at": "2026-02-23T02:08:15.470Z",
         "data_start_date": "2016-02-22",
         "price": 10.899999618530273,
         "change": 0,
-        "volume": 2415414,
+        "volume": 2517538,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 368,

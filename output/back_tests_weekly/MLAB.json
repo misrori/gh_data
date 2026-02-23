@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MLAB",
         "name": "Mesa Laboratories, Inc.",
-        "collected_at": "2026-02-22T02:10:01.471Z",
+        "collected_at": "2026-02-23T02:10:04.667Z",
         "data_start_date": "2016-02-22",
         "price": 93.36499786376953,
         "change": -0.005360268464470204,
-        "volume": 44394,
+        "volume": 44913,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 263,

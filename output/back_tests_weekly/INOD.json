@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INOD",
         "name": "Innodata Inc.",
-        "collected_at": "2026-02-22T02:07:50.123Z",
+        "collected_at": "2026-02-23T02:07:54.150Z",
         "data_start_date": "2016-02-22",
         "price": 44.81999969482422,
         "change": 0,
-        "volume": 1081380,
+        "volume": 1085271,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 641,

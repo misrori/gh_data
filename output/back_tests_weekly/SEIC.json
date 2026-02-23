@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SEIC",
         "name": "SEI Investments Company",
-        "collected_at": "2026-02-22T02:03:24.683Z",
+        "collected_at": "2026-02-23T02:03:32.778Z",
         "data_start_date": "2016-02-22",
         "price": 81.38999938964844,
         "change": 0,
-        "volume": 552396,
+        "volume": 574516,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 802,

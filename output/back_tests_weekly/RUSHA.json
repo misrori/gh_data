@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RUSHA",
         "name": "Rush Enterprises, Inc.",
-        "collected_at": "2026-02-22T02:04:33.851Z",
+        "collected_at": "2026-02-23T02:04:40.473Z",
         "data_start_date": "2016-02-22",
         "price": 75.26000213623047,
         "change": 0,
-        "volume": 568606,
+        "volume": 581346,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

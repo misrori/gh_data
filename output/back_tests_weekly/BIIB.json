@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIIB",
         "name": "Biogen Inc.",
-        "collected_at": "2026-02-22T02:01:51.400Z",
+        "collected_at": "2026-02-23T02:01:51.448Z",
         "data_start_date": "2016-02-22",
         "price": 192.02999877929688,
         "change": 0,
-        "volume": 762787,
+        "volume": 799225,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

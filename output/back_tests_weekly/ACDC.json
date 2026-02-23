@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACDC",
         "name": "ProFrac Holding Corp.",
-        "collected_at": "2026-02-22T02:08:39.214Z",
+        "collected_at": "2026-02-23T02:08:43.123Z",
         "data_start_date": "2022-05-09",
         "price": 5.309999942779541,
         "change": 0,
-        "volume": 977132,
+        "volume": 999703,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1054,

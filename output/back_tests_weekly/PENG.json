@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PENG",
         "name": "Penguin Solutions, Inc.",
-        "collected_at": "2026-02-22T02:08:31.078Z",
+        "collected_at": "2026-02-23T02:08:35.219Z",
         "data_start_date": "2017-05-22",
         "price": 19.1200008392334,
         "change": 0,
-        "volume": 1147590,
+        "volume": 1169861,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

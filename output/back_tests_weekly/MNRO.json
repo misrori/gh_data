@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MNRO",
         "name": "Monro, Inc.",
-        "collected_at": "2026-02-22T02:09:24.553Z",
+        "collected_at": "2026-02-23T02:09:26.818Z",
         "data_start_date": "2016-02-22",
         "price": 22.790000915527344,
         "change": 0,
-        "volume": 652257,
+        "volume": 659584,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

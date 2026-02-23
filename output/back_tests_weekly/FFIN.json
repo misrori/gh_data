@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FFIN",
         "name": "First Financial Bankshares, Inc.",
-        "collected_at": "2026-02-22T02:04:58.573Z",
+        "collected_at": "2026-02-23T02:05:04.563Z",
         "data_start_date": "2016-02-22",
         "price": 33.33000183105469,
         "change": 0,
-        "volume": 875026,
+        "volume": 888484,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

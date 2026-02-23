@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCVL",
         "name": "Shoe Carnival, Inc.",
-        "collected_at": "2026-02-22T02:09:44.984Z",
+        "collected_at": "2026-02-23T02:09:47.531Z",
         "data_start_date": "2016-02-22",
         "price": 21.280000686645508,
         "change": 0,
-        "volume": 341600,
+        "volume": 349863,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 347,

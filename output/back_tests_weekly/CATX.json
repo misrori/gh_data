@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CATX",
         "name": "Perspective Therapeutics, Inc.",
-        "collected_at": "2026-02-22T02:09:33.449Z",
+        "collected_at": "2026-02-23T02:09:35.937Z",
         "data_start_date": "2016-02-22",
         "price": 5.650000095367432,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.4586,
         "number_of_employees": 140,
         "ml_direction": 1,
-        "ml_value": 2.8361732449696575,
+        "ml_value": 2.8361732449696584,
         "ml_last_change_date": "2026-02-02",
         "ml_last_change_price": 4.71999979019165,
         "ml_change_percent_from_last_change": 19.703397171931215

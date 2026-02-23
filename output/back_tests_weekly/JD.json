@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JD",
         "name": "JD.com, Inc.",
-        "collected_at": "2026-02-22T02:01:39.853Z",
+        "collected_at": "2026-02-23T02:01:39.839Z",
         "data_start_date": "2016-02-22",
         "price": 27.40999984741211,
         "change": 0,
-        "volume": 8629509,
+        "volume": 8653546,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 200,

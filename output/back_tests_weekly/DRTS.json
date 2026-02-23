@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DRTS",
         "name": "Alpha Tau Medical Ltd.",
-        "collected_at": "2026-02-22T02:09:35.047Z",
+        "collected_at": "2026-02-23T02:09:37.620Z",
         "data_start_date": "2021-03-08",
         "price": 7.320000171661377,
         "change": 0,
-        "volume": 243401,
+        "volume": 243449,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

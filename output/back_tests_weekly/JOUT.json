@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JOUT",
         "name": "Johnson Outdoors Inc.",
-        "collected_at": "2026-02-22T02:09:59.284Z",
+        "collected_at": "2026-02-23T02:10:02.319Z",
         "data_start_date": "2016-02-22",
         "price": 50.5,
         "change": 0,
-        "volume": 67479,
+        "volume": 67858,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 67,

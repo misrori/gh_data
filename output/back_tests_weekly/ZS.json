@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZS",
         "name": "Zscaler, Inc.",
-        "collected_at": "2026-02-22T02:02:00.693Z",
+        "collected_at": "2026-02-23T02:02:01.025Z",
         "data_start_date": "2018-03-12",
         "price": 159.75,
         "change": 0,
-        "volume": 3255242,
+        "volume": 3268445,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

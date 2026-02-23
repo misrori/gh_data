@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TMUS",
         "name": "T-Mobile US, Inc.",
-        "collected_at": "2026-02-22T02:00:22.543Z",
+        "collected_at": "2026-02-23T02:00:20.581Z",
         "data_start_date": "2016-02-22",
         "price": 215.4600067138672,
         "change": 0,
-        "volume": 4774835,
+        "volume": 5430100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

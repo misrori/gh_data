@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATEX",
         "name": "Anterix Inc.",
-        "collected_at": "2026-02-22T02:09:27.108Z",
+        "collected_at": "2026-02-23T02:09:29.576Z",
         "data_start_date": "2016-02-22",
         "price": 35.91999816894531,
         "change": 0,
-        "volume": 701636,
+        "volume": 703841,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

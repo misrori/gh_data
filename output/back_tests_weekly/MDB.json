@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MDB",
         "name": "MongoDB, Inc.",
-        "collected_at": "2026-02-22T02:01:52.637Z",
+        "collected_at": "2026-02-23T02:01:52.893Z",
         "data_start_date": "2017-10-16",
         "price": 344.55999755859375,
         "change": 0,
-        "volume": 1359713,
+        "volume": 1383475,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

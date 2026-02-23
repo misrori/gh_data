@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TIPT",
         "name": "Tiptree Inc.",
-        "collected_at": "2026-02-22T02:09:32.462Z",
+        "collected_at": "2026-02-23T02:09:34.859Z",
         "data_start_date": "2016-02-22",
         "price": 17.059999465942383,
         "change": 0,
-        "volume": 224501,
+        "volume": 227396,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

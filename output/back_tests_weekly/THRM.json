@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "THRM",
         "name": "Gentherm Inc",
-        "collected_at": "2026-02-22T02:08:26.663Z",
+        "collected_at": "2026-02-23T02:08:30.861Z",
         "data_start_date": "2016-02-22",
         "price": 34.11000061035156,
         "change": 0,
-        "volume": 532125,
+        "volume": 537903,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

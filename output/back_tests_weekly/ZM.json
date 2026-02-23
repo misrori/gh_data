@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZM",
         "name": "Zoom Communications, Inc.",
-        "collected_at": "2026-02-22T02:01:56.986Z",
+        "collected_at": "2026-02-23T02:01:56.999Z",
         "data_start_date": "2019-04-15",
         "price": 90.29000091552734,
         "change": 0,
-        "volume": 3023221,
+        "volume": 3061406,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 389,

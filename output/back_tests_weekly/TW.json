@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TW",
         "name": "Tradeweb Markets Inc.",
-        "collected_at": "2026-02-22T02:01:51.639Z",
+        "collected_at": "2026-02-23T02:01:51.621Z",
         "data_start_date": "2019-04-01",
         "price": 119.47000122070312,
         "change": 0,
-        "volume": 992076,
+        "volume": 1004221,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 67,

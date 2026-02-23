@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WOOF",
         "name": "Petco Health and Wellness Company, Inc.",
-        "collected_at": "2026-02-22T02:09:16.173Z",
+        "collected_at": "2026-02-23T02:09:18.496Z",
         "data_start_date": "2021-01-11",
         "price": 2.559999942779541,
         "change": 0,
-        "volume": 793993,
+        "volume": 816426,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 375,

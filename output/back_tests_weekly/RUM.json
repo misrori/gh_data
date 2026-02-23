@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RUM",
         "name": "Rumble Inc.",
-        "collected_at": "2026-02-22T02:06:24.690Z",
+        "collected_at": "2026-02-23T02:06:30.221Z",
         "data_start_date": "2021-04-12",
         "price": 5.880000114440918,
         "change": 0,
-        "volume": 1411418,
+        "volume": 1411763,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

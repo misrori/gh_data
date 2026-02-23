@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FOX",
         "name": "Fox Corporation",
-        "collected_at": "2026-02-22T02:02:10.577Z",
+        "collected_at": "2026-02-23T02:02:20.627Z",
         "data_start_date": "2019-03-11",
         "price": 52.25,
         "change": 0,
-        "volume": 1652322,
+        "volume": 1679254,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 585,

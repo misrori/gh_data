@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LCID",
         "name": "Lucid Group, Inc.",
-        "collected_at": "2026-02-22T02:05:59.965Z",
+        "collected_at": "2026-02-23T02:06:04.965Z",
         "data_start_date": "2020-09-14",
         "price": 9.550000190734863,
         "change": 0,
-        "volume": 6781971,
+        "volume": 6824000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1341,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BKR",
         "name": "Baker Hughes Company",
-        "collected_at": "2026-02-22T02:01:07.759Z",
+        "collected_at": "2026-02-23T02:01:07.637Z",
         "data_start_date": "2016-02-22",
         "price": 62.209999084472656,
         "change": 0,
-        "volume": 4236468,
+        "volume": 4399145,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 690,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NEOG",
         "name": "Neogen Corporation",
-        "collected_at": "2026-02-22T02:06:28.629Z",
+        "collected_at": "2026-02-23T02:06:33.882Z",
         "data_start_date": "2016-02-22",
         "price": 11.329999923706055,
         "change": 0,
-        "volume": 2210390,
+        "volume": 2243012,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ABNB",
         "name": "Airbnb, Inc.",
-        "collected_at": "2026-02-22T02:00:57.699Z",
+        "collected_at": "2026-02-23T02:00:56.451Z",
         "data_start_date": "2020-12-07",
         "price": 127.88999938964844,
         "change": 0,
-        "volume": 6471728,
+        "volume": 6475512,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 340,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ODFL",
         "name": "Old Dominion Freight Line, Inc.",
-        "collected_at": "2026-02-22T02:01:27.295Z",
+        "collected_at": "2026-02-23T02:01:27.182Z",
         "data_start_date": "2016-02-22",
         "price": 201.38999938964844,
         "change": 0,
-        "volume": 1925718,
+        "volume": 2002680,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

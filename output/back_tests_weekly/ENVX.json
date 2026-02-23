@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENVX",
         "name": "Enovix Corporation",
-        "collected_at": "2026-02-22T02:08:05.127Z",
+        "collected_at": "2026-02-23T02:08:09.332Z",
         "data_start_date": "2021-01-04",
         "price": 5.949999809265137,
         "change": 0,
-        "volume": 3889421,
+        "volume": 3945830,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 81,

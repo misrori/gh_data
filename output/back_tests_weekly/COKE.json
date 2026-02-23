@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COKE",
         "name": "Coca-Cola Consolidated, Inc.",
-        "collected_at": "2026-02-22T02:03:03.794Z",
+        "collected_at": "2026-02-23T02:03:11.770Z",
         "data_start_date": "2016-02-22",
         "price": 182.22000122070312,
         "change": 0,
-        "volume": 533268,
+        "volume": 533667,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 123,

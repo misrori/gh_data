@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRMK",
         "name": "Trustmark Corporation",
-        "collected_at": "2026-02-22T02:06:19.641Z",
+        "collected_at": "2026-02-23T02:06:24.884Z",
         "data_start_date": "2016-02-22",
         "price": 44.720001220703125,
         "change": 0,
-        "volume": 251266,
+        "volume": 270132,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 634,

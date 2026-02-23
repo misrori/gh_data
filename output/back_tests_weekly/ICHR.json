@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ICHR",
         "name": "Ichor Holdings",
-        "collected_at": "2026-02-22T02:07:18.513Z",
+        "collected_at": "2026-02-23T02:07:23.130Z",
         "data_start_date": "2016-12-05",
         "price": 50.349998474121094,
         "change": 0,
-        "volume": 1012551,
+        "volume": 1039254,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLTO",
         "name": "Galecto, Inc.",
-        "collected_at": "2026-02-22T02:07:18.093Z",
+        "collected_at": "2026-02-23T02:07:22.589Z",
         "data_start_date": "2020-10-26",
         "price": 30,
         "change": 0,
-        "volume": 105608,
+        "volume": 105621,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

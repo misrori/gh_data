@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CENT",
         "name": "Central Garden & Pet Company",
-        "collected_at": "2026-02-22T02:06:40.367Z",
+        "collected_at": "2026-02-23T02:06:45.670Z",
         "data_start_date": "2016-02-22",
         "price": 39.66999816894531,
         "change": 0,
-        "volume": 66823,
+        "volume": 68690,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

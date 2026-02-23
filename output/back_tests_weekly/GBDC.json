@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GBDC",
         "name": "Golub Capital BDC, Inc.",
-        "collected_at": "2026-02-22T02:05:54.207Z",
+        "collected_at": "2026-02-23T02:05:59.300Z",
         "data_start_date": "2016-02-22",
         "price": 12.149999618530273,
         "change": 0,
-        "volume": 3274090,
+        "volume": 3274133,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 305,

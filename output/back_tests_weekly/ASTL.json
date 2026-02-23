@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASTL",
         "name": "Algoma Steel Group Inc.",
-        "collected_at": "2026-02-22T02:10:00.180Z",
+        "collected_at": "2026-02-23T02:10:03.322Z",
         "data_start_date": "2021-03-01",
         "price": 4.949999809265137,
         "change": 0,
-        "volume": 1870409,
+        "volume": 1959028,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 333,

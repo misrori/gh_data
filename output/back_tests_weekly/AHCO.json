@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AHCO",
         "name": "AdaptHealth Corp.",
-        "collected_at": "2026-02-22T02:07:52.606Z",
+        "collected_at": "2026-02-23T02:07:56.865Z",
         "data_start_date": "2018-05-28",
         "price": 10.34000015258789,
         "change": 0,
-        "volume": 998551,
+        "volume": 1047923,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

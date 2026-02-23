@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MQ",
         "name": "Marqeta, Inc.",
-        "collected_at": "2026-02-22T02:07:07.299Z",
+        "collected_at": "2026-02-23T02:07:11.871Z",
         "data_start_date": "2021-06-07",
         "price": 4.239999771118164,
         "change": 0,
-        "volume": 5591012,
+        "volume": 5790285,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

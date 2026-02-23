@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WAFD",
         "name": "WaFd, Inc.",
-        "collected_at": "2026-02-22T02:06:26.057Z",
+        "collected_at": "2026-02-23T02:06:31.570Z",
         "data_start_date": "2016-02-22",
         "price": 33.20000076293945,
         "change": 0,
-        "volume": 565615,
+        "volume": 576130,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 67,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COLM",
         "name": "Columbia Sportswear Company",
-        "collected_at": "2026-02-22T02:05:44.683Z",
+        "collected_at": "2026-02-23T02:05:49.650Z",
         "data_start_date": "2016-02-22",
         "price": 64.2300033569336,
         "change": 0,
-        "volume": 725064,
+        "volume": 725066,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 312,

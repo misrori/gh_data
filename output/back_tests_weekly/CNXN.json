@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNXN",
         "name": "PC Connection, Inc.",
-        "collected_at": "2026-02-22T02:07:33.684Z",
+        "collected_at": "2026-02-23T02:07:37.999Z",
         "data_start_date": "2016-02-22",
         "price": 62.11000061035156,
         "change": 0,
-        "volume": 71705,
+        "volume": 85108,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

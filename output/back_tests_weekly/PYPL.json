@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PYPL",
         "name": "PayPal Holdings, Inc.",
-        "collected_at": "2026-02-22T02:01:33.058Z",
+        "collected_at": "2026-02-23T02:01:33.012Z",
         "data_start_date": "2016-02-22",
         "price": 41.650001525878906,
         "change": 0,
-        "volume": 22925666,
+        "volume": 23174044,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 193,

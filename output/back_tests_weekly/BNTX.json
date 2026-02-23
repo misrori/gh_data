@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BNTX",
         "name": "BioNTech SE",
-        "collected_at": "2026-02-22T02:01:57.423Z",
+        "collected_at": "2026-02-23T02:01:57.553Z",
         "data_start_date": "2019-10-07",
         "price": 110.1449966430664,
         "change": 0,
-        "volume": 883127,
+        "volume": 946244,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

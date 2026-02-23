@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALGT",
         "name": "Allegiant Travel Company",
-        "collected_at": "2026-02-22T02:06:59.483Z",
+        "collected_at": "2026-02-23T02:07:04.470Z",
         "data_start_date": "2016-02-22",
         "price": 107.62000274658203,
         "change": 0,
-        "volume": 327774,
+        "volume": 338247,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

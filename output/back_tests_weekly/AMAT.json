@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMAT",
         "name": "Applied Materials, Inc.",
-        "collected_at": "2026-02-22T02:00:19.633Z",
+        "collected_at": "2026-02-23T02:00:17.527Z",
         "data_start_date": "2016-02-22",
         "price": 375.3800048828125,
         "change": 0,
-        "volume": 8170314,
+        "volume": 8178683,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 144,

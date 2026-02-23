@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EEFT",
         "name": "Euronet Worldwide, Inc.",
-        "collected_at": "2026-02-22T02:06:01.626Z",
+        "collected_at": "2026-02-23T02:06:06.524Z",
         "data_start_date": "2016-02-22",
         "price": 72.5,
         "change": 0,
-        "volume": 718560,
+        "volume": 726573,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 193,

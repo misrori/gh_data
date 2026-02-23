@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MBB",
         "name": "iShares MBS ETF",
-        "collected_at": "2026-02-22T02:10:24.953Z",
+        "collected_at": "2026-02-23T02:10:28.019Z",
         "data_start_date": "2016-02-22",
         "price": 96.3499984741211,
         "change": 0,
-        "volume": 2023741,
+        "volume": 2192602,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,

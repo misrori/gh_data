@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROST",
         "name": "Ross Stores, Inc.",
-        "collected_at": "2026-02-22T02:01:06.515Z",
+        "collected_at": "2026-02-23T02:01:06.345Z",
         "data_start_date": "2016-02-22",
         "price": 201.4499969482422,
         "change": 0,
-        "volume": 1987804,
+        "volume": 1987893,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

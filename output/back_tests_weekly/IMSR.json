@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IMSR",
         "name": "Terrestrial Energy Inc.",
-        "collected_at": "2026-02-22T02:10:00.722Z",
+        "collected_at": "2026-02-23T02:10:03.901Z",
         "data_start_date": "2024-10-07",
         "price": 6.329999923706055,
         "change": 0,
-        "volume": 1463793,
+        "volume": 1486780,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

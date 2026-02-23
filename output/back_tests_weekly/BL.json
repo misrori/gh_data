@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BL",
         "name": "BlackLine, Inc.",
-        "collected_at": "2026-02-22T02:06:45.390Z",
+        "collected_at": "2026-02-23T02:06:50.487Z",
         "data_start_date": "2016-10-24",
         "price": 36.150001525878906,
         "change": 0,
-        "volume": 994212,
+        "volume": 1057780,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

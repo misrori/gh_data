@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CAMT",
         "name": "Camtek Ltd.",
-        "collected_at": "2026-02-22T02:04:07.507Z",
+        "collected_at": "2026-02-23T02:04:14.798Z",
         "data_start_date": "2016-02-22",
         "price": 148.10000610351562,
         "change": 0,
-        "volume": 872943,
+        "volume": 875921,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

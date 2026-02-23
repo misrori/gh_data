@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BMRN",
         "name": "BioMarin Pharmaceutical Inc.",
-        "collected_at": "2026-02-22T02:03:01.094Z",
+        "collected_at": "2026-02-23T02:03:09.123Z",
         "data_start_date": "2016-02-22",
         "price": 64.08000183105469,
         "change": 0,
-        "volume": 3613618,
+        "volume": 3634256,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 725,

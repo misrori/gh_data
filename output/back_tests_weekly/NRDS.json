@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NRDS",
         "name": "NerdWallet, Inc.",
-        "collected_at": "2026-02-22T02:09:12.990Z",
+        "collected_at": "2026-02-23T02:09:15.555Z",
         "data_start_date": "2021-11-01",
         "price": 10.140000343322754,
         "change": 0,
-        "volume": 996147,
+        "volume": 1004621,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

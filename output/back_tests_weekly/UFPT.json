@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UFPT",
         "name": "UFP Technologies, Inc.",
-        "collected_at": "2026-02-22T02:07:12.177Z",
+        "collected_at": "2026-02-23T02:07:17.026Z",
         "data_start_date": "2016-02-22",
         "price": 233.49000549316406,
         "change": 0,
-        "volume": 156694,
+        "volume": 157040,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

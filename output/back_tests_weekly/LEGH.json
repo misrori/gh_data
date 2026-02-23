@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LEGH",
         "name": "Legacy Housing Corporation",
-        "collected_at": "2026-02-22T02:09:58.987Z",
+        "collected_at": "2026-02-23T02:10:02.067Z",
         "data_start_date": "2018-12-10",
         "price": 21.899999618530273,
         "change": 0,
-        "volume": 68698,
+        "volume": 69085,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

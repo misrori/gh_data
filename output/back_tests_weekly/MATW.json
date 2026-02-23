@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MATW",
         "name": "Matthews International Corporation",
-        "collected_at": "2026-02-22T02:09:01.086Z",
+        "collected_at": "2026-02-23T02:09:04.125Z",
         "data_start_date": "2016-02-22",
         "price": 26.3799991607666,
         "change": 0,
-        "volume": 139812,
+        "volume": 142179,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

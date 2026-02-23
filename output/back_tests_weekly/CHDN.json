@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHDN",
         "name": "Churchill Downs, Incorporated",
-        "collected_at": "2026-02-22T02:04:13.366Z",
+        "collected_at": "2026-02-23T02:04:20.218Z",
         "data_start_date": "2016-02-22",
         "price": 93.70999908447266,
         "change": 0,
-        "volume": 1049322,
+        "volume": 1051203,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 333,

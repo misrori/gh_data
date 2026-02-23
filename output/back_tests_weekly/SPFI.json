@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPFI",
         "name": "South Plains Financial, Inc.",
-        "collected_at": "2026-02-22T02:09:21.739Z",
+        "collected_at": "2026-02-23T02:09:24.161Z",
         "data_start_date": "2019-05-06",
         "price": 42.459999084472656,
         "change": 0,
-        "volume": 61245,
+        "volume": 61874,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 844,

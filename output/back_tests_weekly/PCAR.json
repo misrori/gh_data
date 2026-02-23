@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PCAR",
         "name": "PACCAR Inc.",
-        "collected_at": "2026-02-22T02:01:04.450Z",
+        "collected_at": "2026-02-23T02:01:04.233Z",
         "data_start_date": "2016-02-22",
         "price": 128.4600067138672,
         "change": 0,
-        "volume": 3451602,
+        "volume": 3452150,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 74,

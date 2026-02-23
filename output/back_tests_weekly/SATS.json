@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SATS",
         "name": "EchoStar Corporation",
-        "collected_at": "2026-02-22T02:01:43.516Z",
+        "collected_at": "2026-02-23T02:01:43.674Z",
         "data_start_date": "2016-02-22",
         "price": 110.36000061035156,
         "change": 0,
-        "volume": 2362862,
+        "volume": 2367773,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 543,

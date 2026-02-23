@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLBE",
         "name": "Global-E Online Ltd.",
-        "collected_at": "2026-02-22T02:04:21.058Z",
+        "collected_at": "2026-02-23T02:04:27.967Z",
         "data_start_date": "2021-05-10",
         "price": 36.08000183105469,
         "change": 0,
-        "volume": 2619045,
+        "volume": 2717152,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 235,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CLMT",
         "name": "Calumet, Inc",
-        "collected_at": "2026-02-22T02:06:29.980Z",
+        "collected_at": "2026-02-23T02:06:35.221Z",
         "data_start_date": "2016-02-22",
         "price": 28.139999389648438,
         "change": 0,
-        "volume": 1181497,
+        "volume": 1189722,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 123,

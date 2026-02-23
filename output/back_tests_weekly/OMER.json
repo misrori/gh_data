@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OMER",
         "name": "Omeros Corporation",
-        "collected_at": "2026-02-22T02:08:55.212Z",
+        "collected_at": "2026-02-23T02:08:58.509Z",
         "data_start_date": "2016-02-22",
         "price": 12.039999961853027,
         "change": 0,
-        "volume": 1000311,
+        "volume": 1007423,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 95,

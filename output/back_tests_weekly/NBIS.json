@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NBIS",
         "name": "Nebius Group N.V.",
-        "collected_at": "2026-02-22T02:02:04.287Z",
+        "collected_at": "2026-02-23T02:02:04.425Z",
         "data_start_date": "2024-10-21",
         "price": 97.91999816894531,
         "change": 0,
-        "volume": 17196968,
+        "volume": 17292004,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SBCF",
         "name": "Seacoast Banking Corporation of Florida",
-        "collected_at": "2026-02-22T02:05:50.837Z",
+        "collected_at": "2026-02-23T02:05:55.813Z",
         "data_start_date": "2016-02-22",
         "price": 33.75,
         "change": 0,
-        "volume": 682392,
+        "volume": 719953,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 221,

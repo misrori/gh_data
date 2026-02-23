@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QUBT",
         "name": "Quantum Computing Inc.",
-        "collected_at": "2026-02-22T02:07:14.591Z",
+        "collected_at": "2026-02-23T02:07:19.387Z",
         "data_start_date": "2016-02-22",
         "price": 7.900000095367432,
         "change": 0,
-        "volume": 9058968,
+        "volume": 9106764,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

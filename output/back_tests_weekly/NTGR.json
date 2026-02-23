@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NTGR",
         "name": "NETGEAR, Inc.",
-        "collected_at": "2026-02-22T02:09:43.897Z",
+        "collected_at": "2026-02-23T02:09:46.501Z",
         "data_start_date": "2016-02-22",
         "price": 20.8700008392334,
         "change": 0,
-        "volume": 320106,
+        "volume": 339744,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

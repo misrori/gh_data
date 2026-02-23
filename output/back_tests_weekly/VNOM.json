@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VNOM",
         "name": "Viper Energy, Inc.",
-        "collected_at": "2026-02-22T02:02:36.242Z",
+        "collected_at": "2026-02-23T02:02:45.439Z",
         "data_start_date": "2016-02-22",
         "price": 45.63999938964844,
         "change": 0,
-        "volume": 5884663,
+        "volume": 5903308,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 158,

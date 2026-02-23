@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IXUS",
         "name": "iShares Core MSCI Total International Stock ETF",
-        "collected_at": "2026-02-22T02:10:18.269Z",
+        "collected_at": "2026-02-23T02:10:21.527Z",
         "data_start_date": "2016-02-22",
         "price": 93.62000274658203,
         "change": 0,
-        "volume": 3137978,
+        "volume": 3139064,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 781,

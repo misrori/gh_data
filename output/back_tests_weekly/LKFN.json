@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LKFN",
         "name": "Lakeland Financial Corporation",
-        "collected_at": "2026-02-22T02:07:39.427Z",
+        "collected_at": "2026-02-23T02:07:43.586Z",
         "data_start_date": "2016-02-22",
         "price": 60.22999954223633,
         "change": 0,
-        "volume": 90657,
+        "volume": 92550,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,

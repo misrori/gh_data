@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FRME",
         "name": "First Merchants Corporation",
-        "collected_at": "2026-02-22T02:06:20.087Z",
+        "collected_at": "2026-02-23T02:06:25.321Z",
         "data_start_date": "2016-02-22",
         "price": 42.369998931884766,
         "change": 0,
-        "volume": 354378,
+        "volume": 360085,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CPRT",
         "name": "Copart, Inc.",
-        "collected_at": "2026-02-22T02:01:38.592Z",
+        "collected_at": "2026-02-23T02:01:38.573Z",
         "data_start_date": "2016-02-22",
         "price": 36.47999954223633,
         "change": 0,
-        "volume": 25521972,
+        "volume": 25525139,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 172,

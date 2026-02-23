@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HON",
         "name": "Honeywell International Inc.",
-        "collected_at": "2026-02-22T02:00:32.164Z",
+        "collected_at": "2026-02-23T02:00:30.783Z",
         "data_start_date": "2016-02-22",
         "price": 243.97000122070312,
         "change": 0,
-        "volume": 2680158,
+        "volume": 2681320,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 25,

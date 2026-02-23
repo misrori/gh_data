@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HEPS",
         "name": "D-Market Electronic Services & Trading",
-        "collected_at": "2026-02-22T02:08:52.585Z",
+        "collected_at": "2026-02-23T02:08:55.837Z",
         "data_start_date": "2021-06-28",
         "price": 2.7100000381469727,
         "change": 0,
-        "volume": 116489,
+        "volume": 116553,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 123,

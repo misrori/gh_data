@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PEP",
         "name": "PepsiCo, Inc.",
-        "collected_at": "2026-02-22T02:00:23.719Z",
+        "collected_at": "2026-02-23T02:00:21.665Z",
         "data_start_date": "2016-02-22",
         "price": 164.94000244140625,
         "change": 0,
-        "volume": 4188630,
+        "volume": 4811816,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

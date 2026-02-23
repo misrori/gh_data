@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KDP",
         "name": "Keurig Dr Pepper Inc.",
-        "collected_at": "2026-02-22T02:01:30.875Z",
+        "collected_at": "2026-02-23T02:01:30.710Z",
         "data_start_date": "2016-02-22",
         "price": 29.540000915527344,
         "change": 0,
-        "volume": 6802342,
+        "volume": 6802930,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 172,
