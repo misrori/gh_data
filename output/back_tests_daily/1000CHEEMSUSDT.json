@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "1000CHEEMSUSDT",
         "name": "1000CHEEMS / USDT",
-        "collected_at": "2026-02-23T10:48:59.727Z",
+        "collected_at": "2026-02-23T11:49:09.524Z",
         "data_start_date": "2025-02-09",
         "price": 0.000457,
         "change": -4.989604989604987,
-        "volume": 918950878,
+        "volume": 957856252,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 100,
