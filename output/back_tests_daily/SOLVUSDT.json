@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SOLVUSDT",
         "name": "SOLV / USDT",
-        "collected_at": "2026-02-24T06:48:19.731Z",
+        "collected_at": "2026-02-24T07:48:30.366Z",
         "data_start_date": "2025-01-17",
         "price": 0.00422,
         "change": -0.7058823529411885,
-        "volume": 93943415,
+        "volume": 100640405,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,
