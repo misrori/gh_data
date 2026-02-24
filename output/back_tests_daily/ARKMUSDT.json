@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARKMUSDT",
         "name": "Arkham",
-        "collected_at": "2026-02-24T09:47:05.685Z",
+        "collected_at": "2026-02-24T10:47:12.835Z",
         "data_start_date": "2023-07-18",
         "price": 0.103,
         "change": -2.8301886792452855,
-        "volume": 5972004.6,
+        "volume": 6186520.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,
