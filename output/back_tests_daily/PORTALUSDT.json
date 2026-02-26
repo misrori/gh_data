@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PORTALUSDT",
         "name": "PORTAL / USDT",
-        "collected_at": "2026-02-26T18:48:45.996Z",
+        "collected_at": "2026-02-26T19:49:07.745Z",
         "data_start_date": "2024-02-29",
         "price": 0.01212,
         "change": -4.038004750593824,
-        "volume": 66612691.3,
+        "volume": 69337549,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 156,
