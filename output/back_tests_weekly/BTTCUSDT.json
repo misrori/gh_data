@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BTTCUSDT",
         "name": "BTTC / USDT",
-        "collected_at": "2026-02-26T19:47:10.432Z",
+        "collected_at": "2026-02-26T20:47:15.976Z",
         "data_start_date": "2022-01-24",
         "price": 3.6e-7,
         "change": 9.090909090909085,
-        "volume": 11308603240455,
+        "volume": 11437917997364,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 329,
