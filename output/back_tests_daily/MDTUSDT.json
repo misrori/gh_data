@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MDTUSDT",
         "name": "MDT / USDT",
-        "collected_at": "2026-02-26T21:48:26.447Z",
+        "collected_at": "2026-02-26T22:48:17.814Z",
         "data_start_date": "2020-06-05",
         "price": 0.00971,
         "change": -8.049242424242426,
-        "volume": 83556416,
+        "volume": 84220358.2,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 152,
