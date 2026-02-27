@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "THETAUSDT",
         "name": "Theta Network",
-        "collected_at": "2026-02-27T19:49:00.321Z",
+        "collected_at": "2026-02-27T20:49:30.267Z",
         "data_start_date": "2019-04-08",
         "price": 0.188,
         "change": -2.5906735751295358,
-        "volume": 29027517.1,
+        "volume": 29097509,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 329,
