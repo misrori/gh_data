@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIDAUSDT",
         "name": "Bonfida",
-        "collected_at": "2026-02-27T04:48:28.394Z",
+        "collected_at": "2026-02-27T05:48:42.332Z",
         "data_start_date": "2021-09-30",
         "price": 0.0159,
         "change": 1.2738853503184857,
-        "volume": 5663119.2,
+        "volume": 6983529.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 156,
