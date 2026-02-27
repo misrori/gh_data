@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RADUSDT",
         "name": "Radworks",
-        "collected_at": "2026-02-27T18:48:58.977Z",
+        "collected_at": "2026-02-27T19:48:41.938Z",
         "data_start_date": "2021-10-04",
         "price": 0.234,
         "change": -2.904564315352688,
-        "volume": 12002252.6,
+        "volume": 12020670,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 623,
