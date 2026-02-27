@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PORTALUSDT",
         "name": "PORTAL / USDT",
-        "collected_at": "2026-02-27T09:47:57.599Z",
+        "collected_at": "2026-02-27T10:48:32.814Z",
         "data_start_date": "2024-02-29",
         "price": 0.01231,
         "change": -0.48504446240906246,
-        "volume": 7801663.9,
+        "volume": 10169124.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 157,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.016195007351138123,
+        "ml_value": 0.016200150208280983,
         "ml_last_change_date": "2025-09-25",
         "ml_last_change_price": 0.0362,
         "ml_change_percent_from_last_change": -65.99447513812156
