@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HNTUSDT",
         "name": "Helium",
-        "collected_at": "2026-03-01T20:48:15.563Z",
+        "collected_at": "2026-03-01T21:48:37.803Z",
         "data_start_date": "2020-09-24",
         "price": 4.67,
         "change": 1.7429193899782152,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:HNTUSD",
-        "market_capitalization": 231355329.93207964,
+        "market_capitalization": 234932701.54736182,
         "commodity_name": null,
         "display_name": "Helium",
         "sma_50": 4.827999999999999,
