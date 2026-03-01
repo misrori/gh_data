@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTI",
         "name": "Tetra Technologies, Inc.",
-        "collected_at": "2026-02-28T02:08:19.724Z",
+        "collected_at": "2026-03-01T02:08:13.789Z",
         "data_start_date": "2016-02-29",
         "price": 8.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:TTI",
-        "market_capitalization": 1162155377.7704194,
+        "market_capitalization": 1162155303,
         "commodity_name": null,
         "display_name": "Tetra Technologies, Inc.",
         "sma_50": 6.020599980354309,

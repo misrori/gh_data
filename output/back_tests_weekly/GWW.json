@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GWW",
         "name": "W.W. Grainger, Inc.",
-        "collected_at": "2026-02-28T02:01:12.244Z",
+        "collected_at": "2026-03-01T02:01:14.381Z",
         "data_start_date": "2016-02-29",
         "price": 1144.72998046875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:GWW",
-        "market_capitalization": 54229322706.33385,
+        "market_capitalization": 54229320823,
         "commodity_name": null,
         "display_name": "W.W. Grainger, Inc.",
         "sma_50": 1023.3107971191406,

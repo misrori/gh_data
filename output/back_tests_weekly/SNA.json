@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SNA",
         "name": "Snap-On Incorporated",
-        "collected_at": "2026-02-28T02:02:22.390Z",
+        "collected_at": "2026-03-01T02:02:22.787Z",
         "data_start_date": "2016-02-29",
         "price": 385.2200012207031,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Tools & Hardware",
         "tradingview_id": "NYSE:SNA",
-        "market_capitalization": 19997972884.994026,
+        "market_capitalization": 19997972254,
         "commodity_name": null,
         "display_name": "Snap-On Incorporated",
         "sma_50": 337.6188000488281,

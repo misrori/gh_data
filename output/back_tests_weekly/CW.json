@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CW",
         "name": "Curtiss-Wright Corporation",
-        "collected_at": "2026-02-28T02:02:00.440Z",
+        "collected_at": "2026-03-01T02:02:00.844Z",
         "data_start_date": "2016-02-29",
         "price": 700.3300170898438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:CW",
-        "market_capitalization": 25820837392.50934,
+        "market_capitalization": 25820838382,
         "commodity_name": null,
         "display_name": "Curtiss-Wright Corporation",
         "sma_50": 513.4445971679687,

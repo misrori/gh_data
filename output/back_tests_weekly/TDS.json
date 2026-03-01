@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TDS",
         "name": "Telephone and Data Systems, Inc.",
-        "collected_at": "2026-02-28T02:05:00.355Z",
+        "collected_at": "2026-03-01T02:04:57.138Z",
         "data_start_date": "2016-02-29",
         "price": 44.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Wireless Telecommunications",
         "tradingview_id": "NYSE:TDS",
-        "market_capitalization": 4752449814.917282,
+        "market_capitalization": 4752449863,
         "commodity_name": null,
         "display_name": "Telephone and Data Systems, Inc.",
         "sma_50": 38.807800216674806,

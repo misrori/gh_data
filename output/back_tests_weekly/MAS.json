@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MAS",
         "name": "Masco Corporation",
-        "collected_at": "2026-02-28T02:02:47.120Z",
+        "collected_at": "2026-03-01T02:02:47.978Z",
         "data_start_date": "2016-02-29",
         "price": 71.62000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:MAS",
-        "market_capitalization": 14582338726.338398,
+        "market_capitalization": 14582338979,
         "commodity_name": null,
         "display_name": "Masco Corporation",
         "sma_50": 66.98700004577637,

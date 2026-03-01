@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TOL",
         "name": "Toll Brothers, Inc.",
-        "collected_at": "2026-02-28T02:02:45.282Z",
+        "collected_at": "2026-03-01T02:02:46.217Z",
         "data_start_date": "2016-02-29",
         "price": 157.24000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:TOL",
-        "market_capitalization": 14898471432.498203,
+        "market_capitalization": 14898472526,
         "commodity_name": null,
         "display_name": "Toll Brothers, Inc.",
         "sma_50": 128.82760025024413,

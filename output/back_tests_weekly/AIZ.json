@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AIZ",
         "name": "Assurant, Inc.",
-        "collected_at": "2026-02-28T02:03:10.729Z",
+        "collected_at": "2026-03-01T02:03:11.814Z",
         "data_start_date": "2016-02-29",
         "price": 229.58999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:AIZ",
-        "market_capitalization": 11410569871.288965,
+        "market_capitalization": 11410569568,
         "commodity_name": null,
         "display_name": "Assurant, Inc.",
         "sma_50": 212.50440002441405,

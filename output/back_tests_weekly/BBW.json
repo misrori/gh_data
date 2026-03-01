@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BBW",
         "name": "Build-A-Bear Workshop, Inc.",
-        "collected_at": "2026-02-28T02:09:39.787Z",
+        "collected_at": "2026-03-01T02:09:37.661Z",
         "data_start_date": "2016-02-29",
         "price": 48.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:BBW",
-        "market_capitalization": 629943549.9073666,
+        "market_capitalization": 629943546,
         "commodity_name": null,
         "display_name": "Build-A-Bear Workshop, Inc.",
         "sma_50": 52.80880020141601,

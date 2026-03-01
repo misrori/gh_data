@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BG",
         "name": "Bunge Limited",
-        "collected_at": "2026-02-28T02:02:08.654Z",
+        "collected_at": "2026-03-01T02:02:08.327Z",
         "data_start_date": "2016-02-29",
         "price": 120.6500015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Agricultural Commodities/Milling",
         "tradingview_id": "NYSE:BG",
-        "market_capitalization": 23346870020.491123,
+        "market_capitalization": 23346870674,
         "commodity_name": null,
         "display_name": "Bunge Limited",
         "sma_50": 89.65080001831055,

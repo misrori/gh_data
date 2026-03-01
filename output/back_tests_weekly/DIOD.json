@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DIOD",
         "name": "Diodes Incorporated",
-        "collected_at": "2026-02-28T02:06:01.837Z",
+        "collected_at": "2026-03-01T02:05:56.705Z",
         "data_start_date": "2016-02-29",
         "price": 68.2300033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:DIOD",
-        "market_capitalization": 3130218745.194026,
+        "market_capitalization": 3130219022,
         "commodity_name": null,
         "display_name": "Diodes Incorporated",
         "sma_50": 51.50840011596679,

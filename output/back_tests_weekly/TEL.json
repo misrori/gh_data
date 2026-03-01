@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TEL",
         "name": "TE Connectivity plc",
-        "collected_at": "2026-02-28T02:01:02.977Z",
+        "collected_at": "2026-03-01T02:01:05.086Z",
         "data_start_date": "2016-02-29",
         "price": 230.14999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NYSE:TEL",
-        "market_capitalization": 67533901221.63917,
+        "market_capitalization": 67533901354,
         "commodity_name": null,
         "display_name": "TE Connectivity plc",
         "sma_50": 200.16459899902344,

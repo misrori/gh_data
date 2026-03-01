@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LEN",
         "name": "Lennar Corporation",
-        "collected_at": "2026-02-28T02:01:53.569Z",
+        "collected_at": "2026-03-01T02:01:53.895Z",
         "data_start_date": "2016-02-29",
         "price": 114.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:LEN",
-        "market_capitalization": 28032161536.450714,
+        "market_capitalization": 28007218453,
         "commodity_name": null,
         "display_name": "Lennar Corporation",
         "sma_50": 117.22940017700195,

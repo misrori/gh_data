@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GRMN",
         "name": "Garmin Ltd.",
-        "collected_at": "2026-02-28T02:01:20.297Z",
+        "collected_at": "2026-03-01T02:01:22.141Z",
         "data_start_date": "2016-02-29",
         "price": 252.8300018310547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NYSE:GRMN",
-        "market_capitalization": 48664930204.81103,
+        "market_capitalization": 48664929856,
         "commodity_name": null,
         "display_name": "Garmin Ltd.",
         "sma_50": 216.2690002441406,

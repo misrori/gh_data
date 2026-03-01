@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSL",
         "name": "Carlisle Companies Incorporated",
-        "collected_at": "2026-02-28T02:02:38.759Z",
+        "collected_at": "2026-03-01T02:02:39.994Z",
         "data_start_date": "2016-02-29",
         "price": 394.7699890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:CSL",
-        "market_capitalization": 16139723377.717308,
+        "market_capitalization": 16139723078,
         "commodity_name": null,
         "display_name": "Carlisle Companies Incorporated",
         "sma_50": 361.66019958496094,

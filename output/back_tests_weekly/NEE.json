@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NEE",
         "name": "NextEra Energy, Inc.",
-        "collected_at": "2026-02-28T02:00:24.071Z",
+        "collected_at": "2026-03-01T02:00:24.532Z",
         "data_start_date": "2016-02-29",
         "price": 93.7699966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:NEE",
-        "market_capitalization": 195371850839.2084,
+        "market_capitalization": 195371848382,
         "commodity_name": null,
         "display_name": "NextEra Energy, Inc.",
         "sma_50": 77.6815998840332,

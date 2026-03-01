@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JCI",
         "name": "Johnson Controls International plc",
-        "collected_at": "2026-02-28T02:00:49.508Z",
+        "collected_at": "2026-03-01T02:00:51.129Z",
         "data_start_date": "2016-02-29",
         "price": 144.3000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:JCI",
-        "market_capitalization": 88321146064.77968,
+        "market_capitalization": 88321149059.99998,
         "commodity_name": null,
         "display_name": "Johnson Controls International plc",
         "sma_50": 109.0488003540039,

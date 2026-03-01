@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANF",
         "name": "Abercrombie & Fitch Company",
-        "collected_at": "2026-02-28T02:05:09.161Z",
+        "collected_at": "2026-03-01T02:05:05.338Z",
         "data_start_date": "2016-02-29",
         "price": 97.80000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NYSE:ANF",
-        "market_capitalization": 4484868820.264673,
+        "market_capitalization": 4484869057,
         "commodity_name": null,
         "display_name": "Abercrombie & Fitch Company",
         "sma_50": 88.61800033569335,

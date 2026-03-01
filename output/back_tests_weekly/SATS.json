@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SATS",
         "name": "EchoStar Corporation",
-        "collected_at": "2026-02-28T02:01:41.686Z",
+        "collected_at": "2026-03-01T02:01:42.861Z",
         "data_start_date": "2016-02-29",
         "price": 115.52999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Specialty Telecommunications",
         "tradingview_id": "NASDAQ:SATS",
-        "market_capitalization": 33258351663.87478,
+        "market_capitalization": 33258350469.999996,
         "commodity_name": null,
         "display_name": "EchoStar Corporation",
         "sma_50": 62.16020023345947,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VEON",
         "name": "VEON Ltd.",
-        "collected_at": "2026-02-28T02:05:34.624Z",
+        "collected_at": "2026-03-01T02:05:30.021Z",
         "data_start_date": "2016-02-29",
         "price": 55.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Wireless Telecommunications",
         "tradingview_id": "NASDAQ:VEON",
-        "market_capitalization": 3833886431,
+        "market_capitalization": 3856164286,
         "commodity_name": null,
         "display_name": "VEON Ltd.",
         "sma_50": 50.58080009460449,

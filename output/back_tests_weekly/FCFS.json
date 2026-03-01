@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FCFS",
         "name": "FirstCash Holdings, Inc.",
-        "collected_at": "2026-02-28T02:03:41.782Z",
+        "collected_at": "2026-03-01T02:03:41.964Z",
         "data_start_date": "2016-02-29",
         "price": 192.7899932861328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:FCFS",
-        "market_capitalization": 8479809624.427907,
+        "market_capitalization": 8479809138,
         "commodity_name": null,
         "display_name": "FirstCash Holdings, Inc.",
         "sma_50": 148.03260025024414,

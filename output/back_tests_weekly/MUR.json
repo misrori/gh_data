@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MUR",
         "name": "Murphy Oil Corporation",
-        "collected_at": "2026-02-28T02:05:01.110Z",
+        "collected_at": "2026-03-01T02:04:57.943Z",
         "data_start_date": "2016-02-29",
         "price": 33.150001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:MUR",
-        "market_capitalization": 4734826104.059266,
+        "market_capitalization": 4734826413,
         "commodity_name": null,
         "display_name": "Murphy Oil Corporation",
         "sma_50": 27.28280014038086,

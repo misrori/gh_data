@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HXL",
         "name": "Hexcel Corporation",
-        "collected_at": "2026-02-28T02:04:05.688Z",
+        "collected_at": "2026-03-01T02:04:05.277Z",
         "data_start_date": "2016-02-29",
         "price": 92.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:HXL",
-        "market_capitalization": 7032428970.900427,
+        "market_capitalization": 7032428927,
         "commodity_name": null,
         "display_name": "Hexcel Corporation",
         "sma_50": 66.35220001220704,

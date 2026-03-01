@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ENS",
         "name": "EnerSys",
-        "collected_at": "2026-02-28T02:04:22.496Z",
+        "collected_at": "2026-03-01T02:04:21.685Z",
         "data_start_date": "2016-02-29",
         "price": 166.14999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:ENS",
-        "market_capitalization": 6122856227.373634,
+        "market_capitalization": 6122855827.999999,
         "commodity_name": null,
         "display_name": "EnerSys",
         "sma_50": 118.4277993774414,

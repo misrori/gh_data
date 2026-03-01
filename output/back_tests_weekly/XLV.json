@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XLV",
         "name": "State Street Health Care Select Sector SPDR ETF",
-        "collected_at": "2026-02-28T02:10:28.076Z",
+        "collected_at": "2026-03-01T02:10:27.112Z",
         "data_start_date": "2016-02-29",
         "price": 160.1999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:XLV",
-        "market_capitalization": 42129529360.1999,
+        "market_capitalization": 42364156640.6519,
         "commodity_name": null,
         "display_name": "State Street Health Care Select Sector SPDR ETF",
         "sma_50": 143.5567999267578,

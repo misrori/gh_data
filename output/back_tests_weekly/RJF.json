@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RJF",
         "name": "Raymond James Financial, Inc.",
-        "collected_at": "2026-02-28T02:01:47.427Z",
+        "collected_at": "2026-03-01T02:01:48.327Z",
         "data_start_date": "2016-02-29",
         "price": 153.0800018310547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:RJF",
-        "market_capitalization": 30170694090.70266,
+        "market_capitalization": 30170695836,
         "commodity_name": null,
         "display_name": "Raymond James Financial, Inc.",
         "sma_50": 157.7070002746582,

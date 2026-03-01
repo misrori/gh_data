@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EFA",
         "name": "iShares MSCI EAFE ETF",
-        "collected_at": "2026-02-28T02:10:18.986Z",
+        "collected_at": "2026-03-01T02:10:18.115Z",
         "data_start_date": "2016-02-29",
         "price": 105.37999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:EFA",
-        "market_capitalization": 77847937380,
+        "market_capitalization": 77731709760,
         "commodity_name": null,
         "display_name": "iShares MSCI EAFE ETF",
         "sma_50": 92.53439987182617,

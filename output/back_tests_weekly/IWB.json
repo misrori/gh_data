@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IWB",
         "name": "iShares Russell 1000 ETF",
-        "collected_at": "2026-02-28T02:10:25.376Z",
+        "collected_at": "2026-03-01T02:10:24.366Z",
         "data_start_date": "2016-02-29",
         "price": 376.260009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IWB",
-        "market_capitalization": 46617889336.8,
+        "market_capitalization": 46516109267.05,
         "commodity_name": null,
         "display_name": "iShares Russell 1000 ETF",
         "sma_50": 350.799599609375,

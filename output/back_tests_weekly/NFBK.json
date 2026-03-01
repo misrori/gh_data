@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NFBK",
         "name": "Northfield Bancorp, Inc.",
-        "collected_at": "2026-02-28T02:09:54.505Z",
+        "collected_at": "2026-03-01T02:09:53.123Z",
         "data_start_date": "2016-02-29",
         "price": 13.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:NFBK",
-        "market_capitalization": 557129791.4646018,
+        "market_capitalization": 557129781,
         "commodity_name": null,
         "display_name": "Northfield Bancorp, Inc.",
         "sma_50": 11.48540002822876,

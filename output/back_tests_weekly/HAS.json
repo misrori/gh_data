@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HAS",
         "name": "Hasbro, Inc.",
-        "collected_at": "2026-02-28T02:02:50.393Z",
+        "collected_at": "2026-03-01T02:02:51.180Z",
         "data_start_date": "2016-02-29",
         "price": 99.58999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Recreational Products",
         "tradingview_id": "NASDAQ:HAS",
-        "market_capitalization": 14010894972.76116,
+        "market_capitalization": 14010894372.999998,
         "commodity_name": null,
         "display_name": "Hasbro, Inc.",
         "sma_50": 76.75619911193847,

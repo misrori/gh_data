@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHE",
         "name": "Chemed Corp",
-        "collected_at": "2026-02-28T02:04:29.847Z",
+        "collected_at": "2026-03-01T02:04:28.613Z",
         "data_start_date": "2016-02-29",
         "price": 410.010009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Hospital/Nursing Management",
         "tradingview_id": "NYSE:CHE",
-        "market_capitalization": 5807461688.242342,
+        "market_capitalization": 5807461755,
         "commodity_name": null,
         "display_name": "Chemed Corp",
         "sma_50": 479.7061993408203,

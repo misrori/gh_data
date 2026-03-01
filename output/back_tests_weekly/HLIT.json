@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HLIT",
         "name": "Harmonic Inc.",
-        "collected_at": "2026-02-28T02:08:18.605Z",
+        "collected_at": "2026-03-01T02:08:12.613Z",
         "data_start_date": "2016-02-29",
         "price": 10.630000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:HLIT",
-        "market_capitalization": 1171876289.0208929,
+        "market_capitalization": 1171876331,
         "commodity_name": null,
         "display_name": "Harmonic Inc.",
         "sma_50": 9.641399993896485,

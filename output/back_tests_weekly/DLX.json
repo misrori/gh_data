@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DLX",
         "name": "Deluxe Corporation",
-        "collected_at": "2026-02-28T02:08:12.115Z",
+        "collected_at": "2026-03-01T02:08:05.871Z",
         "data_start_date": "2016-02-29",
         "price": 27.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Commercial Printing/Forms",
         "tradingview_id": "NYSE:DLX",
-        "market_capitalization": 1251011623.0505798,
+        "market_capitalization": 1251011653,
         "commodity_name": null,
         "display_name": "Deluxe Corporation",
         "sma_50": 19.378199958801268,

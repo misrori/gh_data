@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RLI",
         "name": "RLI Corp.",
-        "collected_at": "2026-02-28T02:04:32.338Z",
+        "collected_at": "2026-03-01T02:04:30.888Z",
         "data_start_date": "2016-02-29",
         "price": 62.31999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:RLI",
-        "market_capitalization": 5728465654.700066,
+        "market_capitalization": 5728465669,
         "commodity_name": null,
         "display_name": "RLI Corp.",
         "sma_50": 67.08419990539551,

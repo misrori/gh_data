@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BSX",
         "name": "Boston Scientific Corporation",
-        "collected_at": "2026-02-28T02:00:39.687Z",
+        "collected_at": "2026-03-01T02:00:41.567Z",
         "data_start_date": "2016-02-29",
         "price": 76.8499984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:BSX",
-        "market_capitalization": 114036600524.85081,
+        "market_capitalization": 114036598261.00002,
         "commodity_name": null,
         "display_name": "Boston Scientific Corporation",
         "sma_50": 97.64219985961914,

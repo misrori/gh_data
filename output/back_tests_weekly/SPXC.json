@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPXC",
         "name": "SPX Technologies, Inc.",
-        "collected_at": "2026-02-28T02:03:11.838Z",
+        "collected_at": "2026-03-01T02:03:12.846Z",
         "data_start_date": "2016-02-29",
         "price": 226.94000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:SPXC",
-        "market_capitalization": 11319060846.187746,
+        "market_capitalization": 11319061147,
         "commodity_name": null,
         "display_name": "SPX Technologies, Inc.",
         "sma_50": 186.34359924316405,

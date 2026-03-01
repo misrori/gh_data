@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CVI",
         "name": "CVR Energy Inc.",
-        "collected_at": "2026-02-28T02:06:35.500Z",
+        "collected_at": "2026-03-01T02:06:29.902Z",
         "data_start_date": "2016-02-29",
         "price": 24.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NYSE:CVI",
-        "market_capitalization": 2428819245.9009733,
+        "market_capitalization": 2428819317,
         "commodity_name": null,
         "display_name": "CVR Energy Inc.",
         "sma_50": 27.442999992370606,

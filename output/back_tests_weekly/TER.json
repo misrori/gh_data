@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TER",
         "name": "Teradyne, Inc.",
-        "collected_at": "2026-02-28T02:01:18.539Z",
+        "collected_at": "2026-03-01T02:01:20.423Z",
         "data_start_date": "2016-02-29",
         "price": 320.0299987792969,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:TER",
-        "market_capitalization": 50102603790.30358,
+        "market_capitalization": 50102601761,
         "commodity_name": null,
         "display_name": "Teradyne, Inc.",
         "sma_50": 149.05039932250978,

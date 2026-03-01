@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLDR",
         "name": "Builders FirstSource, Inc.",
-        "collected_at": "2026-02-28T02:03:09.564Z",
+        "collected_at": "2026-03-01T02:03:10.036Z",
         "data_start_date": "2016-02-29",
         "price": 104.29000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Home Improvement Chains",
         "tradingview_id": "NYSE:BLDR",
-        "market_capitalization": 11535002692.250288,
+        "market_capitalization": 11535003062,
         "commodity_name": null,
         "display_name": "Builders FirstSource, Inc.",
         "sma_50": 119.57240036010742,

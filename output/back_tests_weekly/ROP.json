@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROP",
         "name": "Roper Technologies, Inc.",
-        "collected_at": "2026-02-28T02:01:37.430Z",
+        "collected_at": "2026-03-01T02:01:38.558Z",
         "data_start_date": "2016-02-29",
         "price": 349.7300109863281,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ROP",
-        "market_capitalization": 35996838540.55982,
+        "market_capitalization": 35996840295,
         "commodity_name": null,
         "display_name": "Roper Technologies, Inc.",
         "sma_50": 492.9082012939453,

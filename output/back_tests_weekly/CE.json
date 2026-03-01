@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CE",
         "name": "Celanese Corporation",
-        "collected_at": "2026-02-28T02:04:38.689Z",
+        "collected_at": "2026-03-01T02:04:36.908Z",
         "data_start_date": "2016-02-29",
         "price": 49.939998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:CE",
-        "market_capitalization": 5472024205.077549,
+        "market_capitalization": 5472023935,
         "commodity_name": null,
         "display_name": "Celanese Corporation",
         "sma_50": 47.55799987792969,

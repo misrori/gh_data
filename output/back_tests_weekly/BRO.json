@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BRO",
         "name": "Brown & Brown, Inc.",
-        "collected_at": "2026-02-28T02:02:04.687Z",
+        "collected_at": "2026-03-01T02:02:04.657Z",
         "data_start_date": "2016-02-29",
         "price": 71.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NYSE:BRO",
-        "market_capitalization": 24448967974.865204,
+        "market_capitalization": 24448967452,
         "commodity_name": null,
         "display_name": "Brown & Brown, Inc.",
         "sma_50": 93.70220001220703,

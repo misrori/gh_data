@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MYE",
         "name": "Myers Industries, Inc.",
-        "collected_at": "2026-02-28T02:09:02.712Z",
+        "collected_at": "2026-03-01T02:08:59.517Z",
         "data_start_date": "2016-02-29",
         "price": 22.3700008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NYSE:MYE",
-        "market_capitalization": 836815004.4768212,
+        "market_capitalization": 836815050,
         "commodity_name": null,
         "display_name": "Myers Industries, Inc.",
         "sma_50": 16.358600063323976,

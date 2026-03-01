@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FAST",
         "name": "Fastenal Company",
-        "collected_at": "2026-02-28T02:01:13.508Z",
+        "collected_at": "2026-03-01T02:01:15.877Z",
         "data_start_date": "2016-02-29",
         "price": 46.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NASDAQ:FAST",
-        "market_capitalization": 52869044088.59807,
+        "market_capitalization": 52869044787,
         "commodity_name": null,
         "display_name": "Fastenal Company",
         "sma_50": 43.54150016784668,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WGO",
         "name": "Winnebago Industries, Inc.",
-        "collected_at": "2026-02-28T02:08:25.322Z",
+        "collected_at": "2026-03-01T02:08:19.243Z",
         "data_start_date": "2016-02-29",
         "price": 39.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Recreational Products",
         "tradingview_id": "NYSE:WGO",
-        "market_capitalization": 1125720837.381112,
+        "market_capitalization": 1125720787,
         "commodity_name": null,
         "display_name": "Winnebago Industries, Inc.",
         "sma_50": 36.244800109863284,

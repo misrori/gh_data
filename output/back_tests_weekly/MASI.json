@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MASI",
         "name": "Masimo Corporation",
-        "collected_at": "2026-02-28T02:02:57.357Z",
+        "collected_at": "2026-03-01T02:02:58.336Z",
         "data_start_date": "2016-02-29",
         "price": 175.35000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:MASI",
-        "market_capitalization": 13014263254.534584,
+        "market_capitalization": 13014263617,
         "commodity_name": null,
         "display_name": "Masimo Corporation",
         "sma_50": 150.8943992614746,

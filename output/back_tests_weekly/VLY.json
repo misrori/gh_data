@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VLY",
         "name": "Valley National Bancorp",
-        "collected_at": "2026-02-28T02:04:06.021Z",
+        "collected_at": "2026-03-01T02:04:05.574Z",
         "data_start_date": "2016-02-29",
         "price": 12.609999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:VLY",
-        "market_capitalization": 7031784339.731489,
+        "market_capitalization": 7031784209,
         "commodity_name": null,
         "display_name": "Valley National Bancorp",
         "sma_50": 10.420799980163574,

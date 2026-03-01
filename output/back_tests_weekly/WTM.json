@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTM",
         "name": "White Mountains Insurance Group, Ltd.",
-        "collected_at": "2026-02-28T02:04:37.441Z",
+        "collected_at": "2026-03-01T02:04:35.588Z",
         "data_start_date": "2016-02-29",
         "price": 2220.510009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:WTM",
-        "market_capitalization": 5506147417.754505,
+        "market_capitalization": 5506147515,
         "commodity_name": null,
         "display_name": "White Mountains Insurance Group, Ltd.",
         "sma_50": 1900.7166040039062,

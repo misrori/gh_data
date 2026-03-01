@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DOV",
         "name": "Dover Corporation",
-        "collected_at": "2026-02-28T02:01:46.654Z",
+        "collected_at": "2026-03-01T02:01:47.505Z",
         "data_start_date": "2016-02-29",
         "price": 225.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:DOV",
-        "market_capitalization": 30412423387.9964,
+        "market_capitalization": 30412423470.000004,
         "commodity_name": null,
         "display_name": "Dover Corporation",
         "sma_50": 185.61300018310547,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMBK",
         "name": "SmartFinancial, Inc.",
-        "collected_at": "2026-02-28T02:09:31.117Z",
+        "collected_at": "2026-03-01T02:09:29.264Z",
         "data_start_date": "2016-02-29",
         "price": 39.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:SMBK",
-        "market_capitalization": 667667937.310597,
+        "market_capitalization": 667667934,
         "commodity_name": null,
         "display_name": "SmartFinancial, Inc.",
         "sma_50": 35.2811999130249,

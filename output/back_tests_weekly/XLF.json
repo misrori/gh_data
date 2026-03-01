@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XLF",
         "name": "State Street Financial Select Sector SPDR ETF",
-        "collected_at": "2026-02-28T02:10:23.313Z",
+        "collected_at": "2026-03-01T02:10:22.191Z",
         "data_start_date": "2016-02-29",
         "price": 51.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:XLF",
-        "market_capitalization": 50754246714.8661,
+        "market_capitalization": 50685596548.9307,
         "commodity_name": null,
         "display_name": "State Street Financial Select Sector SPDR ETF",
         "sma_50": 52.11639984130859,

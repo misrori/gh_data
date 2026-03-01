@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QNST",
         "name": "QuinStreet, Inc.",
-        "collected_at": "2026-02-28T02:09:30.736Z",
+        "collected_at": "2026-03-01T02:09:28.867Z",
         "data_start_date": "2016-02-29",
         "price": 11.720000267028809,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NASDAQ:QNST",
-        "market_capitalization": 667968980.8413794,
+        "market_capitalization": 667968974,
         "commodity_name": null,
         "display_name": "QuinStreet, Inc.",
         "sma_50": 14.92620002746582,

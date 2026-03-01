@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IDXX",
         "name": "IDEXX Laboratories, Inc.",
-        "collected_at": "2026-02-28T02:01:14.291Z",
+        "collected_at": "2026-03-01T02:01:16.726Z",
         "data_start_date": "2016-02-29",
         "price": 656.72998046875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:IDXX",
-        "market_capitalization": 52291491661.81332,
+        "market_capitalization": 52291488367,
         "commodity_name": null,
         "display_name": "IDEXX Laboratories, Inc.",
         "sma_50": 600.8441955566407,

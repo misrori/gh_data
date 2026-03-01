@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTW",
         "name": "Manitowoc Company, Inc. (The)",
-        "collected_at": "2026-02-28T02:10:02.786Z",
+        "collected_at": "2026-03-01T02:10:01.316Z",
         "data_start_date": "2016-02-29",
         "price": 14.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:MTW",
-        "market_capitalization": 523232947.78865623,
+        "market_capitalization": 523232933,
         "commodity_name": null,
         "display_name": "Manitowoc Company, Inc. (The)",
         "sma_50": 11.347200012207031,

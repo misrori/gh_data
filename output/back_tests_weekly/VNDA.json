@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VNDA",
         "name": "Vanda Pharmaceuticals Inc.",
-        "collected_at": "2026-02-28T02:10:01.591Z",
+        "collected_at": "2026-03-01T02:10:00.018Z",
         "data_start_date": "2016-02-29",
         "price": 8.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:VNDA",
-        "market_capitalization": 526652590.8139535,
+        "market_capitalization": 526652558.00000006,
         "commodity_name": null,
         "display_name": "Vanda Pharmaceuticals Inc.",
         "sma_50": 5.349800009727478,

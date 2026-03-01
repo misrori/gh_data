@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHCO",
         "name": "City Holding Company",
-        "collected_at": "2026-02-28T02:07:24.570Z",
+        "collected_at": "2026-03-01T02:07:18.909Z",
         "data_start_date": "2016-02-29",
         "price": 119.97000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:CHCO",
-        "market_capitalization": 1721620154,
+        "market_capitalization": 1721620133.9999998,
         "commodity_name": null,
         "display_name": "City Holding Company",
         "sma_50": 121.67620025634766,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UCB",
         "name": "United Community Banks, Inc.",
-        "collected_at": "2026-02-28T02:05:33.486Z",
+        "collected_at": "2026-03-01T02:05:30.324Z",
         "data_start_date": "2016-02-29",
         "price": 32.16999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:UCB",
-        "market_capitalization": 3847956271.978736,
+        "market_capitalization": 3847955848,
         "commodity_name": null,
         "display_name": "United Community Banks, Inc.",
         "sma_50": 30.74120002746582,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GSL",
         "name": "Global Ship Lease Inc New",
-        "collected_at": "2026-02-28T02:07:49.244Z",
+        "collected_at": "2026-03-01T02:07:42.828Z",
         "data_start_date": "2016-02-29",
         "price": 41.08000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:GSL",
-        "market_capitalization": 1469458410.265776,
+        "market_capitalization": 1469458481,
         "commodity_name": null,
         "display_name": "Global Ship Lease Inc New",
         "sma_50": 30.208800048828124,

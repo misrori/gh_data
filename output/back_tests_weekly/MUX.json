@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MUX",
         "name": "McEwen Inc.",
-        "collected_at": "2026-02-28T02:07:26.566Z",
+        "collected_at": "2026-03-01T02:07:20.872Z",
         "data_start_date": "2016-02-29",
         "price": 28.350000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Precious Metals",
         "tradingview_id": "NYSE:MUX",
-        "market_capitalization": 1684938215.0652099,
+        "market_capitalization": 1684938188,
         "commodity_name": null,
         "display_name": "McEwen Inc.",
         "sma_50": 15.121200037002563,

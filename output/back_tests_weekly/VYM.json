@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VYM",
         "name": "Vanguard High Dividend Yield ETF",
-        "collected_at": "2026-02-28T02:10:19.551Z",
+        "collected_at": "2026-03-01T02:10:18.447Z",
         "data_start_date": "2016-02-29",
         "price": 155.0500030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VYM",
-        "market_capitalization": 75321555925.5,
+        "market_capitalization": 75297886460.23,
         "commodity_name": null,
         "display_name": "Vanguard High Dividend Yield ETF",
         "sma_50": 138.42259994506836,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TPH",
         "name": "Tri Pointe Homes, Inc.",
-        "collected_at": "2026-02-28T02:05:29.776Z",
+        "collected_at": "2026-03-01T02:05:26.470Z",
         "data_start_date": "2016-02-29",
         "price": 46.29999923706055,
         "change": 0,
@@ -48,11 +48,11 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 4,
         "percent_fall_from_last_local_max": 0.6864000475241575,
-        "price_per_earning": 17.03834547729447,
+        "price_per_earning": 17.040853882959144,
         "earnings_per_share_basic_ttm": 2.7332,
-        "number_of_employees": null,
+        "number_of_employees": 1579,
         "ml_direction": 1,
-        "ml_value": 38.713643774143854,
+        "ml_value": 38.70851949286396,
         "ml_last_change_date": "2025-09-01",
         "ml_last_change_price": 36.93000030517578,
         "ml_change_percent_from_last_change": 25.372322920266942

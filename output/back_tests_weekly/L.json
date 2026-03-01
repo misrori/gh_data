@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "L",
         "name": "Loews Corporation",
-        "collected_at": "2026-02-28T02:02:11.212Z",
+        "collected_at": "2026-03-01T02:02:11.199Z",
         "data_start_date": "2016-02-29",
         "price": 110.0199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:L",
-        "market_capitalization": 22669937007.641964,
+        "market_capitalization": 22669936253,
         "commodity_name": null,
         "display_name": "Loews Corporation",
         "sma_50": 97.42600021362304,

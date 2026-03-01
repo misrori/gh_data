@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UTL",
         "name": "UNITIL Corporation",
-        "collected_at": "2026-02-28T02:08:45.818Z",
+        "collected_at": "2026-03-01T02:08:43.156Z",
         "data_start_date": "2016-02-29",
         "price": 52.310001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:UTL",
-        "market_capitalization": 940742701.7625242,
+        "market_capitalization": 940742725.9999999,
         "commodity_name": null,
         "display_name": "UNITIL Corporation",
         "sma_50": 51.05980033874512,

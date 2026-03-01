@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CBRE",
         "name": "CBRE Group Inc",
-        "collected_at": "2026-02-28T02:01:25.481Z",
+        "collected_at": "2026-03-01T02:01:27.726Z",
         "data_start_date": "2016-02-29",
         "price": 147.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:CBRE",
-        "market_capitalization": 43583114347.759995,
+        "market_capitalization": 43583115428.99999,
         "commodity_name": null,
         "display_name": "CBRE Group Inc",
         "sma_50": 148.50960037231445,

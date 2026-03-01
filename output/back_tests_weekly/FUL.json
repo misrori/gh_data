@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FUL",
         "name": "H. B. Fuller Company",
-        "collected_at": "2026-02-28T02:05:42.509Z",
+        "collected_at": "2026-03-01T02:05:38.888Z",
         "data_start_date": "2016-02-29",
         "price": 65.72000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:FUL",
-        "market_capitalization": 3569370517.2339454,
+        "market_capitalization": 3569370434,
         "commodity_name": null,
         "display_name": "H. B. Fuller Company",
         "sma_50": 59.116600036621094,

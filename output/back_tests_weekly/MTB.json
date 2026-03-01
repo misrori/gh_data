@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTB",
         "name": "M&T Bank Corporation",
-        "collected_at": "2026-02-28T02:01:43.125Z",
+        "collected_at": "2026-03-01T02:01:43.889Z",
         "data_start_date": "2016-02-29",
         "price": 216.97999572753906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:MTB",
-        "market_capitalization": 32331776274.7306,
+        "market_capitalization": 32331774762,
         "commodity_name": null,
         "display_name": "M&T Bank Corporation",
         "sma_50": 194.10420043945314,

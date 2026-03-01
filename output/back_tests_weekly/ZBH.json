@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZBH",
         "name": "Zimmer Biomet Holdings, Inc.",
-        "collected_at": "2026-02-28T02:02:25.860Z",
+        "collected_at": "2026-03-01T02:02:26.377Z",
         "data_start_date": "2016-02-29",
         "price": 98.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:ZBH",
-        "market_capitalization": 19259981763.91128,
+        "market_capitalization": 19259982649,
         "commodity_name": null,
         "display_name": "Zimmer Biomet Holdings, Inc.",
         "sma_50": 96.39139938354492,

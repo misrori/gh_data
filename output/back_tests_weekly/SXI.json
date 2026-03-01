@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SXI",
         "name": "Standex International Corporation",
-        "collected_at": "2026-02-28T02:05:59.922Z",
+        "collected_at": "2026-03-01T02:05:55.186Z",
         "data_start_date": "2016-02-29",
         "price": 262,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:SXI",
-        "market_capitalization": 3175108257.521542,
+        "market_capitalization": 3175108151.9999995,
         "commodity_name": null,
         "display_name": "Standex International Corporation",
         "sma_50": 201.48440063476562,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OEF",
         "name": "iShares S&P 100 Fund",
-        "collected_at": "2026-02-28T02:10:36.857Z",
+        "collected_at": "2026-03-01T02:10:36.984Z",
         "data_start_date": "2016-02-29",
         "price": 334.8800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:OEF",
-        "market_capitalization": 28994868322.9,
+        "market_capitalization": 28778632952.95,
         "commodity_name": null,
         "display_name": "iShares S&P 100 Fund",
         "sma_50": 316.5266000366211,

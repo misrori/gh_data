@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PSMT",
         "name": "PriceSmart, Inc.",
-        "collected_at": "2026-02-28T02:05:00.009Z",
+        "collected_at": "2026-03-01T02:04:56.845Z",
         "data_start_date": "2016-02-29",
         "price": 154.6199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NASDAQ:PSMT",
-        "market_capitalization": 4764680063.461638,
+        "market_capitalization": 4764679818,
         "commodity_name": null,
         "display_name": "PriceSmart, Inc.",
         "sma_50": 117.6247998046875,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IVE",
         "name": "iShares S&P 500 Value ETF",
-        "collected_at": "2026-02-28T02:10:23.800Z",
+        "collected_at": "2026-03-01T02:10:22.460Z",
         "data_start_date": "2016-02-29",
         "price": 222.08999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IVE",
-        "market_capitalization": 50408762161.95,
+        "market_capitalization": 50578258064.25,
         "commodity_name": null,
         "display_name": "iShares S&P 500 Value ETF",
         "sma_50": 202.6001998901367,

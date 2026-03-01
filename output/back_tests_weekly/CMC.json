@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CMC",
         "name": "Commercial Metals Company",
-        "collected_at": "2026-02-28T02:03:46.691Z",
+        "collected_at": "2026-03-01T02:03:46.836Z",
         "data_start_date": "2016-02-29",
         "price": 73.30000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NYSE:CMC",
-        "market_capitalization": 8129514644.147645,
+        "market_capitalization": 8129514586.000001,
         "commodity_name": null,
         "display_name": "Commercial Metals Company",
         "sma_50": 58.77900009155273,

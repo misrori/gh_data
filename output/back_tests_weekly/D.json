@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "D",
         "name": "Dominion Energy, Inc.",
-        "collected_at": "2026-02-28T02:01:11.028Z",
+        "collected_at": "2026-03-01T02:01:13.185Z",
         "data_start_date": "2016-02-29",
         "price": 63.13999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:D",
-        "market_capitalization": 55486524259.09392,
+        "market_capitalization": 55486525059,
         "commodity_name": null,
         "display_name": "Dominion Energy, Inc.",
         "sma_50": 58.92600028991699,

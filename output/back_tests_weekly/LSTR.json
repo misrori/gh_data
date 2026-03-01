@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LSTR",
         "name": "Landstar System, Inc.",
-        "collected_at": "2026-02-28T02:04:36.195Z",
+        "collected_at": "2026-03-01T02:04:34.494Z",
         "data_start_date": "2016-02-29",
         "price": 162.9499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NASDAQ:LSTR",
-        "market_capitalization": 5549869672.545689,
+        "market_capitalization": 5549869504,
         "commodity_name": null,
         "display_name": "Landstar System, Inc.",
         "sma_50": 138.86119934082032,

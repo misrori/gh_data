@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HSIC",
         "name": "Henry Schein, Inc.",
-        "collected_at": "2026-02-28T02:03:29.093Z",
+        "collected_at": "2026-03-01T02:03:29.254Z",
         "data_start_date": "2016-02-29",
         "price": 82.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Medical Distributors",
         "tradingview_id": "NASDAQ:HSIC",
-        "market_capitalization": 9450472326.051676,
+        "market_capitalization": 9450472115.000002,
         "commodity_name": null,
         "display_name": "Henry Schein, Inc.",
         "sma_50": 71.36800041198731,

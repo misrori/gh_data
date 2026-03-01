@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CIEN",
         "name": "Ciena Corporation",
-        "collected_at": "2026-02-28T02:01:19.774Z",
+        "collected_at": "2026-03-01T02:01:21.599Z",
         "data_start_date": "2016-02-29",
         "price": 348.70001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NYSE:CIEN",
-        "market_capitalization": 49328307357.65565,
+        "market_capitalization": 49328308555,
         "commodity_name": null,
         "display_name": "Ciena Corporation",
         "sma_50": 152.62760063171388,

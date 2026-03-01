@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLF",
         "name": "Cleveland-Cliffs Inc.",
-        "collected_at": "2026-02-28T02:04:23.444Z",
+        "collected_at": "2026-03-01T02:04:22.528Z",
         "data_start_date": "2016-02-29",
         "price": 10.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NYSE:CLF",
-        "market_capitalization": 6080362866.023529,
+        "market_capitalization": 6080362674.000001,
         "commodity_name": null,
         "display_name": "Cleveland-Cliffs Inc.",
         "sma_50": 10.588600006103515,

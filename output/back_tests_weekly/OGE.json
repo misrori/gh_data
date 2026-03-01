@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OGE",
         "name": "OGE Energy Corp",
-        "collected_at": "2026-02-28T02:03:23.566Z",
+        "collected_at": "2026-03-01T02:03:23.923Z",
         "data_start_date": "2016-02-29",
         "price": 49.13999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:OGE",
-        "market_capitalization": 10135568523.397696,
+        "market_capitalization": 10135568015.999998,
         "commodity_name": null,
         "display_name": "OGE Energy Corp",
         "sma_50": 44.727999954223634,

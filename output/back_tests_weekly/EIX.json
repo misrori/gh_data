@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EIX",
         "name": "Edison International",
-        "collected_at": "2026-02-28T02:01:51.110Z",
+        "collected_at": "2026-03-01T02:01:51.506Z",
         "data_start_date": "2016-02-29",
         "price": 74.73999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:EIX",
-        "market_capitalization": 28759274727.164177,
+        "market_capitalization": 28759272842.999996,
         "commodity_name": null,
         "display_name": "Edison International",
         "sma_50": 57.69479995727539,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BAX",
         "name": "Baxter International Inc.",
-        "collected_at": "2026-02-28T02:03:20.250Z",
+        "collected_at": "2026-03-01T02:03:20.561Z",
         "data_start_date": "2016-02-29",
         "price": 20.3700008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:BAX",
-        "market_capitalization": 10480162658.666994,
+        "market_capitalization": 10480162775.999998,
         "commodity_name": null,
         "display_name": "Baxter International Inc.",
         "sma_50": 24.36360004425049,

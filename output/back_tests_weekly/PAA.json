@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PAA",
         "name": "Plains All American Pipeline, L.P.",
-        "collected_at": "2026-02-28T02:02:45.957Z",
+        "collected_at": "2026-03-01T02:02:46.909Z",
         "data_start_date": "2016-02-29",
         "price": 20.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NASDAQ:PAA",
-        "market_capitalization": 14751958379.420946,
+        "market_capitalization": 14751957671,
         "commodity_name": null,
         "display_name": "Plains All American Pipeline, L.P.",
         "sma_50": 17.937799949645996,

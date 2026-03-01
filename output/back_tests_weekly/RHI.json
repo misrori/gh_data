@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RHI",
         "name": "Robert Half Inc.",
-        "collected_at": "2026-02-28T02:06:34.449Z",
+        "collected_at": "2026-03-01T02:06:28.713Z",
         "data_start_date": "2016-02-29",
         "price": 24.420000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Personnel Services",
         "tradingview_id": "NYSE:RHI",
-        "market_capitalization": 2469926537.36,
+        "market_capitalization": 2469926544.9999995,
         "commodity_name": null,
         "display_name": "Robert Half Inc.",
         "sma_50": 35.52620018005371,

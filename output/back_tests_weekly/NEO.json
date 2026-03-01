@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NEO",
         "name": "NeoGenomics, Inc.",
-        "collected_at": "2026-02-28T02:08:08.649Z",
+        "collected_at": "2026-03-01T02:08:02.086Z",
         "data_start_date": "2016-02-29",
         "price": 9.829999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:NEO",
-        "market_capitalization": 1276054034.255654,
+        "market_capitalization": 1276054015,
         "commodity_name": null,
         "display_name": "NeoGenomics, Inc.",
         "sma_50": 9.250600051879882,

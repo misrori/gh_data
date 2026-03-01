@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OSIS",
         "name": "OSI Systems, Inc.",
-        "collected_at": "2026-02-28T02:05:02.006Z",
+        "collected_at": "2026-03-01T02:04:58.783Z",
         "data_start_date": "2016-02-29",
         "price": 285.20001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:OSIS",
-        "market_capitalization": 4697971317.055739,
+        "market_capitalization": 4697971301,
         "commodity_name": null,
         "display_name": "OSI Systems, Inc.",
         "sma_50": 241.96640075683592,

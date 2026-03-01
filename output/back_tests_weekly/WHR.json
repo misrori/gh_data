@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WHR",
         "name": "Whirlpool Corporation",
-        "collected_at": "2026-02-28T02:05:32.438Z",
+        "collected_at": "2026-03-01T02:05:28.897Z",
         "data_start_date": "2016-02-29",
         "price": 68.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Electronics/Appliances",
         "tradingview_id": "NYSE:WHR",
-        "market_capitalization": 3867574462.8226533,
+        "market_capitalization": 3867574634,
         "commodity_name": null,
         "display_name": "Whirlpool Corporation",
         "sma_50": 82.70199966430664,

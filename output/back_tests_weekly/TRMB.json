@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRMB",
         "name": "Trimble Inc.",
-        "collected_at": "2026-02-28T02:02:40.499Z",
+        "collected_at": "2026-03-01T02:02:41.333Z",
         "data_start_date": "2016-02-29",
         "price": 66.87000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:TRMB",
-        "market_capitalization": 15642860605.891985,
+        "market_capitalization": 15642860479.000002,
         "commodity_name": null,
         "display_name": "Trimble Inc.",
         "sma_50": 74.82859954833984,

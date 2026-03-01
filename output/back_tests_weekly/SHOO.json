@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SHOO",
         "name": "Steven Madden, Ltd.",
-        "collected_at": "2026-02-28T02:06:25.381Z",
+        "collected_at": "2026-03-01T02:06:20.007Z",
         "data_start_date": "2016-02-29",
         "price": 36.099998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NASDAQ:SHOO",
-        "market_capitalization": 2622951536.649485,
+        "market_capitalization": 2622951382,
         "commodity_name": null,
         "display_name": "Steven Madden, Ltd.",
         "sma_50": 32.0931999206543,

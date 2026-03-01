@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UNH",
         "name": "UnitedHealth Group Incorporated",
-        "collected_at": "2026-02-28T02:00:18.267Z",
+        "collected_at": "2026-03-01T02:00:19.026Z",
         "data_start_date": "2016-02-29",
         "price": 293.2699890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Managed Health Care",
         "tradingview_id": "NYSE:UNH",
-        "market_capitalization": 265655296374.83426,
+        "market_capitalization": 265655283028.99997,
         "commodity_name": null,
         "display_name": "UnitedHealth Group Incorporated",
         "sma_50": 337.00519897460936,

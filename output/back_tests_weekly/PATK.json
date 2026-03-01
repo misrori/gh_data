@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PATK",
         "name": "Patrick Industries, Inc.",
-        "collected_at": "2026-02-28T02:05:22.727Z",
+        "collected_at": "2026-03-01T02:05:19.220Z",
         "data_start_date": "2016-02-29",
         "price": 123.79000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NASDAQ:PATK",
-        "market_capitalization": 4114125259.358136,
+        "market_capitalization": 4114125339,
         "commodity_name": null,
         "display_name": "Patrick Industries, Inc.",
         "sma_50": 104.11699981689453,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "POST",
         "name": "Post Holdings, Inc.",
-        "collected_at": "2026-02-28T02:04:50.084Z",
+        "collected_at": "2026-03-01T02:04:48.238Z",
         "data_start_date": "2016-02-29",
         "price": 106.30000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:POST",
-        "market_capitalization": 5097799038.525041,
+        "market_capitalization": 5097799317,
         "commodity_name": null,
         "display_name": "Post Holdings, Inc.",
         "sma_50": 107.38420013427735,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SSB",
         "name": "SouthState Bank Corporation",
-        "collected_at": "2026-02-28T02:03:27.610Z",
+        "collected_at": "2026-03-01T02:03:28.107Z",
         "data_start_date": "2016-02-29",
         "price": 98.66999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:SSB",
-        "market_capitalization": 9676433938.536585,
+        "market_capitalization": 9676433446,
         "commodity_name": null,
         "display_name": "SouthState Bank Corporation",
         "sma_50": 94.23820053100586,

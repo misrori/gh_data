@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FE",
         "name": "FirstEnergy Corp.",
-        "collected_at": "2026-02-28T02:01:48.739Z",
+        "collected_at": "2026-03-01T02:01:49.442Z",
         "data_start_date": "2016-02-29",
         "price": 51.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:FE",
-        "market_capitalization": 29567044829.269352,
+        "market_capitalization": 29567045096.999996,
         "commodity_name": null,
         "display_name": "FirstEnergy Corp.",
         "sma_50": 44.222799911499024,

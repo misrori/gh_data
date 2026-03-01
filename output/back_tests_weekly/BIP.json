@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BIP",
         "name": "Brookfield Infrastructure Partners LP Limited Partnership",
-        "collected_at": "2026-02-28T02:02:30.827Z",
+        "collected_at": "2026-03-01T02:02:31.467Z",
         "data_start_date": "2016-02-29",
         "price": 39.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Alternative Power Generation",
         "tradingview_id": "NYSE:BIP",
-        "market_capitalization": 18037356507.417164,
+        "market_capitalization": 18037356107,
         "commodity_name": null,
         "display_name": "Brookfield Infrastructure Partners LP Limited Partnership",
         "sma_50": 33.33839992523193,

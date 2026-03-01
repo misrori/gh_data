@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DD",
         "name": "DuPont de Nemours, Inc.",
-        "collected_at": "2026-02-28T02:02:20.993Z",
+        "collected_at": "2026-03-01T02:02:21.483Z",
         "data_start_date": "2016-02-29",
         "price": 50.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Major Diversified",
         "tradingview_id": "NYSE:DD",
-        "market_capitalization": 20462549266.660576,
+        "market_capitalization": 20462550261,
         "commodity_name": null,
         "display_name": "DuPont de Nemours, Inc.",
         "sma_50": 34.93522830963135,

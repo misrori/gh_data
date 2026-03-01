@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AXON",
         "name": "Axon Enterprise, Inc.",
-        "collected_at": "2026-02-28T02:01:25.270Z",
+        "collected_at": "2026-03-01T02:01:27.546Z",
         "data_start_date": "2016-02-29",
         "price": 542.4000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:AXON",
-        "market_capitalization": 43607698875.39068,
+        "market_capitalization": 43607700644,
         "commodity_name": null,
         "display_name": "Axon Enterprise, Inc.",
         "sma_50": 653.128803100586,

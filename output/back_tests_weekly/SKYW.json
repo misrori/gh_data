@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SKYW",
         "name": "SkyWest, Inc.",
-        "collected_at": "2026-02-28T02:05:18.175Z",
+        "collected_at": "2026-03-01T02:05:14.360Z",
         "data_start_date": "2016-02-29",
         "price": 104.08000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NASDAQ:SKYW",
-        "market_capitalization": 4205526535.5768557,
+        "market_capitalization": 4205526645,
         "commodity_name": null,
         "display_name": "SkyWest, Inc.",
         "sma_50": 102.06259979248047,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CALX",
         "name": "Calix, Inc",
-        "collected_at": "2026-02-28T02:05:48.107Z",
+        "collected_at": "2026-03-01T02:05:44.226Z",
         "data_start_date": "2016-02-29",
         "price": 51.77000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NYSE:CALX",
-        "market_capitalization": 3396508950.2720027,
+        "market_capitalization": 3396508900,
         "commodity_name": null,
         "display_name": "Calix, Inc",
         "sma_50": 52.4342000579834,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNMD",
         "name": "CONMED Corporation",
-        "collected_at": "2026-02-28T02:07:55.652Z",
+        "collected_at": "2026-03-01T02:07:49.609Z",
         "data_start_date": "2016-02-29",
         "price": 46,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:CNMD",
-        "market_capitalization": 1418342542.3588402,
+        "market_capitalization": 1418342575,
         "commodity_name": null,
         "display_name": "CONMED Corporation",
         "sma_50": 48.672000045776365,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WCC",
         "name": "WESCO International, Inc.",
-        "collected_at": "2026-02-28T02:02:49.088Z",
+        "collected_at": "2026-03-01T02:02:50.356Z",
         "data_start_date": "2016-02-29",
         "price": 289.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:WCC",
-        "market_capitalization": 14087624167.820444,
+        "market_capitalization": 14087624342,
         "commodity_name": null,
         "display_name": "WESCO International, Inc.",
         "sma_50": 221.82579833984374,

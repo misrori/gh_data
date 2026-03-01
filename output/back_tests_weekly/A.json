@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "A",
         "name": "Agilent Technologies, Inc.",
-        "collected_at": "2026-02-28T02:01:39.743Z",
+        "collected_at": "2026-03-01T02:01:40.960Z",
         "data_start_date": "2016-02-29",
         "price": 121.37999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:A",
-        "market_capitalization": 34331074651.523186,
+        "market_capitalization": 34331073528,
         "commodity_name": null,
         "display_name": "Agilent Technologies, Inc.",
         "sma_50": 126.26860000610351,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VEA",
         "name": "Vanguard FTSE Developed Markets ETF",
-        "collected_at": "2026-02-28T02:10:12.796Z",
+        "collected_at": "2026-03-01T02:10:11.597Z",
         "data_start_date": "2016-02-29",
         "price": 70.23999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VEA",
-        "market_capitalization": 221406015458.725,
+        "market_capitalization": 221663075061.94,
         "commodity_name": null,
         "display_name": "Vanguard FTSE Developed Markets ETF",
         "sma_50": 59.435199966430666,

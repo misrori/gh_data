@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AL",
         "name": "Air Lease Corporation",
-        "collected_at": "2026-02-28T02:04:00.947Z",
+        "collected_at": "2026-03-01T02:04:00.842Z",
         "data_start_date": "2016-02-29",
         "price": 64.83999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:AL",
-        "market_capitalization": 7264376265.9959955,
+        "market_capitalization": 7264375446,
         "commodity_name": null,
         "display_name": "Air Lease Corporation",
         "sma_50": 59.48459999084473,

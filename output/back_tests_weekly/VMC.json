@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VMC",
         "name": "Vulcan Materials Company (Holding Company)",
-        "collected_at": "2026-02-28T02:01:30.954Z",
+        "collected_at": "2026-03-01T02:01:32.683Z",
         "data_start_date": "2016-02-29",
         "price": 310,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Construction Materials",
         "tradingview_id": "NYSE:VMC",
-        "market_capitalization": 40479917543.96583,
+        "market_capitalization": 40479918823,
         "commodity_name": null,
         "display_name": "Vulcan Materials Company (Holding Company)",
         "sma_50": 283.70599884033203,

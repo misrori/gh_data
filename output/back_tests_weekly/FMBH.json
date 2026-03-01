@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FMBH",
         "name": "First Mid Bancshares, Inc.",
-        "collected_at": "2026-02-28T02:08:40.018Z",
+        "collected_at": "2026-03-01T02:08:37.318Z",
         "data_start_date": "2016-02-29",
         "price": 41.0099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:FMBH",
-        "market_capitalization": 983964127.4463408,
+        "market_capitalization": 983964076,
         "commodity_name": null,
         "display_name": "First Mid Bancshares, Inc.",
         "sma_50": 38.131599769592285,

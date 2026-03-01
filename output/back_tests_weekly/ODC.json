@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ODC",
         "name": "Oil-Dri Corporation Of America",
-        "collected_at": "2026-02-28T02:08:50.203Z",
+        "collected_at": "2026-03-01T02:08:46.843Z",
         "data_start_date": "2016-02-29",
         "price": 67.83999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Agricultural",
         "tradingview_id": "NYSE:ODC",
-        "market_capitalization": 917078922.7078751,
+        "market_capitalization": 917078832,
         "commodity_name": null,
         "display_name": "Oil-Dri Corporation Of America",
         "sma_50": 55.949599990844725,

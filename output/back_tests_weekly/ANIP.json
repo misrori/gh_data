@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANIP",
         "name": "ANI Pharmaceuticals, Inc.",
-        "collected_at": "2026-02-28T02:07:29.616Z",
+        "collected_at": "2026-03-01T02:07:24.031Z",
         "data_start_date": "2016-02-29",
         "price": 73.9000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:ANIP",
-        "market_capitalization": 1660461499.4750485,
+        "market_capitalization": 1660461501,
         "commodity_name": null,
         "display_name": "ANI Pharmaceuticals, Inc.",
         "sma_50": 77.85139999389648,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GBDC",
         "name": "Golub Capital BDC, Inc.",
-        "collected_at": "2026-02-28T02:06:00.510Z",
+        "collected_at": "2026-03-01T02:05:55.690Z",
         "data_start_date": "2016-02-29",
         "price": 11.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:GBDC",
-        "market_capitalization": 3156105936.096248,
+        "market_capitalization": 3156105817,
         "commodity_name": null,
         "display_name": "Golub Capital BDC, Inc.",
         "sma_50": 14.121199989318848,

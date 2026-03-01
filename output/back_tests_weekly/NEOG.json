@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NEOG",
         "name": "Neogen Corporation",
-        "collected_at": "2026-02-28T02:06:35.244Z",
+        "collected_at": "2026-03-01T02:06:29.668Z",
         "data_start_date": "2016-02-29",
         "price": 11.229999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:NEOG",
-        "market_capitalization": 2442816753.812721,
+        "market_capitalization": 2442816720,
         "commodity_name": null,
         "display_name": "Neogen Corporation",
         "sma_50": 6.708399972915649,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALG",
         "name": "Alamo Group, Inc.",
-        "collected_at": "2026-02-28T02:06:28.334Z",
+        "collected_at": "2026-03-01T02:06:23.098Z",
         "data_start_date": "2016-02-29",
         "price": 213.52999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:ALG",
-        "market_capitalization": 2587007334.9223094,
+        "market_capitalization": 2587007320,
         "commodity_name": null,
         "display_name": "Alamo Group, Inc.",
         "sma_50": 194.32000091552734,

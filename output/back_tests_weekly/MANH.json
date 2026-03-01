@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MANH",
         "name": "Manhattan Associates, Inc.",
-        "collected_at": "2026-02-28T02:03:46.890Z",
+        "collected_at": "2026-03-01T02:03:47.042Z",
         "data_start_date": "2016-02-29",
         "price": 135.42999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:MANH",
-        "market_capitalization": 8105153139.200845,
+        "market_capitalization": 8105152665,
         "commodity_name": null,
         "display_name": "Manhattan Associates, Inc.",
         "sma_50": 183.81060028076172,

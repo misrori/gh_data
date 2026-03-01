@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PPC",
         "name": "Pilgrim's Pride Corporation",
-        "collected_at": "2026-02-28T02:03:22.942Z",
+        "collected_at": "2026-03-01T02:03:23.083Z",
         "data_start_date": "2016-02-29",
         "price": 43.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Agricultural Commodities/Milling",
         "tradingview_id": "NASDAQ:PPC",
-        "market_capitalization": 10252548452.489029,
+        "market_capitalization": 10252548113.999998,
         "commodity_name": null,
         "display_name": "Pilgrim's Pride Corporation",
         "sma_50": 43.99639991760254,

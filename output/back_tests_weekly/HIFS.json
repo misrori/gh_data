@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HIFS",
         "name": "Hingham Institution for Savings",
-        "collected_at": "2026-02-28T02:09:44.165Z",
+        "collected_at": "2026-03-01T02:09:42.499Z",
         "data_start_date": "2016-02-29",
         "price": 279.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:HIFS",
-        "market_capitalization": 608551347.5872595,
+        "market_capitalization": 608551350,
         "commodity_name": null,
         "display_name": "Hingham Institution for Savings",
         "sma_50": 269.7783999633789,

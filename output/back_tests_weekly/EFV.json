@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EFV",
         "name": "iShares MSCI EAFE Value ETF",
-        "collected_at": "2026-02-28T02:10:34.753Z",
+        "collected_at": "2026-03-01T02:10:34.928Z",
         "data_start_date": "2016-02-29",
         "price": 79.76000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CBOE:EFV",
-        "market_capitalization": 31381137993.6,
+        "market_capitalization": 31388305463.2,
         "commodity_name": null,
         "display_name": "iShares MSCI EAFE Value ETF",
         "sma_50": 67.57519989013672,

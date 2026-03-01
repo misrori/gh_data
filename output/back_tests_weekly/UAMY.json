@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UAMY",
         "name": "United States Antimony Corporation",
-        "collected_at": "2026-02-28T02:08:11.632Z",
+        "collected_at": "2026-03-01T02:08:05.516Z",
         "data_start_date": "2016-02-29",
         "price": 8.9399995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "AMEX:UAMY",
-        "market_capitalization": 1251918367.3468013,
+        "market_capitalization": 1251918331,
         "commodity_name": null,
         "display_name": "United States Antimony Corporation",
         "sma_50": 5.542999963760376,

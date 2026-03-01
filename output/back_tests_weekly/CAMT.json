@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CAMT",
         "name": "Camtek Ltd.",
-        "collected_at": "2026-02-28T02:03:53.769Z",
+        "collected_at": "2026-03-01T02:03:53.397Z",
         "data_start_date": "2016-02-29",
         "price": 167.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NASDAQ:CAMT",
-        "market_capitalization": 7660814133.578885,
+        "market_capitalization": 7671171093.000001,
         "commodity_name": null,
         "display_name": "Camtek Ltd.",
         "sma_50": 100.30060043334962,

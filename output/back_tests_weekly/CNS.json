@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNS",
         "name": "Cohen & Steers Inc",
-        "collected_at": "2026-02-28T02:05:46.594Z",
+        "collected_at": "2026-03-01T02:05:42.822Z",
         "data_start_date": "2016-02-29",
         "price": 66.87000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:CNS",
-        "market_capitalization": 3410874024.906167,
+        "market_capitalization": 3410874196,
         "commodity_name": null,
         "display_name": "Cohen & Steers Inc",
         "sma_50": 70.8497999572754,

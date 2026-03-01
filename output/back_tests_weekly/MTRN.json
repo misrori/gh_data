@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTRN",
         "name": "Materion Corporation",
-        "collected_at": "2026-02-28T02:05:48.962Z",
+        "collected_at": "2026-03-01T02:05:45.054Z",
         "data_start_date": "2016-02-29",
         "price": 163.05999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:MTRN",
-        "market_capitalization": 3381246888.3622723,
+        "market_capitalization": 3381246953,
         "commodity_name": null,
         "display_name": "Materion Corporation",
         "sma_50": 110.99099975585938,

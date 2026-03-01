@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UFPI",
         "name": "UFP Industries, Inc.",
-        "collected_at": "2026-02-28T02:04:29.077Z",
+        "collected_at": "2026-03-01T02:04:27.825Z",
         "data_start_date": "2016-02-29",
         "price": 102.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Forest Products",
         "tradingview_id": "NASDAQ:UFPI",
-        "market_capitalization": 5824184167.7262945,
+        "market_capitalization": 5824184324,
         "commodity_name": null,
         "display_name": "UFP Industries, Inc.",
         "sma_50": 99.53859985351562,

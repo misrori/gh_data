@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHH",
         "name": "Choice Hotels International, Inc.",
-        "collected_at": "2026-02-28T02:04:57.225Z",
+        "collected_at": "2026-03-01T02:04:53.783Z",
         "data_start_date": "2016-02-29",
         "price": 105.3499984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NYSE:CHH",
-        "market_capitalization": 4843086465.103723,
+        "market_capitalization": 4843086244,
         "commodity_name": null,
         "display_name": "Choice Hotels International, Inc.",
         "sma_50": 113.2563996887207,

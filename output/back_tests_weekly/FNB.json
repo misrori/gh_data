@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FNB",
         "name": "F.N.B. Corporation",
-        "collected_at": "2026-02-28T02:04:23.726Z",
+        "collected_at": "2026-03-01T02:04:22.829Z",
         "data_start_date": "2016-02-29",
         "price": 16.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:FNB",
-        "market_capitalization": 6072039834.504164,
+        "market_capitalization": 6072039675,
         "commodity_name": null,
         "display_name": "F.N.B. Corporation",
         "sma_50": 15.675399990081788,

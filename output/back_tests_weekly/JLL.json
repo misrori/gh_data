@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JLL",
         "name": "Jones Lang LaSalle Incorporated",
-        "collected_at": "2026-02-28T02:02:45.676Z",
+        "collected_at": "2026-03-01T02:02:46.663Z",
         "data_start_date": "2016-02-29",
         "price": 315.54998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:JLL",
-        "market_capitalization": 14783982161.136862,
+        "market_capitalization": 14783981085,
         "commodity_name": null,
         "display_name": "Jones Lang LaSalle Incorporated",
         "sma_50": 287.1914001464844,

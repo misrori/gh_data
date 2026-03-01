@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PKE",
         "name": "Park Aerospace Corp.",
-        "collected_at": "2026-02-28T02:10:01.879Z",
+        "collected_at": "2026-03-01T02:10:00.309Z",
         "data_start_date": "2016-02-29",
         "price": 26.420000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:PKE",
-        "market_capitalization": 526439610.6710914,
+        "market_capitalization": 526439596,
         "commodity_name": null,
         "display_name": "Park Aerospace Corp.",
         "sma_50": 18.550400047302247,

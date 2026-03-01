@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IHS",
         "name": "IHS Holding Limited",
-        "collected_at": "2026-02-28T02:06:24.062Z",
+        "collected_at": "2026-03-01T02:06:18.728Z",
         "data_start_date": "2021-10-14",
         "price": 8,
         "change": 0,
-        "volume": 2231165,
+        "volume": 2881600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 86,

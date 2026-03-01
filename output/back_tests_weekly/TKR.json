@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TKR",
         "name": "Timken Company (The)",
-        "collected_at": "2026-02-28T02:03:56.320Z",
+        "collected_at": "2026-03-01T02:03:56.572Z",
         "data_start_date": "2016-02-29",
         "price": 108.37999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:TKR",
-        "market_capitalization": 7537210641.204406,
+        "market_capitalization": 7537210637.999998,
         "commodity_name": null,
         "display_name": "Timken Company (The)",
         "sma_50": 79.73340026855469,

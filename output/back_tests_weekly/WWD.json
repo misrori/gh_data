@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WWD",
         "name": "Woodward, Inc.",
-        "collected_at": "2026-02-28T02:02:09.491Z",
+        "collected_at": "2026-03-01T02:02:09.527Z",
         "data_start_date": "2016-02-29",
         "price": 386.760009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:WWD",
-        "market_capitalization": 23057032378.208385,
+        "market_capitalization": 23057033541,
         "commodity_name": null,
         "display_name": "Woodward, Inc.",
         "sma_50": 264.02040008544924,

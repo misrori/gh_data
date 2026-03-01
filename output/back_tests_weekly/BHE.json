@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BHE",
         "name": "Benchmark Electronics, Inc.",
-        "collected_at": "2026-02-28T02:06:58.191Z",
+        "collected_at": "2026-03-01T02:06:52.496Z",
         "data_start_date": "2016-02-29",
         "price": 57.810001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NYSE:BHE",
-        "market_capitalization": 2061911916.287428,
+        "market_capitalization": 2061911955.0000002,
         "commodity_name": null,
         "display_name": "Benchmark Electronics, Inc.",
         "sma_50": 42.35740013122559,

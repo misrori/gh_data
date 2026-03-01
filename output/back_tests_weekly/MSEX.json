@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSEX",
         "name": "Middlesex Water Company",
-        "collected_at": "2026-02-28T02:08:38.173Z",
+        "collected_at": "2026-03-01T02:08:35.433Z",
         "data_start_date": "2016-02-29",
         "price": 54,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NASDAQ:MSEX",
-        "market_capitalization": 1000184437.5488918,
+        "market_capitalization": 1000184464,
         "commodity_name": null,
         "display_name": "Middlesex Water Company",
         "sma_50": 55.209399948120115,

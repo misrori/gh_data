@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AORT",
         "name": "Artivion, Inc.",
-        "collected_at": "2026-02-28T02:07:14.551Z",
+        "collected_at": "2026-03-01T02:07:08.915Z",
         "data_start_date": "2016-02-29",
         "price": 38.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:AORT",
-        "market_capitalization": 1843530226.8382354,
+        "market_capitalization": 1843530138.0000002,
         "commodity_name": null,
         "display_name": "Artivion, Inc.",
         "sma_50": 37.080800170898435,

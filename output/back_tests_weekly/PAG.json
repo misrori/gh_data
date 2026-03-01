@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PAG",
         "name": "Penske Automotive Group, Inc.",
-        "collected_at": "2026-02-28T02:03:22.171Z",
+        "collected_at": "2026-03-01T02:03:22.562Z",
         "data_start_date": "2016-02-29",
         "price": 157.52000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:PAG",
-        "market_capitalization": 10374038757.044516,
+        "market_capitalization": 10374039239,
         "commodity_name": null,
         "display_name": "Penske Automotive Group, Inc.",
         "sma_50": 166.18500030517578,

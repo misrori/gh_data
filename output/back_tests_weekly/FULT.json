@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FULT",
         "name": "Fulton Financial Corporation",
-        "collected_at": "2026-02-28T02:05:37.770Z",
+        "collected_at": "2026-03-01T02:05:34.423Z",
         "data_start_date": "2016-02-29",
         "price": 20.450000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:FULT",
-        "market_capitalization": 3678855229.7042513,
+        "market_capitalization": 3678855471,
         "commodity_name": null,
         "display_name": "Fulton Financial Corporation",
         "sma_50": 18.635800037384033,

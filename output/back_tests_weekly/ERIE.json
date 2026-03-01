@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ERIE",
         "name": "Erie Indemnity Company",
-        "collected_at": "2026-02-28T02:03:01.533Z",
+        "collected_at": "2026-03-01T02:03:02.603Z",
         "data_start_date": "2016-02-29",
         "price": 269.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:ERIE",
-        "market_capitalization": 12547920480.766954,
+        "market_capitalization": 12547920025.000002,
         "commodity_name": null,
         "display_name": "Erie Indemnity Company",
         "sma_50": 327.8386004638672,

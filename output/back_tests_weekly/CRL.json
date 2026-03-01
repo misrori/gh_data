@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRL",
         "name": "Charles River Laboratories International, Inc.",
-        "collected_at": "2026-02-28T02:03:38.372Z",
+        "collected_at": "2026-03-01T02:03:38.473Z",
         "data_start_date": "2016-02-29",
         "price": 178.49000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:CRL",
-        "market_capitalization": 8786670764.60629,
+        "market_capitalization": 8786670699,
         "commodity_name": null,
         "display_name": "Charles River Laboratories International, Inc.",
         "sma_50": 165.01219955444336,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GDX",
         "name": "VanEck Gold Miners ETF",
-        "collected_at": "2026-02-28T02:10:32.486Z",
+        "collected_at": "2026-03-01T02:10:31.917Z",
         "data_start_date": "2016-02-29",
         "price": 115.83999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:GDX",
-        "market_capitalization": 35109736636.75,
+        "market_capitalization": 35856759174.25,
         "commodity_name": null,
         "display_name": "VanEck Gold Miners ETF",
         "sma_50": 70.40520011901856,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GEL",
         "name": "Genesis Energy, L.P.",
-        "collected_at": "2026-02-28T02:06:45.935Z",
+        "collected_at": "2026-03-01T02:06:39.858Z",
         "data_start_date": "2016-02-29",
         "price": 18.059999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:GEL",
-        "market_capitalization": 2211705656.858744,
+        "market_capitalization": 2211705573,
         "commodity_name": null,
         "display_name": "Genesis Energy, L.P.",
         "sma_50": 16.13680006027222,

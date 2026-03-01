@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MMS",
         "name": "Maximus, Inc.",
-        "collected_at": "2026-02-28T02:05:22.064Z",
+        "collected_at": "2026-03-01T02:05:18.540Z",
         "data_start_date": "2016-02-29",
         "price": 75.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:MMS",
-        "market_capitalization": 4124417653.0543284,
+        "market_capitalization": 4124417603,
         "commodity_name": null,
         "display_name": "Maximus, Inc.",
         "sma_50": 79.96320007324219,

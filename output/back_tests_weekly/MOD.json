@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MOD",
         "name": "Modine Manufacturing Company",
-        "collected_at": "2026-02-28T02:03:05.332Z",
+        "collected_at": "2026-03-01T02:03:06.017Z",
         "data_start_date": "2016-02-29",
         "price": 227.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:MOD",
-        "market_capitalization": 11983163412.975098,
+        "market_capitalization": 11983163732.999998,
         "commodity_name": null,
         "display_name": "Modine Manufacturing Company",
         "sma_50": 133.5552000427246,

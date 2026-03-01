@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
-        "collected_at": "2026-02-28T02:00:06.689Z",
+        "collected_at": "2026-03-01T02:00:07.078Z",
         "data_start_date": "2016-02-29",
         "price": 177.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:NVDA",
-        "market_capitalization": 4305716985785.6997,
+        "market_capitalization": 4305717059326,
         "commodity_name": null,
         "display_name": "NVIDIA Corporation",
         "sma_50": 165.23280059814454,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRIP",
         "name": "TripAdvisor, Inc.",
-        "collected_at": "2026-02-28T02:08:20.104Z",
+        "collected_at": "2026-03-01T02:08:13.985Z",
         "data_start_date": "2016-02-29",
         "price": 10.109999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:TRIP",
-        "market_capitalization": 1160175229.3540857,
+        "market_capitalization": 1160175220,
         "commodity_name": null,
         "display_name": "TripAdvisor, Inc.",
         "sma_50": 14.702799968719482,

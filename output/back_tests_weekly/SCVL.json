@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCVL",
         "name": "Shoe Carnival, Inc.",
-        "collected_at": "2026-02-28T02:09:55.821Z",
+        "collected_at": "2026-03-01T02:09:53.984Z",
         "data_start_date": "2016-02-29",
         "price": 20.190000534057617,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NASDAQ:SCVL",
-        "market_capitalization": 552700641.7616054,
+        "market_capitalization": 552700648,
         "commodity_name": null,
         "display_name": "Shoe Carnival, Inc.",
         "sma_50": 19.665999946594237,

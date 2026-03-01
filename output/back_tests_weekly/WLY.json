@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WLY",
         "name": "John Wiley & Sons, Inc.",
-        "collected_at": "2026-02-28T02:07:33.639Z",
+        "collected_at": "2026-03-01T02:07:27.608Z",
         "data_start_date": "2016-02-29",
         "price": 31.020000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Publishing: Books/Magazines",
         "tradingview_id": "NYSE:WLY",
-        "market_capitalization": 1636007830.8345325,
+        "market_capitalization": 1631413246,
         "commodity_name": null,
         "display_name": "John Wiley & Sons, Inc.",
         "sma_50": 37.54919990539551,

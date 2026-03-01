@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IMAX",
         "name": "Imax Corporation",
-        "collected_at": "2026-02-28T02:06:41.057Z",
+        "collected_at": "2026-03-01T02:06:35.181Z",
         "data_start_date": "2016-02-29",
         "price": 42.83000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Electronics/Appliances",
         "tradingview_id": "NYSE:IMAX",
-        "market_capitalization": 2312520869.8249936,
+        "market_capitalization": 2312520944,
         "commodity_name": null,
         "display_name": "Imax Corporation",
         "sma_50": 31.156200103759765,

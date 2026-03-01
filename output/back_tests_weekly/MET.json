@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MET",
         "name": "MetLife, Inc.",
-        "collected_at": "2026-02-28T02:01:21.922Z",
+        "collected_at": "2026-03-01T02:01:23.831Z",
         "data_start_date": "2016-02-29",
         "price": 72.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:MET",
-        "market_capitalization": 46993525654.90413,
+        "market_capitalization": 46993523945.00001,
         "commodity_name": null,
         "display_name": "MetLife, Inc.",
         "sma_50": 77.97080017089844,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ORRF",
         "name": "Orrstown Financial Services, Inc.",
-        "collected_at": "2026-02-28T02:09:24.433Z",
+        "collected_at": "2026-03-01T02:09:21.825Z",
         "data_start_date": "2016-02-29",
         "price": 35.939998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:ORRF",
-        "market_capitalization": 700785804.7608345,
+        "market_capitalization": 700785758,
         "commodity_name": null,
         "display_name": "Orrstown Financial Services, Inc.",
         "sma_50": 33.49439998626709,

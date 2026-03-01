@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UEC",
         "name": "Uranium Energy Corp.",
-        "collected_at": "2026-02-28T02:03:58.685Z",
+        "collected_at": "2026-03-01T02:03:58.476Z",
         "data_start_date": "2016-02-29",
         "price": 15.329999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "AMEX:UEC",
-        "market_capitalization": 7410175764.275033,
+        "market_capitalization": 7410175672,
         "commodity_name": null,
         "display_name": "Uranium Energy Corp.",
         "sma_50": 10.769000024795533,

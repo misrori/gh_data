@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATO",
         "name": "Atmos Energy Corporation",
-        "collected_at": "2026-02-28T02:01:45.503Z",
+        "collected_at": "2026-03-01T02:01:46.522Z",
         "data_start_date": "2016-02-29",
         "price": 186.7899932861328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:ATO",
-        "market_capitalization": 30902342214.588028,
+        "market_capitalization": 30902340282,
         "commodity_name": null,
         "display_name": "Atmos Energy Corporation",
         "sma_50": 165.32159851074218,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XNCR",
         "name": "Xencor, Inc.",
-        "collected_at": "2026-02-28T02:08:46.373Z",
-        "data_start_date": "2016-03-02",
+        "collected_at": "2026-03-01T02:08:43.807Z",
+        "data_start_date": "2016-03-03",
         "price": 12.770000457763672,
         "change": -5.756455512853313,
-        "volume": 874804,
+        "volume": 874800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 23,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:XNCR",
-        "market_capitalization": 936534424.3180811,
+        "market_capitalization": 936534445,
         "commodity_name": null,
         "display_name": "Xencor, Inc.",
         "sma_50": 13.321800003051758,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 10.976534635083063,
         "ml_last_change_date": "2026-02-26",
-        "ml_last_change_price": 13.289999961853027,
-        "ml_change_percent_from_last_change": -3.9127126078400076
+        "ml_last_change_price": 13.489999771118164,
+        "ml_change_percent_from_last_change": -5.337281879692812
     }
 }

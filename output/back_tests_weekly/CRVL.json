@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRVL",
         "name": "CorVel Corp.",
-        "collected_at": "2026-02-28T02:06:24.572Z",
+        "collected_at": "2026-03-01T02:06:19.265Z",
         "data_start_date": "2016-02-29",
         "price": 51.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NASDAQ:CRVL",
-        "market_capitalization": 2638442716.3154855,
+        "market_capitalization": 2638442903,
         "commodity_name": null,
         "display_name": "CorVel Corp.",
         "sma_50": 84.70959938049316,

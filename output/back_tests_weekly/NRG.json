@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NRG",
         "name": "NRG Energy, Inc.",
-        "collected_at": "2026-02-28T02:01:33.253Z",
+        "collected_at": "2026-03-01T02:01:34.812Z",
         "data_start_date": "2016-02-29",
         "price": 178.9600067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:NRG",
-        "market_capitalization": 38418693799.29723,
+        "market_capitalization": 38418696017,
         "commodity_name": null,
         "display_name": "NRG Energy, Inc.",
         "sma_50": 152.21920043945312,

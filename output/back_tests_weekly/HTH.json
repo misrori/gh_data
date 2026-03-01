@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTH",
         "name": "Hilltop Holdings Inc.",
-        "collected_at": "2026-02-28T02:06:44.735Z",
+        "collected_at": "2026-03-01T02:06:38.518Z",
         "data_start_date": "2016-02-29",
         "price": 37.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:HTH",
-        "market_capitalization": 2225196947.686502,
+        "market_capitalization": 2225196984,
         "commodity_name": null,
         "display_name": "Hilltop Holdings Inc.",
         "sma_50": 32.92199993133545,

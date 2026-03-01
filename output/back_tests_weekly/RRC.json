@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RRC",
         "name": "Range Resources Corporation",
-        "collected_at": "2026-02-28T02:03:27.160Z",
+        "collected_at": "2026-03-01T02:03:27.038Z",
         "data_start_date": "2016-02-29",
         "price": 41.279998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:RRC",
-        "market_capitalization": 9716527581.789715,
+        "market_capitalization": 9716527257,
         "commodity_name": null,
         "display_name": "Range Resources Corporation",
         "sma_50": 37.02799987792969,

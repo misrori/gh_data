@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PII",
         "name": "Polaris Inc.",
-        "collected_at": "2026-02-28T02:05:45.841Z",
+        "collected_at": "2026-03-01T02:05:41.813Z",
         "data_start_date": "2016-02-29",
         "price": 60.7400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Recreational Products",
         "tradingview_id": "NYSE:PII",
-        "market_capitalization": 3443390982.349256,
+        "market_capitalization": 3443391160,
         "commodity_name": null,
         "display_name": "Polaris Inc.",
         "sma_50": 54.90720001220703,

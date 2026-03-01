@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APD",
         "name": "Air Products and Chemicals, Inc.",
-        "collected_at": "2026-02-28T02:01:07.017Z",
+        "collected_at": "2026-03-01T02:01:09.293Z",
         "data_start_date": "2016-02-29",
         "price": 275.6700134277344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:APD",
-        "market_capitalization": 61379587783.21399,
+        "market_capitalization": 61379588331,
         "commodity_name": null,
         "display_name": "Air Products and Chemicals, Inc.",
         "sma_50": 272.7057974243164,

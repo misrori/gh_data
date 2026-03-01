@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HZO",
         "name": "MarineMax, Inc. (FL)",
-        "collected_at": "2026-02-28T02:09:29.463Z",
+        "collected_at": "2026-03-01T02:09:27.603Z",
         "data_start_date": "2016-02-29",
         "price": 30.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:HZO",
-        "market_capitalization": 671836120.1996671,
+        "market_capitalization": 671836137,
         "commodity_name": null,
         "display_name": "MarineMax, Inc. (FL)",
         "sma_50": 24.897000007629394,

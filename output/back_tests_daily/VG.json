@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VG",
         "name": "Venture Global, Inc.",
-        "collected_at": "2026-02-28T02:02:07.597Z",
+        "collected_at": "2026-03-01T02:02:07.488Z",
         "data_start_date": "2025-01-24",
         "price": 9.6899995803833,
         "change": 2.3231183437285847,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:VG",
-        "market_capitalization": 23722192305.427666,
+        "market_capitalization": 23722190610,
         "commodity_name": null,
         "display_name": "Venture Global, Inc.",
         "sma_50": 8.414000024795532,

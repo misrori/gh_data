@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EPC",
         "name": "Edgewell Personal Care Company",
-        "collected_at": "2026-02-28T02:08:31.341Z",
+        "collected_at": "2026-03-01T02:08:28.022Z",
         "data_start_date": "2016-02-29",
         "price": 22.739999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NYSE:EPC",
-        "market_capitalization": 1062335587.7263156,
+        "market_capitalization": 1062335613,
         "commodity_name": null,
         "display_name": "Edgewell Personal Care Company",
         "sma_50": 22.817199897766113,

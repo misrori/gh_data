@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CBU",
         "name": "Community Financial System, Inc.",
-        "collected_at": "2026-02-28T02:05:59.403Z",
+        "collected_at": "2026-03-01T02:05:54.673Z",
         "data_start_date": "2016-02-29",
         "price": 60.54999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:CBU",
-        "market_capitalization": 3188653072.45,
+        "market_capitalization": 3188653033,
         "commodity_name": null,
         "display_name": "Community Financial System, Inc.",
         "sma_50": 57.986999893188475,

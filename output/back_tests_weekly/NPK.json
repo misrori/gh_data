@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NPK",
         "name": "National Presto Industries, Inc.",
-        "collected_at": "2026-02-28T02:08:44.526Z",
+        "collected_at": "2026-03-01T02:08:41.838Z",
         "data_start_date": "2016-02-29",
         "price": 131.94000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:NPK",
-        "market_capitalization": 943626937.7119749,
+        "market_capitalization": 943626964,
         "commodity_name": null,
         "display_name": "National Presto Industries, Inc.",
         "sma_50": 104.22199981689454,

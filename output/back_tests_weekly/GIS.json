@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GIS",
         "name": "General Mills, Inc.",
-        "collected_at": "2026-02-28T02:02:05.871Z",
+        "collected_at": "2026-03-01T02:02:05.795Z",
         "data_start_date": "2016-02-29",
         "price": 45.22999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Major Diversified",
         "tradingview_id": "NYSE:GIS",
-        "market_capitalization": 24133918197.771423,
+        "market_capitalization": 24133917790,
         "commodity_name": null,
         "display_name": "General Mills, Inc.",
         "sma_50": 50.12400009155274,

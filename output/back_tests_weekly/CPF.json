@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPF",
         "name": "Central Pacific Financial Corp New",
-        "collected_at": "2026-02-28T02:08:59.282Z",
+        "collected_at": "2026-03-01T02:08:56.400Z",
         "data_start_date": "2016-02-29",
         "price": 31.850000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:CPF",
-        "market_capitalization": 854456185.086079,
+        "market_capitalization": 854456230,
         "commodity_name": null,
         "display_name": "Central Pacific Financial Corp New",
         "sma_50": 29.292199974060058,

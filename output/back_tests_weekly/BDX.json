@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BDX",
         "name": "Becton, Dickinson and Company",
-        "collected_at": "2026-02-28T02:01:17.781Z",
+        "collected_at": "2026-03-01T02:01:19.789Z",
         "data_start_date": "2016-02-29",
         "price": 176.47999572753906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:BDX",
-        "market_capitalization": 50251237663.10517,
+        "market_capitalization": 50251235405,
         "commodity_name": null,
         "display_name": "Becton, Dickinson and Company",
         "sma_50": 151.1502084350586,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IWM",
         "name": "iShares Russell 2000 ETF",
-        "collected_at": "2026-02-28T02:10:20.004Z",
+        "collected_at": "2026-03-01T02:10:18.731Z",
         "data_start_date": "2016-02-29",
         "price": 261.4100036621094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IWM",
-        "market_capitalization": 74901900550.4,
+        "market_capitalization": 75202691827.2,
         "commodity_name": null,
         "display_name": "iShares Russell 2000 ETF",
         "sma_50": 232.05479949951172,

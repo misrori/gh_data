@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RVTY",
         "name": "Revvity, Inc.",
-        "collected_at": "2026-02-28T02:03:14.812Z",
+        "collected_at": "2026-03-01T02:03:15.656Z",
         "data_start_date": "2016-02-29",
         "price": 98.30999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:RVTY",
-        "market_capitalization": 10990997033.104635,
+        "market_capitalization": 10990996523,
         "commodity_name": null,
         "display_name": "Revvity, Inc.",
         "sma_50": 95.84019989013672,

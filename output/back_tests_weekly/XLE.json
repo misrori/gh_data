@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XLE",
         "name": "State Street Energy Select Sector SPDR ETF",
-        "collected_at": "2026-02-28T02:10:31.194Z",
+        "collected_at": "2026-03-01T02:10:30.346Z",
         "data_start_date": "2016-02-29",
         "price": 55.91999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:XLE",
-        "market_capitalization": 37340029538.5032,
+        "market_capitalization": 37292789713.5584,
         "commodity_name": null,
         "display_name": "State Street Energy Select Sector SPDR ETF",
         "sma_50": 44.99869972229004,

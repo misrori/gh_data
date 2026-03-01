@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INDB",
         "name": "Independent Bank Corp.",
-        "collected_at": "2026-02-28T02:05:33.003Z",
+        "collected_at": "2026-03-01T02:05:29.539Z",
         "data_start_date": "2016-02-29",
         "price": 78.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:INDB",
-        "market_capitalization": 3864239300.2390294,
+        "market_capitalization": 3864239242,
         "commodity_name": null,
         "display_name": "Independent Bank Corp.",
         "sma_50": 69.05820022583008,

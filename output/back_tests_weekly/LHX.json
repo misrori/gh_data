@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LHX",
         "name": "L3Harris Technologies, Inc.",
-        "collected_at": "2026-02-28T02:01:02.710Z",
+        "collected_at": "2026-03-01T02:01:04.747Z",
         "data_start_date": "2016-02-29",
         "price": 364.5400085449219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:LHX",
-        "market_capitalization": 68087418659.388054,
+        "market_capitalization": 68087419553,
         "commodity_name": null,
         "display_name": "L3Harris Technologies, Inc.",
         "sma_50": 279.4464013671875,

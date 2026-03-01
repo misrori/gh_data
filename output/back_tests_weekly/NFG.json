@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NFG",
         "name": "National Fuel Gas Company",
-        "collected_at": "2026-02-28T02:03:39.589Z",
+        "collected_at": "2026-03-01T02:03:39.790Z",
         "data_start_date": "2016-02-29",
         "price": 91.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:NFG",
-        "market_capitalization": 8650254947.571268,
+        "market_capitalization": 8650254951,
         "commodity_name": null,
         "display_name": "National Fuel Gas Company",
         "sma_50": 83.72979934692383,

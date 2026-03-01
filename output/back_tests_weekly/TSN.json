@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TSN",
         "name": "Tyson Foods, Inc.",
-        "collected_at": "2026-02-28T02:02:12.686Z",
+        "collected_at": "2026-03-01T02:02:12.595Z",
         "data_start_date": "2016-02-29",
         "price": 64.98999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Meat/Fish/Dairy",
         "tradingview_id": "NYSE:TSN",
-        "market_capitalization": 22426624719.782578,
+        "market_capitalization": 22426623767,
         "commodity_name": null,
         "display_name": "Tyson Foods, Inc.",
         "sma_50": 57.3465998840332,

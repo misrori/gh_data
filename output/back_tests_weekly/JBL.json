@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JBL",
         "name": "Jabil Inc.",
-        "collected_at": "2026-02-28T02:01:53.850Z",
+        "collected_at": "2026-03-01T02:01:54.161Z",
         "data_start_date": "2016-02-29",
         "price": 264.989990234375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:JBL",
-        "market_capitalization": 27981690509.882824,
+        "market_capitalization": 27981689102,
         "commodity_name": null,
         "display_name": "Jabil Inc.",
         "sma_50": 207.1813984680176,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RPM",
         "name": "RPM International Inc.",
-        "collected_at": "2026-02-28T02:02:46.824Z",
+        "collected_at": "2026-03-01T02:02:47.633Z",
         "data_start_date": "2016-02-29",
         "price": 114.12000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:RPM",
-        "market_capitalization": 14615997168.74546,
+        "market_capitalization": 14615997363.000002,
         "commodity_name": null,
         "display_name": "RPM International Inc.",
         "sma_50": 112.74060012817382,

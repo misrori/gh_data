@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WAL",
         "name": "Western Alliance Bancorporation",
-        "collected_at": "2026-02-28T02:03:37.415Z",
+        "collected_at": "2026-03-01T02:03:37.617Z",
         "data_start_date": "2016-02-29",
         "price": 80.31999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:WAL",
-        "market_capitalization": 8825492507.498114,
+        "market_capitalization": 8825492713,
         "commodity_name": null,
         "display_name": "Western Alliance Bancorporation",
         "sma_50": 80.93419998168946,

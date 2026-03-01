@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LQD",
         "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
-        "collected_at": "2026-02-28T02:10:35.039Z",
+        "collected_at": "2026-03-01T02:10:34.324Z",
         "data_start_date": "2016-02-29",
         "price": 111.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:LQD",
-        "market_capitalization": 31246432000,
+        "market_capitalization": 31978908480,
         "commodity_name": null,
         "display_name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
         "sma_50": 109.7511996459961,

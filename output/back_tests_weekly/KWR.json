@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KWR",
         "name": "Quaker Houghton",
-        "collected_at": "2026-02-28T02:06:30.343Z",
+        "collected_at": "2026-03-01T02:06:24.669Z",
         "data_start_date": "2016-02-29",
         "price": 147.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:KWR",
-        "market_capitalization": 2548775936.552623,
+        "market_capitalization": 2548775831,
         "commodity_name": null,
         "display_name": "Quaker Houghton",
         "sma_50": 131.83080078125,

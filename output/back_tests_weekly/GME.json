@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GME",
         "name": "GameStop Corporation",
-        "collected_at": "2026-02-28T02:03:17.102Z",
+        "collected_at": "2026-03-01T02:03:17.016Z",
         "data_start_date": "2016-02-29",
         "price": 24.030000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Electronics/Appliance Stores",
         "tradingview_id": "NYSE:GME",
-        "market_capitalization": 10765667505.27137,
+        "market_capitalization": 10765667642,
         "commodity_name": null,
         "display_name": "GameStop Corporation",
         "sma_50": 23.939399948120116,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OLED",
         "name": "Universal Display Corporation",
-        "collected_at": "2026-02-28T02:04:53.714Z",
+        "collected_at": "2026-03-01T02:04:51.173Z",
         "data_start_date": "2016-02-29",
         "price": 106.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:OLED",
-        "market_capitalization": 5024915983.698954,
+        "market_capitalization": 5024916214,
         "commodity_name": null,
         "display_name": "Universal Display Corporation",
         "sma_50": 133.76179962158204,

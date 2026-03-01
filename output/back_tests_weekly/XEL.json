@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XEL",
         "name": "Xcel Energy Inc.",
-        "collected_at": "2026-02-28T02:01:15.258Z",
+        "collected_at": "2026-03-01T02:01:17.779Z",
         "data_start_date": "2016-02-29",
         "price": 83.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:XEL",
-        "market_capitalization": 52006373397.57997,
+        "market_capitalization": 52006373018.00001,
         "commodity_name": null,
         "display_name": "Xcel Energy Inc.",
         "sma_50": 74.42140029907226,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MD",
         "name": "Pediatrix Medical Group, Inc.",
-        "collected_at": "2026-02-28T02:07:31.435Z",
+        "collected_at": "2026-03-01T02:07:25.538Z",
         "data_start_date": "2016-02-29",
         "price": 19.850000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NYSE:MD",
-        "market_capitalization": 1647571252.293555,
+        "market_capitalization": 1647571234,
         "commodity_name": null,
         "display_name": "Pediatrix Medical Group, Inc.",
         "sma_50": 17.21500003814697,

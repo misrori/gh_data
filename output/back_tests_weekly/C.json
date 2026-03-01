@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "C",
         "name": "Citigroup, Inc.",
-        "collected_at": "2026-02-28T02:00:24.410Z",
+        "collected_at": "2026-03-01T02:00:25.160Z",
         "data_start_date": "2016-02-29",
         "price": 110.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:C",
-        "market_capitalization": 192757461324.11542,
+        "market_capitalization": 192757461545.00003,
         "commodity_name": null,
         "display_name": "Citigroup, Inc.",
         "sma_50": 94.93560005187989,

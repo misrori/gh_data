@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TEX",
         "name": "Terex Corporation",
-        "collected_at": "2026-02-28T02:03:51.610Z",
+        "collected_at": "2026-03-01T02:03:51.867Z",
         "data_start_date": "2016-02-29",
         "price": 68.79000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:TEX",
-        "market_capitalization": 7821423209.922536,
+        "market_capitalization": 7821422894,
         "commodity_name": null,
         "display_name": "Terex Corporation",
         "sma_50": 50.484800033569336,

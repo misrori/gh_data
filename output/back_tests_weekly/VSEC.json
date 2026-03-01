@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VSEC",
         "name": "VSE Corporation",
-        "collected_at": "2026-02-28T02:04:12.760Z",
+        "collected_at": "2026-03-01T02:04:11.485Z",
         "data_start_date": "2016-02-29",
         "price": 227.07000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:VSEC",
-        "market_capitalization": 6539015980.808344,
+        "market_capitalization": 6539016192,
         "commodity_name": null,
         "display_name": "VSE Corporation",
         "sma_50": 160.91260025024414,

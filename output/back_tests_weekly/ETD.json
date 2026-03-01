@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ETD",
         "name": "Ethan Allen Interiors Inc.",
-        "collected_at": "2026-02-28T02:09:51.453Z",
+        "collected_at": "2026-03-01T02:09:50.003Z",
         "data_start_date": "2016-02-29",
         "price": 22.780000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Home Furnishings",
         "tradingview_id": "NYSE:ETD",
-        "market_capitalization": 579667651.133247,
+        "market_capitalization": 579667655,
         "commodity_name": null,
         "display_name": "Ethan Allen Interiors Inc.",
         "sma_50": 26.463600082397463,

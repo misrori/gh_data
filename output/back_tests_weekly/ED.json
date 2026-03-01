@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ED",
         "name": "Consolidated Edison, Inc.",
-        "collected_at": "2026-02-28T02:01:30.584Z",
+        "collected_at": "2026-03-01T02:01:32.332Z",
         "data_start_date": "2016-02-29",
         "price": 112.5199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:ED",
-        "market_capitalization": 40653777588.343445,
+        "market_capitalization": 40653775591,
         "commodity_name": null,
         "display_name": "Consolidated Edison, Inc.",
         "sma_50": 103.0513998413086,

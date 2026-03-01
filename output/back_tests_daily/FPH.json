@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FPH",
         "name": "Five Point Holdings, LLC",
-        "collected_at": "2026-02-28T02:09:46.558Z",
+        "collected_at": "2026-03-01T02:09:44.672Z",
         "data_start_date": "2017-05-10",
         "price": 5.519999980926514,
         "change": 0,
-        "volume": 231380,
+        "volume": 237800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 71,

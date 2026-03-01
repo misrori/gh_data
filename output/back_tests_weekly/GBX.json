@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GBX",
         "name": "Greenbrier Companies, Inc. (The)",
-        "collected_at": "2026-02-28T02:07:22.836Z",
+        "collected_at": "2026-03-01T02:07:17.457Z",
         "data_start_date": "2016-02-29",
         "price": 56.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:GBX",
-        "market_capitalization": 1742597244.596286,
+        "market_capitalization": 1742597192,
         "commodity_name": null,
         "display_name": "Greenbrier Companies, Inc. (The)",
         "sma_50": 47.299799880981446,

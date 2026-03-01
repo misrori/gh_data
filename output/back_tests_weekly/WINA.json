@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WINA",
         "name": "Winmark Corporation",
-        "collected_at": "2026-02-28T02:07:34.437Z",
+        "collected_at": "2026-03-01T02:07:28.319Z",
         "data_start_date": "2016-02-29",
         "price": 456.239990234375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NASDAQ:WINA",
-        "market_capitalization": 1629625831.772694,
+        "market_capitalization": 1629625841,
         "commodity_name": null,
         "display_name": "Winmark Corporation",
         "sma_50": 419.08880004882815,

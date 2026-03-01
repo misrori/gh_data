@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JEF",
         "name": "Jefferies Financial Group Inc.",
-        "collected_at": "2026-02-28T02:03:32.734Z",
+        "collected_at": "2026-03-01T02:03:32.928Z",
         "data_start_date": "2016-02-29",
         "price": 44.400001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:JEF",
-        "market_capitalization": 9170763731.887257,
+        "market_capitalization": 9170764219,
         "commodity_name": null,
         "display_name": "Jefferies Financial Group Inc.",
         "sma_50": 55.910800018310546,

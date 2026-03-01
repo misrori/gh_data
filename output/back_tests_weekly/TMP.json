@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TMP",
         "name": "Tompkins Financial Corporation",
-        "collected_at": "2026-02-28T02:08:27.323Z",
+        "collected_at": "2026-03-01T02:08:21.752Z",
         "data_start_date": "2016-02-29",
         "price": 76.70999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "AMEX:TMP",
-        "market_capitalization": 1107069506.021147,
+        "market_capitalization": 1106006686,
         "commodity_name": null,
         "display_name": "Tompkins Financial Corporation",
         "sma_50": 67.81280036926269,

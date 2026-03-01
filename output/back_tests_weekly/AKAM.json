@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AKAM",
         "name": "Akamai Technologies, Inc.",
-        "collected_at": "2026-02-28T02:02:48.131Z",
+        "collected_at": "2026-03-01T02:02:49.258Z",
         "data_start_date": "2016-02-29",
         "price": 98.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:AKAM",
-        "market_capitalization": 14255541094.64064,
+        "market_capitalization": 14255540789.000002,
         "commodity_name": null,
         "display_name": "Akamai Technologies, Inc.",
         "sma_50": 82.17579956054688,

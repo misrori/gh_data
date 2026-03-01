@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LQDT",
         "name": "Liquidity Services, Inc.",
-        "collected_at": "2026-02-28T02:08:40.396Z",
+        "collected_at": "2026-03-01T02:08:37.534Z",
         "data_start_date": "2016-02-29",
         "price": 31.610000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:LQDT",
-        "market_capitalization": 980348802.5350095,
+        "market_capitalization": 980348819,
         "commodity_name": null,
         "display_name": "Liquidity Services, Inc.",
         "sma_50": 27.527799949645996,

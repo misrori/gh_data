@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VMI",
         "name": "Valmont Industries, Inc.",
-        "collected_at": "2026-02-28T02:03:35.021Z",
+        "collected_at": "2026-03-01T02:03:35.446Z",
         "data_start_date": "2016-02-29",
         "price": 459.92999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Metal Fabrication",
         "tradingview_id": "NYSE:VMI",
-        "market_capitalization": 8984852920.470364,
+        "market_capitalization": 8984852520,
         "commodity_name": null,
         "display_name": "Valmont Industries, Inc.",
         "sma_50": 376.1039971923828,

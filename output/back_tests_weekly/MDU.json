@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MDU",
         "name": "MDU Resources Group, Inc.",
-        "collected_at": "2026-02-28T02:05:16.280Z",
+        "collected_at": "2026-03-01T02:05:13.200Z",
         "data_start_date": "2016-02-29",
         "price": 20.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:MDU",
-        "market_capitalization": 4226636988.949118,
+        "market_capitalization": 4226636940.0000005,
         "commodity_name": null,
         "display_name": "MDU Resources Group, Inc.",
         "sma_50": 18.243200035095214,

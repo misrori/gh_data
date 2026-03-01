@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "POWL",
         "name": "Powell Industries, Inc.",
-        "collected_at": "2026-02-28T02:04:18.002Z",
+        "collected_at": "2026-03-01T02:04:16.754Z",
         "data_start_date": "2016-02-29",
         "price": 523.5999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:POWL",
-        "market_capitalization": 6357699667.742617,
+        "market_capitalization": 6357699313,
         "commodity_name": null,
         "display_name": "Powell Industries, Inc.",
         "sma_50": 298.75079833984375,

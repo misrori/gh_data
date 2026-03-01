@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IT",
         "name": "Gartner, Inc.",
-        "collected_at": "2026-02-28T02:03:13.978Z",
+        "collected_at": "2026-03-01T02:03:14.701Z",
         "data_start_date": "2016-02-29",
         "price": 157.1999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:IT",
-        "market_capitalization": 11074786511.222078,
+        "market_capitalization": 11074786080,
         "commodity_name": null,
         "display_name": "Gartner, Inc.",
         "sma_50": 293.7952001953125,

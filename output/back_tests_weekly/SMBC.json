@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMBC",
         "name": "Southern Missouri Bancorp, Inc.",
-        "collected_at": "2026-02-28T02:09:26.121Z",
+        "collected_at": "2026-03-01T02:09:24.056Z",
         "data_start_date": "2016-02-29",
         "price": 61.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:SMBC",
-        "market_capitalization": 687713599.4543765,
+        "market_capitalization": 687713565,
         "commodity_name": null,
         "display_name": "Southern Missouri Bancorp, Inc.",
         "sma_50": 55.79759986877441,

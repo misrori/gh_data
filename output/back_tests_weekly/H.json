@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "H",
         "name": "Hyatt Hotels Corporation",
-        "collected_at": "2026-02-28T02:02:43.060Z",
+        "collected_at": "2026-03-01T02:02:43.882Z",
         "data_start_date": "2016-02-29",
         "price": 161.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NYSE:H",
-        "market_capitalization": 15258482689.264645,
+        "market_capitalization": 15258482091,
         "commodity_name": null,
         "display_name": "Hyatt Hotels Corporation",
         "sma_50": 145.14060012817382,

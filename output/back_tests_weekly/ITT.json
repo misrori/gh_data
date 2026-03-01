@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ITT",
         "name": "ITT Inc.",
-        "collected_at": "2026-02-28T02:02:31.979Z",
+        "collected_at": "2026-03-01T02:02:32.605Z",
         "data_start_date": "2016-02-29",
         "price": 202.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:ITT",
-        "market_capitalization": 17415359621.4661,
+        "market_capitalization": 17415359989,
         "commodity_name": null,
         "display_name": "ITT Inc.",
         "sma_50": 168.40120162963868,

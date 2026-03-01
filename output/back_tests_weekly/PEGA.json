@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PEGA",
         "name": "Pegasystems Inc.",
-        "collected_at": "2026-02-28T02:03:59.247Z",
+        "collected_at": "2026-03-01T02:03:59.006Z",
         "data_start_date": "2016-02-29",
         "price": 43.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:PEGA",
-        "market_capitalization": 7392281943.931139,
+        "market_capitalization": 7392281641.999999,
         "commodity_name": null,
         "display_name": "Pegasystems Inc.",
         "sma_50": 51.52639987945557,

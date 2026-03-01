@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GTLS",
         "name": "Chart Industries, Inc.",
-        "collected_at": "2026-02-28T02:03:24.782Z",
+        "collected_at": "2026-03-01T02:03:25.095Z",
         "data_start_date": "2016-02-29",
         "price": 207.3000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:GTLS",
-        "market_capitalization": 9907153104.580824,
+        "market_capitalization": 9907153600.000002,
         "commodity_name": null,
         "display_name": "Chart Industries, Inc.",
         "sma_50": 184.8413993835449,

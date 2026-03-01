@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PFIS",
         "name": "Peoples Financial Services Corp.",
-        "collected_at": "2026-02-28T02:10:00.435Z",
+        "collected_at": "2026-03-01T02:09:58.444Z",
         "data_start_date": "2016-02-29",
         "price": 53.599998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:PFIS",
-        "market_capitalization": 535710280.6545713,
+        "market_capitalization": 535710254,
         "commodity_name": null,
         "display_name": "Peoples Financial Services Corp.",
         "sma_50": 49.199799880981445,

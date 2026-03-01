@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RSI",
         "name": "Rush Street Interactive, Inc.",
-        "collected_at": "2026-02-28T02:05:05.552Z",
+        "collected_at": "2026-03-01T02:05:02.376Z",
         "data_start_date": "2020-04-27",
         "price": 19.75,
         "change": 0,
-        "volume": 1746387,
+        "volume": 2492700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 30,

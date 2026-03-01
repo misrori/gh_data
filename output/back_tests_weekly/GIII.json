@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GIII",
         "name": "G-III Apparel Group, LTD.",
-        "collected_at": "2026-02-28T02:08:07.218Z",
+        "collected_at": "2026-03-01T02:08:00.168Z",
         "data_start_date": "2016-02-29",
         "price": 30.59000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NASDAQ:GIII",
-        "market_capitalization": 1290570255.6395972,
+        "market_capitalization": 1290570242.9999998,
         "commodity_name": null,
         "display_name": "G-III Apparel Group, LTD.",
         "sma_50": 27.02699993133545,

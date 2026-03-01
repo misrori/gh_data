@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IIIN",
         "name": "Insteel Industries, Inc.",
-        "collected_at": "2026-02-28T02:09:20.930Z",
+        "collected_at": "2026-03-01T02:09:18.489Z",
         "data_start_date": "2016-02-29",
         "price": 37.279998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Metal Fabrication",
         "tradingview_id": "NYSE:IIIN",
-        "market_capitalization": 723097109.2017844,
+        "market_capitalization": 723097074,
         "commodity_name": null,
         "display_name": "Insteel Industries, Inc.",
         "sma_50": 34.57540019989014,

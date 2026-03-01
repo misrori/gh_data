@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AIG",
         "name": "American International Group, Inc. New",
-        "collected_at": "2026-02-28T02:01:26.630Z",
+        "collected_at": "2026-03-01T02:01:28.538Z",
         "data_start_date": "2016-02-29",
         "price": 80.48999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:AIG",
-        "market_capitalization": 43187688819.50665,
+        "market_capitalization": 43187688494,
         "commodity_name": null,
         "display_name": "American International Group, Inc. New",
         "sma_50": 80.39119995117187,

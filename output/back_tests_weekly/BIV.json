@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BIV",
         "name": "Vanguard Intermediate-Term Bond ETF",
-        "collected_at": "2026-02-28T02:10:37.110Z",
+        "collected_at": "2026-03-01T02:10:36.701Z",
         "data_start_date": "2016-02-29",
         "price": 79.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:BIV",
-        "market_capitalization": 28656446819,
+        "market_capitalization": 28805659928,
         "commodity_name": null,
         "display_name": "Vanguard Intermediate-Term Bond ETF",
         "sma_50": 77.44800048828125,

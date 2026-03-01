@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OMC",
         "name": "Omnicom Group Inc.",
-        "collected_at": "2026-02-28T02:01:58.161Z",
+        "collected_at": "2026-03-01T02:01:58.845Z",
         "data_start_date": "2016-02-29",
         "price": 85.29000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NYSE:OMC",
-        "market_capitalization": 26468585659.904617,
+        "market_capitalization": 26468586230.000004,
         "commodity_name": null,
         "display_name": "Omnicom Group Inc.",
         "sma_50": 76.0018002319336,

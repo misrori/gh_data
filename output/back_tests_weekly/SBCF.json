@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SBCF",
         "name": "Seacoast Banking Corporation of Florida",
-        "collected_at": "2026-02-28T02:06:06.611Z",
+        "collected_at": "2026-03-01T02:06:01.271Z",
         "data_start_date": "2016-02-29",
         "price": 31.1200008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:SBCF",
-        "market_capitalization": 3044412103.6717324,
+        "market_capitalization": 3044412044,
         "commodity_name": null,
         "display_name": "Seacoast Banking Corporation of Florida",
         "sma_50": 29.317399978637695,

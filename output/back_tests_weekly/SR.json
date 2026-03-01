@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SR",
         "name": "Spire Inc.",
-        "collected_at": "2026-02-28T02:04:40.399Z",
+        "collected_at": "2026-03-01T02:04:38.504Z",
         "data_start_date": "2016-02-29",
         "price": 91.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:SR",
-        "market_capitalization": 5413838620.998128,
+        "market_capitalization": 5413838474.999999,
         "commodity_name": null,
         "display_name": "Spire Inc.",
         "sma_50": 80.29760009765624,

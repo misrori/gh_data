@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EVR",
         "name": "Evercore Inc.",
-        "collected_at": "2026-02-28T02:03:03.679Z",
+        "collected_at": "2026-03-01T02:03:04.547Z",
         "data_start_date": "2016-02-29",
         "price": 308.8399963378906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:EVR",
-        "market_capitalization": 12231761432.62615,
+        "market_capitalization": 12231760831,
         "commodity_name": null,
         "display_name": "Evercore Inc.",
         "sma_50": 294.5853988647461,

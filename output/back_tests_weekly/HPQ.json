@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HPQ",
         "name": "HP Inc.",
-        "collected_at": "2026-02-28T02:02:32.335Z",
+        "collected_at": "2026-03-01T02:02:32.999Z",
         "data_start_date": "2016-02-29",
         "price": 18.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:HPQ",
-        "market_capitalization": 17367307252.08612,
+        "market_capitalization": 17367307536,
         "commodity_name": null,
         "display_name": "HP Inc.",
         "sma_50": 24.661000061035157,

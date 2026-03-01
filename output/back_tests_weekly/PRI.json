@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRI",
         "name": "Primerica, Inc.",
-        "collected_at": "2026-02-28T02:03:47.144Z",
+        "collected_at": "2026-03-01T02:03:47.303Z",
         "data_start_date": "2016-02-29",
         "price": 253.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Life/Health Insurance",
         "tradingview_id": "NYSE:PRI",
-        "market_capitalization": 8095827956.103371,
+        "market_capitalization": 8095827768,
         "commodity_name": null,
         "display_name": "Primerica, Inc.",
         "sma_50": 263.96540100097656,

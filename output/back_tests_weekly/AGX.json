@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AGX",
         "name": "Argan, Inc.",
-        "collected_at": "2026-02-28T02:04:19.911Z",
+        "collected_at": "2026-03-01T02:04:19.258Z",
         "data_start_date": "2016-02-29",
         "price": 451.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:AGX",
-        "market_capitalization": 6260376346.960423,
+        "market_capitalization": 6260376364,
         "commodity_name": null,
         "display_name": "Argan, Inc.",
         "sma_50": 268.31960052490234,

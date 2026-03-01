@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GFF",
         "name": "Griffon Corporation",
-        "collected_at": "2026-02-28T02:05:27.748Z",
+        "collected_at": "2026-03-01T02:05:24.314Z",
         "data_start_date": "2016-02-29",
         "price": 85.23999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:GFF",
-        "market_capitalization": 3970408611.7426577,
+        "market_capitalization": 3970408371,
         "commodity_name": null,
         "display_name": "Griffon Corporation",
         "sma_50": 75.92760025024414,

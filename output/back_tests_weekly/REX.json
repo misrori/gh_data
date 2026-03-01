@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "REX",
         "name": "REX American Resources Corporation",
-        "collected_at": "2026-02-28T02:08:18.786Z",
+        "collected_at": "2026-03-01T02:08:12.816Z",
         "data_start_date": "2016-02-29",
         "price": 35.560001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:REX",
-        "market_capitalization": 1171265231.6889513,
+        "market_capitalization": 1171265277,
         "commodity_name": null,
         "display_name": "REX American Resources Corporation",
         "sma_50": 28.625800132751465,

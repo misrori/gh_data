@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "USPH",
         "name": "U.S. Physical Therapy, Inc.",
-        "collected_at": "2026-02-28T02:08:10.633Z",
+        "collected_at": "2026-03-01T02:08:04.580Z",
         "data_start_date": "2016-02-29",
         "price": 82.95999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NYSE:USPH",
-        "market_capitalization": 1261333631.2457776,
+        "market_capitalization": 1261333676,
         "commodity_name": null,
         "display_name": "U.S. Physical Therapy, Inc.",
         "sma_50": 79.35879959106445,

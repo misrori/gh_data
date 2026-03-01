@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DIA",
         "name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
-        "collected_at": "2026-02-28T02:10:26.455Z",
+        "collected_at": "2026-03-01T02:10:25.050Z",
         "data_start_date": "2016-02-29",
         "price": 489.6600036621094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:DIA",
-        "market_capitalization": 44571743643.528,
+        "market_capitalization": 44735380162.2232,
         "commodity_name": null,
         "display_name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
         "sma_50": 454.58879943847654,

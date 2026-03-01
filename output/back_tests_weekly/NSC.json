@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NSC",
         "name": "Norfolk Southern Corporation",
-        "collected_at": "2026-02-28T02:01:01.368Z",
+        "collected_at": "2026-03-01T02:01:03.485Z",
         "data_start_date": "2016-02-29",
         "price": 314.739990234375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Railroads",
         "tradingview_id": "NYSE:NSC",
-        "market_capitalization": 70681805049.68646,
+        "market_capitalization": 70681800651,
         "commodity_name": null,
         "display_name": "Norfolk Southern Corporation",
         "sma_50": 273.7310006713867,

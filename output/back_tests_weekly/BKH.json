@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BKH",
         "name": "Black Hills Corporation",
-        "collected_at": "2026-02-28T02:04:35.314Z",
+        "collected_at": "2026-03-01T02:04:33.706Z",
         "data_start_date": "2016-02-29",
         "price": 73.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:BKH",
-        "market_capitalization": 5559477285.881078,
+        "market_capitalization": 5559477423.999999,
         "commodity_name": null,
         "display_name": "Black Hills Corporation",
         "sma_50": 63.73540031433105,

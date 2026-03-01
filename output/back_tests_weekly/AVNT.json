@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AVNT",
         "name": "Avient Corporation",
-        "collected_at": "2026-02-28T02:05:35.365Z",
+        "collected_at": "2026-03-01T02:05:31.574Z",
         "data_start_date": "2016-02-29",
         "price": 41.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Major Diversified",
         "tradingview_id": "NYSE:AVNT",
-        "market_capitalization": 3763027525.931647,
+        "market_capitalization": 3763027442,
         "commodity_name": null,
         "display_name": "Avient Corporation",
         "sma_50": 34.38940029144287,

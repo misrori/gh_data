@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VB",
         "name": "Vanguard Small-Cap ETF",
-        "collected_at": "2026-02-28T02:10:20.295Z",
+        "collected_at": "2026-03-01T02:10:18.990Z",
         "data_start_date": "2016-02-29",
         "price": 277.1099853515625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VB",
-        "market_capitalization": 74638374830.184,
+        "market_capitalization": 75118591518.646,
         "commodity_name": null,
         "display_name": "Vanguard Small-Cap ETF",
         "sma_50": 248.27219970703126,

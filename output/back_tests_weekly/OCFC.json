@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OCFC",
         "name": "OceanFirst Financial Corp.",
-        "collected_at": "2026-02-28T02:08:33.891Z",
+        "collected_at": "2026-03-01T02:08:30.850Z",
         "data_start_date": "2016-02-29",
         "price": 18.059999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:OCFC",
-        "market_capitalization": 1036473773.1176468,
+        "market_capitalization": 1036473692.0000001,
         "commodity_name": null,
         "display_name": "OceanFirst Financial Corp.",
         "sma_50": 17.871200065612793,

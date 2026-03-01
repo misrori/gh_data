@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RSG",
         "name": "Republic Services, Inc.",
-        "collected_at": "2026-02-28T02:01:01.034Z",
+        "collected_at": "2026-03-01T02:01:03.139Z",
         "data_start_date": "2016-02-29",
         "price": 229,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Environmental Services",
         "tradingview_id": "NYSE:RSG",
-        "market_capitalization": 70716335180.90742,
+        "market_capitalization": 70716336334.00002,
         "commodity_name": null,
         "display_name": "Republic Services, Inc.",
         "sma_50": 230.055400390625,

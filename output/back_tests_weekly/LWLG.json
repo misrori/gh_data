@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LWLG",
         "name": "Lightwave Logic, Inc.",
-        "collected_at": "2026-02-28T02:09:37.379Z",
+        "collected_at": "2026-03-01T02:09:35.142Z",
         "data_start_date": "2016-02-29",
         "price": 4.409999847412109,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NASDAQ:LWLG",
-        "market_capitalization": 641349029.671875,
+        "market_capitalization": 641349004,
         "commodity_name": null,
         "display_name": "Lightwave Logic, Inc.",
         "sma_50": 2.885600024461746,

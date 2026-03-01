@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EQT",
         "name": "EQT Corporation",
-        "collected_at": "2026-02-28T02:01:33.907Z",
+        "collected_at": "2026-03-01T02:01:35.305Z",
         "data_start_date": "2016-02-29",
         "price": 61.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:EQT",
-        "market_capitalization": 38342909347.31169,
+        "market_capitalization": 38342907127,
         "commodity_name": null,
         "display_name": "EQT Corporation",
         "sma_50": 54.8326000213623,

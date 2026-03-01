@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APO",
         "name": "Apollo Global Management, Inc. (New)",
-        "collected_at": "2026-02-28T02:01:07.763Z",
+        "collected_at": "2026-03-01T02:01:10.110Z",
         "data_start_date": "2016-02-29",
         "price": 104.5999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:APO",
-        "market_capitalization": 60484669898.75524,
+        "market_capitalization": 60484668209,
         "commodity_name": null,
         "display_name": "Apollo Global Management, Inc. (New)",
         "sma_50": 133.99300003051758,

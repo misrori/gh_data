@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GAIN",
         "name": "Gladstone Investment Corporation - Business Development Company",
-        "collected_at": "2026-02-28T02:09:57.724Z",
+        "collected_at": "2026-03-01T02:09:55.895Z",
         "data_start_date": "2016-02-29",
         "price": 13.6899995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NASDAQ:GAIN",
-        "market_capitalization": 545162733.0990735,
+        "market_capitalization": 545162726,
         "commodity_name": null,
         "display_name": "Gladstone Investment Corporation - Business Development Company",
         "sma_50": 13.95239995956421,

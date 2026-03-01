@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SBET",
         "name": "Sharplink, Inc.",
-        "collected_at": "2026-02-28T02:08:02.457Z",
+        "collected_at": "2026-03-01T02:07:55.981Z",
         "data_start_date": "2016-02-29",
         "price": 6.820000171661377,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NASDAQ:SBET",
-        "market_capitalization": 1341447572.9209433,
+        "market_capitalization": 1341447600,
         "commodity_name": null,
         "display_name": "Sharplink, Inc.",
         "sma_50": 13.435599956512451,

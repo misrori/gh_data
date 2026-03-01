@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CFR",
         "name": "Cullen/Frost Bankers, Inc.",
-        "collected_at": "2026-02-28T02:03:38.741Z",
+        "collected_at": "2026-03-01T02:03:38.796Z",
         "data_start_date": "2016-02-29",
         "price": 138.22000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:CFR",
-        "market_capitalization": 8735752032.37479,
+        "market_capitalization": 8735751998,
         "commodity_name": null,
         "display_name": "Cullen/Frost Bankers, Inc.",
         "sma_50": 128.3300001525879,

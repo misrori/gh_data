@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GATX",
         "name": "GATX Corporation",
-        "collected_at": "2026-02-28T02:04:13.136Z",
+        "collected_at": "2026-03-01T02:04:11.836Z",
         "data_start_date": "2016-02-29",
         "price": 184.1699981689453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Railroads",
         "tradingview_id": "NYSE:GATX",
-        "market_capitalization": 6538034808.473414,
+        "market_capitalization": 6538034934.999999,
         "commodity_name": null,
         "display_name": "GATX Corporation",
         "sma_50": 163.93359985351563,

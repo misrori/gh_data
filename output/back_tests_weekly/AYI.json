@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AYI",
         "name": "Acuity Inc.",
-        "collected_at": "2026-02-28T02:03:31.427Z",
+        "collected_at": "2026-03-01T02:03:31.385Z",
         "data_start_date": "2016-02-29",
         "price": 301.5899963378906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:AYI",
-        "market_capitalization": 9247539693.6813,
+        "market_capitalization": 9247539618,
         "commodity_name": null,
         "display_name": "Acuity Inc.",
         "sma_50": 312.60759826660154,

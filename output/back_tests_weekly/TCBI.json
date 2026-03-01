@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TCBI",
         "name": "Texas Capital Bancshares, Inc.",
-        "collected_at": "2026-02-28T02:05:17.832Z",
+        "collected_at": "2026-03-01T02:05:14.078Z",
         "data_start_date": "2016-02-29",
         "price": 95.30000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:TCBI",
-        "market_capitalization": 4210052290.528078,
+        "market_capitalization": 4210052424.9999995,
         "commodity_name": null,
         "display_name": "Texas Capital Bancshares, Inc.",
         "sma_50": 84.87640007019043,

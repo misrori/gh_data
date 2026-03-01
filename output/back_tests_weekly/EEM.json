@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EEM",
         "name": "iShares MSCI Emerging Index Fund",
-        "collected_at": "2026-02-28T02:10:35.690Z",
+        "collected_at": "2026-03-01T02:10:35.533Z",
         "data_start_date": "2016-02-29",
         "price": 62.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:EEM",
-        "market_capitalization": 29797012000.8,
+        "market_capitalization": 30250132250.4,
         "commodity_name": null,
         "display_name": "iShares MSCI Emerging Index Fund",
         "sma_50": 51.6647998046875,

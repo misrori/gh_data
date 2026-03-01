@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TYL",
         "name": "Tyler Technologies, Inc.",
-        "collected_at": "2026-02-28T02:02:43.805Z",
+        "collected_at": "2026-03-01T02:02:44.491Z",
         "data_start_date": "2016-02-29",
         "price": 354.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NYSE:TYL",
-        "market_capitalization": 15246469654.571661,
+        "market_capitalization": 15246470392,
         "commodity_name": null,
         "display_name": "Tyler Technologies, Inc.",
         "sma_50": 504.8771990966797,

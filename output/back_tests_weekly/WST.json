@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WST",
         "name": "West Pharmaceutical Services, Inc.",
-        "collected_at": "2026-02-28T02:02:29.905Z",
+        "collected_at": "2026-03-01T02:02:30.256Z",
         "data_start_date": "2016-02-29",
         "price": 254.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:WST",
-        "market_capitalization": 18317946591.04482,
+        "market_capitalization": 18317946013,
         "commodity_name": null,
         "display_name": "West Pharmaceutical Services, Inc.",
         "sma_50": 244.91019927978516,

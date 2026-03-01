@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NGL",
         "name": "NGL ENERGY PARTNERS LP",
-        "collected_at": "2026-02-28T02:07:48.155Z",
+        "collected_at": "2026-03-01T02:07:41.720Z",
         "data_start_date": "2016-02-29",
         "price": 12,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:NGL",
-        "market_capitalization": 1485771390.5236907,
+        "market_capitalization": 1485771423,
         "commodity_name": null,
         "display_name": "NGL ENERGY PARTNERS LP",
         "sma_50": 6.711599993705749,

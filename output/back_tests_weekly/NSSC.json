@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NSSC",
         "name": "NAPCO Security Technologies, Inc.",
-        "collected_at": "2026-02-28T02:07:29.431Z",
+        "collected_at": "2026-03-01T02:07:23.848Z",
         "data_start_date": "2016-02-29",
         "price": 46.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:NSSC",
-        "market_capitalization": 1662314275.924759,
+        "market_capitalization": 1662314243,
         "commodity_name": null,
         "display_name": "NAPCO Security Technologies, Inc.",
         "sma_50": 35.55120010375977,

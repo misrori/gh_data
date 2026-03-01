@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCK",
         "name": "Crown Holdings, Inc.",
-        "collected_at": "2026-02-28T02:02:55.744Z",
+        "collected_at": "2026-03-01T02:02:56.988Z",
         "data_start_date": "2016-02-29",
         "price": 114.5999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:CCK",
-        "market_capitalization": 13218868580.039873,
+        "market_capitalization": 13218868334,
         "commodity_name": null,
         "display_name": "Crown Holdings, Inc.",
         "sma_50": 99.77239990234375,

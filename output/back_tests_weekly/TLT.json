@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TLT",
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "collected_at": "2026-02-28T02:10:25.638Z",
+        "collected_at": "2026-03-01T02:10:24.737Z",
         "data_start_date": "2016-02-29",
         "price": 90.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:TLT",
-        "market_capitalization": 45051425273.8,
+        "market_capitalization": 45183914543.7,
         "commodity_name": null,
         "display_name": "iShares 20+ Year Treasury Bond ETF",
         "sma_50": 88.1566000366211,

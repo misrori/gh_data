@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NJR",
         "name": "NewJersey Resources Corporation",
-        "collected_at": "2026-02-28T02:04:39.152Z",
+        "collected_at": "2026-03-01T02:04:37.259Z",
         "data_start_date": "2016-02-29",
         "price": 54.2400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:NJR",
-        "market_capitalization": 5469842938.100074,
+        "market_capitalization": 5469842967,
         "commodity_name": null,
         "display_name": "NewJersey Resources Corporation",
         "sma_50": 47.45080024719238,

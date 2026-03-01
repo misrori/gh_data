@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APEI",
         "name": "American Public Education, Inc.",
-        "collected_at": "2026-02-28T02:09:03.528Z",
+        "collected_at": "2026-03-01T02:09:01.185Z",
         "data_start_date": "2016-02-29",
         "price": 45.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:APEI",
-        "market_capitalization": 828656075.7045803,
+        "market_capitalization": 828656051,
         "commodity_name": null,
         "display_name": "American Public Education, Inc.",
         "sma_50": 33.52839977264404,

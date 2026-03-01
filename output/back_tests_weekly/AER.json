@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AER",
         "name": "AerCap Holdings N.V.",
-        "collected_at": "2026-02-28T02:02:02.420Z",
+        "collected_at": "2026-03-01T02:02:02.801Z",
         "data_start_date": "2016-02-29",
         "price": 149.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:AER",
-        "market_capitalization": 24938030408.532055,
+        "market_capitalization": 24938030715,
         "commodity_name": null,
         "display_name": "AerCap Holdings N.V.",
         "sma_50": 124.2066000366211,

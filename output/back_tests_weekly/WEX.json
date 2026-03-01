@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WEX",
         "name": "WEX Inc.",
-        "collected_at": "2026-02-28T02:04:49.487Z",
+        "collected_at": "2026-03-01T02:04:47.609Z",
         "data_start_date": "2016-02-29",
         "price": 149.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:WEX",
-        "market_capitalization": 5118800505.55919,
+        "market_capitalization": 5118800816.000001,
         "commodity_name": null,
         "display_name": "WEX Inc.",
         "sma_50": 150.7827992248535,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EYPT",
         "name": "EyePoint, Inc.",
-        "collected_at": "2026-02-28T02:07:52.164Z",
+        "collected_at": "2026-03-01T02:07:45.948Z",
         "data_start_date": "2016-02-29",
         "price": 17.559999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:EYPT",
-        "market_capitalization": 1453743566.2889137,
+        "market_capitalization": 1453743472,
         "commodity_name": null,
         "display_name": "EyePoint, Inc.",
         "sma_50": 11.698199939727782,

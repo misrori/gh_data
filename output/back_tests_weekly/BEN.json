@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BEN",
         "name": "Franklin Resources, Inc.",
-        "collected_at": "2026-02-28T02:02:51.952Z",
+        "collected_at": "2026-03-01T02:02:52.754Z",
         "data_start_date": "2016-02-29",
         "price": 26.540000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:BEN",
-        "market_capitalization": 13821061526.149471,
+        "market_capitalization": 13821061849,
         "commodity_name": null,
         "display_name": "Franklin Resources, Inc.",
         "sma_50": 23.406000061035158,

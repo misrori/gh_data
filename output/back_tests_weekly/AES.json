@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AES",
         "name": "The AES Corporation",
-        "collected_at": "2026-02-28T02:03:03.383Z",
+        "collected_at": "2026-03-01T02:03:04.303Z",
         "data_start_date": "2016-02-29",
         "price": 17.280000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:AES",
-        "market_capitalization": 12305449335.96554,
+        "market_capitalization": 12305449825,
         "commodity_name": null,
         "display_name": "The AES Corporation",
         "sma_50": 13.184600009918213,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WAT",
         "name": "Waters Corporation",
-        "collected_at": "2026-02-28T02:01:44.884Z",
+        "collected_at": "2026-03-01T02:01:45.807Z",
         "data_start_date": "2016-02-29",
         "price": 319.3800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:WAT",
-        "market_capitalization": 31331773194.601242,
+        "market_capitalization": 31331774977,
         "commodity_name": null,
         "display_name": "Waters Corporation",
         "sma_50": 343.31860107421875,

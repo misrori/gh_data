@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NSP",
         "name": "Insperity, Inc.",
-        "collected_at": "2026-02-28T02:09:02.204Z",
+        "collected_at": "2026-03-01T02:08:59.010Z",
         "data_start_date": "2016-02-29",
         "price": 22.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:NSP",
-        "market_capitalization": 837948233.5662596,
+        "market_capitalization": 837948179,
         "commodity_name": null,
         "display_name": "Insperity, Inc.",
         "sma_50": 51.358999786376955,

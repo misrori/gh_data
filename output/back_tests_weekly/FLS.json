@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLS",
         "name": "Flowserve Corporation",
-        "collected_at": "2026-02-28T02:03:12.886Z",
+        "collected_at": "2026-03-01T02:03:13.967Z",
         "data_start_date": "2016-02-29",
         "price": 88.5199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:FLS",
-        "market_capitalization": 11265084467.781115,
+        "market_capitalization": 11265084002,
         "commodity_name": null,
         "display_name": "Flowserve Corporation",
         "sma_50": 60.38399963378906,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SFNC",
         "name": "Simmons First National Corporation",
-        "collected_at": "2026-02-28T02:06:14.187Z",
+        "collected_at": "2026-03-01T02:06:09.064Z",
         "data_start_date": "2016-02-29",
         "price": 19.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:SFNC",
-        "market_capitalization": 2884318673.00754,
+        "market_capitalization": 2884318745,
         "commodity_name": null,
         "display_name": "Simmons First National Corporation",
         "sma_50": 19.331199913024903,

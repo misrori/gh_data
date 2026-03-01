@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KOS",
         "name": "Kosmos Energy Ltd.",
-        "collected_at": "2026-02-28T02:08:26.517Z",
+        "collected_at": "2026-03-01T02:08:20.579Z",
         "data_start_date": "2016-02-29",
         "price": 2.3299999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:KOS",
-        "market_capitalization": 1114501853.868182,
+        "market_capitalization": 1114501793,
         "commodity_name": null,
         "display_name": "Kosmos Energy Ltd.",
         "sma_50": 1.6622000014781952,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XXI",
         "name": "Twenty One Capital, Inc.",
-        "collected_at": "2026-02-28T02:05:35.639Z",
+        "collected_at": "2026-03-01T02:05:31.849Z",
         "data_start_date": "2024-08-13",
         "price": 5.739999771118164,
         "change": -7.4193556822301705,
-        "volume": 847961,
+        "volume": 848600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 189,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.3398,
         "number_of_employees": 2,
         "ml_direction": -1,
-        "ml_value": 7.432136615176599,
+        "ml_value": 7.435993785009102,
         "ml_last_change_date": "2025-10-22",
         "ml_last_change_price": 18.25,
         "ml_change_percent_from_last_change": -68.5479464596265

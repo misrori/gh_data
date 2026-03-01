@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AON",
         "name": "Aon plc",
-        "collected_at": "2026-02-28T02:01:00.023Z",
+        "collected_at": "2026-03-01T02:01:02.076Z",
         "data_start_date": "2016-02-29",
         "price": 335.4700012207031,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NYSE:AON",
-        "market_capitalization": 71875955174.92764,
+        "market_capitalization": 71875957827.00002,
         "commodity_name": null,
         "display_name": "Aon plc",
         "sma_50": 354.78660278320314,

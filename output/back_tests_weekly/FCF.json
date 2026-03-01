@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FCF",
         "name": "First",
-        "collected_at": "2026-02-28T02:07:16.952Z",
+        "collected_at": "2026-03-01T02:07:11.594Z",
         "data_start_date": "2016-02-29",
         "price": 17.530000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:FCF",
-        "market_capitalization": 1819017730.124862,
+        "market_capitalization": 1819017763,
         "commodity_name": null,
         "display_name": "First",
         "sma_50": 16.55899995803833,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UNM",
         "name": "Unum Group",
-        "collected_at": "2026-02-28T02:03:06.485Z",
+        "collected_at": "2026-03-01T02:03:07.525Z",
         "data_start_date": "2016-02-29",
         "price": 71.7300033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:UNM",
-        "market_capitalization": 11746061079.696966,
+        "market_capitalization": 11746061678,
         "commodity_name": null,
         "display_name": "Unum Group",
         "sma_50": 76.49360061645508,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ETR",
         "name": "Entergy Corporation",
-        "collected_at": "2026-02-28T02:01:21.068Z",
+        "collected_at": "2026-03-01T02:01:22.948Z",
         "data_start_date": "2016-02-29",
         "price": 107.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:ETR",
-        "market_capitalization": 48519743050.799675,
+        "market_capitalization": 48519741787,
         "commodity_name": null,
         "display_name": "Entergy Corporation",
         "sma_50": 90.57799987792968,

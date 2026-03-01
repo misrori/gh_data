@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTD",
         "name": "Mettler-Toledo International, Inc.",
-        "collected_at": "2026-02-28T02:01:54.190Z",
+        "collected_at": "2026-03-01T02:01:54.571Z",
         "data_start_date": "2016-02-29",
         "price": 1366.68994140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:MTD",
-        "market_capitalization": 27778316186.46621,
+        "market_capitalization": 27778315587,
         "commodity_name": null,
         "display_name": "Mettler-Toledo International, Inc.",
         "sma_50": 1281.6453955078125,

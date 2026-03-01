@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WBS",
         "name": "Webster Financial Corporation",
-        "collected_at": "2026-02-28T02:03:08.141Z",
+        "collected_at": "2026-03-01T02:03:09.215Z",
         "data_start_date": "2016-02-29",
         "price": 72.12999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NYSE:WBS",
-        "market_capitalization": 11629959644.954693,
+        "market_capitalization": 11629959396,
         "commodity_name": null,
         "display_name": "Webster Financial Corporation",
         "sma_50": 58.52339950561523,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LUMN",
         "name": "Lumen Technologies, Inc.",
-        "collected_at": "2026-02-28T02:04:00.708Z",
+        "collected_at": "2026-03-01T02:04:00.584Z",
         "data_start_date": "2016-02-29",
         "price": 7.110000133514404,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Major Telecommunications",
         "tradingview_id": "NYSE:LUMN",
-        "market_capitalization": 7283268021.630683,
+        "market_capitalization": 7283268198,
         "commodity_name": null,
         "display_name": "Lumen Technologies, Inc.",
         "sma_50": 6.010399994850158,

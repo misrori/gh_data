@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NPKI",
         "name": "NPK International Inc.",
-        "collected_at": "2026-02-28T02:08:14.923Z",
+        "collected_at": "2026-03-01T02:08:08.670Z",
         "data_start_date": "2016-02-29",
         "price": 14.430000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:NPKI",
-        "market_capitalization": 1219258514.2162526,
+        "market_capitalization": 1219258512,
         "commodity_name": null,
         "display_name": "NPK International Inc.",
         "sma_50": 10.482800073623658,

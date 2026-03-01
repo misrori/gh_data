@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VTI",
         "name": "Vanguard Total Stock Market ETF",
-        "collected_at": "2026-02-28T02:10:12.228Z",
+        "collected_at": "2026-03-01T02:10:10.884Z",
         "data_start_date": "2016-02-29",
         "price": 338.7699890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VTI",
-        "market_capitalization": 591100342970.4,
+        "market_capitalization": 588973603759.84,
         "commodity_name": null,
         "display_name": "Vanguard Total Stock Market ETF",
         "sma_50": 314.92939697265626,

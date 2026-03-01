@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WEC",
         "name": "WEC Energy Group, Inc.",
-        "collected_at": "2026-02-28T02:01:34.939Z",
+        "collected_at": "2026-03-01T02:01:36.136Z",
         "data_start_date": "2016-02-29",
         "price": 116.95999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:WEC",
-        "market_capitalization": 38074149578.33318,
+        "market_capitalization": 38074148979,
         "commodity_name": null,
         "display_name": "WEC Energy Group, Inc.",
         "sma_50": 109.10539993286133,

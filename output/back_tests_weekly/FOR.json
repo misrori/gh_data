@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FOR",
         "name": "Forestar Group Inc",
-        "collected_at": "2026-02-28T02:07:50.933Z",
+        "collected_at": "2026-03-01T02:07:44.308Z",
         "data_start_date": "2016-02-29",
         "price": 28.719999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:FOR",
-        "market_capitalization": 1461620538.398055,
+        "market_capitalization": 1461620457,
         "commodity_name": null,
         "display_name": "Forestar Group Inc",
         "sma_50": 24.40039993286133,

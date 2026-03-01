@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ITW",
         "name": "Illinois Tool Works Inc.",
-        "collected_at": "2026-02-28T02:00:52.829Z",
+        "collected_at": "2026-03-01T02:00:54.371Z",
         "data_start_date": "2016-02-29",
         "price": 290.6300048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:ITW",
-        "market_capitalization": 83759569195.84871,
+        "market_capitalization": 83759570955,
         "commodity_name": null,
         "display_name": "Illinois Tool Works Inc.",
         "sma_50": 255.25500061035157,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "J",
         "name": "Jacobs Solutions Inc.",
-        "collected_at": "2026-02-28T02:02:38.406Z",
+        "collected_at": "2026-03-01T02:02:39.666Z",
         "data_start_date": "2016-02-29",
         "price": 137.86000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NYSE:J",
-        "market_capitalization": 16191202622.278193,
+        "market_capitalization": 16191203330,
         "commodity_name": null,
         "display_name": "Jacobs Solutions Inc.",
         "sma_50": 137.3425700378418,

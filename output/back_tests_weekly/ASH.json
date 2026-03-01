@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ASH",
         "name": "Ashland Inc.",
-        "collected_at": "2026-02-28T02:06:16.966Z",
+        "collected_at": "2026-03-01T02:06:11.620Z",
         "data_start_date": "2016-02-29",
         "price": 62.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:ASH",
-        "market_capitalization": 2853742670.142926,
+        "market_capitalization": 2853742677,
         "commodity_name": null,
         "display_name": "Ashland Inc.",
         "sma_50": 54.15320007324219,

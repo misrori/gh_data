@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NI",
         "name": "NiSource Inc",
-        "collected_at": "2026-02-28T02:02:11.997Z",
+        "collected_at": "2026-03-01T02:02:11.939Z",
         "data_start_date": "2016-02-29",
         "price": 47.29999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:NI",
-        "market_capitalization": 22634617990.948605,
+        "market_capitalization": 22634617256.000004,
         "commodity_name": null,
         "display_name": "NiSource Inc",
         "sma_50": 41.800400238037106,

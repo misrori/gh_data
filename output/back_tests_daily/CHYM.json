@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHYM",
         "name": "Chime Financial, Inc.",
-        "collected_at": "2026-02-28T02:03:44.353Z",
+        "collected_at": "2026-03-01T02:03:44.613Z",
         "data_start_date": "2025-06-12",
         "price": 22.1299991607666,
         "change": -7.676262850632478,
-        "volume": 6273089,
+        "volume": 6422500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 10,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CHYM",
-        "market_capitalization": 8289410457.727577,
+        "market_capitalization": 8289410380.999999,
         "commodity_name": null,
         "display_name": "Chime Financial, Inc.",
         "sma_50": 24.42560001373291,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 19.446545763794614,
         "ml_last_change_date": "2026-02-26",
-        "ml_last_change_price": 22.979999542236328,
-        "ml_change_percent_from_last_change": -3.698870315064451
+        "ml_last_change_price": 23.229999542236328,
+        "ml_change_percent_from_last_change": -4.735257869763309
     }
 }

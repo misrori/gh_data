@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HRI",
         "name": "Herc Holdings Inc.",
-        "collected_at": "2026-02-28T02:05:02.637Z",
+        "collected_at": "2026-03-01T02:04:59.449Z",
         "data_start_date": "2016-02-29",
         "price": 139.7899932861328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:HRI",
-        "market_capitalization": 4664828564.838594,
+        "market_capitalization": 4664828188,
         "commodity_name": null,
         "display_name": "Herc Holdings Inc.",
         "sma_50": 135.02879974365234,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KMX",
         "name": "CarMax Inc",
-        "collected_at": "2026-02-28T02:04:22.936Z",
+        "collected_at": "2026-03-01T02:04:22.003Z",
         "data_start_date": "2016-02-29",
         "price": 43.16999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:KMX",
-        "market_capitalization": 6121361299.921371,
+        "market_capitalization": 6121360953,
         "commodity_name": null,
         "display_name": "CarMax Inc",
         "sma_50": 53.50119972229004,

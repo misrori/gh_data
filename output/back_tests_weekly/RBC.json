@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RBC",
         "name": "RBC Bearings Incorporated",
-        "collected_at": "2026-02-28T02:02:30.459Z",
+        "collected_at": "2026-03-01T02:02:30.831Z",
         "data_start_date": "2016-02-29",
         "price": 575.9199829101562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Metal Fabrication",
         "tradingview_id": "NYSE:RBC",
-        "market_capitalization": 18209992211.42633,
+        "market_capitalization": 18209991671,
         "commodity_name": null,
         "display_name": "RBC Bearings Incorporated",
         "sma_50": 414.7782000732422,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HEI",
         "name": "Heico Corporation",
-        "collected_at": "2026-02-28T02:01:34.615Z",
+        "collected_at": "2026-03-01T02:01:36.403Z",
         "data_start_date": "2016-02-29",
         "price": 319.4599914550781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:HEI",
-        "market_capitalization": 38075447784.41012,
+        "market_capitalization": 37849198836.00001,
         "commodity_name": null,
         "display_name": "Heico Corporation",
         "sma_50": 309.3059991455078,

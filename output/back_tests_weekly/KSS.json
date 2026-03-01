@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KSS",
         "name": "Kohl's Corporation",
-        "collected_at": "2026-02-28T02:07:15.278Z",
+        "collected_at": "2026-03-01T02:07:09.647Z",
         "data_start_date": "2016-02-29",
         "price": 16.3700008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Department Stores",
         "tradingview_id": "NYSE:KSS",
-        "market_capitalization": 1836537056.7169058,
+        "market_capitalization": 1836537071,
         "commodity_name": null,
         "display_name": "Kohl's Corporation",
         "sma_50": 14.173000049591064,

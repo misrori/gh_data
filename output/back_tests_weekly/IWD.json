@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IWD",
         "name": "iShares Russell 1000 Value ETF",
-        "collected_at": "2026-02-28T02:10:20.822Z",
+        "collected_at": "2026-03-01T02:10:19.492Z",
         "data_start_date": "2016-02-29",
         "price": 225.52000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IWD",
-        "market_capitalization": 70723764723.35,
+        "market_capitalization": 70973170873.85,
         "commodity_name": null,
         "display_name": "iShares Russell 1000 Value ETF",
         "sma_50": 201.48460021972656,

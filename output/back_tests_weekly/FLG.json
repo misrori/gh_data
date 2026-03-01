@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLG",
         "name": "Flagstar Bank, N.A.",
-        "collected_at": "2026-02-28T02:04:44.525Z",
+        "collected_at": "2026-03-01T02:04:42.027Z",
         "data_start_date": "2016-02-29",
         "price": 12.6899995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:FLG",
-        "market_capitalization": 5275942316.681181,
+        "market_capitalization": 5275942068,
         "commodity_name": null,
         "display_name": "Flagstar Bank, N.A.",
         "sma_50": 12.048999996185303,

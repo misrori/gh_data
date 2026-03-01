@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SRPT",
         "name": "Sarepta Therapeutics, Inc.",
-        "collected_at": "2026-02-28T02:07:21.549Z",
+        "collected_at": "2026-03-01T02:07:16.265Z",
         "data_start_date": "2016-02-29",
         "price": 16.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:SRPT",
-        "market_capitalization": 1756233308.7220633,
+        "market_capitalization": 1756233256,
         "commodity_name": null,
         "display_name": "Sarepta Therapeutics, Inc.",
         "sma_50": 26.39599998474121,

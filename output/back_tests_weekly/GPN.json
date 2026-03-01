@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GPN",
         "name": "Global Payments Inc.",
-        "collected_at": "2026-02-28T02:02:16.346Z",
+        "collected_at": "2026-03-01T02:02:17.165Z",
         "data_start_date": "2016-02-29",
         "price": 76.45999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:GPN",
-        "market_capitalization": 21401253449.07155,
+        "market_capitalization": 21401253612,
         "commodity_name": null,
         "display_name": "Global Payments Inc.",
         "sma_50": 79.99860000610352,

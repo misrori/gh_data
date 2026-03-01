@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HHH",
         "name": "Howard Hughes Holdings Inc.",
-        "collected_at": "2026-02-28T02:05:14.474Z",
+        "collected_at": "2026-03-01T02:05:11.256Z",
         "data_start_date": "2016-02-29",
         "price": 72.37000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:HHH",
-        "market_capitalization": 4315882263.067936,
+        "market_capitalization": 4315882445,
         "commodity_name": null,
         "display_name": "Howard Hughes Holdings Inc.",
         "sma_50": 75.81600006103515,

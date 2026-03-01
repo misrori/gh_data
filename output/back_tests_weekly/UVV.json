@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UVV",
         "name": "Universal Corporation",
-        "collected_at": "2026-02-28T02:08:02.947Z",
+        "collected_at": "2026-03-01T02:07:56.487Z",
         "data_start_date": "2016-02-29",
         "price": 53.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:UVV",
-        "market_capitalization": 1339139445.3511708,
+        "market_capitalization": 1339139442,
         "commodity_name": null,
         "display_name": "Universal Corporation",
         "sma_50": 55.32659996032715,

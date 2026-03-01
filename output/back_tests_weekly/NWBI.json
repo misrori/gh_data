@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NWBI",
         "name": "Northwest Bancshares, Inc.",
-        "collected_at": "2026-02-28T02:07:16.439Z",
+        "collected_at": "2026-03-01T02:07:11.301Z",
         "data_start_date": "2016-02-29",
         "price": 12.449999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:NWBI",
-        "market_capitalization": 1819436321.7467077,
+        "market_capitalization": 1819436316,
         "commodity_name": null,
         "display_name": "Northwest Bancshares, Inc.",
         "sma_50": 12.332999973297119,

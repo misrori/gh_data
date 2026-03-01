@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XPO",
         "name": "XPO, Inc.",
-        "collected_at": "2026-02-28T02:02:03.413Z",
+        "collected_at": "2026-03-01T02:02:03.602Z",
         "data_start_date": "2016-02-29",
         "price": 210.47000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NYSE:XPO",
-        "market_capitalization": 24656005815.667286,
+        "market_capitalization": 24656005372,
         "commodity_name": null,
         "display_name": "XPO, Inc.",
         "sma_50": 135.49940032958983,

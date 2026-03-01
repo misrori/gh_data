@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPYG",
         "name": "State Street SPDR Portfolio S&P 500 Growth ETF",
-        "collected_at": "2026-02-28T02:10:25.901Z",
+        "collected_at": "2026-03-01T02:10:25.875Z",
         "data_start_date": "2016-02-29",
         "price": 103.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SPYG",
-        "market_capitalization": 44787242592.984,
+        "market_capitalization": 44286571690.9442,
         "commodity_name": null,
         "display_name": "State Street SPDR Portfolio S&P 500 Growth ETF",
         "sma_50": 98.35440017700195,

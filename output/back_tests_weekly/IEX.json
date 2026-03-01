@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IEX",
         "name": "IDEX Corporation",
-        "collected_at": "2026-02-28T02:02:40.941Z",
+        "collected_at": "2026-03-01T02:02:41.753Z",
         "data_start_date": "2016-02-29",
         "price": 209.47000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:IEX",
-        "market_capitalization": 15573638441.264372,
+        "market_capitalization": 15573638804,
         "commodity_name": null,
         "display_name": "IDEX Corporation",
         "sma_50": 177.97600036621094,

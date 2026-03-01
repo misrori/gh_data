@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HIMX",
         "name": "Himax Technologies, Inc.",
-        "collected_at": "2026-02-28T02:08:06.114Z",
+        "collected_at": "2026-03-01T02:08:03.243Z",
         "data_start_date": "2016-02-29",
         "price": 7.28000020980835,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:HIMX",
-        "market_capitalization": 1309744040,
+        "market_capitalization": 1269632037,
         "commodity_name": null,
         "display_name": "Himax Technologies, Inc.",
         "sma_50": 8.182000045776368,

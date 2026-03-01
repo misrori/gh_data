@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTBI",
         "name": "Community Trust Bancorp, Inc.",
-        "collected_at": "2026-02-28T02:08:29.036Z",
+        "collected_at": "2026-03-01T02:08:23.146Z",
         "data_start_date": "2016-02-29",
         "price": 60.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CTBI",
-        "market_capitalization": 1087675575.6251197,
+        "market_capitalization": 1087675563,
         "commodity_name": null,
         "display_name": "Community Trust Bancorp, Inc.",
         "sma_50": 55.14679977416992,

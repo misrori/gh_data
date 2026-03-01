@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "M",
         "name": "Macy's Inc",
-        "collected_at": "2026-02-28T02:04:45.364Z",
+        "collected_at": "2026-03-01T02:04:43.349Z",
         "data_start_date": "2016-02-29",
         "price": 19.780000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Department Stores",
         "tradingview_id": "NYSE:M",
-        "market_capitalization": 5259167562.481571,
+        "market_capitalization": 5259167647.000001,
         "commodity_name": null,
         "display_name": "Macy's Inc",
         "sma_50": 16.563400001525878,
