@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XRPUSDT",
         "name": "XRP",
-        "collected_at": "2026-02-28T23:45:10.319Z",
+        "collected_at": "2026-03-01T00:45:15.174Z",
         "data_start_date": "2018-04-30",
         "price": 1.3781,
         "change": -1.0838357737582465,
-        "volume": 1128191897.3,
+        "volume": 1132985464.3,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 28,
