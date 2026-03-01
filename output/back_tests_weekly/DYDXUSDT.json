@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DYDXUSDT",
         "name": "dYdX",
-        "collected_at": "2026-03-01T03:47:08.117Z",
+        "collected_at": "2026-03-01T04:47:31.343Z",
         "data_start_date": "2021-09-06",
         "price": 0.0956,
         "change": 0.31479538300105836,
-        "volume": 118089624,
+        "volume": 118969978.89,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 644,
