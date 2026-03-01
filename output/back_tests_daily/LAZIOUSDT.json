@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LAZIOUSDT",
         "name": "LAZIO / USDT",
-        "collected_at": "2026-03-01T08:47:53.718Z",
+        "collected_at": "2026-03-01T09:47:52.563Z",
         "data_start_date": "2021-10-21",
         "price": 0.711,
         "change": -0.5594405594405599,
-        "volume": 135830.15,
+        "volume": 152118.73,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 24,
