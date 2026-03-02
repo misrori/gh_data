@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMSF",
         "name": "AMERISAFE, Inc.",
-        "collected_at": "2026-03-01T02:09:40.058Z",
+        "collected_at": "2026-03-02T02:10:12.469Z",
         "data_start_date": "2016-02-29",
         "price": 32.529998779296875,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 45.99933952039555,
         "price_per_earning": 13.164177896483348,
         "earnings_per_share_basic_ttm": 2.4836,
-        "number_of_employees": null,
+        "number_of_employees": 362,
         "ml_direction": -1,
         "ml_value": 39.78003807711375,
         "ml_last_change_date": "2025-01-06",

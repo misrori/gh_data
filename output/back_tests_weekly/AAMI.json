@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AAMI",
         "name": "Acadian Asset Management Inc.",
-        "collected_at": "2026-03-01T02:07:01.037Z",
+        "collected_at": "2026-03-02T02:07:33.194Z",
         "data_start_date": "2016-02-29",
         "price": 53.86000061035156,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 5.550198738865466,
         "price_per_earning": 24.378762503960534,
         "earnings_per_share_basic_ttm": 2.2129,
-        "number_of_employees": null,
+        "number_of_employees": 396,
         "ml_direction": 1,
         "ml_value": 44.41243454867105,
         "ml_last_change_date": "2025-05-05",

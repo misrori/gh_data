@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALGN",
         "name": "Align Technology, Inc.",
-        "collected_at": "2026-03-01T02:02:53.626Z",
+        "collected_at": "2026-03-02T02:03:01.006Z",
         "data_start_date": "2016-02-29",
         "price": 190.10000610351562,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 43.321404423702276,
         "price_per_earning": 33.594882126321,
         "earnings_per_share_basic_ttm": 5.6626,
-        "number_of_employees": null,
+        "number_of_employees": 20290,
         "ml_direction": 1,
         "ml_value": 151.1790385385601,
         "ml_last_change_date": "2026-02-02",

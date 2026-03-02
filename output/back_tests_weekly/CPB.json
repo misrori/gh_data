@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CPB",
         "name": "The Campbell's Company",
-        "collected_at": "2026-03-01T02:03:48.213Z",
+        "collected_at": "2026-03-02T02:04:14.907Z",
         "data_start_date": "2016-02-29",
         "price": 26.950000762939453,
         "change": 0,
-        "volume": 6163096,
+        "volume": 6469310,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 431,

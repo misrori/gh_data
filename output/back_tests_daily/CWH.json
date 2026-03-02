@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CWH",
         "name": "Camping World Holdings, Inc.",
-        "collected_at": "2026-03-01T02:08:57.688Z",
+        "collected_at": "2026-03-02T02:09:29.105Z",
         "data_start_date": "2016-10-07",
         "price": 8.319999694824219,
         "change": -3.368176230159613,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 45.19104395546404,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -1.4263,
-        "number_of_employees": null,
+        "number_of_employees": 11427,
         "ml_direction": -1,
         "ml_value": 11.302469544164664,
         "ml_last_change_date": "2026-02-12",

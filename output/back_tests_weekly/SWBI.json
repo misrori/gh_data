@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SWBI",
         "name": "Smith & Wesson Brands, Inc.",
-        "collected_at": "2026-03-01T02:09:59.823Z",
+        "collected_at": "2026-03-02T02:10:31.728Z",
         "data_start_date": "2016-02-29",
         "price": 11.899999618530273,
         "change": 0,
-        "volume": 366940,
+        "volume": 454472,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

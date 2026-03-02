@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVAX",
         "name": "Novavax, Inc.",
-        "collected_at": "2026-03-01T02:07:25.159Z",
+        "collected_at": "2026-03-02T02:07:57.255Z",
         "data_start_date": "2016-02-29",
         "price": 10.140000343322754,
         "change": 0,
-        "volume": 10210685,
+        "volume": 10243355,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.7391,
         "number_of_employees": 749,
         "ml_direction": 1,
-        "ml_value": 6.541838194449813,
+        "ml_value": 6.541838194449815,
         "ml_last_change_date": "2026-02-23",
         "ml_last_change_price": 11.149999618530273,
         "ml_change_percent_from_last_change": -9.058289773651595

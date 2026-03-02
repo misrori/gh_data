@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LASR",
         "name": "nLIGHT, Inc.",
-        "collected_at": "2026-03-01T02:05:59.709Z",
+        "collected_at": "2026-03-02T02:06:30.728Z",
         "data_start_date": "2018-04-23",
         "price": 56.189998626708984,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 10.78120191311491,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.4704,
-        "number_of_employees": null,
+        "number_of_employees": 800,
         "ml_direction": 1,
         "ml_value": 39.76304770995962,
         "ml_last_change_date": "2025-05-05",

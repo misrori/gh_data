@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "D",
         "name": "Dominion Energy, Inc.",
-        "collected_at": "2026-03-01T02:01:13.185Z",
+        "collected_at": "2026-03-02T02:01:17.558Z",
         "data_start_date": "2016-02-29",
         "price": 63.13999938964844,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 11,
         "percent_fall_from_last_local_max": 6.556164459351202,
-        "price_per_earning": 18.469008687512797,
+        "price_per_earning": 18.39529192401818,
         "earnings_per_share_basic_ttm": 3.4391,
         "number_of_employees": 15200,
         "ml_direction": 1,

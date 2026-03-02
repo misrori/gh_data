@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FERG",
         "name": "Ferguson Enterprises Inc.",
-        "collected_at": "2026-03-01T02:01:18.552Z",
+        "collected_at": "2026-03-02T02:01:22.737Z",
         "data_start_date": "2016-02-29",
         "price": 260.760009765625,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 4.005302715394726,
         "price_per_earning": 33.57107912557613,
         "earnings_per_share_basic_ttm": 7.7787,
-        "number_of_employees": null,
+        "number_of_employees": 35000,
         "ml_direction": 1,
         "ml_value": 222.25469269523103,
         "ml_last_change_date": "2025-06-02",

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARKO",
         "name": "ARKO Corp.",
-        "collected_at": "2026-03-01T02:09:19.826Z",
+        "collected_at": "2026-03-02T02:09:51.854Z",
         "data_start_date": "2019-07-22",
         "price": 6.429999828338623,
         "change": 0,
-        "volume": 738775,
+        "volume": 751361,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

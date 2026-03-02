@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "USPH",
         "name": "U.S. Physical Therapy, Inc.",
-        "collected_at": "2026-03-01T02:08:04.580Z",
+        "collected_at": "2026-03-02T02:08:37.929Z",
         "data_start_date": "2016-02-29",
         "price": 82.95999908447266,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 11.272728251900903,
         "price_per_earning": 58.612406386887095,
         "earnings_per_share_basic_ttm": 1.4154,
-        "number_of_employees": null,
+        "number_of_employees": 7294,
         "ml_direction": -1,
         "ml_value": 93.3004799369739,
         "ml_last_change_date": "2025-11-10",

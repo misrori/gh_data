@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTM",
         "name": "White Mountains Insurance Group, Ltd.",
-        "collected_at": "2026-03-01T02:04:35.588Z",
+        "collected_at": "2026-03-02T02:05:03.878Z",
         "data_start_date": "2016-02-29",
         "price": 2220.510009765625,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 0,
         "price_per_earning": 5.135838322086041,
         "earnings_per_share_basic_ttm": 432.3559,
-        "number_of_employees": null,
+        "number_of_employees": 1648,
         "ml_direction": 1,
         "ml_value": 1945.9773508757355,
         "ml_last_change_date": "2025-11-17",

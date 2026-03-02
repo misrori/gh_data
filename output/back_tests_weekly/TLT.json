@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TLT",
         "name": "iShares 20+ Year Treasury Bond ETF",
-        "collected_at": "2026-03-01T02:10:24.737Z",
+        "collected_at": "2026-03-02T02:10:56.764Z",
         "data_start_date": "2016-02-29",
         "price": 90.81999969482422,
         "change": 0,
-        "volume": 49814102,
+        "volume": 51271971,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 480,

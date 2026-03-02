@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRVA",
         "name": "Privia Health Group, Inc.",
-        "collected_at": "2026-03-01T02:06:06.985Z",
+        "collected_at": "2026-03-02T02:06:38.416Z",
         "data_start_date": "2021-04-28",
         "price": 23.75,
         "change": -4.656763767634552,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 5.828704811169834,
         "price_per_earning": 133.8782412626832,
         "earnings_per_share_basic_ttm": 0.1871,
-        "number_of_employees": null,
+        "number_of_employees": 1226,
         "ml_direction": 1,
         "ml_value": 22.009787057447344,
         "ml_last_change_date": "2026-02-26",

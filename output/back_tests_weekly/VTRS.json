@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VTRS",
         "name": "Viatris Inc.",
-        "collected_at": "2026-03-01T02:02:33.819Z",
+        "collected_at": "2026-03-02T02:02:39.289Z",
         "data_start_date": "2016-02-29",
         "price": 14.930000305175781,
         "change": 0,
-        "volume": 22029214,
+        "volume": 22029390,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

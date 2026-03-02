@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HOMB",
         "name": "Home BancShares, Inc.",
-        "collected_at": "2026-03-01T02:04:38.953Z",
+        "collected_at": "2026-03-02T02:05:07.107Z",
         "data_start_date": "2016-02-29",
         "price": 27.459999084472656,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 10.930914199069166,
         "price_per_earning": 11.428809256253382,
         "earnings_per_share_basic_ttm": 2.4053,
-        "number_of_employees": null,
+        "number_of_employees": 2543,
         "ml_direction": 1,
         "ml_value": 26.19744190761916,
         "ml_last_change_date": "2025-07-14",

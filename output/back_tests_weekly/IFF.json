@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IFF",
         "name": "International Flavors & Fragrances, Inc.",
-        "collected_at": "2026-03-01T02:02:18.456Z",
+        "collected_at": "2026-03-02T02:02:23.222Z",
         "data_start_date": "2016-02-29",
         "price": 82.2300033569336,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 22.983978699718755,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -1.3594,
-        "number_of_employees": null,
+        "number_of_employees": 21500,
         "ml_direction": 1,
         "ml_value": 68.99257932197536,
         "ml_last_change_date": "2026-01-19",

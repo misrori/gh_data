@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MAIN",
         "name": "Main Street Capital Corporation",
-        "collected_at": "2026-03-01T02:04:48.499Z",
+        "collected_at": "2026-03-02T02:05:16.853Z",
         "data_start_date": "2016-02-29",
         "price": 56.79999923706055,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 16.187100412271022,
         "price_per_earning": 10.288923104791232,
         "earnings_per_share_basic_ttm": 5.5205,
-        "number_of_employees": null,
+        "number_of_employees": 110,
         "ml_direction": -1,
         "ml_value": 64.08148329516243,
         "ml_last_change_date": "2025-10-06",

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ENOV",
         "name": "Enovis Corporation",
-        "collected_at": "2026-03-01T02:07:45.355Z",
+        "collected_at": "2026-03-02T02:08:18.146Z",
         "data_start_date": "2016-02-29",
         "price": 25.469999313354492,
         "change": 0,
@@ -49,7 +49,7 @@
         "days_after_last_local_max": 739,
         "percent_fall_from_last_local_max": 60.833461799997465,
         "price_per_earning": null,
-        "earnings_per_share_basic_ttm": -9111.619,
+        "earnings_per_share_basic_ttm": -20.6926,
         "number_of_employees": 7802,
         "ml_direction": -1,
         "ml_value": 31.087996132051337,

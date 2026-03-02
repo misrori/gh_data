@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ST",
         "name": "Sensata Technologies Holding plc",
-        "collected_at": "2026-03-01T02:04:37.610Z",
+        "collected_at": "2026-03-02T02:05:05.831Z",
         "data_start_date": "2016-02-29",
         "price": 37.34000015258789,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 4.476848281322261,
         "price_per_earning": 187.3557451078776,
         "earnings_per_share_basic_ttm": 0.2038,
-        "number_of_employees": null,
+        "number_of_employees": 19000,
         "ml_direction": 1,
         "ml_value": 30.70408571869388,
         "ml_last_change_date": "2025-06-16",

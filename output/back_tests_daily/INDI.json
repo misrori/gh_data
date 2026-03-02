@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INDI",
         "name": "indie Semiconductor, Inc.",
-        "collected_at": "2026-03-01T02:09:04.542Z",
+        "collected_at": "2026-03-02T02:09:35.836Z",
         "data_start_date": "2019-10-04",
         "price": 3.6600000858306885,
         "change": -0.8130073421291051,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 23.109245591560544,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.7304,
-        "number_of_employees": null,
+        "number_of_employees": 800,
         "ml_direction": -1,
         "ml_value": 4.329105143282472,
         "ml_last_change_date": "2026-02-05",

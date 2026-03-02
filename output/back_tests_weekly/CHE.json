@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHE",
         "name": "Chemed Corp",
-        "collected_at": "2026-03-01T02:04:28.613Z",
+        "collected_at": "2026-03-02T02:04:56.446Z",
         "data_start_date": "2016-02-29",
         "price": 410.010009765625,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 37.366714609408376,
         "price_per_earning": 22.323309867206767,
         "earnings_per_share_basic_ttm": 18.4524,
-        "number_of_employees": null,
+        "number_of_employees": 15811,
         "ml_direction": -1,
         "ml_value": 496.0069423308721,
         "ml_last_change_date": "2025-06-30",

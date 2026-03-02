@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OZK",
         "name": "Bank OZK",
-        "collected_at": "2026-03-01T02:04:41.753Z",
+        "collected_at": "2026-03-02T02:05:09.853Z",
         "data_start_date": "2016-02-29",
         "price": 46.560001373291016,
         "change": 0,
-        "volume": 1501898,
+        "volume": 1501925,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 291,

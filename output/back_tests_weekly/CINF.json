@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CINF",
         "name": "Cincinnati Financial Corporation",
-        "collected_at": "2026-03-01T02:02:01.453Z",
+        "collected_at": "2026-03-02T02:02:06.971Z",
         "data_start_date": "2016-02-29",
         "price": 163.97999572753906,
         "change": 0,
-        "volume": 926392,
+        "volume": 1054601,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 718,

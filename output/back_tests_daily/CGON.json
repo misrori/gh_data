@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CGON",
         "name": "CG Oncology, Inc.",
-        "collected_at": "2026-03-01T02:04:57.459Z",
+        "collected_at": "2026-03-02T02:05:26.098Z",
         "data_start_date": "2024-01-25",
         "price": 58.79999923706055,
         "change": 4.7941518400424235,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 1.998368808277624,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -2.0823,
-        "number_of_employees": null,
+        "number_of_employees": 142,
         "ml_direction": 1,
         "ml_value": 49.844004238196696,
         "ml_last_change_date": "2026-01-09",

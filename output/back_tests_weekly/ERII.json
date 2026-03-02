@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ERII",
         "name": "Energy Recovery, Inc.",
-        "collected_at": "2026-03-01T02:09:54.348Z",
+        "collected_at": "2026-03-02T02:10:26.663Z",
         "data_start_date": "2016-02-29",
         "price": 10.430000305175781,
         "change": 0,
-        "volume": 1196527,
+        "volume": 1196606,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

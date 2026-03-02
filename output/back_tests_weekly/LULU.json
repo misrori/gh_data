@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LULU",
         "name": "lululemon athletica inc.",
-        "collected_at": "2026-03-01T02:02:11.429Z",
+        "collected_at": "2026-03-02T02:02:17.145Z",
         "data_start_date": "2016-02-29",
         "price": 185.1699981689453,
         "change": 0,
-        "volume": 1806080,
+        "volume": 1810811,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 333,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CECO",
         "name": "CECO Environmental Corp.",
-        "collected_at": "2026-03-01T02:06:57.819Z",
+        "collected_at": "2026-03-02T02:07:30.010Z",
         "data_start_date": "2016-02-29",
         "price": 60.45000076293945,
         "change": 0,
-        "volume": 907211,
+        "volume": 927034,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

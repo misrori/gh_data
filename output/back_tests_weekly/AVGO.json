@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVGO",
         "name": "Broadcom Inc.",
-        "collected_at": "2026-03-01T02:00:08.827Z",
+        "collected_at": "2026-03-02T02:00:08.510Z",
         "data_start_date": "2016-02-29",
         "price": 319.54998779296875,
         "change": 0,
-        "volume": 23624216,
+        "volume": 28004177,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1145,

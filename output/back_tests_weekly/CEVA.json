@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CEVA",
         "name": "CEVA, Inc.",
-        "collected_at": "2026-03-01T02:09:51.543Z",
+        "collected_at": "2026-03-02T02:10:23.806Z",
         "data_start_date": "2016-02-29",
         "price": 20.860000610351562,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 46.430402295793435,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.4427,
-        "number_of_employees": null,
+        "number_of_employees": 424,
         "ml_direction": -1,
         "ml_value": 27.746161580842305,
         "ml_last_change_date": "2025-03-24",

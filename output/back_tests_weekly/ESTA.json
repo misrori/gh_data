@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ESTA",
         "name": "Establishment Labs Holdings Inc.",
-        "collected_at": "2026-03-01T02:06:36.815Z",
+        "collected_at": "2026-03-02T02:07:09.220Z",
         "data_start_date": "2018-07-16",
         "price": 78.69999694824219,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 5.533550288618419,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -1.7405,
-        "number_of_employees": null,
+        "number_of_employees": 1004,
         "ml_direction": 1,
         "ml_value": 55.996530650372776,
         "ml_last_change_date": "2025-10-20",

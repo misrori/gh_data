@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SHAK",
         "name": "Shake Shack, Inc.",
-        "collected_at": "2026-03-01T02:05:19.629Z",
+        "collected_at": "2026-03-02T02:05:48.327Z",
         "data_start_date": "2016-02-29",
         "price": 96.01000213623047,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 235,
         "percent_fall_from_last_local_max": 33.62598950060244,
-        "price_per_earning": 88.08256880733944,
+        "price_per_earning": 87.8568814055637,
         "earnings_per_share_basic_ttm": 1.1366,
         "number_of_employees": 13873,
         "ml_direction": -1,

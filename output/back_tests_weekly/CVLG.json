@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CVLG",
         "name": "Covenant Logistics Group, Inc.",
-        "collected_at": "2026-03-01T02:09:14.885Z",
+        "collected_at": "2026-03-02T02:09:46.682Z",
         "data_start_date": "2016-02-29",
         "price": 29.440000534057617,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 3.0941364472548085,
         "price_per_earning": 137.7632194665419,
         "earnings_per_share_basic_ttm": 0.2596,
-        "number_of_employees": null,
+        "number_of_employees": 4700,
         "ml_direction": 1,
         "ml_value": 23.179032870628973,
         "ml_last_change_date": "2026-01-05",

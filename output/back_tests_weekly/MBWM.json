@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MBWM",
         "name": "Mercantile Bank Corporation",
-        "collected_at": "2026-03-01T02:08:51.134Z",
+        "collected_at": "2026-03-02T02:09:22.466Z",
         "data_start_date": "2016-02-29",
         "price": 51.65999984741211,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 7.369554557318306,
         "price_per_earning": 9.45219014161818,
         "earnings_per_share_basic_ttm": 5.4654,
-        "number_of_employees": 770,
+        "number_of_employees": 744,
         "ml_direction": 1,
         "ml_value": 45.35001860247872,
         "ml_last_change_date": "2026-01-12",

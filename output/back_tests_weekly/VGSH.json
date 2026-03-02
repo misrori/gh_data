@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VGSH",
         "name": "Vanguard Short-Term Treasury ETF",
-        "collected_at": "2026-03-01T02:10:37.353Z",
+        "collected_at": "2026-03-02T02:11:08.871Z",
         "data_start_date": "2016-02-29",
         "price": 59,
         "change": 0,
-        "volume": 2708981,
+        "volume": 2710513,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 536,

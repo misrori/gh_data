@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALHC",
         "name": "Alignment Healthcare, Inc.",
-        "collected_at": "2026-03-01T02:05:30.511Z",
+        "collected_at": "2026-03-02T02:05:59.196Z",
         "data_start_date": "2021-03-22",
         "price": 19.219999313354492,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 8.736943016373221,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.0041,
-        "number_of_employees": null,
+        "number_of_employees": 1849,
         "ml_direction": 1,
         "ml_value": 18.017288155945362,
         "ml_last_change_date": "2025-09-22",

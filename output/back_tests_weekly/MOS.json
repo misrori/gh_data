@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MOS",
         "name": "Mosaic Company (The)",
-        "collected_at": "2026-03-01T02:03:37.388Z",
+        "collected_at": "2026-03-02T02:04:03.341Z",
         "data_start_date": "2016-02-29",
         "price": 27.84000015258789,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 27.177607936326588,
         "price_per_earning": 16.5026674570243,
         "earnings_per_share_basic_ttm": 1.7049,
-        "number_of_employees": null,
+        "number_of_employees": 13249,
         "ml_direction": -1,
         "ml_value": 31.000295855670757,
         "ml_last_change_date": "2025-10-13",

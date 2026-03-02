@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COMP",
         "name": "Compass, Inc.",
-        "collected_at": "2026-03-01T02:04:04.548Z",
+        "collected_at": "2026-03-02T02:04:32.148Z",
         "data_start_date": "2021-03-29",
         "price": 9.75,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 4.878048780487805,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.1045,
-        "number_of_employees": null,
+        "number_of_employees": 3200,
         "ml_direction": -1,
         "ml_value": 13.357782682411255,
         "ml_last_change_date": "2026-02-23",

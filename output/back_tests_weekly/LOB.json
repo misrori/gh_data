@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LOB",
         "name": "Live Oak Bancshares, Inc.",
-        "collected_at": "2026-03-01T02:07:24.392Z",
+        "collected_at": "2026-03-02T02:07:56.436Z",
         "data_start_date": "2016-02-29",
         "price": 36.27000045776367,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 15.434831023761944,
         "price_per_earning": 16.286484059272567,
         "earnings_per_share_basic_ttm": 2.2469,
-        "number_of_employees": null,
+        "number_of_employees": 1027,
         "ml_direction": 1,
         "ml_value": 32.72839792006515,
         "ml_last_change_date": "2025-07-21",

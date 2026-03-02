@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LIVN",
         "name": "LivaNova PLC",
-        "collected_at": "2026-03-01T02:05:29.758Z",
+        "collected_at": "2026-03-02T02:05:58.446Z",
         "data_start_date": "2016-02-29",
         "price": 70.5999984741211,
         "change": 0,
-        "volume": 884959,
+        "volume": 945848,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 123,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UVE",
         "name": "UNIVERSAL INSURANCE HOLDINGS INC",
-        "collected_at": "2026-03-01T02:08:36.790Z",
+        "collected_at": "2026-03-02T02:09:07.947Z",
         "data_start_date": "2016-02-29",
         "price": 35.16999816894531,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 1.8694251696151274,
         "price_per_earning": 5.571220377645419,
         "earnings_per_share_basic_ttm": 6.5551,
-        "number_of_employees": null,
+        "number_of_employees": 929,
         "ml_direction": 1,
         "ml_value": 28.081399128072746,
         "ml_last_change_date": "2023-11-20",

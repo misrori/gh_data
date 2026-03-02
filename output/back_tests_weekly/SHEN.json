@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SHEN",
         "name": "Shenandoah Telecommunications Co",
-        "collected_at": "2026-03-01T02:09:12.131Z",
+        "collected_at": "2026-03-02T02:09:43.834Z",
         "data_start_date": "2016-02-29",
         "price": 13.630000114440918,
         "change": 0,
-        "volume": 330384,
+        "volume": 368480,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 725,

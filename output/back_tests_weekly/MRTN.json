@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MRTN",
         "name": "Marten Transport, Ltd.",
-        "collected_at": "2026-03-01T02:08:21.126Z",
+        "collected_at": "2026-03-02T02:08:54.750Z",
         "data_start_date": "2016-02-29",
         "price": 13.59000015258789,
         "change": 0,
-        "volume": 515920,
+        "volume": 644974,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 725,

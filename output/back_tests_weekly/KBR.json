@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KBR",
         "name": "KBR, Inc.",
-        "collected_at": "2026-03-01T02:04:40.697Z",
+        "collected_at": "2026-03-02T02:05:08.947Z",
         "data_start_date": "2016-02-29",
         "price": 42.22999954223633,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 473,
         "percent_fall_from_last_local_max": 41.831955330839875,
-        "price_per_earning": 12.494452498594631,
+        "price_per_earning": 12.523724792408066,
         "earnings_per_share_basic_ttm": 3.3758,
         "number_of_employees": 36000,
         "ml_direction": -1,

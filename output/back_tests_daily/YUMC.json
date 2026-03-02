@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YUMC",
         "name": "Yum China Holdings, Inc.",
-        "collected_at": "2026-03-01T02:02:23.168Z",
+        "collected_at": "2026-03-02T02:02:28.402Z",
         "data_start_date": "2016-10-17",
         "price": 54.90999984741211,
         "change": -1.0452366435587268,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 5.959923922953959,
         "price_per_earning": 21.9692726254301,
         "earnings_per_share_basic_ttm": 2.5093,
-        "number_of_employees": null,
+        "number_of_employees": 290000,
         "ml_direction": 1,
         "ml_value": 52.668844950954146,
         "ml_last_change_date": "2025-10-23",

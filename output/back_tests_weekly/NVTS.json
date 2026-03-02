@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NVTS",
         "name": "Navitas Semiconductor Corporation",
-        "collected_at": "2026-03-01T02:06:52.072Z",
+        "collected_at": "2026-03-02T02:07:24.226Z",
         "data_start_date": "2021-10-18",
         "price": 9,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 49.40978337924265,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.5698,
-        "number_of_employees": null,
+        "number_of_employees": 190,
         "ml_direction": -1,
         "ml_value": 13.591307969289057,
         "ml_last_change_date": "2025-12-22",

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MSEX",
         "name": "Middlesex Water Company",
-        "collected_at": "2026-03-01T02:08:35.433Z",
+        "collected_at": "2026-03-02T02:09:06.513Z",
         "data_start_date": "2016-02-29",
         "price": 54,
         "change": 0,
-        "volume": 99897,
+        "volume": 105121,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 424,

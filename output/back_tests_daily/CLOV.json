@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLOV",
         "name": "Clover Health Investments, Corp.",
-        "collected_at": "2026-03-01T02:08:26.766Z",
+        "collected_at": "2026-03-02T02:08:57.151Z",
         "data_start_date": "2020-06-12",
         "price": 2.0899999141693115,
         "change": -2.7907059784509536,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 46.683676696627934,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.1662,
-        "number_of_employees": null,
+        "number_of_employees": 724,
         "ml_direction": -1,
         "ml_value": 2.2980595943565927,
         "ml_last_change_date": "2026-01-27",

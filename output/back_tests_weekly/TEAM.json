@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TEAM",
         "name": "Atlassian Corporation",
-        "collected_at": "2026-03-01T02:02:23.018Z",
+        "collected_at": "2026-03-02T02:02:28.241Z",
         "data_start_date": "2016-02-29",
         "price": 75.12999725341797,
         "change": 0,
-        "volume": 7372822,
+        "volume": 7419952,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 193,

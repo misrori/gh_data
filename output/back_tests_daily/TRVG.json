@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRVG",
         "name": "trivago N.V.",
-        "collected_at": "2026-03-01T02:07:45.472Z",
+        "collected_at": "2026-03-02T02:08:18.253Z",
         "data_start_date": "2016-12-16",
         "price": 2.9200000762939453,
         "change": -0.680271446845552,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 10.153843806340145,
         "price_per_earning": 14.943705220061412,
         "earnings_per_share_basic_ttm": 0.201,
-        "number_of_employees": null,
+        "number_of_employees": 893,
         "ml_direction": 1,
         "ml_value": 2.779604001238153,
         "ml_last_change_date": "2025-12-01",

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EGBN",
         "name": "Eagle Bancorp, Inc.",
-        "collected_at": "2026-03-01T02:09:09.582Z",
+        "collected_at": "2026-03-02T02:09:41.113Z",
         "data_start_date": "2016-02-29",
         "price": 25.450000762939453,
         "change": 0,
-        "volume": 451183,
+        "volume": 469671,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

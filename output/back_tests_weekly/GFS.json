@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GFS",
         "name": "GlobalFoundries Inc.",
-        "collected_at": "2026-03-01T02:01:59.269Z",
+        "collected_at": "2026-03-02T02:02:04.762Z",
         "data_start_date": "2021-10-25",
         "price": 47.54999923706055,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 6.728129336945299,
         "price_per_earning": 29.992430932256845,
         "earnings_per_share_basic_ttm": 1.5946,
-        "number_of_employees": null,
+        "number_of_employees": 14000,
         "ml_direction": 1,
         "ml_value": 35.661984507001286,
         "ml_last_change_date": "2026-01-19",

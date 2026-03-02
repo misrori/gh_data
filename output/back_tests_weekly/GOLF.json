@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GOLF",
         "name": "Acushnet Holdings Corp.",
-        "collected_at": "2026-03-01T02:04:23.474Z",
+        "collected_at": "2026-03-02T02:04:51.128Z",
         "data_start_date": "2016-10-24",
         "price": 102.33000183105469,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 2.3661824113225722,
         "price_per_earning": 33.09615446812639,
         "earnings_per_share_basic_ttm": 3.1036,
-        "number_of_employees": null,
+        "number_of_employees": 7300,
         "ml_direction": 1,
         "ml_value": 86.68569863089019,
         "ml_last_change_date": "2025-06-30",

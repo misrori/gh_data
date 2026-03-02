@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PFS",
         "name": "Provident Financial Services, Inc",
-        "collected_at": "2026-03-01T02:06:14.549Z",
+        "collected_at": "2026-03-02T02:06:46.372Z",
         "data_start_date": "2016-02-29",
         "price": 21.040000915527344,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 12.26021135459457,
         "price_per_earning": 9.43117127616657,
         "earnings_per_share_basic_ttm": 2.2316,
-        "number_of_employees": null,
+        "number_of_employees": 1866,
         "ml_direction": 1,
         "ml_value": 19.41839497966906,
         "ml_last_change_date": "2025-08-18",

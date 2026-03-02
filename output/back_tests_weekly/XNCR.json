@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XNCR",
         "name": "Xencor, Inc.",
-        "collected_at": "2026-03-01T02:08:43.979Z",
+        "collected_at": "2026-03-02T02:09:15.092Z",
         "data_start_date": "2016-02-29",
         "price": 12.770000457763672,
         "change": 0,
-        "volume": 874804,
+        "volume": 874816,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

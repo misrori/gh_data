@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FET",
         "name": "Forum Energy Technologies, Inc.",
-        "collected_at": "2026-03-01T02:09:31.191Z",
+        "collected_at": "2026-03-02T02:10:03.126Z",
         "data_start_date": "2016-02-29",
         "price": 58.029998779296875,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 8.72916466172072,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.8599,
-        "number_of_employees": null,
+        "number_of_employees": 1700,
         "ml_direction": 1,
         "ml_value": 45.70372628620797,
         "ml_last_change_date": "2025-07-07",

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCBG",
         "name": "Capital City Bank Group",
-        "collected_at": "2026-03-01T02:09:15.744Z",
+        "collected_at": "2026-03-02T02:09:47.514Z",
         "data_start_date": "2016-02-29",
         "price": 42.845001220703125,
         "change": -0.011662202090828078,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 8.50950342630344,
         "price_per_earning": 11.898083865592891,
         "earnings_per_share_basic_ttm": 3.6095,
-        "number_of_employees": null,
+        "number_of_employees": 902,
         "ml_direction": 1,
         "ml_value": 37.441770439495954,
         "ml_last_change_date": "2024-07-15",

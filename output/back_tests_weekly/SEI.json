@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SEI",
         "name": "Solaris Energy Infrastructure, Inc.",
-        "collected_at": "2026-03-01T02:05:43.949Z",
+        "collected_at": "2026-03-02T02:06:14.008Z",
         "data_start_date": "2017-05-08",
         "price": 49.630001068115234,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 0,
         "price_per_earning": 72.92095210108728,
         "earnings_per_share_basic_ttm": 0.7227,
-        "number_of_employees": null,
+        "number_of_employees": 468,
         "ml_direction": 1,
         "ml_value": 34.488986420655145,
         "ml_last_change_date": "2025-09-15",

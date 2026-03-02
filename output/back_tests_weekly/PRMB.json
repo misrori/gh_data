@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRMB",
         "name": "Primo Brands Corporation",
-        "collected_at": "2026-03-01T02:03:44.545Z",
+        "collected_at": "2026-03-02T02:04:10.487Z",
         "data_start_date": "2016-02-29",
         "price": 22.68000030517578,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 36.736398129702266,
         "price_per_earning": 143.54430379746836,
         "earnings_per_share_basic_ttm": 0.1591,
-        "number_of_employees": null,
+        "number_of_employees": 12600,
         "ml_direction": 1,
         "ml_value": 17.573351972620678,
         "ml_last_change_date": "2026-02-23",

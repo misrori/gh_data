@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VPG",
         "name": "Vishay Precision Group, Inc.",
-        "collected_at": "2026-03-01T02:09:41.366Z",
+        "collected_at": "2026-03-02T02:10:13.771Z",
         "data_start_date": "2016-02-29",
         "price": 46.06999969482422,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 18.0977783203125,
         "price_per_earning": 116.48546144121364,
         "earnings_per_share_basic_ttm": 0.3985,
-        "number_of_employees": null,
+        "number_of_employees": 2100,
         "ml_direction": 1,
         "ml_value": 40.47198828756386,
         "ml_last_change_date": "2025-06-02",

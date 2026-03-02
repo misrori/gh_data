@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HGV",
         "name": "Hilton Grand Vacations Inc.",
-        "collected_at": "2026-03-01T02:05:34.835Z",
+        "collected_at": "2026-03-02T02:06:04.132Z",
         "data_start_date": "2017-01-04",
         "price": 44.959999084472656,
         "change": -4.13646562534924,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 1,
         "percent_fall_from_last_local_max": 11.808553377440054,
-        "price_per_earning": 48.837714533999566,
+        "price_per_earning": 48.610660611958046,
         "earnings_per_share_basic_ttm": 0.9392,
         "number_of_employees": 22300,
         "ml_direction": 1,

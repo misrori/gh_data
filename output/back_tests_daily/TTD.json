@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTD",
         "name": "The Trade Desk, Inc.",
-        "collected_at": "2026-03-01T02:03:10.157Z",
+        "collected_at": "2026-03-02T02:03:22.960Z",
         "data_start_date": "2016-09-21",
         "price": 23.81999969482422,
         "change": -0.5428019372608945,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 57.75846789741785,
         "price_per_earning": 26.343729263437293,
         "earnings_per_share_basic_ttm": 0.9125,
-        "number_of_employees": null,
+        "number_of_employees": 3843,
         "ml_direction": -1,
         "ml_value": 28.34715843267009,
         "ml_last_change_date": "2025-11-04",

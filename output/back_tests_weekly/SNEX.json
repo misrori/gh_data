@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SNEX",
         "name": "StoneX Group Inc.",
-        "collected_at": "2026-03-01T02:04:09.844Z",
+        "collected_at": "2026-03-02T02:04:37.500Z",
         "data_start_date": "2016-02-29",
         "price": 127.5,
         "change": 0,
-        "volume": 261363,
+        "volume": 282363,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 2097,

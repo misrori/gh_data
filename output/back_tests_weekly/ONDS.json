@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ONDS",
         "name": "Ondas Inc",
-        "collected_at": "2026-03-01T02:05:04.090Z",
+        "collected_at": "2026-03-02T02:05:32.487Z",
         "data_start_date": "2020-11-30",
         "price": 10.079999923706055,
         "change": 0,
-        "volume": 65105962,
+        "volume": 65528398,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 228,

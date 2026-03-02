@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLD",
         "name": "TopBuild Corp.",
-        "collected_at": "2026-03-01T02:03:01.808Z",
+        "collected_at": "2026-03-02T02:03:10.624Z",
         "data_start_date": "2016-02-29",
         "price": 448.29998779296875,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 11,
         "percent_fall_from_last_local_max": 19.870310061045192,
-        "price_per_earning": 24.499543673456003,
+        "price_per_earning": 24.493252472272303,
         "earnings_per_share_basic_ttm": 18.4118,
         "number_of_employees": 14707,
         "ml_direction": 1,

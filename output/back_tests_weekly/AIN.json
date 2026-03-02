@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AIN",
         "name": "Albany International Corporation",
-        "collected_at": "2026-03-01T02:07:24.956Z",
+        "collected_at": "2026-03-02T02:07:57.069Z",
         "data_start_date": "2016-02-29",
         "price": 57.650001525878906,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 42.00784689453493,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -2.0133,
-        "number_of_employees": null,
+        "number_of_employees": 5700,
         "ml_direction": -1,
         "ml_value": 61.462775674207165,
         "ml_last_change_date": "2024-07-01",

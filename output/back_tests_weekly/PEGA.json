@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PEGA",
         "name": "Pegasystems Inc.",
-        "collected_at": "2026-03-01T02:03:59.006Z",
+        "collected_at": "2026-03-02T02:04:26.352Z",
         "data_start_date": "2016-02-29",
         "price": 43.72999954223633,
         "change": 0,
-        "volume": 2636894,
+        "volume": 2636899,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 690,

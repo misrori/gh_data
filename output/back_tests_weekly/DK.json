@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DK",
         "name": "Delek US Holdings, Inc.",
-        "collected_at": "2026-03-01T02:06:36.637Z",
+        "collected_at": "2026-03-02T02:07:09.051Z",
         "data_start_date": "2016-02-29",
         "price": 38.11000061035156,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 12.39080319459411,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.2771,
-        "number_of_employees": null,
+        "number_of_employees": 1902,
         "ml_direction": 1,
         "ml_value": 26.405832116440394,
         "ml_last_change_date": "2026-02-23",

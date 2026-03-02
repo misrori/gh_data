@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VCSH",
         "name": "Vanguard Short-Term Corporate Bond ETF",
-        "collected_at": "2026-03-01T02:10:27.920Z",
+        "collected_at": "2026-03-02T02:10:59.962Z",
         "data_start_date": "2016-02-29",
         "price": 80.19999694824219,
         "change": 0,
-        "volume": 4896647,
+        "volume": 4896678,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 704,

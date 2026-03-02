@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLOB",
         "name": "Globant S.A.",
-        "collected_at": "2026-03-01T02:06:42.358Z",
+        "collected_at": "2026-03-02T02:07:14.781Z",
         "data_start_date": "2016-02-29",
         "price": 49.7599983215332,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 473,
         "percent_fall_from_last_local_max": 79.12051158430941,
-        "price_per_earning": 21.820733204700925,
+        "price_per_earning": 21.84947747431281,
         "earnings_per_share_basic_ttm": 2.3288,
         "number_of_employees": 28773,
         "ml_direction": -1,

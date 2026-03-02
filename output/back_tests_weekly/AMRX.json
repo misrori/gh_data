@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMRX",
         "name": "Amneal Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-01T02:05:10.472Z",
+        "collected_at": "2026-03-02T02:05:38.883Z",
         "data_start_date": "2018-05-07",
         "price": 13.8100004196167,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 10.44098345467839,
         "price_per_earning": 62.37579042457091,
         "earnings_per_share_basic_ttm": 0.2297,
-        "number_of_employees": null,
+        "number_of_employees": 8500,
         "ml_direction": 1,
         "ml_value": 12.129461119416423,
         "ml_last_change_date": "2025-08-11",

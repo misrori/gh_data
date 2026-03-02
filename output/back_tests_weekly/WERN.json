@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WERN",
         "name": "Werner Enterprises, Inc.",
-        "collected_at": "2026-03-01T02:06:49.362Z",
+        "collected_at": "2026-03-02T02:07:21.683Z",
         "data_start_date": "2016-02-29",
         "price": 35.09000015258789,
         "change": 0,
-        "volume": 1127605,
+        "volume": 1343830,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

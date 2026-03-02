@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WABC",
         "name": "Westamerica Bancorporation",
-        "collected_at": "2026-03-01T02:08:04.005Z",
+        "collected_at": "2026-03-02T02:08:37.492Z",
         "data_start_date": "2016-02-29",
         "price": 50.650001525878906,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 5.291694167129536,
         "price_per_earning": 11.20079610791685,
         "earnings_per_share_basic_ttm": 4.522,
-        "number_of_employees": null,
+        "number_of_employees": 627,
         "ml_direction": -1,
         "ml_value": 53.12880575283273,
         "ml_last_change_date": "2025-03-31",

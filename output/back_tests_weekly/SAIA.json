@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SAIA",
         "name": "Saia, Inc.",
-        "collected_at": "2026-03-01T02:03:16.271Z",
+        "collected_at": "2026-03-02T02:03:34.099Z",
         "data_start_date": "2016-02-29",
         "price": 405.3900146484375,
         "change": 0,
-        "volume": 462278,
+        "volume": 471411,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

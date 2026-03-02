@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EZPW",
         "name": "EZCORP, Inc.",
-        "collected_at": "2026-03-01T02:07:27.170Z",
+        "collected_at": "2026-03-02T02:07:59.276Z",
         "data_start_date": "2016-02-29",
         "price": 26.530000686645508,
         "change": 0,
-        "volume": 839977,
+        "volume": 866952,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 788,

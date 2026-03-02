@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BULL",
         "name": "Webull Corporation",
-        "collected_at": "2026-03-01T02:06:07.203Z",
+        "collected_at": "2026-03-02T02:06:38.654Z",
         "data_start_date": "2022-08-22",
         "price": 5.809999942779541,
         "change": 0,
-        "volume": 7844122,
+        "volume": 7945282,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

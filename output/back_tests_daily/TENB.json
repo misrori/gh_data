@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TENB",
         "name": "Tenable Holdings, Inc.",
-        "collected_at": "2026-03-01T02:06:35.761Z",
+        "collected_at": "2026-03-02T02:07:08.154Z",
         "data_start_date": "2018-07-26",
         "price": 19.229999542236328,
         "change": -0.7739918731985126,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 38.952382405598954,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.3,
-        "number_of_employees": null,
+        "number_of_employees": 1995,
         "ml_direction": -1,
         "ml_value": 21.2237045241972,
         "ml_last_change_date": "2026-02-23",

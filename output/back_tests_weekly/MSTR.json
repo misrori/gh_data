@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MSTR",
         "name": "Strategy Inc",
-        "collected_at": "2026-03-01T02:01:28.182Z",
+        "collected_at": "2026-03-02T02:01:32.512Z",
         "data_start_date": "2016-02-29",
         "price": 129.5,
         "change": 0,
-        "volume": 13955181,
+        "volume": 14027679,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PAYO",
         "name": "Payoneer Global Inc.",
-        "collected_at": "2026-03-01T02:07:41.270Z",
+        "collected_at": "2026-03-02T02:08:13.791Z",
         "data_start_date": "2020-10-16",
         "price": 4.320000171661377,
         "change": 1.1709646594427885,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 28,
         "percent_fall_from_last_local_max": 33.8944105198087,
-        "price_per_earning": 22.453222453222455,
+        "price_per_earning": 22.176591375770023,
         "earnings_per_share_basic_ttm": 0.2012,
         "number_of_employees": 2540,
         "ml_direction": -1,
