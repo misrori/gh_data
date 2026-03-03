@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XUSDUSDT",
         "name": "XUSD / USDT",
-        "collected_at": "2026-03-03T14:46:05.033Z",
+        "collected_at": "2026-03-03T15:46:06.664Z",
         "data_start_date": "2025-03-19",
         "price": 1.0001,
         "change": -0.009998000399918916,
-        "volume": 8010142,
+        "volume": 8032310,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,
