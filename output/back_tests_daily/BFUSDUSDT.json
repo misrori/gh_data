@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BFUSDUSDT",
         "name": "BFUSD / USDT",
-        "collected_at": "2026-03-03T10:46:44.426Z",
+        "collected_at": "2026-03-03T11:46:47.591Z",
         "data_start_date": "2025-08-13",
         "price": 0.9992,
         "change": 0.020020020020017813,
-        "volume": 1704810,
+        "volume": 1787270,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 10,
