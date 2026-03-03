@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HFTUSDT",
         "name": "HFT / USDT",
-        "collected_at": "2026-03-03T13:48:35.306Z",
+        "collected_at": "2026-03-03T14:48:34.439Z",
         "data_start_date": "2022-11-07",
         "price": 0.0137,
         "change": 0,
-        "volume": 36106473.4,
+        "volume": 38535828.6,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 153,
