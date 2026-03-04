@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HFTUSDT",
         "name": "Hashflow",
-        "collected_at": "2026-03-04T20:48:49.256Z",
+        "collected_at": "2026-03-04T21:48:38.793Z",
         "data_start_date": "2022-11-07",
         "price": 0.0149,
         "change": 6.428571428571426,
-        "volume": 186534331.3,
+        "volume": 189123819.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1015,
