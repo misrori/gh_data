@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DUSKUSDT",
         "name": "Dusk",
-        "collected_at": "2026-03-04T03:47:23.910Z",
+        "collected_at": "2026-03-04T04:47:18.890Z",
         "data_start_date": "2019-07-22",
         "price": 0.0873,
         "change": 8.852867830423952,
-        "volume": 40959719,
+        "volume": 41824397,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 399,
