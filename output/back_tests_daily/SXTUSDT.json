@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SXTUSDT",
         "name": "Space and Time",
-        "collected_at": "2026-03-05T02:48:16.542Z",
+        "collected_at": "2026-03-05T03:48:30.687Z",
         "data_start_date": "2025-05-08",
         "price": 0.0182,
         "change": -1.621621621621612,
-        "volume": 3697443.6,
+        "volume": 4607433.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 201,
