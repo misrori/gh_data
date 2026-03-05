@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GMTUSDT",
         "name": "GMT",
-        "collected_at": "2026-03-04T23:48:36.807Z",
+        "collected_at": "2026-03-05T00:48:30.926Z",
         "data_start_date": "2022-03-07",
         "price": 0.01183,
         "change": 2.7801911381407547,
-        "volume": 235023483.5,
+        "volume": 236950363,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1260,
