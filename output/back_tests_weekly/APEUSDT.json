@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APEUSDT",
         "name": "ApeCoin",
-        "collected_at": "2026-03-07T03:47:24.111Z",
+        "collected_at": "2026-03-07T04:47:07.079Z",
         "data_start_date": "2022-03-14",
         "price": 0.0977,
         "change": -3.171456888007937,
-        "volume": 94901945.66,
+        "volume": 95456705.54,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1253,
