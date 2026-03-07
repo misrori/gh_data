@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IOTAUSDT",
         "name": "IOTA",
-        "collected_at": "2026-03-07T10:47:33.161Z",
+        "collected_at": "2026-03-07T11:47:40.410Z",
         "data_start_date": "2018-05-28",
         "price": 0.0648,
         "change": -1.8181818181818281,
-        "volume": 107281271,
+        "volume": 107747199,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 322,
