@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HAEDALUSDT",
         "name": "HAEDAL / USDT",
-        "collected_at": "2026-03-07T11:48:28.716Z",
+        "collected_at": "2026-03-07T12:48:27.225Z",
         "data_start_date": "2025-05-21",
         "price": 0.0249,
         "change": -5.323193916349817,
-        "volume": 25888277.1,
+        "volume": 26419169.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 160,
