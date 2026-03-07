@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RENDERUSDT",
         "name": "Render",
-        "collected_at": "2026-03-07T20:46:05.268Z",
+        "collected_at": "2026-03-07T21:46:08.465Z",
         "data_start_date": "2024-07-22",
         "price": 1.362,
         "change": 1.7176997759522128,
-        "volume": 24035592.5,
+        "volume": 24086780.95,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 364,
