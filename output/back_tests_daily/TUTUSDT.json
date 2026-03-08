@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TUTUSDT",
         "name": "TUT / USDT",
-        "collected_at": "2026-03-08T00:49:11.103Z",
+        "collected_at": "2026-03-08T01:49:13.047Z",
         "data_start_date": "2025-03-27",
         "price": 0.01,
         "change": -0.5964214711729552,
-        "volume": 591895,
+        "volume": 1277213,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 142,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.012188622121932247,
+        "ml_value": 0.01219890783621796,
         "ml_last_change_date": "2026-01-29",
         "ml_last_change_price": 0.01338,
         "ml_change_percent_from_last_change": -25.261584454409558

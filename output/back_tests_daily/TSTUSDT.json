@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TSTUSDT",
         "name": "TST / USDT",
-        "collected_at": "2026-03-08T00:48:54.820Z",
+        "collected_at": "2026-03-08T01:48:50.173Z",
         "data_start_date": "2025-02-09",
         "price": 0.00929,
         "change": -0.3218884120171729,
-        "volume": 1175757.1,
+        "volume": 3318868.6,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 50,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.0115758145447206,
+        "ml_value": 0.011586100259006317,
         "ml_last_change_date": "2026-01-25",
         "ml_last_change_price": 0.01398,
         "ml_change_percent_from_last_change": -33.54792560801144

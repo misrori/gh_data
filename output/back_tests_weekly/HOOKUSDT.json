@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HOOKUSDT",
         "name": "HOOK / USDT",
-        "collected_at": "2026-03-08T00:48:28.061Z",
+        "collected_at": "2026-03-08T01:48:37.295Z",
         "data_start_date": "2022-11-28",
         "price": 0.0189,
         "change": -18.534482758620683,
-        "volume": 192502452.4,
+        "volume": 192812471.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 994,
