@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COSUSDT",
         "name": "COS / USDT",
-        "collected_at": "2026-03-08T12:45:39.719Z",
+        "collected_at": "2026-03-08T13:45:37.958Z",
         "data_start_date": "2019-08-03",
         "price": 0.00146,
         "change": 74.01668653158521,
-        "volume": 6002393264,
+        "volume": 6470938449.2,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 186,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 0.0010440846312882769,
+        "ml_value": 0.0010391560598597056,
         "ml_last_change_date": "2026-03-08",
         "ml_last_change_price": 0.00146,
         "ml_change_percent_from_last_change": 0
