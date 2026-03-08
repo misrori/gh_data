@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCRUSDT",
         "name": "SCR / USDT",
-        "collected_at": "2026-03-08T05:47:20.872Z",
+        "collected_at": "2026-03-08T06:47:26.156Z",
         "data_start_date": "2024-10-07",
         "price": 0.03851,
         "change": -7.294174289841113,
-        "volume": 65656207.5,
+        "volume": 66227307.4,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 315,
