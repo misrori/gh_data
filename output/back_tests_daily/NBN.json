@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NBN",
         "name": "Northeast Bank",
-        "collected_at": "2026-03-07T02:09:04.167Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:09:32.203Z",
+        "data_start_date": "2016-03-10",
         "price": 106.13999938964844,
         "change": -2.784393576689915,
-        "volume": 95939,
+        "volume": 97700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 74,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:NBN",
-        "market_capitalization": 846751992.1016669,
+        "market_capitalization": 846751984,
         "commodity_name": null,
         "display_name": "Northeast Bank",
         "sma_50": 113.6482000732422,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 10.556,
         "number_of_employees": 211,
         "ml_direction": -1,
-        "ml_value": 119.72943462025599,
+        "ml_value": 119.78086338786899,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 106.0999984741211,
-        "ml_change_percent_from_last_change": 0.0377011461853094
+        "ml_last_change_price": 106.01000213623047,
+        "ml_change_percent_from_last_change": 0.12262734722985336
     }
 }

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SAFT",
         "name": "Safety Insurance Group, Inc.",
-        "collected_at": "2026-03-07T02:08:31.833Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:08:59.949Z",
+        "data_start_date": "2016-03-10",
         "price": 74.93000030517578,
         "change": -0.3855369726416935,
-        "volume": 84581,
+        "volume": 92600,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:SAFT",
-        "market_capitalization": 1096352050.7613666,
+        "market_capitalization": 1096352038,
         "commodity_name": null,
         "display_name": "Safety Insurance Group, Inc.",
         "sma_50": 77.47199966430664,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 6.7192,
         "number_of_employees": 568,
         "ml_direction": -1,
-        "ml_value": 80.78104363254778,
+        "ml_value": 80.78081213491944,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 74.43000030517578,
-        "ml_change_percent_from_last_change": 0.6717721321374714
+        "ml_last_change_price": 74.44999694824219,
+        "ml_change_percent_from_last_change": 0.6447325407780591
     }
 }

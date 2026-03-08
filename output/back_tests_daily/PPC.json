@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PPC",
         "name": "Pilgrim's Pride Corporation",
-        "collected_at": "2026-03-07T02:03:29.100Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:03:52.498Z",
+        "data_start_date": "2016-03-10",
         "price": 40.75,
         "change": 0,
-        "volume": 773089,
+        "volume": 795200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 38,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 4.5591,
         "number_of_employees": 63000,
         "ml_direction": -1,
-        "ml_value": 44.307365677104045,
+        "ml_value": 44.31508013938432,
         "ml_last_change_date": "2026-02-25",
         "ml_last_change_price": 41.11000061035156,
         "ml_change_percent_from_last_change": -0.875700814903213

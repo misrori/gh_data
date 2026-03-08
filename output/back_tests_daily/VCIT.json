@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VCIT",
         "name": "Vanguard Intermediate-Term Corporate Bond ETF",
-        "collected_at": "2026-03-07T02:10:31.623Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:10:59.344Z",
+        "data_start_date": "2016-03-10",
         "price": 83.62999725341797,
         "change": -0.2504760181838764,
-        "volume": 21372042,
+        "volume": 21874400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 21,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 84.55971489089828,
+        "ml_value": 84.55911064285141,
         "ml_last_change_date": "2026-03-03",
         "ml_last_change_price": 84.19000244140625,
         "ml_change_percent_from_last_change": -0.6651682762190525

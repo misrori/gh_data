@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APP",
         "name": "Applovin Corporation",
-        "collected_at": "2026-03-07T02:00:27.030Z",
+        "collected_at": "2026-03-08T02:00:27.781Z",
         "data_start_date": "2021-04-15",
         "price": 502.1400146484375,
         "change": -1.262384564451822,
-        "volume": 5159885,
+        "volume": 5170700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 32,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:APP",
-        "market_capitalization": 169360777784.37814,
+        "market_capitalization": 169360783538,
         "commodity_name": null,
         "display_name": "Applovin Corporation",
         "sma_50": 524.8950006103515,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 401.11459395912533,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 507.79998779296875,
-        "ml_change_percent_from_last_change": -1.1146067901913415
+        "ml_last_change_price": 507.0299987792969,
+        "ml_change_percent_from_last_change": -0.9644368464651554
     }
 }

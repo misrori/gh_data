@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FORM",
         "name": "FormFactor, Inc.",
-        "collected_at": "2026-03-07T02:04:13.687Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:04:36.048Z",
+        "data_start_date": "2016-03-10",
         "price": 85.01000213623047,
         "change": -1.915306412582383,
-        "volume": 1475025,
+        "volume": 1475200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 162,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:FORM",
-        "market_capitalization": 6623804437.605284,
+        "market_capitalization": 6623804744,
         "commodity_name": null,
         "display_name": "FormFactor, Inc.",
         "sma_50": 79.56119979858398,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 0.7022,
         "number_of_employees": 2153,
         "ml_direction": -1,
-        "ml_value": 102.74343189000325,
+        "ml_value": 102.90028918980794,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 85.5999984741211,
-        "ml_change_percent_from_last_change": -0.689248070569759
+        "ml_last_change_price": 82.44000244140625,
+        "ml_change_percent_from_last_change": 3.1174182662728978
     }
 }

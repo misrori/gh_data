@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EFSC",
         "name": "Enterprise Financial Services Corporation",
-        "collected_at": "2026-03-07T02:07:03.349Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:07:25.874Z",
+        "data_start_date": "2016-03-10",
         "price": 54.56999969482422,
         "change": -2.657869500475408,
-        "volume": 237391,
+        "volume": 240100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 36,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:EFSC",
-        "market_capitalization": 2009049896.7902248,
+        "market_capitalization": 2009049837,
         "commodity_name": null,
         "display_name": "Enterprise Financial Services Corporation",
         "sma_50": 57.14,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 5.3432,
         "number_of_employees": 1370,
         "ml_direction": -1,
-        "ml_value": 60.66434046373807,
+        "ml_value": 60.666268956692875,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 55.400001525878906,
-        "ml_change_percent_from_last_change": -1.4981982097364566
+        "ml_last_change_price": 54.529998779296875,
+        "ml_change_percent_from_last_change": 0.07335579758445121
     }
 }

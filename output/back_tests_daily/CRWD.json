@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRWD",
         "name": "CrowdStrike Holdings, Inc.",
-        "collected_at": "2026-03-07T02:00:43.970Z",
+        "collected_at": "2026-03-08T02:00:45.674Z",
         "data_start_date": "2019-06-12",
         "price": 428.989990234375,
         "change": 0.6640666763531953,
-        "volume": 4592260,
+        "volume": 4596200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 59,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:CRWD",
-        "market_capitalization": 108147708323.62146,
+        "market_capitalization": 108147704932,
         "commodity_name": null,
         "display_name": "CrowdStrike Holdings, Inc.",
         "sma_50": 433.25660034179685,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 361.57271160421453,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 425.8800048828125,
-        "ml_change_percent_from_last_change": 0.7302492053878451
+        "ml_last_change_price": 425.9599914550781,
+        "ml_change_percent_from_last_change": 0.7113341252887206
     }
 }

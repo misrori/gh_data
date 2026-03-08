@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LGN",
         "name": "Legence Corp.",
-        "collected_at": "2026-03-07T02:04:37.174Z",
+        "collected_at": "2026-03-08T02:04:59.074Z",
         "data_start_date": "2025-09-12",
         "price": 50.40999984741211,
         "change": -6.769002900072992,
-        "volume": 799114,
+        "volume": 807200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 135,

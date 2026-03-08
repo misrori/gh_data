@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADBE",
         "name": "Adobe Inc.",
-        "collected_at": "2026-03-07T02:00:39.923Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:00:42.568Z",
+        "data_start_date": "2016-03-10",
         "price": 283.6199951171875,
         "change": 0.6672836473262294,
-        "volume": 4791520,
+        "volume": 4797300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 52,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ADBE",
-        "market_capitalization": 116426005964.24866,
+        "market_capitalization": 116426007996,
         "commodity_name": null,
         "display_name": "Adobe Inc.",
         "sma_50": 294.63880035400393,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 254.03322909728936,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 280.2699890136719,
-        "ml_change_percent_from_last_change": 1.1952782084535762
+        "ml_last_change_price": 280.2799987792969,
+        "ml_change_percent_from_last_change": 1.1916641759802005
     }
 }

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BKNG",
         "name": "Booking Holdings Inc. Common Stock",
-        "collected_at": "2026-03-07T02:00:33.009Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:00:32.582Z",
+        "data_start_date": "2016-03-10",
         "price": 4550.43017578125,
         "change": -1.362362837329436,
-        "volume": 375545,
+        "volume": 382200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 37,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:BKNG",
-        "market_capitalization": 144127335150.89603,
+        "market_capitalization": 144127347431,
         "commodity_name": null,
         "display_name": "Booking Holdings Inc. Common Stock",
         "sma_50": 4806.341606445312,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 4031.30470268283,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 4511.759765625,
-        "ml_change_percent_from_last_change": 0.8571025977685887
+        "ml_last_change_price": 4518,
+        "ml_change_percent_from_last_change": 0.7177993754150069
     }
 }

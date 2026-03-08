@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TILE",
         "name": "Interface, Inc.",
-        "collected_at": "2026-03-07T02:07:35.758Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:07:58.755Z",
+        "data_start_date": "2016-03-10",
         "price": 28.139999389648438,
         "change": 0,
-        "volume": 441128,
+        "volume": 461900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 94,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.9886,
         "number_of_employees": 3570,
         "ml_direction": -1,
-        "ml_value": 31.744746552233572,
+        "ml_value": 31.752460769283307,
         "ml_last_change_date": "2026-02-23",
         "ml_last_change_price": 32.61000061035156,
         "ml_change_percent_from_last_change": -13.707455188713457

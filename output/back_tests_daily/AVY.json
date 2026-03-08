@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVY",
         "name": "Avery Dennison Corporation",
-        "collected_at": "2026-03-07T02:02:52.394Z",
-        "data_start_date": "2016-03-09",
+        "collected_at": "2026-03-08T02:03:16.252Z",
+        "data_start_date": "2016-03-10",
         "price": 179.63999938964844,
         "change": -2.2260906944970777,
-        "volume": 370831,
+        "volume": 486400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 115,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Pulp & Paper",
         "tradingview_id": "NYSE:AVY",
-        "market_capitalization": 13810352338.680674,
+        "market_capitalization": 13810352613,
         "commodity_name": null,
         "display_name": "Avery Dennison Corporation",
         "sma_50": 188.3147998046875,
@@ -54,7 +54,7 @@
         "ml_direction": -1,
         "ml_value": 194.12340724766779,
         "ml_last_change_date": "2026-03-05",
-        "ml_last_change_price": 182.81500244140625,
-        "ml_change_percent_from_last_change": -1.73673003274194
+        "ml_last_change_price": 182.82000732421875,
+        "ml_change_percent_from_last_change": -1.7394200892524747
     }
 }
