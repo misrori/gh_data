@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BEAMUSDT",
         "name": "Beam",
-        "collected_at": "2026-03-09T03:49:01.713Z",
+        "collected_at": "2026-03-09T04:49:03.293Z",
         "data_start_date": "2019-09-21",
         "price": 0.0652,
         "change": -0.9118541033434701,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:BEAM2USD",
-        "market_capitalization": 96750557.5521912,
+        "market_capitalization": 98288950.281816,
         "commodity_name": null,
         "display_name": "Beam",
         "sma_50": 0.10961200000000001,
