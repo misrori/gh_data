@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BAND",
         "name": "Bandwidth Inc.",
-        "collected_at": "2026-03-08T02:10:39.485Z",
+        "collected_at": "2026-03-09T02:10:15.603Z",
         "data_start_date": "2017-11-06",
         "price": 16.549999237060547,
         "change": 0,
-        "volume": 521466,
+        "volume": 526931,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 361,

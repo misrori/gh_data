@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PANW",
         "name": "Palo Alto Networks, Inc.",
-        "collected_at": "2026-03-08T02:00:35.483Z",
+        "collected_at": "2026-03-09T02:00:36.735Z",
         "data_start_date": "2016-03-07",
         "price": 165.0500030517578,
         "change": 0,
-        "volume": 7110040,
+        "volume": 7202500,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

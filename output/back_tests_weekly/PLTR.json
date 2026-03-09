@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
-        "collected_at": "2026-03-08T02:00:13.264Z",
+        "collected_at": "2026-03-09T02:00:13.291Z",
         "data_start_date": "2020-09-28",
         "price": 157.16000366210938,
         "change": 0,
-        "volume": 74597309,
+        "volume": 74980855,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 942,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AFYA",
         "name": "Afya Limited",
-        "collected_at": "2026-03-08T02:08:44.158Z",
+        "collected_at": "2026-03-09T02:08:19.962Z",
         "data_start_date": "2019-07-15",
         "price": 13.859999656677246,
         "change": 0,
-        "volume": 73531,
+        "volume": 73817,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 214,

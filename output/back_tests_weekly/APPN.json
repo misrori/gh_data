@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APPN",
         "name": "Appian Corporation",
-        "collected_at": "2026-03-08T02:07:27.902Z",
+        "collected_at": "2026-03-09T02:07:11.346Z",
         "data_start_date": "2017-05-22",
         "price": 26.6200008392334,
         "change": 0,
-        "volume": 635917,
+        "volume": 636305,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "POOL",
         "name": "Pool Corporation",
-        "collected_at": "2026-03-08T02:04:15.371Z",
+        "collected_at": "2026-03-09T02:03:45.648Z",
         "data_start_date": "2016-03-07",
         "price": 213.66000366210938,
         "change": 0,
-        "volume": 592406,
+        "volume": 592456,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 431,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADBE",
         "name": "Adobe Inc.",
-        "collected_at": "2026-03-08T02:00:42.661Z",
+        "collected_at": "2026-03-09T02:00:41.128Z",
         "data_start_date": "2016-03-07",
         "price": 283.6199951171875,
         "change": 0,
-        "volume": 4791520,
+        "volume": 4802278,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 417,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NBN",
         "name": "Northeast Bank",
-        "collected_at": "2026-03-08T02:09:32.334Z",
+        "collected_at": "2026-03-09T02:09:08.090Z",
         "data_start_date": "2016-03-07",
         "price": 106.13999938964844,
         "change": 0,
-        "volume": 95939,
+        "volume": 97735,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 984,

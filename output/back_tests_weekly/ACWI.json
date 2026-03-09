@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACWI",
         "name": "iShares MSCI ACWI ETF",
-        "collected_at": "2026-03-08T02:11:15.229Z",
+        "collected_at": "2026-03-09T02:10:52.741Z",
         "data_start_date": "2016-03-07",
         "price": 141.67999267578125,
         "change": 0,
-        "volume": 9352067,
+        "volume": 9653441,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 977,

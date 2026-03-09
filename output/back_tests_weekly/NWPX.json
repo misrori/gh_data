@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NWPX",
         "name": "NWPX Infrastructure, Inc.",
-        "collected_at": "2026-03-08T02:09:54.541Z",
+        "collected_at": "2026-03-09T02:09:30.551Z",
         "data_start_date": "2016-03-07",
         "price": 75.33000183105469,
         "change": 0,
-        "volume": 116253,
+        "volume": 118560,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

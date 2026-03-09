@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BELFA",
         "name": "Bel Fuse Inc.",
-        "collected_at": "2026-03-08T02:07:01.860Z",
+        "collected_at": "2026-03-09T02:06:44.649Z",
         "data_start_date": "2016-03-07",
         "price": 172.94000244140625,
         "change": 0,
-        "volume": 32399,
+        "volume": 32619,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 228,

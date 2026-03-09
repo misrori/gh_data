@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LIN",
         "name": "Linde plc",
-        "collected_at": "2026-03-08T02:00:21.026Z",
+        "collected_at": "2026-03-09T02:00:21.737Z",
         "data_start_date": "2016-03-07",
         "price": 484.739990234375,
         "change": 0,
-        "volume": 2173299,
+        "volume": 2195627,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

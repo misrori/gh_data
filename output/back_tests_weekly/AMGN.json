@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMGN",
         "name": "Amgen Inc.",
-        "collected_at": "2026-03-08T02:00:23.382Z",
+        "collected_at": "2026-03-09T02:00:24.145Z",
         "data_start_date": "2016-03-07",
         "price": 369.5299987792969,
         "change": 0,
-        "volume": 2412053,
+        "volume": 2443031,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 116,

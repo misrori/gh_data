@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EVGO",
         "name": "EVgo Inc.",
-        "collected_at": "2026-03-08T02:10:03.439Z",
+        "collected_at": "2026-03-09T02:09:39.589Z",
         "data_start_date": "2020-11-16",
         "price": 2.2100000381469727,
         "change": 0,
-        "volume": 7938198,
+        "volume": 8031824,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AXON",
         "name": "Axon Enterprise, Inc.",
-        "collected_at": "2026-03-08T02:01:35.995Z",
+        "collected_at": "2026-03-09T02:01:24.039Z",
         "data_start_date": "2016-03-07",
         "price": 574.010009765625,
         "change": 0,
-        "volume": 619531,
+        "volume": 653703,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

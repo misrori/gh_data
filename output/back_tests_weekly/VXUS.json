@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VXUS",
         "name": "Vanguard Total International Stock ETF",
-        "collected_at": "2026-03-08T02:10:53.086Z",
+        "collected_at": "2026-03-09T02:10:29.910Z",
         "data_start_date": "2016-03-07",
         "price": 77.9800033569336,
         "change": 0,
-        "volume": 11590288,
+        "volume": 11654840,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 788,

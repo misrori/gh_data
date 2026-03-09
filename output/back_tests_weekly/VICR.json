@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VICR",
         "name": "Vicor Corporation",
-        "collected_at": "2026-03-08T02:04:23.914Z",
+        "collected_at": "2026-03-09T02:03:54.203Z",
         "data_start_date": "2016-03-07",
         "price": 162.6699981689453,
         "change": 0,
-        "volume": 825606,
+        "volume": 827089,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 228,

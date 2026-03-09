@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DDOG",
         "name": "Datadog, Inc.",
-        "collected_at": "2026-03-08T02:01:38.335Z",
+        "collected_at": "2026-03-09T02:01:26.236Z",
         "data_start_date": "2019-09-16",
         "price": 125.75,
         "change": 0,
-        "volume": 4042206,
+        "volume": 4045949,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NFLX",
         "name": "Netflix, Inc.",
-        "collected_at": "2026-03-08T02:00:12.034Z",
+        "collected_at": "2026-03-09T02:00:12.187Z",
         "data_start_date": "2016-03-07",
         "price": 99.0199966430664,
         "change": 0,
-        "volume": 39306944,
+        "volume": 41196294,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

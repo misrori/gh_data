@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VERX",
         "name": "Vertex, Inc.",
-        "collected_at": "2026-03-08T02:06:59.294Z",
+        "collected_at": "2026-03-09T02:06:42.241Z",
         "data_start_date": "2020-07-27",
         "price": 15.25,
         "change": 0,
-        "volume": 1219024,
+        "volume": 1259681,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 186,

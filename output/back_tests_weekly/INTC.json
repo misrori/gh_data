@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "collected_at": "2026-03-08T02:00:21.813Z",
+        "collected_at": "2026-03-09T02:00:22.444Z",
         "data_start_date": "2016-03-07",
         "price": 43.41999816894531,
         "change": 0,
-        "volume": 74168064,
+        "volume": 74698310,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 130,

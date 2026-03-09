@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIVE",
         "name": "Five Below, Inc.",
-        "collected_at": "2026-03-08T02:03:32.215Z",
+        "collected_at": "2026-03-09T02:03:02.732Z",
         "data_start_date": "2016-03-07",
         "price": 215.27999877929688,
         "change": 0,
-        "volume": 793080,
+        "volume": 844038,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 165,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TPG",
         "name": "TPG Inc.",
-        "collected_at": "2026-03-08T02:03:01.498Z",
+        "collected_at": "2026-03-09T02:02:33.896Z",
         "data_start_date": "2022-01-10",
         "price": 43.06999969482422,
         "change": 0,
-        "volume": 3684514,
+        "volume": 3702684,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ICFI",
         "name": "ICF International, Inc.",
-        "collected_at": "2026-03-08T02:08:29.985Z",
+        "collected_at": "2026-03-09T02:08:04.828Z",
         "data_start_date": "2016-03-07",
         "price": 75.94999694824219,
         "change": 0,
-        "volume": 338354,
+        "volume": 349493,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 375,

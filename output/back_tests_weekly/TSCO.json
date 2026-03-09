@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TSCO",
         "name": "Tractor Supply Company",
-        "collected_at": "2026-03-08T02:02:23.158Z",
+        "collected_at": "2026-03-09T02:01:56.652Z",
         "data_start_date": "2016-03-07",
         "price": 50.15999984741211,
         "change": 0,
-        "volume": 4922700,
+        "volume": 4929657,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

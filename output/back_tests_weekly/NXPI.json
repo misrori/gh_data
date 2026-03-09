@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NXPI",
         "name": "NXP Semiconductors N.V.",
-        "collected_at": "2026-03-08T02:01:30.795Z",
+        "collected_at": "2026-03-09T02:01:19.077Z",
         "data_start_date": "2016-03-07",
         "price": 201.74000549316406,
         "change": 0,
-        "volume": 3077251,
+        "volume": 3105279,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

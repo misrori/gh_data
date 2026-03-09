@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OPRA",
         "name": "Opera Limited",
-        "collected_at": "2026-03-08T02:08:31.718Z",
+        "collected_at": "2026-03-09T02:08:07.120Z",
         "data_start_date": "2018-07-23",
         "price": 15.289999961853027,
         "change": 0,
-        "volume": 382928,
+        "volume": 399951,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

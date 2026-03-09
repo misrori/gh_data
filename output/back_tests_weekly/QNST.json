@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QNST",
         "name": "QuinStreet, Inc.",
-        "collected_at": "2026-03-08T02:09:58.645Z",
+        "collected_at": "2026-03-09T02:09:34.763Z",
         "data_start_date": "2016-03-07",
         "price": 12.180000305175781,
         "change": 0,
-        "volume": 680658,
+        "volume": 716636,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 200,

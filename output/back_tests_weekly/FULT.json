@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FULT",
         "name": "Fulton Financial Corporation",
-        "collected_at": "2026-03-08T02:06:01.713Z",
+        "collected_at": "2026-03-09T02:05:44.727Z",
         "data_start_date": "2016-03-07",
         "price": 20.200000762939453,
         "change": 0,
-        "volume": 2161881,
+        "volume": 2233210,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 88,

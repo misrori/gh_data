@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WDC",
         "name": "Western Digital Corporation",
-        "collected_at": "2026-03-08T02:00:53.734Z",
+        "collected_at": "2026-03-09T02:00:51.676Z",
         "data_start_date": "2016-03-07",
         "price": 245.25,
         "change": 0,
-        "volume": 6314751,
+        "volume": 6352657,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

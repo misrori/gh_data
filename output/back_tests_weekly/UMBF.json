@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UMBF",
         "name": "UMB Financial Corporation",
-        "collected_at": "2026-03-08T02:04:03.216Z",
+        "collected_at": "2026-03-09T02:03:33.382Z",
         "data_start_date": "2016-03-07",
         "price": 113.48999786376953,
         "change": 0,
-        "volume": 915301,
+        "volume": 925314,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 704,

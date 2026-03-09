@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRMD",
         "name": "CorMedix Inc.",
-        "collected_at": "2026-03-08T02:10:41.821Z",
+        "collected_at": "2026-03-09T02:10:17.662Z",
         "data_start_date": "2016-03-07",
         "price": 6.460000038146973,
         "change": 0,
-        "volume": 2547354,
+        "volume": 2566023,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

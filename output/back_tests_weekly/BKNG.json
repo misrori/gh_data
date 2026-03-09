@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BKNG",
         "name": "Booking Holdings Inc. Common Stock",
-        "collected_at": "2026-03-08T02:00:32.690Z",
+        "collected_at": "2026-03-09T02:00:33.785Z",
         "data_start_date": "2016-03-07",
         "price": 4550.43017578125,
         "change": 0,
-        "volume": 375545,
+        "volume": 382281,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

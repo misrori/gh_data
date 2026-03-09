@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STAA",
         "name": "STAAR Surgical Company",
-        "collected_at": "2026-03-08T02:09:23.124Z",
+        "collected_at": "2026-03-09T02:08:58.434Z",
         "data_start_date": "2016-03-07",
         "price": 18.459999084472656,
         "change": 0,
-        "volume": 804416,
+        "volume": 813885,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

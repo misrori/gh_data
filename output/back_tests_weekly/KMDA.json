@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KMDA",
         "name": "Kamada Ltd.",
-        "collected_at": "2026-03-08T02:10:41.313Z",
+        "collected_at": "2026-03-09T02:10:17.244Z",
         "data_start_date": "2016-03-07",
         "price": 8.859999656677246,
         "change": 0,
-        "volume": 28588,
+        "volume": 28845,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 809,
