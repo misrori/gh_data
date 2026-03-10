@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PNUTUSDT",
         "name": "Peanut the Squirrel",
-        "collected_at": "2026-03-10T05:47:15.956Z",
+        "collected_at": "2026-03-10T06:47:19.279Z",
         "data_start_date": "2024-11-11",
         "price": 0.0445,
         "change": 2.2988505747126458,
-        "volume": 49263103.5,
+        "volume": 50282019.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 287,

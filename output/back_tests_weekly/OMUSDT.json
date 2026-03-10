@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OMUSDT",
         "name": "MANTRA (old)",
-        "collected_at": "2026-03-10T05:46:44.302Z",
+        "collected_at": "2026-03-10T06:46:44.244Z",
         "data_start_date": "2021-03-08",
         "price": 0.0669,
         "change": -3.6023054755043256,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:OMUSD",
-        "market_capitalization": 21672035.80014144,
+        "market_capitalization": 22187526.43414832,
         "commodity_name": null,
         "display_name": "MANTRA (old)",
         "sma_50": 0.440272,
