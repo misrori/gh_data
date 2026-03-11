@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIOUSDT",
         "name": "FIO / USDT",
-        "collected_at": "2026-03-11T04:48:23.524Z",
+        "collected_at": "2026-03-11T05:48:18.142Z",
         "data_start_date": "2020-08-31",
         "price": 0.00903,
         "change": 3.318077803203665,
-        "volume": 293239242,
+        "volume": 297025120,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 371,
