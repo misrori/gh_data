@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INVMF",
         "name": "Invesco Markets plc",
-        "collected_at": "2026-03-10T02:10:43.726Z",
+        "collected_at": "2026-03-11T02:10:40.371Z",
         "data_start_date": "2020-05-18",
         "price": 13.453200340270996,
         "change": -2.4423467912524486,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "OTC:INVMF",
-        "market_capitalization": 36068382756.4158,
+        "market_capitalization": 35594195250.6264,
         "commodity_name": null,
         "display_name": "Invesco Markets plc",
         "sma_50": 1041.783943004608,
