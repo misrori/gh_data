@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LUMIAUSDT",
         "name": "LUMIA / USDT",
-        "collected_at": "2026-03-11T11:46:50.034Z",
+        "collected_at": "2026-03-11T12:46:45.351Z",
         "data_start_date": "2024-10-14",
         "price": 0.0646,
         "change": 6.075533661740561,
-        "volume": 48766189.85,
+        "volume": 49337155.69,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 315,
