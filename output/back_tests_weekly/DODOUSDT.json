@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DODOUSDT",
         "name": "DODO",
-        "collected_at": "2026-03-12T06:47:59.394Z",
+        "collected_at": "2026-03-12T07:47:52.112Z",
         "data_start_date": "2021-02-15",
         "price": 0.01535,
         "change": 10.670511896178805,
-        "volume": 163252472,
+        "volume": 164163979.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 609,
