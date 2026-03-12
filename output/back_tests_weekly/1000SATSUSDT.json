@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "1000SATSUSDT",
         "name": "1000SATS / USDT",
-        "collected_at": "2026-03-12T04:49:00.652Z",
+        "collected_at": "2026-03-12T05:49:00.392Z",
         "data_start_date": "2023-12-11",
         "price": 0.00001183,
         "change": 12.559467174119895,
-        "volume": 280145228934,
+        "volume": 285094474234,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 623,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.000032616366462592816,
+        "ml_value": 0.000032625366462592815,
         "ml_last_change_date": "2024-03-11",
         "ml_last_change_price": 0.0005084,
         "ml_change_percent_from_last_change": -97.67309205350118
