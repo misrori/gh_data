@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HEMIUSDT",
         "name": "HEMI / USDT",
-        "collected_at": "2026-03-12T00:47:00.486Z",
+        "collected_at": "2026-03-12T01:46:55.244Z",
         "data_start_date": "2025-09-23",
         "price": 0.00788,
         "change": 1.0256410256410284,
-        "volume": 3312189.7,
+        "volume": 17850081.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 142,
