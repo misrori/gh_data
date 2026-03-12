@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HEIUSDT",
         "name": "HEI / USDT",
-        "collected_at": "2026-03-12T22:46:51.602Z",
+        "collected_at": "2026-03-12T23:47:07.830Z",
         "data_start_date": "2025-02-13",
         "price": 0.0784,
         "change": -3.685503685503689,
-        "volume": 23918331,
+        "volume": 24281023.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 159,
