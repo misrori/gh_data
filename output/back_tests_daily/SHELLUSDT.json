@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SHELLUSDT",
         "name": "SHELL / USDT",
-        "collected_at": "2026-03-12T01:48:42.498Z",
+        "collected_at": "2026-03-12T02:48:39.293Z",
         "data_start_date": "2025-02-27",
         "price": 0.0291,
         "change": -1.3559322033898222,
-        "volume": 1119574.4,
+        "volume": 1822979.6,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 209,
