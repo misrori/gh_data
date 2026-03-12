@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRUUSDT",
         "name": "TRU / USDT",
-        "collected_at": "2026-03-12T11:47:20.660Z",
+        "collected_at": "2026-03-12T12:47:17.525Z",
         "data_start_date": "2021-01-18",
         "price": 0.0053,
         "change": 8.163265306122453,
-        "volume": 464871100,
+        "volume": 466923272,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 399,
