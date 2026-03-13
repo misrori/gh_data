@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RIFUSDT",
         "name": "Rootstock Infrastructure Framework",
-        "collected_at": "2026-03-13T04:48:17.288Z",
+        "collected_at": "2026-03-13T05:48:17.289Z",
         "data_start_date": "2021-01-07",
         "price": 0.0376,
         "change": -1.0526315789473621,
-        "volume": 3089442,
+        "volume": 3239409,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 25,
