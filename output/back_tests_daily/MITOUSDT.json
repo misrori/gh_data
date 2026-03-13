@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MITOUSDT",
         "name": "MITO / USDT",
-        "collected_at": "2026-03-13T06:48:25.863Z",
+        "collected_at": "2026-03-13T07:48:20.255Z",
         "data_start_date": "2025-08-29",
         "price": 0.03947,
         "change": 0.6374298827129022,
-        "volume": 2097351.2,
+        "volume": 2459516,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 168,
