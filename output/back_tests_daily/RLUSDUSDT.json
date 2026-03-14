@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RLUSDUSDT",
         "name": "RLUSD / USDT",
-        "collected_at": "2026-03-14T06:45:55.235Z",
+        "collected_at": "2026-03-14T07:45:58.437Z",
         "data_start_date": "2026-01-22",
         "price": 1,
         "change": 0,
-        "volume": 767784,
+        "volume": 829222,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 23,
