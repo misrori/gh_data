@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GTCUSDT",
         "name": "GTC / USDT",
-        "collected_at": "2026-03-14T03:47:52.131Z",
+        "collected_at": "2026-03-14T04:48:16.838Z",
         "data_start_date": "2021-06-07",
         "price": 0.097,
         "change": 22.78481012658228,
-        "volume": 56426451.4,
+        "volume": 56484267.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 679,
