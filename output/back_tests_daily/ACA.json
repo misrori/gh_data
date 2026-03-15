@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACA",
         "name": "Arcosa, Inc.",
-        "collected_at": "2026-03-14T02:04:36.700Z",
+        "collected_at": "2026-03-15T02:04:49.586Z",
         "data_start_date": "2018-11-05",
         "price": 105.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Construction Materials",
         "tradingview_id": "NYSE:ACA",
-        "market_capitalization": 5182972070.4937935,
+        "market_capitalization": 5182972218,
         "commodity_name": null,
         "display_name": "Arcosa, Inc.",
         "sma_50": 115.80779983520507,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMPH",
         "name": "Amphastar Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-14T02:09:03.170Z",
+        "collected_at": "2026-03-15T02:09:20.068Z",
         "data_start_date": "2016-03-14",
         "price": 18.18000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:AMPH",
-        "market_capitalization": 824829666.8434663,
+        "market_capitalization": 824829715,
         "commodity_name": null,
         "display_name": "Amphastar Pharmaceuticals, Inc.",
         "sma_50": 25.18460006713867,

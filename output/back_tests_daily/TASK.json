@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TASK",
         "name": "TaskUs, Inc.",
-        "collected_at": "2026-03-14T02:08:49.348Z",
+        "collected_at": "2026-03-15T02:09:05.964Z",
         "data_start_date": "2021-06-11",
         "price": 10.199999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:TASK",
-        "market_capitalization": 923724771.7021277,
+        "market_capitalization": 923724741,
         "commodity_name": null,
         "display_name": "TaskUs, Inc.",
         "sma_50": 10.890899982452392,

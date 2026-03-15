@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HOV",
         "name": "Hovnanian Enterprises, Inc.",
-        "collected_at": "2026-03-14T02:09:36.201Z",
+        "collected_at": "2026-03-15T02:09:52.774Z",
         "data_start_date": "2016-03-14",
         "price": 106.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:HOV",
-        "market_capitalization": 649151312.7423168,
+        "market_capitalization": 648223750,
         "commodity_name": null,
         "display_name": "Hovnanian Enterprises, Inc.",
         "sma_50": 117.1288003540039,

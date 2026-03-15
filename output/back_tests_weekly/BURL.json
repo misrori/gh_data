@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BURL",
         "name": "Burlington Stores, Inc.",
-        "collected_at": "2026-03-14T02:02:23.109Z",
+        "collected_at": "2026-03-15T02:02:32.281Z",
         "data_start_date": "2016-03-14",
         "price": 296.70001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NYSE:BURL",
-        "market_capitalization": 18670444365.094704,
+        "market_capitalization": 18670444511,
         "commodity_name": null,
         "display_name": "Burlington Stores, Inc.",
         "sma_50": 270.7518005371094,

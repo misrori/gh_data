@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BULL",
         "name": "Webull Corporation",
-        "collected_at": "2026-03-14T02:06:09.844Z",
+        "collected_at": "2026-03-15T02:06:25.738Z",
         "data_start_date": "2022-08-22",
         "price": 5.269999980926514,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:BULL",
-        "market_capitalization": 2758585223.8676744,
+        "market_capitalization": 2758585233,
         "commodity_name": null,
         "display_name": "Webull Corporation",
         "sma_50": 6.781800003051758,

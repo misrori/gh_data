@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EPD",
         "name": "Enterprise Products Partners L.P.",
-        "collected_at": "2026-03-14T02:00:51.200Z",
+        "collected_at": "2026-03-15T02:00:59.941Z",
         "data_start_date": "2016-03-14",
         "price": 36.9900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:EPD",
-        "market_capitalization": 79963530186.47554,
+        "market_capitalization": 79963533482,
         "commodity_name": null,
         "display_name": "Enterprise Products Partners L.P.",
         "sma_50": 32.31340003967285,

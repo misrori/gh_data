@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPNT",
         "name": "SiriusPoint Ltd.",
-        "collected_at": "2026-03-14T02:06:27.339Z",
+        "collected_at": "2026-03-15T02:06:51.455Z",
         "data_start_date": "2016-03-14",
         "price": 20.360000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:SPNT",
-        "market_capitalization": 2381922348.748515,
+        "market_capitalization": 2381922331,
         "commodity_name": null,
         "display_name": "SiriusPoint Ltd.",
         "sma_50": 19.492800140380858,

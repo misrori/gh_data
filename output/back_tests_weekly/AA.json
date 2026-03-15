@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AA",
         "name": "Alcoa Corporation",
-        "collected_at": "2026-03-14T02:02:30.505Z",
+        "collected_at": "2026-03-15T02:02:39.556Z",
         "data_start_date": "2016-03-14",
         "price": 63.59000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Aluminum",
         "tradingview_id": "NYSE:AA",
-        "market_capitalization": 16777569919.996513,
+        "market_capitalization": 16777569881.999998,
         "commodity_name": null,
         "display_name": "Alcoa Corporation",
         "sma_50": 39.74860012054443,

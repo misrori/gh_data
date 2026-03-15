@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BANR",
         "name": "Banner Corporation",
-        "collected_at": "2026-03-14T02:06:48.609Z",
+        "collected_at": "2026-03-15T02:07:12.631Z",
         "data_start_date": "2016-03-14",
         "price": 59.060001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:BANR",
-        "market_capitalization": 2013819298.683519,
+        "market_capitalization": 2013819340,
         "commodity_name": null,
         "display_name": "Banner Corporation",
         "sma_50": 63.28719985961914,

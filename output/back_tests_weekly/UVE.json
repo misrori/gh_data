@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UVE",
         "name": "UNIVERSAL INSURANCE HOLDINGS INC",
-        "collected_at": "2026-03-14T02:08:42.458Z",
+        "collected_at": "2026-03-15T02:08:59.324Z",
         "data_start_date": "2016-03-14",
         "price": 34.279998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:UVE",
-        "market_capitalization": 960120724.2891567,
+        "market_capitalization": 960120724,
         "commodity_name": null,
         "display_name": "UNIVERSAL INSURANCE HOLDINGS INC",
         "sma_50": 28.507799949645996,

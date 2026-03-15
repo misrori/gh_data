@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WLDN",
         "name": "Willdan Group, Inc.",
-        "collected_at": "2026-03-14T02:08:18.800Z",
+        "collected_at": "2026-03-15T02:08:34.494Z",
         "data_start_date": "2016-03-14",
         "price": 79.48999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:WLDN",
-        "market_capitalization": 1176142800.5080695,
+        "market_capitalization": 1176142764,
         "commodity_name": null,
         "display_name": "Willdan Group, Inc.",
         "sma_50": 88.17220062255859,

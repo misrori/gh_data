@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STC",
         "name": "Stewart Information Services Corporation",
-        "collected_at": "2026-03-14T02:06:52.343Z",
+        "collected_at": "2026-03-15T02:07:16.566Z",
         "data_start_date": "2016-03-14",
         "price": 64.58999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Specialty Insurance",
         "tradingview_id": "NYSE:STC",
-        "market_capitalization": 1964789998.4651494,
+        "market_capitalization": 1964789872.0000002,
         "commodity_name": null,
         "display_name": "Stewart Information Services Corporation",
         "sma_50": 68.36100006103516,

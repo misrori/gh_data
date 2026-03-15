@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KNTK",
         "name": "Kinetik Holdings Inc.",
-        "collected_at": "2026-03-14T02:03:52.065Z",
+        "collected_at": "2026-03-15T02:04:04.346Z",
         "data_start_date": "2018-11-12",
         "price": 44.84000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:KNTK",
-        "market_capitalization": 7270731484.542314,
+        "market_capitalization": 7270731608,
         "commodity_name": null,
         "display_name": "Kinetik Holdings Inc.",
         "sma_50": 40.868200073242186,

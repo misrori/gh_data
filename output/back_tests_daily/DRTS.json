@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DRTS",
         "name": "Alpha Tau Medical Ltd.",
-        "collected_at": "2026-03-14T02:09:44.552Z",
+        "collected_at": "2026-03-15T02:10:01.175Z",
         "data_start_date": "2021-03-08",
         "price": 7.170000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:DRTS",
-        "market_capitalization": 611343900.4648494,
+        "market_capitalization": 611343925,
         "commodity_name": null,
         "display_name": "Alpha Tau Medical Ltd.",
         "sma_50": 7.054299993515015,

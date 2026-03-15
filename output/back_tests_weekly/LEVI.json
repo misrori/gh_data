@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LEVI",
         "name": "Levi Strauss & Co",
-        "collected_at": "2026-03-14T02:03:57.639Z",
+        "collected_at": "2026-03-15T02:04:09.779Z",
         "data_start_date": "2019-03-18",
         "price": 17.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:LEVI",
-        "market_capitalization": 6993269474.45861,
+        "market_capitalization": 6993269091.000001,
         "commodity_name": null,
         "display_name": "Levi Strauss & Co",
         "sma_50": 20.115399990081787,

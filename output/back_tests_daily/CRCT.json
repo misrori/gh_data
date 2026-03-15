@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRCT",
         "name": "Cricut, Inc.",
-        "collected_at": "2026-03-14T02:08:57.911Z",
+        "collected_at": "2026-03-15T02:09:14.738Z",
         "data_start_date": "2021-03-26",
         "price": 4.070000171661377,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NASDAQ:CRCT",
-        "market_capitalization": 861949787.7313434,
+        "market_capitalization": 861949828,
         "commodity_name": null,
         "display_name": "Cricut, Inc.",
         "sma_50": 4.471400012969971,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PH",
         "name": "Parker-Hannifin Corporation",
-        "collected_at": "2026-03-14T02:00:40.344Z",
+        "collected_at": "2026-03-15T02:00:48.390Z",
         "data_start_date": "2016-03-14",
         "price": 889.8599853515625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:PH",
-        "market_capitalization": 112315039121.03001,
+        "market_capitalization": 112315039400,
         "commodity_name": null,
         "display_name": "Parker-Hannifin Corporation",
         "sma_50": 785.397001953125,

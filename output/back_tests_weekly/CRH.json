@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRH",
         "name": "CRH PLC",
-        "collected_at": "2026-03-14T02:01:05.312Z",
+        "collected_at": "2026-03-15T02:01:13.882Z",
         "data_start_date": "2016-03-14",
         "price": 99.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Construction Materials",
         "tradingview_id": "NYSE:CRH",
-        "market_capitalization": 66704796448.43578,
+        "market_capitalization": 66704793999,
         "commodity_name": null,
         "display_name": "CRH PLC",
         "sma_50": 109.07599990844727,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATLC",
         "name": "Atlanticus Holdings Corporation",
-        "collected_at": "2026-03-14T02:09:20.576Z",
+        "collected_at": "2026-03-15T02:09:40.258Z",
         "data_start_date": "2016-03-14",
         "price": 47.959999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:ATLC",
-        "market_capitalization": 726187780.1637914,
+        "market_capitalization": 715535244,
         "commodity_name": null,
         "display_name": "Atlanticus Holdings Corporation",
         "sma_50": 56.9403995513916,

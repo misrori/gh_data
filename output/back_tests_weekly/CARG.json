@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CARG",
         "name": "CarGurus, Inc.",
-        "collected_at": "2026-03-14T02:05:58.060Z",
+        "collected_at": "2026-03-15T02:06:13.240Z",
         "data_start_date": "2017-10-09",
         "price": 30.860000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:CARG",
-        "market_capitalization": 2937537094.2422476,
+        "market_capitalization": 2937537239.0000005,
         "commodity_name": null,
         "display_name": "CarGurus, Inc.",
         "sma_50": 33.32179985046387,

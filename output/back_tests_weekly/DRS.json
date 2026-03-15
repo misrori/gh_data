@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DRS",
         "name": "Leonardo DRS, Inc.",
-        "collected_at": "2026-03-14T02:03:00.294Z",
+        "collected_at": "2026-03-15T02:03:09.637Z",
         "data_start_date": "2016-03-14",
         "price": 45.29999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:DRS",
-        "market_capitalization": 12042832430.779785,
+        "market_capitalization": 12042832268,
         "commodity_name": null,
         "display_name": "Leonardo DRS, Inc.",
         "sma_50": 40.798199844360354,

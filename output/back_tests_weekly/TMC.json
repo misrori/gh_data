@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TMC",
         "name": "TMC the metals company Inc.",
-        "collected_at": "2026-03-14T02:06:21.812Z",
+        "collected_at": "2026-03-15T02:06:45.155Z",
         "data_start_date": "2021-09-06",
         "price": 5.96999979019165,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "NASDAQ:TMC",
-        "market_capitalization": 2468547357.6778846,
+        "market_capitalization": 2468547362,
         "commodity_name": null,
         "display_name": "TMC the metals company Inc.",
         "sma_50": 5.941499977111817,

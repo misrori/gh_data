@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SRCE",
         "name": "1st Source Corporation",
-        "collected_at": "2026-03-14T02:07:18.095Z",
+        "collected_at": "2026-03-15T02:07:42.990Z",
         "data_start_date": "2016-03-14",
         "price": 67.77999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:SRCE",
-        "market_capitalization": 1649097393.6278932,
+        "market_capitalization": 1649097320,
         "commodity_name": null,
         "display_name": "1st Source Corporation",
         "sma_50": 62.75139991760254,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TXRH",
         "name": "Texas Roadhouse, Inc.",
-        "collected_at": "2026-03-14T02:03:07.351Z",
+        "collected_at": "2026-03-15T02:03:16.593Z",
         "data_start_date": "2016-03-14",
         "price": 170.24000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NASDAQ:TXRH",
-        "market_capitalization": 11223097359.169025,
+        "market_capitalization": 11223097559,
         "commodity_name": null,
         "display_name": "Texas Roadhouse, Inc.",
         "sma_50": 176.61740051269533,

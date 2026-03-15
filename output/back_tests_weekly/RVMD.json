@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RVMD",
         "name": "Revolution Medicines, Inc.",
-        "collected_at": "2026-03-14T02:02:22.152Z",
+        "collected_at": "2026-03-15T02:02:31.339Z",
         "data_start_date": "2020-02-10",
         "price": 94.86000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Other",
         "tradingview_id": "NASDAQ:RVMD",
-        "market_capitalization": 18798727299.15431,
+        "market_capitalization": 18798727481,
         "commodity_name": null,
         "display_name": "Revolution Medicines, Inc.",
         "sma_50": 61.100499649047855,

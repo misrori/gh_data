@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BWMX",
         "name": "Betterware de Mexico, S.A.P.I. de C.V.",
-        "collected_at": "2026-03-14T02:09:40.143Z",
+        "collected_at": "2026-03-15T02:09:56.252Z",
         "data_start_date": "2019-01-01",
         "price": 16.770000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:BWMX",
-        "market_capitalization": 625798519.8873576,
+        "market_capitalization": 625798517,
         "commodity_name": null,
         "display_name": "Betterware de Mexico, S.A.P.I. de C.V.",
         "sma_50": 13.158400001525878,

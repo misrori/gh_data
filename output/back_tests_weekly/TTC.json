@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTC",
         "name": "Toro Company (The)",
-        "collected_at": "2026-03-14T02:03:26.354Z",
+        "collected_at": "2026-03-15T02:03:36.796Z",
         "data_start_date": "2016-03-14",
         "price": 95.48999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:TTC",
-        "market_capitalization": 9256126213.434317,
+        "market_capitalization": 9256126006,
         "commodity_name": null,
         "display_name": "Toro Company (The)",
         "sma_50": 78.69519958496093,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NTRA",
         "name": "Natera, Inc.",
-        "collected_at": "2026-03-14T02:01:54.305Z",
+        "collected_at": "2026-03-15T02:02:02.212Z",
         "data_start_date": "2016-03-14",
         "price": 187.85000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:NTRA",
-        "market_capitalization": 26624214397.976192,
+        "market_capitalization": 26624215604,
         "commodity_name": null,
         "display_name": "Natera, Inc.",
         "sma_50": 185.01399963378907,

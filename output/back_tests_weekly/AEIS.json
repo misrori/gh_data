@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AEIS",
         "name": "Advanced Energy Industries, Inc.",
-        "collected_at": "2026-03-14T02:03:06.342Z",
+        "collected_at": "2026-03-15T02:03:15.677Z",
         "data_start_date": "2016-03-14",
         "price": 302.0199890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:AEIS",
-        "market_capitalization": 11401553671.13524,
+        "market_capitalization": 11401552983,
         "commodity_name": null,
         "display_name": "Advanced Energy Industries, Inc.",
         "sma_50": 186.08739974975586,

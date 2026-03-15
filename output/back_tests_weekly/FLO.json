@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLO",
         "name": "Flowers Foods, Inc.",
-        "collected_at": "2026-03-14T02:07:01.421Z",
+        "collected_at": "2026-03-15T02:07:25.709Z",
         "data_start_date": "2016-03-14",
         "price": 8.789999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:FLO",
-        "market_capitalization": 1859562508.856315,
+        "market_capitalization": 1859562476,
         "commodity_name": null,
         "display_name": "Flowers Foods, Inc.",
         "sma_50": 13.524200019836426,

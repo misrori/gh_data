@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JBIO",
         "name": "Jade Biosciences, Inc.",
-        "collected_at": "2026-03-14T02:09:27.589Z",
+        "collected_at": "2026-03-15T02:09:44.991Z",
         "data_start_date": "2021-06-30",
         "price": 13.920000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:JBIO",
-        "market_capitalization": 686482658.9783549,
+        "market_capitalization": 686482680,
         "commodity_name": null,
         "display_name": "Jade Biosciences, Inc.",
         "sma_50": 14.626500034332276,

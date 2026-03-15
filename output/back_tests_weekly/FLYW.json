@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLYW",
         "name": "Flywire Corporation - Voting",
-        "collected_at": "2026-03-14T02:07:33.162Z",
+        "collected_at": "2026-03-15T02:07:59.937Z",
         "data_start_date": "2021-05-24",
         "price": 12.430000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:FLYW",
-        "market_capitalization": 1506569401.2305844,
+        "market_capitalization": 1506569466,
         "commodity_name": null,
         "display_name": "Flywire Corporation - Voting",
         "sma_50": 12.27319995880127,

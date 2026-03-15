@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DINO",
         "name": "HF Sinclair Corporation",
-        "collected_at": "2026-03-14T02:03:17.942Z",
+        "collected_at": "2026-03-15T02:03:27.156Z",
         "data_start_date": "2016-03-14",
         "price": 55.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NYSE:DINO",
-        "market_capitalization": 10046625226.854425,
+        "market_capitalization": 10046624983,
         "commodity_name": null,
         "display_name": "HF Sinclair Corporation",
         "sma_50": 46.75739997863769,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PATH",
         "name": "UiPath, Inc.",
-        "collected_at": "2026-03-14T02:04:12.421Z",
+        "collected_at": "2026-03-15T02:04:25.176Z",
         "data_start_date": "2021-04-19",
         "price": 11.579999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:PATH",
-        "market_capitalization": 6192401406.839051,
+        "market_capitalization": 6192401428,
         "commodity_name": null,
         "display_name": "UiPath, Inc.",
         "sma_50": 13.10819995880127,

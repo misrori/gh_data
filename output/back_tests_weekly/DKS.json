@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DKS",
         "name": "Dick's Sporting Goods Inc",
-        "collected_at": "2026-03-14T02:02:29.195Z",
+        "collected_at": "2026-03-15T02:02:38.336Z",
         "data_start_date": "2016-03-14",
         "price": 192.16000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:DKS",
-        "market_capitalization": 17288495390.957893,
+        "market_capitalization": 17288495186,
         "commodity_name": null,
         "display_name": "Dick's Sporting Goods Inc",
         "sma_50": 206.09840179443358,

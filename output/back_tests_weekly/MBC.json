@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MBC",
         "name": "MasterBrand, Inc.",
-        "collected_at": "2026-03-14T02:08:33.923Z",
+        "collected_at": "2026-03-15T02:08:50.337Z",
         "data_start_date": "2022-12-05",
         "price": 8.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Home Furnishings",
         "tradingview_id": "NYSE:MBC",
-        "market_capitalization": 1040704919.4059405,
+        "market_capitalization": 1040704909.9999999,
         "commodity_name": null,
         "display_name": "MasterBrand, Inc.",
         "sma_50": 11.552399978637695,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APA",
         "name": "APA Corporation",
-        "collected_at": "2026-03-14T02:02:59.382Z",
+        "collected_at": "2026-03-15T02:03:08.741Z",
         "data_start_date": "2016-03-14",
         "price": 34.470001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NASDAQ:APA",
-        "market_capitalization": 12176578214.282358,
+        "market_capitalization": 12176578423.999998,
         "commodity_name": null,
         "display_name": "APA Corporation",
         "sma_50": 22.892600116729735,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BILL",
         "name": "BILL Holdings, Inc.",
-        "collected_at": "2026-03-14T02:05:17.044Z",
+        "collected_at": "2026-03-15T02:05:31.182Z",
         "data_start_date": "2019-12-09",
         "price": 39.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:BILL",
-        "market_capitalization": 3937635819.289281,
+        "market_capitalization": 3937635758,
         "commodity_name": null,
         "display_name": "BILL Holdings, Inc.",
         "sma_50": 47.12400001525879,

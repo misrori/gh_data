@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FBIN",
         "name": "Fortune Brands Innovations, Inc.",
-        "collected_at": "2026-03-14T02:04:37.004Z",
+        "collected_at": "2026-03-15T02:04:49.916Z",
         "data_start_date": "2016-03-14",
         "price": 43.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:FBIN",
-        "market_capitalization": 5178698224.852322,
+        "market_capitalization": 5178698151.999999,
         "commodity_name": null,
         "display_name": "Fortune Brands Innovations, Inc.",
         "sma_50": 53.00379997253418,

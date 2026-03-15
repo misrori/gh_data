@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AD",
         "name": "Array Digital Infrastructure, Inc.",
-        "collected_at": "2026-03-14T02:05:08.932Z",
+        "collected_at": "2026-03-15T02:05:23.173Z",
         "data_start_date": "2016-03-14",
         "price": 48.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Wireless Telecommunications",
         "tradingview_id": "NYSE:AD",
-        "market_capitalization": 4165633227.8800745,
+        "market_capitalization": 4165633254,
         "commodity_name": null,
         "display_name": "Array Digital Infrastructure, Inc.",
         "sma_50": 56.217200088500974,

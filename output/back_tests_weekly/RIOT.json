@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RIOT",
         "name": "Riot Platforms, Inc.",
-        "collected_at": "2026-03-14T02:04:34.676Z",
+        "collected_at": "2026-03-15T02:04:47.624Z",
         "data_start_date": "2016-03-28",
         "price": 14.039999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:RIOT",
-        "market_capitalization": 5322926996.93793,
+        "market_capitalization": 5322926983.000001,
         "commodity_name": null,
         "display_name": "Riot Platforms, Inc.",
         "sma_50": 13.727300052642823,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VRT",
         "name": "Vertiv Holdings, LLC",
-        "collected_at": "2026-03-14T02:00:44.916Z",
+        "collected_at": "2026-03-15T02:00:53.196Z",
         "data_start_date": "2018-07-30",
         "price": 258.8800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NYSE:VRT",
-        "market_capitalization": 99047096382.78696,
+        "market_capitalization": 99047096429,
         "commodity_name": null,
         "display_name": "Vertiv Holdings, LLC",
         "sma_50": 155.18080017089844,

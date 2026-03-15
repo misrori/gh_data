@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TALO",
         "name": "Talos Energy, Inc.",
-        "collected_at": "2026-03-14T02:06:29.641Z",
+        "collected_at": "2026-03-15T02:06:53.493Z",
         "data_start_date": "2018-05-07",
         "price": 13.819999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:TALO",
-        "market_capitalization": 2328873028.3636365,
+        "market_capitalization": 2328873023,
         "commodity_name": null,
         "display_name": "Talos Energy, Inc.",
         "sma_50": 9.98480007171631,

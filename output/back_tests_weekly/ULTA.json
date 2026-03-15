@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ULTA",
         "name": "Ulta Beauty, Inc.",
-        "collected_at": "2026-03-14T02:02:01.357Z",
+        "collected_at": "2026-03-15T02:02:09.425Z",
         "data_start_date": "2016-03-14",
         "price": 535.719970703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NASDAQ:ULTA",
-        "market_capitalization": 23765702804.93606,
+        "market_capitalization": 23765701041,
         "commodity_name": null,
         "display_name": "Ulta Beauty, Inc.",
         "sma_50": 531.6700006103515,

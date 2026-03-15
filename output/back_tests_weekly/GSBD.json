@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GSBD",
         "name": "Goldman Sachs BDC, Inc.",
-        "collected_at": "2026-03-14T02:08:35.285Z",
+        "collected_at": "2026-03-15T02:08:51.783Z",
         "data_start_date": "2016-03-14",
         "price": 9.119999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NYSE:GSBD",
-        "market_capitalization": 1026629956.450331,
+        "market_capitalization": 1026629895.9999999,
         "commodity_name": null,
         "display_name": "Goldman Sachs BDC, Inc.",
         "sma_50": 10.38899995803833,

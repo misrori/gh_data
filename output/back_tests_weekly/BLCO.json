@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLCO",
         "name": "Bausch + Lomb Corporation",
-        "collected_at": "2026-03-14T02:04:22.339Z",
+        "collected_at": "2026-03-15T02:04:35.118Z",
         "data_start_date": "2022-05-02",
         "price": 16.200000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:BLCO",
-        "market_capitalization": 5739954429.626057,
+        "market_capitalization": 5739954726,
         "commodity_name": null,
         "display_name": "Bausch + Lomb Corporation",
         "sma_50": 14.789799976348878,

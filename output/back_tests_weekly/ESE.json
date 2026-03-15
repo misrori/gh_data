@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ESE",
         "name": "ESCO Technologies Inc.",
-        "collected_at": "2026-03-14T02:03:59.258Z",
+        "collected_at": "2026-03-15T02:04:11.521Z",
         "data_start_date": "2016-03-14",
         "price": 263.82000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:ESE",
-        "market_capitalization": 6831819608.370228,
+        "market_capitalization": 6831819986,
         "commodity_name": null,
         "display_name": "ESCO Technologies Inc.",
         "sma_50": 206.87559967041017,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARLO",
         "name": "Arlo Technologies, Inc.",
-        "collected_at": "2026-03-14T02:07:49.257Z",
+        "collected_at": "2026-03-15T02:08:04.905Z",
         "data_start_date": "2018-08-03",
         "price": 13.600000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NYSE:ARLO",
-        "market_capitalization": 1453233673.545522,
+        "market_capitalization": 1453233689,
         "commodity_name": null,
         "display_name": "Arlo Technologies, Inc.",
         "sma_50": 13.153999938964844,

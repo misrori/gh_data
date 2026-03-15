@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SITE",
         "name": "SiteOne Landscape Supply, Inc.",
-        "collected_at": "2026-03-14T02:04:21.638Z",
+        "collected_at": "2026-03-15T02:04:34.454Z",
         "data_start_date": "2016-05-12",
         "price": 129.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:SITE",
-        "market_capitalization": 5771263869.945842,
+        "market_capitalization": 5771263734,
         "commodity_name": null,
         "display_name": "SiteOne Landscape Supply, Inc.",
         "sma_50": 143.29639923095704,

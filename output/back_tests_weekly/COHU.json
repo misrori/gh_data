@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COHU",
         "name": "Cohu, Inc.",
-        "collected_at": "2026-03-14T02:08:07.713Z",
+        "collected_at": "2026-03-15T02:08:22.954Z",
         "data_start_date": "2016-03-14",
         "price": 27.2450008392334,
         "change": -0.018345544097620414,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:COHU",
-        "market_capitalization": 1277472385.8729987,
+        "market_capitalization": 1277472447,
         "commodity_name": null,
         "display_name": "Cohu, Inc.",
         "sma_50": 22.097500038146972,

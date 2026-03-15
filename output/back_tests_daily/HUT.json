@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HUT",
         "name": "Hut 8 Corp.",
-        "collected_at": "2026-03-14T02:04:33.944Z",
+        "collected_at": "2026-03-15T02:04:46.953Z",
         "data_start_date": "2018-03-08",
         "price": 48.31999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:HUT",
-        "market_capitalization": 5358073283.470695,
+        "market_capitalization": 5358073431.275799,
         "commodity_name": null,
         "display_name": "Hut 8 Corp.",
         "sma_50": 54.96229995727539,

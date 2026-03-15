@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HAFC",
         "name": "Hanmi Financial Corporation",
-        "collected_at": "2026-03-14T02:09:16.694Z",
+        "collected_at": "2026-03-15T02:09:33.901Z",
         "data_start_date": "2016-03-14",
         "price": 25.389999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:HAFC",
-        "market_capitalization": 758972862.8128216,
+        "market_capitalization": 758972831,
         "commodity_name": null,
         "display_name": "Hanmi Financial Corporation",
         "sma_50": 25.339200057983398,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VUG",
         "name": "Vanguard Growth ETF",
-        "collected_at": "2026-03-14T02:10:21.285Z",
+        "collected_at": "2026-03-15T02:10:38.236Z",
         "data_start_date": "2016-03-14",
         "price": 450.2099914550781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VUG",
-        "market_capitalization": 197180358805.941,
+        "market_capitalization": 193852434465.416,
         "commodity_name": null,
         "display_name": "Vanguard Growth ETF",
         "sma_50": 454.04120178222655,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OS",
         "name": "OneStream, Inc.",
-        "collected_at": "2026-03-14T02:04:17.980Z",
+        "collected_at": "2026-03-15T02:04:30.996Z",
         "data_start_date": "2024-07-24",
         "price": 23.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:OS",
-        "market_capitalization": 5932662595.870762,
+        "market_capitalization": 5932662422.999999,
         "commodity_name": null,
         "display_name": "OneStream, Inc.",
         "sma_50": 23.369000053405763,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BUSE",
         "name": "First Busey Corporation",
-        "collected_at": "2026-03-14T02:06:40.740Z",
+        "collected_at": "2026-03-15T02:07:05.163Z",
         "data_start_date": "2016-03-14",
         "price": 24.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:BUSE",
-        "market_capitalization": 2128093476.4197829,
+        "market_capitalization": 2128093430.9999998,
         "commodity_name": null,
         "display_name": "First Busey Corporation",
         "sma_50": 23.56039993286133,

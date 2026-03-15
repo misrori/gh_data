@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GS",
         "name": "Goldman Sachs Group, Inc. (The)",
-        "collected_at": "2026-03-14T02:00:19.672Z",
+        "collected_at": "2026-03-15T02:00:27.642Z",
         "data_start_date": "2016-03-14",
         "price": 782.2100219726562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:GS",
-        "market_capitalization": 232123114887.28217,
+        "market_capitalization": 232123115651.00003,
         "commodity_name": null,
         "display_name": "Goldman Sachs Group, Inc. (The)",
         "sma_50": 759.3875988769531,

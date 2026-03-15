@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RBRK",
         "name": "Rubrik, Inc.",
-        "collected_at": "2026-03-14T02:03:11.533Z",
+        "collected_at": "2026-03-15T02:03:20.481Z",
         "data_start_date": "2024-04-25",
         "price": 53.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:RBRK",
-        "market_capitalization": 10693563278.605701,
+        "market_capitalization": 10693563249,
         "commodity_name": null,
         "display_name": "Rubrik, Inc.",
         "sma_50": 59.279599838256836,

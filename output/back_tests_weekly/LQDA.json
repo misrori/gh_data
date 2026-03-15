@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LQDA",
         "name": "Liquidia Corporation",
-        "collected_at": "2026-03-14T02:05:45.052Z",
+        "collected_at": "2026-03-15T02:06:00.531Z",
         "data_start_date": "2018-07-23",
         "price": 36.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:LQDA",
-        "market_capitalization": 3230275281.4326773,
+        "market_capitalization": 3230275111,
         "commodity_name": null,
         "display_name": "Liquidia Corporation",
         "sma_50": 25.40620012283325,

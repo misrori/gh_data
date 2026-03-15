@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BGC",
         "name": "BGC Group, Inc.",
-        "collected_at": "2026-03-14T02:04:56.122Z",
+        "collected_at": "2026-03-15T02:05:09.151Z",
         "data_start_date": "2016-03-14",
         "price": 9.569999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:BGC",
-        "market_capitalization": 4538687562.678571,
+        "market_capitalization": 4538687531,
         "commodity_name": null,
         "display_name": "BGC Group, Inc.",
         "sma_50": 9.376000003814697,

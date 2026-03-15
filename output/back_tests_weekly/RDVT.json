@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RDVT",
         "name": "Red Violet, Inc.",
-        "collected_at": "2026-03-14T02:10:02.754Z",
+        "collected_at": "2026-03-15T02:10:19.245Z",
         "data_start_date": "2018-03-26",
         "price": 38.09000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:RDVT",
-        "market_capitalization": 537446623.9967917,
+        "market_capitalization": 537446620.0000001,
         "commodity_name": null,
         "display_name": "Red Violet, Inc.",
         "sma_50": 47.839799880981445,

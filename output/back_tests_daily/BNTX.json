@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BNTX",
         "name": "BioNTech SE",
-        "collected_at": "2026-03-14T02:02:06.165Z",
+        "collected_at": "2026-03-15T02:02:13.039Z",
         "data_start_date": "2019-10-10",
         "price": 91.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:BNTX",
-        "market_capitalization": 22644412751,
+        "market_capitalization": 22918358368,
         "commodity_name": null,
         "display_name": "BioNTech SE",
         "sma_50": 105.88779998779297,

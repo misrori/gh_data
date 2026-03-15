@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QQQM",
         "name": "Invesco NASDAQ 100 ETF",
-        "collected_at": "2026-03-14T02:10:28.489Z",
+        "collected_at": "2026-03-15T02:10:45.366Z",
         "data_start_date": "2020-10-13",
         "price": 244.4499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:QQQM",
-        "market_capitalization": 71250220620.273,
+        "market_capitalization": 70151748285.948,
         "commodity_name": null,
         "display_name": "Invesco NASDAQ 100 ETF",
         "sma_50": 252.35840026855467,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PPG",
         "name": "PPG Industries, Inc.",
-        "collected_at": "2026-03-14T02:02:05.531Z",
+        "collected_at": "2026-03-15T02:02:14.465Z",
         "data_start_date": "2016-03-14",
         "price": 101.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:PPG",
-        "market_capitalization": 22771877826.37129,
+        "market_capitalization": 22771876931,
         "commodity_name": null,
         "display_name": "PPG Industries, Inc.",
         "sma_50": 108.51660018920899,

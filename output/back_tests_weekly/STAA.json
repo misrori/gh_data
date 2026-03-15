@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STAA",
         "name": "STAAR Surgical Company",
-        "collected_at": "2026-03-14T02:08:48.337Z",
+        "collected_at": "2026-03-15T02:09:04.747Z",
         "data_start_date": "2016-03-14",
         "price": 18.84000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:STAA",
-        "market_capitalization": 932820155.1908644,
+        "market_capitalization": 932820193,
         "commodity_name": null,
         "display_name": "STAAR Surgical Company",
         "sma_50": 21.856400108337404,

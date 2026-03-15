@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WS",
         "name": "Worthington Steel, Inc.",
-        "collected_at": "2026-03-14T02:07:18.700Z",
+        "collected_at": "2026-03-15T02:07:43.669Z",
         "data_start_date": "2023-11-27",
         "price": 32.310001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NYSE:WS",
-        "market_capitalization": 1641530158.00612,
+        "market_capitalization": 1641530213,
         "commodity_name": null,
         "display_name": "Worthington Steel, Inc.",
         "sma_50": 32.626800003051756,

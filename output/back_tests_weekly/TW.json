@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TW",
         "name": "Tradeweb Markets Inc.",
-        "collected_at": "2026-03-14T02:01:47.248Z",
+        "collected_at": "2026-03-15T02:01:54.799Z",
         "data_start_date": "2019-04-01",
         "price": 124.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:TW",
-        "market_capitalization": 29319311334.16178,
+        "market_capitalization": 29319310903,
         "commodity_name": null,
         "display_name": "Tradeweb Markets Inc.",
         "sma_50": 122.30959915161132,

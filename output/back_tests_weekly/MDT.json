@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MDT",
         "name": "Medtronic plc.",
-        "collected_at": "2026-03-14T02:00:41.072Z",
+        "collected_at": "2026-03-15T02:00:49.371Z",
         "data_start_date": "2016-03-14",
         "price": 87.13999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:MDT",
-        "market_capitalization": 111877736234.34174,
+        "market_capitalization": 111877738967,
         "commodity_name": null,
         "display_name": "Medtronic plc.",
         "sma_50": 92.6711996459961,

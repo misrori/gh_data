@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SEM",
         "name": "Select Medical Holdings Corporation",
-        "collected_at": "2026-03-14T02:06:48.323Z",
+        "collected_at": "2026-03-15T02:07:12.314Z",
         "data_start_date": "2016-03-14",
         "price": 16.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Hospital/Nursing Management",
         "tradingview_id": "NYSE:SEM",
-        "market_capitalization": 2015297269.935345,
+        "market_capitalization": 2015297298,
         "commodity_name": null,
         "display_name": "Select Medical Holdings Corporation",
         "sma_50": 14.554000072479248,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INNV",
         "name": "InnovAge Holding Corp.",
-        "collected_at": "2026-03-14T02:08:22.144Z",
+        "collected_at": "2026-03-15T02:08:37.831Z",
         "data_start_date": "2021-03-04",
         "price": 8.390000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:INNV",
-        "market_capitalization": 1138518483.702281,
+        "market_capitalization": 1138518540,
         "commodity_name": null,
         "display_name": "InnovAge Holding Corp.",
         "sma_50": 7.331599988937378,

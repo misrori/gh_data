@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KRP",
         "name": "Kimbell Royalty Partners",
-        "collected_at": "2026-03-14T02:07:04.909Z",
+        "collected_at": "2026-03-15T02:07:29.432Z",
         "data_start_date": "2017-01-30",
         "price": 14.729999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NYSE:KRP",
-        "market_capitalization": 1802651011.585803,
+        "market_capitalization": 1802650927,
         "commodity_name": null,
         "display_name": "Kimbell Royalty Partners",
         "sma_50": 13.422199954986572,

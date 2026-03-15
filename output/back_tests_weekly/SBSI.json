@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SBSI",
         "name": "Southside Bancshares, Inc.",
-        "collected_at": "2026-03-14T02:08:54.758Z",
+        "collected_at": "2026-03-15T02:09:11.480Z",
         "data_start_date": "2016-03-14",
         "price": 29.920000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:SBSI",
-        "market_capitalization": 889686402.6487936,
+        "market_capitalization": 889686401,
         "commodity_name": null,
         "display_name": "Southside Bancshares, Inc.",
         "sma_50": 29.857400131225585,

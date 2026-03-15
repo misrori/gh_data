@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLBL",
         "name": "Polibeli Group Ltd",
-        "collected_at": "2026-03-14T02:05:41.738Z",
+        "collected_at": "2026-03-15T02:05:57.105Z",
         "data_start_date": "2025-08-08",
         "price": 9.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Electronics/Appliance Stores",
         "tradingview_id": "NASDAQ:PLBL",
-        "market_capitalization": 3301151113.323432,
+        "market_capitalization": 3301151142.0000005,
         "commodity_name": null,
         "display_name": "Polibeli Group Ltd",
         "sma_50": 9.286000032424926,

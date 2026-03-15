@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HNGE",
         "name": "Hinge Health, Inc.",
-        "collected_at": "2026-03-14T02:05:29.846Z",
+        "collected_at": "2026-03-15T02:05:44.409Z",
         "data_start_date": "2025-05-22",
         "price": 45,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:HNGE",
-        "market_capitalization": 3559672255.060729,
+        "market_capitalization": 3559672328,
         "commodity_name": null,
         "display_name": "Hinge Health, Inc.",
         "sma_50": 41.7248002243042,

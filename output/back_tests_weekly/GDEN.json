@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GDEN",
         "name": "Golden Entertainment, Inc.",
-        "collected_at": "2026-03-14T02:09:20.233Z",
+        "collected_at": "2026-03-15T02:09:37.506Z",
         "data_start_date": "2016-03-14",
         "price": 27.600000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NASDAQ:GDEN",
-        "market_capitalization": 728607176.5701882,
+        "market_capitalization": 728607203,
         "commodity_name": null,
         "display_name": "Golden Entertainment, Inc.",
         "sma_50": 26.993399963378906,

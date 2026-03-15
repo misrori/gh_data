@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SNCY",
         "name": "Sun Country Airlines Holdings, Inc.",
-        "collected_at": "2026-03-14T02:09:02.370Z",
+        "collected_at": "2026-03-15T02:09:19.335Z",
         "data_start_date": "2021-03-15",
         "price": 15.539999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NASDAQ:SNCY",
-        "market_capitalization": 830673368.9658227,
+        "market_capitalization": 830673357,
         "commodity_name": null,
         "display_name": "Sun Country Airlines Holdings, Inc.",
         "sma_50": 13.436100044250487,

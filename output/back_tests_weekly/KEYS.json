@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KEYS",
         "name": "Keysight Technologies Inc.",
-        "collected_at": "2026-03-14T02:01:19.388Z",
+        "collected_at": "2026-03-15T02:01:27.347Z",
         "data_start_date": "2016-03-14",
         "price": 279.7799987792969,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:KEYS",
-        "market_capitalization": 47982969925.89709,
+        "market_capitalization": 47982969924,
         "commodity_name": null,
         "display_name": "Keysight Technologies Inc.",
         "sma_50": 186.38919830322266,

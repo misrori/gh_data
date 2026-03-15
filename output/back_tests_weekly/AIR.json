@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AIR",
         "name": "AAR Corp.",
-        "collected_at": "2026-03-14T02:05:14.050Z",
+        "collected_at": "2026-03-15T02:05:28.074Z",
         "data_start_date": "2016-03-14",
         "price": 101.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:AIR",
-        "market_capitalization": 4032834033.7472544,
+        "market_capitalization": 4032834226,
         "commodity_name": null,
         "display_name": "AAR Corp.",
         "sma_50": 81.35059997558594,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UUUU",
         "name": "Energy Fuels Inc",
-        "collected_at": "2026-03-14T02:04:57.510Z",
+        "collected_at": "2026-03-15T02:05:10.575Z",
         "data_start_date": "2016-03-14",
         "price": 18.670000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "AMEX:UUUU",
-        "market_capitalization": 4510784003.044399,
+        "market_capitalization": 4510784091,
         "commodity_name": null,
         "display_name": "Energy Fuels Inc",
         "sma_50": 13.21940001487732,

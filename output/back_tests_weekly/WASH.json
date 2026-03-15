@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WASH",
         "name": "Washington Trust Bancorp, Inc.",
-        "collected_at": "2026-03-14T02:09:44.132Z",
+        "collected_at": "2026-03-15T02:10:00.771Z",
         "data_start_date": "2016-03-14",
         "price": 32.13999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:WASH",
-        "market_capitalization": 611943892.5009197,
+        "market_capitalization": 611943901,
         "commodity_name": null,
         "display_name": "Washington Trust Bancorp, Inc.",
         "sma_50": 29.44199981689453,

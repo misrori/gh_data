@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GCMG",
         "name": "GCM Grosvenor Inc.",
-        "collected_at": "2026-03-14T02:06:42.944Z",
+        "collected_at": "2026-03-15T02:07:07.036Z",
         "data_start_date": "2019-02-04",
         "price": 10.350000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:GCMG",
-        "market_capitalization": 2095634783.5590775,
+        "market_capitalization": 2095634891.9999998,
         "commodity_name": null,
         "display_name": "GCM Grosvenor Inc.",
         "sma_50": 11.834799976348878,

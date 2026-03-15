@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRVI",
         "name": "Maravai LifeSciences Holdings, Inc.",
-        "collected_at": "2026-03-14T02:09:09.499Z",
+        "collected_at": "2026-03-15T02:09:26.561Z",
         "data_start_date": "2020-11-16",
         "price": 3.0799999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:MRVI",
-        "market_capitalization": 791766854.2978723,
+        "market_capitalization": 791766844,
         "commodity_name": null,
         "display_name": "Maravai LifeSciences Holdings, Inc.",
         "sma_50": 2.8647000098228457,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AB",
         "name": "AllianceBernstein Holding L.P.",
-        "collected_at": "2026-03-14T02:05:32.616Z",
+        "collected_at": "2026-03-15T02:05:47.239Z",
         "data_start_date": "2016-03-14",
         "price": 38.09000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:AB",
-        "market_capitalization": 3515111352.071918,
+        "market_capitalization": 3515111451,
         "commodity_name": null,
         "display_name": "AllianceBernstein Holding L.P.",
         "sma_50": 39.681599884033204,

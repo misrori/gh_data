@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EVEX",
         "name": "Eve Holding, Inc.",
-        "collected_at": "2026-03-14T02:08:42.047Z",
+        "collected_at": "2026-03-15T02:08:58.982Z",
         "data_start_date": "2022-05-10",
         "price": 2.759999990463257,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:EVEX",
-        "market_capitalization": 961320675.1510792,
+        "market_capitalization": 961320681,
         "commodity_name": null,
         "display_name": "Eve Holding, Inc.",
         "sma_50": 3.6180000066757203,

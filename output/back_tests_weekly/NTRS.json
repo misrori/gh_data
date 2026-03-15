@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NTRS",
         "name": "Northern Trust Corporation",
-        "collected_at": "2026-03-14T02:01:57.246Z",
+        "collected_at": "2026-03-15T02:02:05.066Z",
         "data_start_date": "2016-03-14",
         "price": 136.9199981689453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:NTRS",
-        "market_capitalization": 25443541477.49366,
+        "market_capitalization": 25443540572,
         "commodity_name": null,
         "display_name": "Northern Trust Corporation",
         "sma_50": 126.94039962768555,

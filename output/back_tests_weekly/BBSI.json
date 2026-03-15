@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BBSI",
         "name": "Barrett Business Services, Inc.",
-        "collected_at": "2026-03-14T02:09:26.637Z",
+        "collected_at": "2026-03-15T02:09:43.808Z",
         "data_start_date": "2016-03-14",
         "price": 27.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Personnel Services",
         "tradingview_id": "NASDAQ:BBSI",
-        "market_capitalization": 693085000.8354995,
+        "market_capitalization": 693084993,
         "commodity_name": null,
         "display_name": "Barrett Business Services, Inc.",
         "sma_50": 39.75840003967285,

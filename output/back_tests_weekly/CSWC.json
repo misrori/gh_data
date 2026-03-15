@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSWC",
         "name": "Capital Southwest Corporation",
-        "collected_at": "2026-03-14T02:08:06.308Z",
+        "collected_at": "2026-03-15T02:08:21.327Z",
         "data_start_date": "2016-03-14",
         "price": 21.420000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NASDAQ:CSWC",
-        "market_capitalization": 1288670381.2209947,
+        "market_capitalization": 1288670426,
         "commodity_name": null,
         "display_name": "Capital Southwest Corporation",
         "sma_50": 21.795200004577637,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CATY",
         "name": "Cathay General Bancorp",
-        "collected_at": "2026-03-14T02:05:47.721Z",
+        "collected_at": "2026-03-15T02:06:03.147Z",
         "data_start_date": "2016-03-14",
         "price": 47.380001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CATY",
-        "market_capitalization": 3172453872.7270446,
+        "market_capitalization": 3172453854,
         "commodity_name": null,
         "display_name": "Cathay General Bancorp",
         "sma_50": 47.308400039672854,

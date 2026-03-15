@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FSUN",
         "name": "FirstSun Capital Bancorp",
-        "collected_at": "2026-03-14T02:08:40.210Z",
+        "collected_at": "2026-03-15T02:08:56.968Z",
         "data_start_date": "2022-08-01",
         "price": 34.84000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:FSUN",
-        "market_capitalization": 972848932.67085,
+        "market_capitalization": 972848899,
         "commodity_name": null,
         "display_name": "FirstSun Capital Bancorp",
         "sma_50": 36.77769996643067,

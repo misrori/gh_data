@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NEM",
         "name": "Newmont Corporation",
-        "collected_at": "2026-03-14T02:00:38.503Z",
+        "collected_at": "2026-03-15T02:00:46.599Z",
         "data_start_date": "2016-03-14",
         "price": 109.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Precious Metals",
         "tradingview_id": "NYSE:NEM",
-        "market_capitalization": 119209265736.56812,
+        "market_capitalization": 119209264232.99998,
         "commodity_name": null,
         "display_name": "Newmont Corporation",
         "sma_50": 82.41660026550294,

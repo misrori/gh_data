@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GRBK",
         "name": "Green Brick Partners, Inc.",
-        "collected_at": "2026-03-14T02:06:08.070Z",
+        "collected_at": "2026-03-15T02:06:24.107Z",
         "data_start_date": "2016-03-14",
         "price": 65.0199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:GRBK",
-        "market_capitalization": 2806086981.1842027,
+        "market_capitalization": 2806086942.9999995,
         "commodity_name": null,
         "display_name": "Green Brick Partners, Inc.",
         "sma_50": 66.37259986877442,

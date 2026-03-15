@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GNK",
         "name": "Genco Shipping & Trading Limited",
-        "collected_at": "2026-03-14T02:08:59.684Z",
+        "collected_at": "2026-03-15T02:09:16.149Z",
         "data_start_date": "2016-03-14",
         "price": 19.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:GNK",
-        "market_capitalization": 855959946.8892263,
+        "market_capitalization": 855959937,
         "commodity_name": null,
         "display_name": "Genco Shipping & Trading Limited",
         "sma_50": 17.076999912261964,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RCKT",
         "name": "Rocket Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-14T02:10:08.236Z",
+        "collected_at": "2026-03-15T02:10:24.982Z",
         "data_start_date": "2016-03-14",
         "price": 4.730000019073486,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:RCKT",
-        "market_capitalization": 513532028.54674804,
+        "market_capitalization": 513532023,
         "commodity_name": null,
         "display_name": "Rocket Pharmaceuticals, Inc.",
         "sma_50": 3.8395000171661375,

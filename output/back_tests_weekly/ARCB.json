@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARCB",
         "name": "ArcBest Corporation",
-        "collected_at": "2026-03-14T02:06:59.338Z",
+        "collected_at": "2026-03-15T02:07:23.821Z",
         "data_start_date": "2016-03-14",
         "price": 84.87000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NASDAQ:ARCB",
-        "market_capitalization": 1892244745.7993677,
+        "market_capitalization": 1892244868.0000002,
         "commodity_name": null,
         "display_name": "ArcBest Corporation",
         "sma_50": 75.95720016479493,

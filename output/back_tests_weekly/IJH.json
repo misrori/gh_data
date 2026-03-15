@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IJH",
         "name": "iShares Core S&P Mid-Cap ETF",
-        "collected_at": "2026-03-14T02:10:24.637Z",
+        "collected_at": "2026-03-15T02:10:42.243Z",
         "data_start_date": "2016-03-14",
         "price": 66.9000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IJH",
-        "market_capitalization": 106672204719.8,
+        "market_capitalization": 104796443313.8,
         "commodity_name": null,
         "display_name": "iShares Core S&P Mid-Cap ETF",
         "sma_50": 64.58899978637696,

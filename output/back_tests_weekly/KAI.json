@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KAI",
         "name": "Kadant Inc",
-        "collected_at": "2026-03-14T02:05:28.847Z",
+        "collected_at": "2026-03-15T02:05:43.408Z",
         "data_start_date": "2016-03-14",
         "price": 303.6499938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:KAI",
-        "market_capitalization": 3579736955.1736965,
+        "market_capitalization": 3579736883.0000005,
         "commodity_name": null,
         "display_name": "Kadant Inc",
         "sma_50": 310.69739990234376,

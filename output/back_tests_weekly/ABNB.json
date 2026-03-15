@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABNB",
         "name": "Airbnb, Inc.",
-        "collected_at": "2026-03-14T02:00:55.639Z",
+        "collected_at": "2026-03-15T02:01:04.171Z",
         "data_start_date": "2020-12-07",
         "price": 126.30000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NASDAQ:ABNB",
-        "market_capitalization": 76880570768.37744,
+        "market_capitalization": 76880574463,
         "commodity_name": null,
         "display_name": "Airbnb, Inc.",
         "sma_50": 127.94019989013673,

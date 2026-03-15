@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PHAT",
         "name": "Phathom Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-14T02:09:03.714Z",
+        "collected_at": "2026-03-15T02:09:21.072Z",
         "data_start_date": "2019-10-21",
         "price": 10.369999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:PHAT",
-        "market_capitalization": 817142682.3630135,
+        "market_capitalization": 817142651.9999999,
         "commodity_name": null,
         "display_name": "Phathom Pharmaceuticals, Inc.",
         "sma_50": 10.898800067901611,

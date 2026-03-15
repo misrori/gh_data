@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BKV",
         "name": "BKV Corporation",
-        "collected_at": "2026-03-14T02:05:57.538Z",
+        "collected_at": "2026-03-15T02:06:12.718Z",
         "data_start_date": "2024-09-26",
         "price": 28.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:BKV",
-        "market_capitalization": 2940782171.8805704,
+        "market_capitalization": 2940782251,
         "commodity_name": null,
         "display_name": "BKV Corporation",
         "sma_50": 28.919999923706055,

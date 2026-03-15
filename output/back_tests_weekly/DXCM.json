@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DXCM",
         "name": "DexCom, Inc.",
-        "collected_at": "2026-03-14T02:01:58.561Z",
+        "collected_at": "2026-03-15T02:02:06.361Z",
         "data_start_date": "2016-03-14",
         "price": 64.23999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:DXCM",
-        "market_capitalization": 24723717979.74992,
+        "market_capitalization": 24723716348,
         "commodity_name": null,
         "display_name": "DexCom, Inc.",
         "sma_50": 73.06420013427734,

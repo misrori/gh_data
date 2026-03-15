@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AAMI",
         "name": "Acadian Asset Management Inc.",
-        "collected_at": "2026-03-14T02:07:05.302Z",
+        "collected_at": "2026-03-15T02:07:29.687Z",
         "data_start_date": "2016-03-14",
         "price": 50.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:AAMI",
-        "market_capitalization": 1801488970.1477427,
+        "market_capitalization": 1801488949.0000002,
         "commodity_name": null,
         "display_name": "Acadian Asset Management Inc.",
         "sma_50": 43.19519992828369,

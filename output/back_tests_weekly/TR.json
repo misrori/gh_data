@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TR",
         "name": "Tootsie Roll Industries, Inc.",
-        "collected_at": "2026-03-14T02:05:57.202Z",
+        "collected_at": "2026-03-15T02:06:15.187Z",
         "data_start_date": "2016-03-14",
         "price": 42.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:TR",
-        "market_capitalization": 2945502065.8555183,
+        "market_capitalization": 2917243155,
         "commodity_name": null,
         "display_name": "Tootsie Roll Industries, Inc.",
         "sma_50": 36.735576477050785,

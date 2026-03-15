@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COMP",
         "name": "Compass, Inc.",
-        "collected_at": "2026-03-14T02:04:11.106Z",
+        "collected_at": "2026-03-15T02:04:24.006Z",
         "data_start_date": "2021-04-01",
         "price": 8.279999732971191,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:COMP",
-        "market_capitalization": 6229848033.033374,
+        "market_capitalization": 6229847714,
         "commodity_name": null,
         "display_name": "Compass, Inc.",
         "sma_50": 11.102600021362305,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WSO",
         "name": "Watsco, Inc.",
-        "collected_at": "2026-03-14T02:02:39.641Z",
+        "collected_at": "2026-03-15T02:02:48.274Z",
         "data_start_date": "2016-03-14",
         "price": 368.3900146484375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:WSO",
-        "market_capitalization": 14979185602.601334,
+        "market_capitalization": 14960018179,
         "commodity_name": null,
         "display_name": "Watsco, Inc.",
         "sma_50": 408.42260009765624,

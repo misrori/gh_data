@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BIPC",
         "name": "Brookfield Infrastructure Corporation",
-        "collected_at": "2026-03-14T02:04:26.436Z",
+        "collected_at": "2026-03-15T02:04:39.570Z",
         "data_start_date": "2020-03-30",
         "price": 46.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:BIPC",
-        "market_capitalization": 5572436068.394555,
+        "market_capitalization": 5572436016.808894,
         "commodity_name": null,
         "display_name": "Brookfield Infrastructure Corporation",
         "sma_50": 42.9394002532959,

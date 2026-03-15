@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BELFA",
         "name": "Bel Fuse Inc.",
-        "collected_at": "2026-03-14T02:06:21.153Z",
+        "collected_at": "2026-03-15T02:06:45.814Z",
         "data_start_date": "2016-03-14",
         "price": 180.3800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NASDAQ:BELFA",
-        "market_capitalization": 2481266435.9140005,
+        "market_capitalization": 2464989607,
         "commodity_name": null,
         "display_name": "Bel Fuse Inc.",
         "sma_50": 125.14719917297363,

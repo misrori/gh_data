@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APAM",
         "name": "Artisan Partners Asset Management Inc.",
-        "collected_at": "2026-03-14T02:06:04.161Z",
+        "collected_at": "2026-03-15T02:06:20.071Z",
         "data_start_date": "2016-03-14",
         "price": 35.400001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:APAM",
-        "market_capitalization": 2858417942.8717947,
+        "market_capitalization": 2858418191,
         "commodity_name": null,
         "display_name": "Artisan Partners Asset Management Inc.",
         "sma_50": 42.63959991455078,

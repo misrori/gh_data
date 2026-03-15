@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VLTO",
         "name": "Veralto Corp",
-        "collected_at": "2026-03-14T02:02:06.582Z",
+        "collected_at": "2026-03-15T02:02:15.496Z",
         "data_start_date": "2023-10-04",
         "price": 90.19999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:VLTO",
-        "market_capitalization": 22355470997.034313,
+        "market_capitalization": 22355469709.000004,
         "commodity_name": null,
         "display_name": "Veralto Corp",
         "sma_50": 96.59300033569336,

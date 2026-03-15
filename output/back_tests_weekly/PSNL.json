@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PSNL",
         "name": "Personalis, Inc.",
-        "collected_at": "2026-03-14T02:09:24.956Z",
+        "collected_at": "2026-03-15T02:09:42.331Z",
         "data_start_date": "2019-06-17",
         "price": 6.71999979019165,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:PSNL",
-        "market_capitalization": 703125903.0045524,
+        "market_capitalization": 703125864,
         "commodity_name": null,
         "display_name": "Personalis, Inc.",
         "sma_50": 6.922600026130676,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WSC",
         "name": "WillScot Holdings Corporation",
-        "collected_at": "2026-03-14T02:05:44.083Z",
+        "collected_at": "2026-03-15T02:05:59.468Z",
         "data_start_date": "2016-03-14",
         "price": 17.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:WSC",
-        "market_capitalization": 3253571203.438662,
+        "market_capitalization": 3253571175,
         "commodity_name": null,
         "display_name": "WillScot Holdings Corporation",
         "sma_50": 23.30549991607666,

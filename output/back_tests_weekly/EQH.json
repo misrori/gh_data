@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EQH",
         "name": "Equitable Holdings, Inc.",
-        "collected_at": "2026-03-14T02:03:14.691Z",
+        "collected_at": "2026-03-15T02:03:23.691Z",
         "data_start_date": "2018-05-07",
         "price": 37.220001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Life/Health Insurance",
         "tradingview_id": "NYSE:EQH",
-        "market_capitalization": 10434546967.961145,
+        "market_capitalization": 10434546922.999998,
         "commodity_name": null,
         "display_name": "Equitable Holdings, Inc.",
         "sma_50": 49.013999938964844,

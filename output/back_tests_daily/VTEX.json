@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VTEX",
         "name": "VTEX",
-        "collected_at": "2026-03-14T02:09:34.491Z",
+        "collected_at": "2026-03-15T02:09:51.180Z",
         "data_start_date": "2021-07-21",
         "price": 3.7899999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:VTEX",
-        "market_capitalization": 655645301.8333335,
+        "market_capitalization": 655645289,
         "commodity_name": null,
         "display_name": "VTEX",
         "sma_50": 3.4044000148773192,

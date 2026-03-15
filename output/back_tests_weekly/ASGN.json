@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ASGN",
         "name": "ASGN Incorporated",
-        "collected_at": "2026-03-14T02:07:33.782Z",
+        "collected_at": "2026-03-15T02:08:00.990Z",
         "data_start_date": "2016-03-14",
         "price": 36.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:ASGN",
-        "market_capitalization": 1503733028.684868,
+        "market_capitalization": 1503732966,
         "commodity_name": null,
         "display_name": "ASGN Incorporated",
         "sma_50": 49.08740005493164,

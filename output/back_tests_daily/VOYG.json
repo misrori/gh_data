@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VOYG",
         "name": "Voyager Technologies, Inc.",
-        "collected_at": "2026-03-14T02:07:21.967Z",
+        "collected_at": "2026-03-15T02:07:47.017Z",
         "data_start_date": "2025-06-11",
         "price": 27.020000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:VOYG",
-        "market_capitalization": 1608981040.0506136,
+        "market_capitalization": 1608981072,
         "commodity_name": null,
         "display_name": "Voyager Technologies, Inc.",
         "sma_50": 29.407199935913084,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCSC",
         "name": "ScanSource, Inc.",
-        "collected_at": "2026-03-14T02:09:13.064Z",
+        "collected_at": "2026-03-15T02:09:30.152Z",
         "data_start_date": "2016-03-14",
         "price": 35.84000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Electronics Distributors",
         "tradingview_id": "NASDAQ:SCSC",
-        "market_capitalization": 769857008.618637,
+        "market_capitalization": 769856995.0000001,
         "commodity_name": null,
         "display_name": "ScanSource, Inc.",
         "sma_50": 40.13479991912842,

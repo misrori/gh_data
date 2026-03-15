@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZTS",
         "name": "Zoetis Inc.",
-        "collected_at": "2026-03-14T02:01:18.185Z",
+        "collected_at": "2026-03-15T02:01:26.368Z",
         "data_start_date": "2016-03-14",
         "price": 115.62000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:ZTS",
-        "market_capitalization": 48806406144.0343,
+        "market_capitalization": 48806407691,
         "commodity_name": null,
         "display_name": "Zoetis Inc.",
         "sma_50": 141.39840042114258,

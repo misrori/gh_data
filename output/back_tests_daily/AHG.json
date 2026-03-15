@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AHG",
         "name": "Akso Health Group",
-        "collected_at": "2026-03-14T02:07:00.884Z",
+        "collected_at": "2026-03-15T02:07:04.706Z",
         "data_start_date": "2017-11-03",
         "price": 2.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:AHG",
-        "market_capitalization": 1861815781,
+        "market_capitalization": 2135109775,
         "commodity_name": null,
         "display_name": "Akso Health Group",
         "sma_50": 1.5123599982261657,

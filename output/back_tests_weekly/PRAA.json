@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRAA",
         "name": "PRA Group, Inc.",
-        "collected_at": "2026-03-14T02:09:37.306Z",
+        "collected_at": "2026-03-15T02:09:53.553Z",
         "data_start_date": "2016-03-14",
         "price": 16.729999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:PRAA",
-        "market_capitalization": 643324442.3018981,
+        "market_capitalization": 643324400.9999999,
         "commodity_name": null,
         "display_name": "PRA Group, Inc.",
         "sma_50": 15.607999954223633,

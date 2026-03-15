@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMPX",
         "name": "Amprius Technologies, Inc.",
-        "collected_at": "2026-03-14T02:06:23.109Z",
+        "collected_at": "2026-03-15T02:06:46.808Z",
         "data_start_date": "2022-09-15",
         "price": 17.950000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:AMPX",
-        "market_capitalization": 2459491122.624385,
+        "market_capitalization": 2459491104,
         "commodity_name": null,
         "display_name": "Amprius Technologies, Inc.",
         "sma_50": 11.993999996185302,

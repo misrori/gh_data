@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AJG",
         "name": "Arthur J. Gallagher & Co.",
-        "collected_at": "2026-03-14T02:01:13.191Z",
+        "collected_at": "2026-03-15T02:01:21.150Z",
         "data_start_date": "2016-03-14",
         "price": 207.92999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NYSE:AJG",
-        "market_capitalization": 53458806027.157776,
+        "market_capitalization": 53458802386,
         "commodity_name": null,
         "display_name": "Arthur J. Gallagher & Co.",
         "sma_50": 283.1416012573242,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MLKN",
         "name": "MillerKnoll, Inc.",
-        "collected_at": "2026-03-14T02:08:05.465Z",
+        "collected_at": "2026-03-15T02:08:20.531Z",
         "data_start_date": "2016-03-14",
         "price": 18.959999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Office Equipment/Supplies",
         "tradingview_id": "NASDAQ:MLKN",
-        "market_capitalization": 1294019592.6366048,
+        "market_capitalization": 1294019504,
         "commodity_name": null,
         "display_name": "MillerKnoll, Inc.",
         "sma_50": 18.42759998321533,

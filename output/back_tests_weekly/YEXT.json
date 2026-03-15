@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YEXT",
         "name": "Yext, Inc.",
-        "collected_at": "2026-03-14T02:09:37.045Z",
+        "collected_at": "2026-03-15T02:09:53.367Z",
         "data_start_date": "2017-04-10",
         "price": 5.230000019073486,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NYSE:YEXT",
-        "market_capitalization": 645095023.1387835,
+        "market_capitalization": 645094997,
         "commodity_name": null,
         "display_name": "Yext, Inc.",
         "sma_50": 7.607600040435791,

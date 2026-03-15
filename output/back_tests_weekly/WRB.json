@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WRB",
         "name": "W.R. Berkley Corporation",
-        "collected_at": "2026-03-14T02:01:56.085Z",
+        "collected_at": "2026-03-15T02:02:03.991Z",
         "data_start_date": "2016-03-14",
         "price": 68.76000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:WRB",
-        "market_capitalization": 25749989339.685593,
+        "market_capitalization": 25749991283,
         "commodity_name": null,
         "display_name": "W.R. Berkley Corporation",
         "sma_50": 71.70960021972657,

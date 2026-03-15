@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GPI",
         "name": "Group 1 Automotive, Inc.",
-        "collected_at": "2026-03-14T02:05:29.497Z",
+        "collected_at": "2026-03-15T02:05:44.111Z",
         "data_start_date": "2016-03-14",
         "price": 299.8999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:GPI",
-        "market_capitalization": 3576367376.349074,
+        "market_capitalization": 3576367260,
         "commodity_name": null,
         "display_name": "Group 1 Automotive, Inc.",
         "sma_50": 409.0405969238281,

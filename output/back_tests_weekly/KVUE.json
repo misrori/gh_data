@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KVUE",
         "name": "Kenvue Inc.",
-        "collected_at": "2026-03-14T02:01:38.593Z",
+        "collected_at": "2026-03-15T02:01:46.338Z",
         "data_start_date": "2023-05-01",
         "price": 17.489999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NYSE:KVUE",
-        "market_capitalization": 33523644612.046577,
+        "market_capitalization": 33523645350,
         "commodity_name": null,
         "display_name": "Kenvue Inc.",
         "sma_50": 19.35799997329712,

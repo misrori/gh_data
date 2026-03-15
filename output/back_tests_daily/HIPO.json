@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HIPO",
         "name": "Hippo Holdings Inc.",
-        "collected_at": "2026-03-14T02:09:34.317Z",
+        "collected_at": "2026-03-15T02:09:51.025Z",
         "data_start_date": "2021-01-11",
         "price": 25.309999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:HIPO",
-        "market_capitalization": 657325443.6434817,
+        "market_capitalization": 657325434,
         "commodity_name": null,
         "display_name": "Hippo Holdings Inc.",
         "sma_50": 29.03680000305176,

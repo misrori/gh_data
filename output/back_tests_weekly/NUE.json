@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NUE",
         "name": "Nucor Corporation",
-        "collected_at": "2026-03-14T02:01:34.194Z",
+        "collected_at": "2026-03-15T02:01:42.282Z",
         "data_start_date": "2016-03-14",
         "price": 163.47999572753906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NYSE:NUE",
-        "market_capitalization": 37236593228.29432,
+        "market_capitalization": 37236592665.99999,
         "commodity_name": null,
         "display_name": "Nucor Corporation",
         "sma_50": 145.94359909057619,

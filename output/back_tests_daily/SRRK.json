@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SRRK",
         "name": "Scholar Rock Holding Corporation",
-        "collected_at": "2026-03-14T02:04:53.627Z",
+        "collected_at": "2026-03-15T02:05:06.669Z",
         "data_start_date": "2018-05-25",
         "price": 40.0099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:SRRK",
-        "market_capitalization": 4596472538.103828,
+        "market_capitalization": 4596472430,
         "commodity_name": null,
         "display_name": "Scholar Rock Holding Corporation",
         "sma_50": 45.04139999389648,

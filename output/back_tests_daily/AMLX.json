@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMLX",
         "name": "Amylyx Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-14T02:07:28.855Z",
+        "collected_at": "2026-03-15T02:07:54.442Z",
         "data_start_date": "2022-01-07",
         "price": 13.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:AMLX",
-        "market_capitalization": 1546411824.4561892,
+        "market_capitalization": 1546411787,
         "commodity_name": null,
         "display_name": "Amylyx Pharmaceuticals, Inc.",
         "sma_50": 14.140100059509278,

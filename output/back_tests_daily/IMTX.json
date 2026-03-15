@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IMTX",
         "name": "Immatics N.V.",
-        "collected_at": "2026-03-14T02:08:11.032Z",
+        "collected_at": "2026-03-15T02:08:26.684Z",
         "data_start_date": "2018-12-12",
         "price": 9.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:IMTX",
-        "market_capitalization": 1238749745.7003188,
+        "market_capitalization": 1238749736,
         "commodity_name": null,
         "display_name": "Immatics N.V.",
         "sma_50": 9.835599937438964,

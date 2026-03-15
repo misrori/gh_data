@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EQBK",
         "name": "Equity Bancshares, Inc.",
-        "collected_at": "2026-03-14T02:08:51.260Z",
+        "collected_at": "2026-03-15T02:09:08.064Z",
         "data_start_date": "2016-03-14",
         "price": 43.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:EQBK",
-        "market_capitalization": 916096914.7029748,
+        "market_capitalization": 916096886.0000001,
         "commodity_name": null,
         "display_name": "Equity Bancshares, Inc.",
         "sma_50": 41.862799911499025,

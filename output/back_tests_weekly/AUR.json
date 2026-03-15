@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AUR",
         "name": "Aurora Innovation, Inc.",
-        "collected_at": "2026-03-14T02:03:40.316Z",
+        "collected_at": "2026-03-15T02:03:51.438Z",
         "data_start_date": "2021-05-10",
         "price": 4.079999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:AUR",
-        "market_capitalization": 7951157783.04,
+        "market_capitalization": 7951157634.000001,
         "commodity_name": null,
         "display_name": "Aurora Innovation, Inc.",
         "sma_50": 5.270099997520447,

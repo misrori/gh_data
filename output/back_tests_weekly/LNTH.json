@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LNTH",
         "name": "Lantheus Holdings, Inc.",
-        "collected_at": "2026-03-14T02:04:38.003Z",
+        "collected_at": "2026-03-15T02:04:50.911Z",
         "data_start_date": "2016-03-14",
         "price": 79.48999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:LNTH",
-        "market_capitalization": 5135522556.088285,
+        "market_capitalization": 5135522535,
         "commodity_name": null,
         "display_name": "Lantheus Holdings, Inc.",
         "sma_50": 69.22079956054688,

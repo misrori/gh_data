@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALL",
         "name": "Allstate Corporation (The)",
-        "collected_at": "2026-03-14T02:01:12.894Z",
+        "collected_at": "2026-03-15T02:01:20.811Z",
         "data_start_date": "2016-03-14",
         "price": 206.1699981689453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:ALL",
-        "market_capitalization": 53508507557.5368,
+        "market_capitalization": 53508507400,
         "commodity_name": null,
         "display_name": "Allstate Corporation (The)",
         "sma_50": 203.02440032958984,

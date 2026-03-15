@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EBC",
         "name": "Eastern Bankshares, Inc.",
-        "collected_at": "2026-03-14T02:05:00.884Z",
+        "collected_at": "2026-03-15T02:05:14.042Z",
         "data_start_date": "2020-10-15",
         "price": 18.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:EBC",
-        "market_capitalization": 4408843871.454931,
+        "market_capitalization": 4408843943,
         "commodity_name": null,
         "display_name": "Eastern Bankshares, Inc.",
         "sma_50": 20.14670009613037,

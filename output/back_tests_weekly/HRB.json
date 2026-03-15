@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HRB",
         "name": "H&R Block, Inc.",
-        "collected_at": "2026-03-14T02:05:19.052Z",
+        "collected_at": "2026-03-15T02:05:33.536Z",
         "data_start_date": "2016-03-14",
         "price": 30.510000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:HRB",
-        "market_capitalization": 3867439430.3467903,
+        "market_capitalization": 3867439547,
         "commodity_name": null,
         "display_name": "H&R Block, Inc.",
         "sma_50": 48.47740016937256,

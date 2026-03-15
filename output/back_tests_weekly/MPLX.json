@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MPLX",
         "name": "MPLX LP",
-        "collected_at": "2026-03-14T02:01:09.911Z",
+        "collected_at": "2026-03-15T02:01:17.734Z",
         "data_start_date": "2016-03-14",
         "price": 58.52000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:MPLX",
-        "market_capitalization": 59409755360.24607,
+        "market_capitalization": 59409755203,
         "commodity_name": null,
         "display_name": "MPLX LP",
         "sma_50": 52.632999954223635,

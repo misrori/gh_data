@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UI",
         "name": "Ubiquiti Inc.",
-        "collected_at": "2026-03-14T02:01:22.028Z",
+        "collected_at": "2026-03-15T02:01:30.331Z",
         "data_start_date": "2016-03-14",
         "price": 759.8400268554688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NYSE:UI",
-        "market_capitalization": 45986120347.31189,
+        "market_capitalization": 45986121674,
         "commodity_name": null,
         "display_name": "Ubiquiti Inc.",
         "sma_50": 541.1578021240234,

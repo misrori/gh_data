@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LIN",
         "name": "Linde plc",
-        "collected_at": "2026-03-14T02:00:20.737Z",
+        "collected_at": "2026-03-15T02:00:29.130Z",
         "data_start_date": "2016-03-14",
         "price": 493.9200134277344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NASDAQ:LIN",
-        "market_capitalization": 228879647705.4344,
+        "market_capitalization": 228879652218,
         "commodity_name": null,
         "display_name": "Linde plc",
         "sma_50": 456.87,

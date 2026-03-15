@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SLGN",
         "name": "Silgan Holdings Inc.",
-        "collected_at": "2026-03-14T02:05:01.981Z",
+        "collected_at": "2026-03-15T02:05:14.866Z",
         "data_start_date": "2016-03-14",
         "price": 41.619998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:SLGN",
-        "market_capitalization": 4388494825.914146,
+        "market_capitalization": 4388494713,
         "commodity_name": null,
         "display_name": "Silgan Holdings Inc.",
         "sma_50": 46.63599967956543,

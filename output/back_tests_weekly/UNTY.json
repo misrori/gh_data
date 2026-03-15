@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UNTY",
         "name": "Unity Bancorp, Inc.",
-        "collected_at": "2026-03-14T02:10:11.374Z",
+        "collected_at": "2026-03-15T02:10:28.378Z",
         "data_start_date": "2016-03-14",
         "price": 50.0099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:UNTY",
-        "market_capitalization": 500921519.39258665,
+        "market_capitalization": 500921499,
         "commodity_name": null,
         "display_name": "Unity Bancorp, Inc.",
         "sma_50": 49.14339981079102,

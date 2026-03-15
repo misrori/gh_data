@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATRO",
         "name": "Astronics Corporation",
-        "collected_at": "2026-03-14T02:06:31.742Z",
+        "collected_at": "2026-03-15T02:06:55.823Z",
         "data_start_date": "2016-03-14",
         "price": 63.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:ATRO",
-        "market_capitalization": 2289912859.1345615,
+        "market_capitalization": 2287394365,
         "commodity_name": null,
         "display_name": "Astronics Corporation",
         "sma_50": 46.782400093078614,

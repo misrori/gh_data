@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRIM",
         "name": "Primoris Services Corporation",
-        "collected_at": "2026-03-14T02:03:53.822Z",
+        "collected_at": "2026-03-15T02:04:05.971Z",
         "data_start_date": "2016-03-14",
         "price": 133.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:PRIM",
-        "market_capitalization": 7216542890.303191,
+        "market_capitalization": 7216543190.000001,
         "commodity_name": null,
         "display_name": "Primoris Services Corporation",
         "sma_50": 113.39960029602051,

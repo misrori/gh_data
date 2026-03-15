@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHWY",
         "name": "Chewy, Inc.",
-        "collected_at": "2026-03-14T02:03:12.931Z",
+        "collected_at": "2026-03-15T02:03:21.891Z",
         "data_start_date": "2019-06-14",
         "price": 25.469999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NYSE:CHWY",
-        "market_capitalization": 10570013327.341463,
+        "market_capitalization": 10570012878,
         "commodity_name": null,
         "display_name": "Chewy, Inc.",
         "sma_50": 28.47680004119873,

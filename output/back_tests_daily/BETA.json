@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BETA",
         "name": "Beta Technologies, Inc.",
-        "collected_at": "2026-03-14T02:05:19.647Z",
+        "collected_at": "2026-03-15T02:05:33.942Z",
         "data_start_date": "2025-11-04",
         "price": 16.649999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:BETA",
-        "market_capitalization": 3825350150.496785,
+        "market_capitalization": 3825349926,
         "commodity_name": null,
         "display_name": "Beta Technologies, Inc.",
         "sma_50": 21.74119993209839,

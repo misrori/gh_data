@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCEP",
         "name": "Coca-Cola Europacific Partners plc",
-        "collected_at": "2026-03-14T02:01:23.303Z",
+        "collected_at": "2026-03-15T02:01:31.451Z",
         "data_start_date": "2016-03-14",
         "price": 100.45999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Non-Alcoholic",
         "tradingview_id": "NASDAQ:CCEP",
-        "market_capitalization": 45126453840.54627,
+        "market_capitalization": 45126451933,
         "commodity_name": null,
         "display_name": "Coca-Cola Europacific Partners plc",
         "sma_50": 92.59119934082031,

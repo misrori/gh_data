@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KALU",
         "name": "Kaiser Aluminum Corporation",
-        "collected_at": "2026-03-14T02:06:57.353Z",
+        "collected_at": "2026-03-15T02:07:21.744Z",
         "data_start_date": "2016-03-14",
         "price": 117.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Aluminum",
         "tradingview_id": "NASDAQ:KALU",
-        "market_capitalization": 1905861841.8091733,
+        "market_capitalization": 1905861837,
         "commodity_name": null,
         "display_name": "Kaiser Aluminum Corporation",
         "sma_50": 92.47520057678223,

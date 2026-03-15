@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EME",
         "name": "EMCOR Group, Inc.",
-        "collected_at": "2026-03-14T02:01:42.634Z",
+        "collected_at": "2026-03-15T02:01:50.508Z",
         "data_start_date": "2016-03-14",
         "price": 709.9099731445312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:EME",
-        "market_capitalization": 31614115282.897625,
+        "market_capitalization": 31614112783.000004,
         "commodity_name": null,
         "display_name": "EMCOR Group, Inc.",
         "sma_50": 606.9563983154297,

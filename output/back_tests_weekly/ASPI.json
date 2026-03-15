@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ASPI",
         "name": "ASP Isotopes Inc.",
-        "collected_at": "2026-03-14T02:09:33.632Z",
+        "collected_at": "2026-03-15T02:09:50.637Z",
         "data_start_date": "2022-11-07",
         "price": 5.28000020980835,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ASPI",
-        "market_capitalization": 660581437.2102566,
+        "market_capitalization": 660581474,
         "commodity_name": null,
         "display_name": "ASP Isotopes Inc.",
         "sma_50": 7.614000005722046,

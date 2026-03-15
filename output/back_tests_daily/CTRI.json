@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTRI",
         "name": "Centuri Holdings, Inc.",
-        "collected_at": "2026-03-14T02:05:56.099Z",
+        "collected_at": "2026-03-15T02:06:12.018Z",
         "data_start_date": "2024-04-19",
         "price": 29.299999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:CTRI",
-        "market_capitalization": 2953921765.83478,
+        "market_capitalization": 2953921744.0000005,
         "commodity_name": null,
         "display_name": "Centuri Holdings, Inc.",
         "sma_50": 29.002399940490722,

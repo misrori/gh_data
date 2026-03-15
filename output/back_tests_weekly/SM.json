@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SM",
         "name": "SM Energy Company",
-        "collected_at": "2026-03-14T02:04:08.316Z",
+        "collected_at": "2026-03-15T02:04:20.901Z",
         "data_start_date": "2016-03-14",
         "price": 26.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:SM",
-        "market_capitalization": 6385642227.805337,
+        "market_capitalization": 6385642560,
         "commodity_name": null,
         "display_name": "SM Energy Company",
         "sma_50": 23.323600006103515,

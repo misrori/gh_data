@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTVA",
         "name": "Corteva, Inc.",
-        "collected_at": "2026-03-14T02:01:13.290Z",
+        "collected_at": "2026-03-15T02:01:21.291Z",
         "data_start_date": "2019-05-24",
         "price": 79.20999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Agricultural Commodities/Milling",
         "tradingview_id": "NYSE:CTVA",
-        "market_capitalization": 53270624996.116486,
+        "market_capitalization": 53270624380,
         "commodity_name": null,
         "display_name": "Corteva, Inc.",
         "sma_50": 74.16679977416992,

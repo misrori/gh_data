@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VSTM",
         "name": "Verastem, Inc.",
-        "collected_at": "2026-03-14T02:10:13.632Z",
+        "collected_at": "2026-03-15T02:10:30.945Z",
         "data_start_date": "2016-03-14",
         "price": 5.599999904632568,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:VSTM",
-        "market_capitalization": 491876606.0273972,
+        "market_capitalization": 491876585,
         "commodity_name": null,
         "display_name": "Verastem, Inc.",
         "sma_50": 7.348599996566772,

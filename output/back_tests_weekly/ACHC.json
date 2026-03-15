@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACHC",
         "name": "Acadia Healthcare Company, Inc.",
-        "collected_at": "2026-03-14T02:06:38.942Z",
+        "collected_at": "2026-03-15T02:07:03.514Z",
         "data_start_date": "2016-03-14",
         "price": 23.520000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:ACHC",
-        "market_capitalization": 2168821029.460344,
+        "market_capitalization": 2168821031,
         "commodity_name": null,
         "display_name": "Acadia Healthcare Company, Inc.",
         "sma_50": 20.54519998550415,

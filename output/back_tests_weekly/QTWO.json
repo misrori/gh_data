@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QTWO",
         "name": "Q2 Holdings, Inc.",
-        "collected_at": "2026-03-14T02:05:53.947Z",
+        "collected_at": "2026-03-15T02:06:09.325Z",
         "data_start_date": "2016-03-14",
         "price": 48.29999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:QTWO",
-        "market_capitalization": 3014131039.7907686,
+        "market_capitalization": 3014130992,
         "commodity_name": null,
         "display_name": "Q2 Holdings, Inc.",
         "sma_50": 73.5511994934082,

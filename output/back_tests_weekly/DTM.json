@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DTM",
         "name": "DT Midstream, Inc.",
-        "collected_at": "2026-03-14T02:02:44.126Z",
+        "collected_at": "2026-03-15T02:02:52.700Z",
         "data_start_date": "2021-06-28",
         "price": 137.5800018310547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:DTM",
-        "market_capitalization": 13994839238.278534,
+        "market_capitalization": 13994839486.999998,
         "commodity_name": null,
         "display_name": "DT Midstream, Inc.",
         "sma_50": 113.16339996337891,

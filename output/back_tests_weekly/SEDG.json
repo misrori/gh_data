@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SEDG",
         "name": "SolarEdge Technologies, Inc.",
-        "collected_at": "2026-03-14T02:06:34.534Z",
+        "collected_at": "2026-03-15T02:06:58.634Z",
         "data_start_date": "2016-03-14",
         "price": 37.439998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:SEDG",
-        "market_capitalization": 2260113705.984655,
+        "market_capitalization": 2260113711,
         "commodity_name": null,
         "display_name": "SolarEdge Technologies, Inc.",
         "sma_50": 29.296900062561036,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HMN",
         "name": "Horace Mann Educators Corporation",
-        "collected_at": "2026-03-14T02:07:10.966Z",
+        "collected_at": "2026-03-15T02:07:35.848Z",
         "data_start_date": "2016-03-14",
         "price": 42.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:HMN",
-        "market_capitalization": 1714656475.7341,
+        "market_capitalization": 1714656426,
         "commodity_name": null,
         "display_name": "Horace Mann Educators Corporation",
         "sma_50": 43.7542000579834,

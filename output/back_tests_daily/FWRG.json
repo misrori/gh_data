@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FWRG",
         "name": "First Watch Restaurant Group, Inc.",
-        "collected_at": "2026-03-14T02:09:24.719Z",
+        "collected_at": "2026-03-15T02:09:42.011Z",
         "data_start_date": "2021-10-01",
         "price": 11.529999732971191,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NASDAQ:FWRG",
-        "market_capitalization": 704922805.4444444,
+        "market_capitalization": 704922801,
         "commodity_name": null,
         "display_name": "First Watch Restaurant Group, Inc.",
         "sma_50": 15.09029993057251,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AFL",
         "name": "AFLAC Incorporated",
-        "collected_at": "2026-03-14T02:01:10.955Z",
+        "collected_at": "2026-03-15T02:01:18.807Z",
         "data_start_date": "2016-03-14",
         "price": 108.70999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:AFL",
-        "market_capitalization": 56134521046.76412,
+        "market_capitalization": 56134521980,
         "commodity_name": null,
         "display_name": "AFLAC Incorporated",
         "sma_50": 107.98719985961914,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EVMN",
         "name": "Evommune, Inc.",
-        "collected_at": "2026-03-14T02:09:09.238Z",
+        "collected_at": "2026-03-15T02:09:26.321Z",
         "data_start_date": "2025-11-06",
         "price": 21.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:EVMN",
-        "market_capitalization": 792043974.8642298,
+        "market_capitalization": 792043983,
         "commodity_name": null,
         "display_name": "Evommune, Inc.",
         "sma_50": 22.459399890899657,

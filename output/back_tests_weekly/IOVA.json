@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IOVA",
         "name": "Iovance Biotherapeutics, Inc.",
-        "collected_at": "2026-03-14T02:07:20.143Z",
+        "collected_at": "2026-03-15T02:07:45.100Z",
         "data_start_date": "2016-03-14",
         "price": 3.9600000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:IOVA",
-        "market_capitalization": 1631368040.108108,
+        "market_capitalization": 1631367987,
         "commodity_name": null,
         "display_name": "Iovance Biotherapeutics, Inc.",
         "sma_50": 2.5175999927520754,

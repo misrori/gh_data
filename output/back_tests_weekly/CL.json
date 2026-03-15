@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CL",
         "name": "Colgate-Palmolive Company",
-        "collected_at": "2026-03-14T02:01:00.190Z",
+        "collected_at": "2026-03-15T02:01:09.152Z",
         "data_start_date": "2016-03-14",
         "price": 88.83999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NYSE:CL",
-        "market_capitalization": 71209519506.78114,
+        "market_capitalization": 71209519042,
         "commodity_name": null,
         "display_name": "Colgate-Palmolive Company",
         "sma_50": 86.13960006713867,

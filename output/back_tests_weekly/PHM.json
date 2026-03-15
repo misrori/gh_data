@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PHM",
         "name": "PulteGroup, Inc.",
-        "collected_at": "2026-03-14T02:02:04.549Z",
+        "collected_at": "2026-03-15T02:02:13.445Z",
         "data_start_date": "2016-03-14",
         "price": 119.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:PHM",
-        "market_capitalization": 22901351860.007137,
+        "market_capitalization": 22901352503,
         "commodity_name": null,
         "display_name": "PulteGroup, Inc.",
         "sma_50": 119.63799987792969,

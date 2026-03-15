@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SWX",
         "name": "Southwest Gas Holdings, Inc.",
-        "collected_at": "2026-03-14T02:04:09.030Z",
+        "collected_at": "2026-03-15T02:04:21.772Z",
         "data_start_date": "2016-03-14",
         "price": 88.01000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:SWX",
-        "market_capitalization": 6360405835.379982,
+        "market_capitalization": 6360406012,
         "commodity_name": null,
         "display_name": "Southwest Gas Holdings, Inc.",
         "sma_50": 78.96800003051757,

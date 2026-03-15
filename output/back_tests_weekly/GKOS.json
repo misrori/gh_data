@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GKOS",
         "name": "Glaukos Corporation",
-        "collected_at": "2026-03-14T02:04:25.136Z",
+        "collected_at": "2026-03-15T02:04:38.181Z",
         "data_start_date": "2016-03-14",
         "price": 97.0199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:GKOS",
-        "market_capitalization": 5634806358.614173,
+        "market_capitalization": 5634806111,
         "commodity_name": null,
         "display_name": "Glaukos Corporation",
         "sma_50": 98.39459991455078,

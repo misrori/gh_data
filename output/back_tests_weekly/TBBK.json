@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TBBK",
         "name": "The Bancorp, Inc.",
-        "collected_at": "2026-03-14T02:06:34.737Z",
+        "collected_at": "2026-03-15T02:06:58.876Z",
         "data_start_date": "2016-03-14",
         "price": 53.54999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:TBBK",
-        "market_capitalization": 2259479487.9934335,
+        "market_capitalization": 2259479488,
         "commodity_name": null,
         "display_name": "The Bancorp, Inc.",
         "sma_50": 62.41780006408691,

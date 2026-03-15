@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HBAN",
         "name": "Huntington Bancshares Incorporated",
-        "collected_at": "2026-03-14T02:01:44.955Z",
+        "collected_at": "2026-03-15T02:01:52.916Z",
         "data_start_date": "2016-03-14",
         "price": 15.210000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:HBAN",
-        "market_capitalization": 30873140858.436047,
+        "market_capitalization": 30873141849,
         "commodity_name": null,
         "display_name": "Huntington Bancshares Incorporated",
         "sma_50": 16.513199920654298,

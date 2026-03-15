@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMSF",
         "name": "AMERISAFE, Inc.",
-        "collected_at": "2026-03-14T02:09:42.281Z",
+        "collected_at": "2026-03-15T02:09:58.694Z",
         "data_start_date": "2016-03-14",
         "price": 32.849998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:AMSF",
-        "market_capitalization": 617411770.4799514,
+        "market_capitalization": 617411776,
         "commodity_name": null,
         "display_name": "AMERISAFE, Inc.",
         "sma_50": 42.06539985656738,

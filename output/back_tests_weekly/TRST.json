@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRST",
         "name": "TrustCo Bank Corp NY",
-        "collected_at": "2026-03-14T02:09:05.270Z",
+        "collected_at": "2026-03-15T02:09:22.484Z",
         "data_start_date": "2016-03-14",
         "price": 43.95000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:TRST",
-        "market_capitalization": 809735594.5819899,
+        "market_capitalization": 809735643,
         "commodity_name": null,
         "display_name": "TrustCo Bank Corp NY",
         "sma_50": 37.79080020904541,

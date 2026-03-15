@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IMMX",
         "name": "Immix Biopharma, Inc.",
-        "collected_at": "2026-03-14T02:10:05.487Z",
+        "collected_at": "2026-03-15T02:10:22.167Z",
         "data_start_date": "2021-12-16",
         "price": 10,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:IMMX",
-        "market_capitalization": 529551259.1493571,
+        "market_capitalization": 529551277,
         "commodity_name": null,
         "display_name": "Immix Biopharma, Inc.",
         "sma_50": 6.939799938201904,

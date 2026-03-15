@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AVGO",
         "name": "Broadcom Inc.",
-        "collected_at": "2026-03-14T02:00:08.555Z",
+        "collected_at": "2026-03-15T02:00:14.890Z",
         "data_start_date": "2016-03-14",
         "price": 322.1600036621094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:AVGO",
-        "market_capitalization": 1525320638354.9739,
+        "market_capitalization": 1525320650150.9998,
         "commodity_name": null,
         "display_name": "Broadcom Inc.",
         "sma_50": 305.09279968261717,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YB",
         "name": "Yuanbao Inc.",
-        "collected_at": "2026-03-14T02:08:57.149Z",
+        "collected_at": "2026-03-15T02:09:14.071Z",
         "data_start_date": "2025-04-30",
         "price": 19.219999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:YB",
-        "market_capitalization": 868695494,
+        "market_capitalization": 866441432,
         "commodity_name": null,
         "display_name": "Yuanbao Inc.",
         "sma_50": 19.961799926757813,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NRP",
         "name": "Natural Resource Partners LP Limited Partnership",
-        "collected_at": "2026-03-14T02:07:26.897Z",
+        "collected_at": "2026-03-15T02:07:51.860Z",
         "data_start_date": "2016-03-14",
         "price": 118.08000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Coal",
         "tradingview_id": "NYSE:NRP",
-        "market_capitalization": 1564608695.5156183,
+        "market_capitalization": 1564608672,
         "commodity_name": null,
         "display_name": "Natural Resource Partners LP Limited Partnership",
         "sma_50": 105.08960021972656,

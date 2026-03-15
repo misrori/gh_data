@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GFS",
         "name": "GlobalFoundries Inc.",
-        "collected_at": "2026-03-14T02:02:03.007Z",
+        "collected_at": "2026-03-15T02:02:11.230Z",
         "data_start_date": "2021-10-25",
         "price": 41.86000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:GFS",
-        "market_capitalization": 23269489670.037025,
+        "market_capitalization": 23269489924,
         "commodity_name": null,
         "display_name": "GlobalFoundries Inc.",
         "sma_50": 37.608800392150876,

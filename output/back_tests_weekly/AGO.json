@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AGO",
         "name": "Assured Guaranty Ltd.",
-        "collected_at": "2026-03-14T02:05:23.610Z",
+        "collected_at": "2026-03-15T02:05:38.156Z",
         "data_start_date": "2016-03-14",
         "price": 83.37999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Specialty Insurance",
         "tradingview_id": "NYSE:AGO",
-        "market_capitalization": 3747828244.200312,
+        "market_capitalization": 3747828203.9999995,
         "commodity_name": null,
         "display_name": "Assured Guaranty Ltd.",
         "sma_50": 85.26839965820312,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNK",
         "name": "Cinemark Holdings, Inc.",
-        "collected_at": "2026-03-14T02:05:55.542Z",
+        "collected_at": "2026-03-15T02:06:11.022Z",
         "data_start_date": "2016-03-14",
         "price": 25.780000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NYSE:CNK",
-        "market_capitalization": 2978266482.1449275,
+        "market_capitalization": 2978266482,
         "commodity_name": null,
         "display_name": "Cinemark Holdings, Inc.",
         "sma_50": 27.475199966430665,

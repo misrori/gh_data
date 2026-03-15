@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RUSHA",
         "name": "Rush Enterprises, Inc.",
-        "collected_at": "2026-03-14T02:04:49.656Z",
+        "collected_at": "2026-03-15T02:05:03.054Z",
         "data_start_date": "2016-03-14",
         "price": 61.744998931884766,
         "change": -0.008098895733173076,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NASDAQ:RUSHA",
-        "market_capitalization": 4718768059.273214,
+        "market_capitalization": 4716952773,
         "commodity_name": null,
         "display_name": "Rush Enterprises, Inc.",
         "sma_50": 55.73110000610352,

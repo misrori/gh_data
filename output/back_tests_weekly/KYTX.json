@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KYTX",
         "name": "Kyverna Therapeutics, Inc.",
-        "collected_at": "2026-03-14T02:10:08.384Z",
+        "collected_at": "2026-03-15T02:10:25.148Z",
         "data_start_date": "2024-02-05",
         "price": 8.949999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:KYTX",
-        "market_capitalization": 511309097.4572406,
+        "market_capitalization": 511309060,
         "commodity_name": null,
         "display_name": "Kyverna Therapeutics, Inc.",
         "sma_50": 5.559400002956391,

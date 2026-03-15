@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SIRI",
         "name": "SiriusXM Holdings Inc.",
-        "collected_at": "2026-03-14T02:03:51.552Z",
+        "collected_at": "2026-03-15T02:04:03.697Z",
         "data_start_date": "2016-03-14",
         "price": 21.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Broadcasting",
         "tradingview_id": "NASDAQ:SIRI",
-        "market_capitalization": 7361655659.491227,
+        "market_capitalization": 7361655735,
         "commodity_name": null,
         "display_name": "SiriusXM Holdings Inc.",
         "sma_50": 21.881200103759767,

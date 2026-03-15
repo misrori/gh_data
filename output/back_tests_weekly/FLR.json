@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLR",
         "name": "Fluor Corporation",
-        "collected_at": "2026-03-14T02:04:09.935Z",
+        "collected_at": "2026-03-15T02:04:22.817Z",
         "data_start_date": "2016-03-14",
         "price": 43.02000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:FLR",
-        "market_capitalization": 6305211897.006901,
+        "market_capitalization": 6305212031.000001,
         "commodity_name": null,
         "display_name": "Fluor Corporation",
         "sma_50": 44.12219993591309,

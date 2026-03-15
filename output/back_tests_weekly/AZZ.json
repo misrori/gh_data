@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AZZ",
         "name": "AZZ Inc.",
-        "collected_at": "2026-03-14T02:05:25.380Z",
+        "collected_at": "2026-03-15T02:05:39.897Z",
         "data_start_date": "2016-03-14",
         "price": 123.80000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:AZZ",
-        "market_capitalization": 3696131334.531404,
+        "market_capitalization": 3696131444,
         "commodity_name": null,
         "display_name": "AZZ Inc.",
         "sma_50": 107.39300003051758,

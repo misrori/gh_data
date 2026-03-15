@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PNW",
         "name": "Pinnacle West Capital Corporation",
-        "collected_at": "2026-03-14T02:02:57.759Z",
+        "collected_at": "2026-03-15T02:03:07.083Z",
         "data_start_date": "2016-03-14",
         "price": 102.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:PNW",
-        "market_capitalization": 12442373878.388647,
+        "market_capitalization": 12442373909,
         "commodity_name": null,
         "display_name": "Pinnacle West Capital Corporation",
         "sma_50": 91.75060028076172,

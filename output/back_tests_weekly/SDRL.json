@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SDRL",
         "name": "Seadrill Limited",
-        "collected_at": "2026-03-14T02:06:13.243Z",
+        "collected_at": "2026-03-15T02:06:35.828Z",
         "data_start_date": "2022-10-10",
         "price": 42.900001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Contract Drilling",
         "tradingview_id": "NYSE:SDRL",
-        "market_capitalization": 2668856649.570071,
+        "market_capitalization": 2668856842,
         "commodity_name": null,
         "display_name": "Seadrill Limited",
         "sma_50": 31.278800086975096,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RLX",
         "name": "RLX Technology Inc.",
-        "collected_at": "2026-03-14T02:06:09.306Z",
+        "collected_at": "2026-03-15T02:06:26.445Z",
         "data_start_date": "2021-01-18",
         "price": 2.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Conglomerates",
         "tradingview_id": "NYSE:RLX",
-        "market_capitalization": 2765866969,
+        "market_capitalization": 2741498120,
         "commodity_name": null,
         "display_name": "RLX Technology Inc.",
         "sma_50": 2.275600004196167,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DLO",
         "name": "DLocal Limited",
-        "collected_at": "2026-03-14T02:05:39.141Z",
+        "collected_at": "2026-03-15T02:05:54.558Z",
         "data_start_date": "2021-06-03",
         "price": 11.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:DLO",
-        "market_capitalization": 3342210439.090909,
+        "market_capitalization": 3342210429,
         "commodity_name": null,
         "display_name": "DLocal Limited",
         "sma_50": 13.164400043487548,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WING",
         "name": "Wingstop Inc.",
-        "collected_at": "2026-03-14T02:04:26.240Z",
+        "collected_at": "2026-03-15T02:04:39.318Z",
         "data_start_date": "2016-03-14",
         "price": 203.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NASDAQ:WING",
-        "market_capitalization": 5591460846.318057,
+        "market_capitalization": 5591460896,
         "commodity_name": null,
         "display_name": "Wingstop Inc.",
         "sma_50": 277.4767999267578,

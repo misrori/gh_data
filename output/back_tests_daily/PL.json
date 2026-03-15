@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PL",
         "name": "Planet Labs PBC",
-        "collected_at": "2026-03-14T02:03:35.857Z",
+        "collected_at": "2026-03-15T02:03:46.671Z",
         "data_start_date": "2021-04-26",
         "price": 24.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:PL",
-        "market_capitalization": 8397706667.252302,
+        "market_capitalization": 8397707209,
         "commodity_name": null,
         "display_name": "Planet Labs PBC",
         "sma_50": 24.529400024414063,

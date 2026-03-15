@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTO",
         "name": "H2O America",
-        "collected_at": "2026-03-14T02:06:22.464Z",
+        "collected_at": "2026-03-15T02:06:46.165Z",
         "data_start_date": "2016-03-14",
         "price": 58.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NASDAQ:HTO",
-        "market_capitalization": 2464739228.287308,
+        "market_capitalization": 2464739215,
         "commodity_name": null,
         "display_name": "H2O America",
         "sma_50": 51.24319999694824,

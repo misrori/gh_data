@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SAM",
         "name": "Boston Beer Company, Inc. (The)",
-        "collected_at": "2026-03-14T02:06:24.870Z",
+        "collected_at": "2026-03-15T02:06:48.433Z",
         "data_start_date": "2016-03-14",
         "price": 231.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Alcoholic",
         "tradingview_id": "NYSE:SAM",
-        "market_capitalization": 2418337558.8503494,
+        "market_capitalization": 2418337591,
         "commodity_name": null,
         "display_name": "Boston Beer Company, Inc. (The)",
         "sma_50": 218.24659973144531,

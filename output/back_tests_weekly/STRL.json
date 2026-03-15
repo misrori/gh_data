@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STRL",
         "name": "Sterling Infrastructure, Inc.",
-        "collected_at": "2026-03-14T02:02:58.532Z",
+        "collected_at": "2026-03-15T02:03:07.885Z",
         "data_start_date": "2016-03-14",
         "price": 398.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:STRL",
-        "market_capitalization": 12200032853.864506,
+        "market_capitalization": 12200032813.999998,
         "commodity_name": null,
         "display_name": "Sterling Infrastructure, Inc.",
         "sma_50": 298.2383984375,

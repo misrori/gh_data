@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZWS",
         "name": "Zurn Elkay Water Solutions Corporation",
-        "collected_at": "2026-03-14T02:03:46.193Z",
+        "collected_at": "2026-03-15T02:03:58.033Z",
         "data_start_date": "2016-03-14",
         "price": 45.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:ZWS",
-        "market_capitalization": 7627671436.138027,
+        "market_capitalization": 7627671258,
         "commodity_name": null,
         "display_name": "Zurn Elkay Water Solutions Corporation",
         "sma_50": 43.32219989776611,

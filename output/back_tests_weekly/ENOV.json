@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ENOV",
         "name": "Enovis Corporation",
-        "collected_at": "2026-03-14T02:08:02.165Z",
+        "collected_at": "2026-03-15T02:08:17.655Z",
         "data_start_date": "2016-03-14",
         "price": 22.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:ENOV",
-        "market_capitalization": 1316065560.6186402,
+        "market_capitalization": 1316065582,
         "commodity_name": null,
         "display_name": "Enovis Corporation",
         "sma_50": 29.11859996795654,

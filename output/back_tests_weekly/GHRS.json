@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GHRS",
         "name": "GH Research PLC",
-        "collected_at": "2026-03-14T02:08:49.064Z",
+        "collected_at": "2026-03-15T02:09:05.634Z",
         "data_start_date": "2021-06-21",
         "price": 14.949999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:GHRS",
-        "market_capitalization": 927339498.2119845,
+        "market_capitalization": 927339459,
         "commodity_name": null,
         "display_name": "GH Research PLC",
         "sma_50": 13.542899971008302,

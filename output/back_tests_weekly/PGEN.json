@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PGEN",
         "name": "Precigen, Inc.",
-        "collected_at": "2026-03-14T02:08:10.917Z",
+        "collected_at": "2026-03-15T02:08:26.571Z",
         "data_start_date": "2016-03-14",
         "price": 3.509999990463257,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:PGEN",
-        "market_capitalization": 1241923960.7560976,
+        "market_capitalization": 1241923968,
         "commodity_name": null,
         "display_name": "Precigen, Inc.",
         "sma_50": 3.116400001049042,

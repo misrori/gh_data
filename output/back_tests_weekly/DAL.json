@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DAL",
         "name": "Delta Air Lines, Inc.",
-        "collected_at": "2026-03-14T02:01:32.723Z",
+        "collected_at": "2026-03-15T02:01:40.703Z",
         "data_start_date": "2016-03-14",
         "price": 58.779998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NYSE:DAL",
-        "market_capitalization": 38391020241.0611,
+        "market_capitalization": 38391020354,
         "commodity_name": null,
         "display_name": "Delta Air Lines, Inc.",
         "sma_50": 58.324599609375,

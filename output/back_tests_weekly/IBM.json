@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IBM",
         "name": "International Business Machines Corporation",
-        "collected_at": "2026-03-14T02:00:20.416Z",
+        "collected_at": "2026-03-15T02:00:28.398Z",
         "data_start_date": "2016-03-14",
         "price": 246.27999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:IBM",
-        "market_capitalization": 231019096036.92538,
+        "market_capitalization": 231019101724,
         "commodity_name": null,
         "display_name": "International Business Machines Corporation",
         "sma_50": 274.1682009887695,

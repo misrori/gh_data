@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AAP",
         "name": "Advance Auto Parts Inc.",
-        "collected_at": "2026-03-14T02:05:50.025Z",
+        "collected_at": "2026-03-15T02:06:05.299Z",
         "data_start_date": "2016-03-14",
         "price": 51.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:AAP",
-        "market_capitalization": 3108972911.589442,
+        "market_capitalization": 3108972894,
         "commodity_name": null,
         "display_name": "Advance Auto Parts Inc.",
         "sma_50": 49.982799987792966,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QRVO",
         "name": "Qorvo, Inc.",
-        "collected_at": "2026-03-14T02:03:53.094Z",
+        "collected_at": "2026-03-15T02:04:05.294Z",
         "data_start_date": "2016-03-14",
         "price": 78.12000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:QRVO",
-        "market_capitalization": 7242167479.01841,
+        "market_capitalization": 7242168042.000001,
         "commodity_name": null,
         "display_name": "Qorvo, Inc.",
         "sma_50": 83.02919982910156,

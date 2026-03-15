@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KDP",
         "name": "Keurig Dr Pepper Inc.",
-        "collected_at": "2026-03-14T02:01:33.878Z",
+        "collected_at": "2026-03-15T02:01:41.986Z",
         "data_start_date": "2016-03-14",
         "price": 27.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Non-Alcoholic",
         "tradingview_id": "NASDAQ:KDP",
-        "market_capitalization": 37241035909.883026,
+        "market_capitalization": 37241035281,
         "commodity_name": null,
         "display_name": "Keurig Dr Pepper Inc.",
         "sma_50": 30.21840003967285,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LNT",
         "name": "Alliant Energy Corporation",
-        "collected_at": "2026-03-14T02:02:22.708Z",
+        "collected_at": "2026-03-15T02:02:31.868Z",
         "data_start_date": "2016-03-14",
         "price": 72.79000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:LNT",
-        "market_capitalization": 18717281563.786224,
+        "market_capitalization": 18717281879,
         "commodity_name": null,
         "display_name": "Alliant Energy Corporation",
         "sma_50": 65.49360008239746,

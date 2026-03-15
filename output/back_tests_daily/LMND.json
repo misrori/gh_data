@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LMND",
         "name": "Lemonade, Inc.",
-        "collected_at": "2026-03-14T02:05:07.423Z",
+        "collected_at": "2026-03-15T02:05:20.359Z",
         "data_start_date": "2020-07-02",
         "price": 55.150001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:LMND",
-        "market_capitalization": 4212546563.1357527,
+        "market_capitalization": 4212546728,
         "commodity_name": null,
         "display_name": "Lemonade, Inc.",
         "sma_50": 70.22900001525879,

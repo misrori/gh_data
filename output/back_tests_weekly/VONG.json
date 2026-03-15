@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VONG",
         "name": "Vanguard Russell 1000 Growth ETF",
-        "collected_at": "2026-03-14T02:10:38.089Z",
+        "collected_at": "2026-03-15T02:10:55.583Z",
         "data_start_date": "2016-03-14",
         "price": 112.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:VONG",
-        "market_capitalization": 38999516635.92,
+        "market_capitalization": 38287035900.4,
         "commodity_name": null,
         "display_name": "Vanguard Russell 1000 Growth ETF",
         "sma_50": 113.50799987792969,

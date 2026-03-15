@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DV",
         "name": "DoubleVerify Holdings, Inc.",
-        "collected_at": "2026-03-14T02:07:17.064Z",
+        "collected_at": "2026-03-15T02:07:41.946Z",
         "data_start_date": "2021-04-19",
         "price": 10.210000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:DV",
-        "market_capitalization": 1653897181.387066,
+        "market_capitalization": 1653897242,
         "commodity_name": null,
         "display_name": "DoubleVerify Holdings, Inc.",
         "sma_50": 12.471199970245362,

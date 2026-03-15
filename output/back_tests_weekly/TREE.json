@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TREE",
         "name": "LendingTree, Inc.",
-        "collected_at": "2026-03-14T02:09:59.341Z",
+        "collected_at": "2026-03-15T02:10:16.086Z",
         "data_start_date": "2016-03-14",
         "price": 39.939998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:TREE",
-        "market_capitalization": 553400310.4607645,
+        "market_capitalization": 553400315,
         "commodity_name": null,
         "display_name": "LendingTree, Inc.",
         "sma_50": 50.88719985961914,

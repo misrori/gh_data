@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VRSN",
         "name": "VeriSign, Inc.",
-        "collected_at": "2026-03-14T02:02:09.055Z",
+        "collected_at": "2026-03-15T02:02:17.858Z",
         "data_start_date": "2016-03-14",
         "price": 238.60000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:VRSN",
-        "market_capitalization": 21879618704.264515,
+        "market_capitalization": 21879619832,
         "commodity_name": null,
         "display_name": "VeriSign, Inc.",
         "sma_50": 260.95040222167967,

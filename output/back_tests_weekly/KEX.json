@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KEX",
         "name": "Kirby Corporation",
-        "collected_at": "2026-03-14T02:04:02.805Z",
+        "collected_at": "2026-03-15T02:04:15.743Z",
         "data_start_date": "2016-03-14",
         "price": 124.94999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:KEX",
-        "market_capitalization": 6703067639.642541,
+        "market_capitalization": 6703067525,
         "commodity_name": null,
         "display_name": "Kirby Corporation",
         "sma_50": 107.88300033569335,

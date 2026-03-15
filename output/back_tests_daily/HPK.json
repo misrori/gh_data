@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HPK",
         "name": "HighPeak Energy, Inc.",
-        "collected_at": "2026-03-14T02:09:16.127Z",
+        "collected_at": "2026-03-15T02:09:33.471Z",
         "data_start_date": "2018-05-29",
         "price": 6.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NASDAQ:HPK",
-        "market_capitalization": 759412193.6748682,
+        "market_capitalization": 759412215,
         "commodity_name": null,
         "display_name": "HighPeak Energy, Inc.",
         "sma_50": 4.881400022506714,

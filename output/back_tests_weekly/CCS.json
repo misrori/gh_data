@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCS",
         "name": "Century Communities, Inc.",
-        "collected_at": "2026-03-14T02:07:15.492Z",
+        "collected_at": "2026-03-15T02:07:40.162Z",
         "data_start_date": "2016-03-14",
         "price": 57.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:CCS",
-        "market_capitalization": 1675633769.8715153,
+        "market_capitalization": 1675633779,
         "commodity_name": null,
         "display_name": "Century Communities, Inc.",
         "sma_50": 61.199400100708004,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STOK",
         "name": "Stoke Therapeutics, Inc.",
-        "collected_at": "2026-03-14T02:06:57.805Z",
+        "collected_at": "2026-03-15T02:07:22.218Z",
         "data_start_date": "2019-06-19",
         "price": 33.189998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:STOK",
-        "market_capitalization": 1895718163.00932,
+        "market_capitalization": 1895718109,
         "commodity_name": null,
         "display_name": "Stoke Therapeutics, Inc.",
         "sma_50": 32.778199729919436,

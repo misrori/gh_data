@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FTV",
         "name": "Fortive Corporation",
-        "collected_at": "2026-03-14T02:02:31.352Z",
+        "collected_at": "2026-03-15T02:02:40.320Z",
         "data_start_date": "2016-07-05",
         "price": 54.27000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:FTV",
-        "market_capitalization": 16707518158.14994,
+        "market_capitalization": 16707518485,
         "commodity_name": null,
         "display_name": "Fortive Corporation",
         "sma_50": 56.33180000305176,

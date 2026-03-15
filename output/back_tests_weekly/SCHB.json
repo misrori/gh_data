@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCHB",
         "name": "Schwab U.S. Broad Market ETF",
-        "collected_at": "2026-03-14T02:10:38.568Z",
+        "collected_at": "2026-03-15T02:10:55.806Z",
         "data_start_date": "2016-03-14",
         "price": 25.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SCHB",
-        "market_capitalization": 38104932000,
+        "market_capitalization": 37516448000,
         "commodity_name": null,
         "display_name": "Schwab U.S. Broad Market ETF",
         "sma_50": 24.8457999420166,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHKP",
         "name": "Check Point Software Technologies Ltd.",
-        "collected_at": "2026-03-14T02:02:32.303Z",
+        "collected_at": "2026-03-15T02:02:40.876Z",
         "data_start_date": "2016-03-14",
         "price": 153.64999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:CHKP",
-        "market_capitalization": 16495052762.915972,
+        "market_capitalization": 16495052237,
         "commodity_name": null,
         "display_name": "Check Point Software Technologies Ltd.",
         "sma_50": 196.2895993041992,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IBIT",
         "name": "iShares Bitcoin Trust",
-        "collected_at": "2026-03-14T02:10:30.763Z",
+        "collected_at": "2026-03-15T02:10:47.731Z",
         "data_start_date": "2024-01-11",
         "price": 40.369998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:IBIT",
-        "market_capitalization": 55029352125,
+        "market_capitalization": 54749511370.08,
         "commodity_name": null,
         "display_name": "iShares Bitcoin Trust",
         "sma_50": 44.11349975585937,

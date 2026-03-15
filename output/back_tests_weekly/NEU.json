@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NEU",
         "name": "NewMarket Corp",
-        "collected_at": "2026-03-14T02:04:28.129Z",
+        "collected_at": "2026-03-15T02:04:41.273Z",
         "data_start_date": "2016-03-14",
         "price": 584.6599731445312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:NEU",
-        "market_capitalization": 5494263356.079172,
+        "market_capitalization": 5494262944,
         "commodity_name": null,
         "display_name": "NewMarket Corp",
         "sma_50": 705.3483996582031,

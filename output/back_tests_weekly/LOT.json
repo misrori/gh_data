@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LOT",
         "name": "Lotus Technology Inc.",
-        "collected_at": "2026-03-14T02:09:10.803Z",
+        "collected_at": "2026-03-15T02:09:31.262Z",
         "data_start_date": "2021-05-03",
         "price": 1.1299999952316284,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NASDAQ:LOT",
-        "market_capitalization": 785119058,
+        "market_capitalization": 764814274,
         "commodity_name": null,
         "display_name": "Lotus Technology Inc.",
         "sma_50": 1.7106800031661988,

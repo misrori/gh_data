@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ICLR",
         "name": "ICON plc",
-        "collected_at": "2026-03-14T02:03:48.969Z",
+        "collected_at": "2026-03-15T02:04:00.599Z",
         "data_start_date": "2016-03-14",
         "price": 98.33000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:ICLR",
-        "market_capitalization": 7508471873.007183,
+        "market_capitalization": 7508472248,
         "commodity_name": null,
         "display_name": "ICON plc",
         "sma_50": 156.62980026245117,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AXTI",
         "name": "AXT Inc",
-        "collected_at": "2026-03-14T02:06:11.806Z",
+        "collected_at": "2026-03-15T02:06:34.293Z",
         "data_start_date": "2016-03-14",
         "price": 48.86000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:AXTI",
-        "market_capitalization": 2700695356.3877597,
+        "market_capitalization": 2700695417,
         "commodity_name": null,
         "display_name": "AXT Inc",
         "sma_50": 10.455600039958954,

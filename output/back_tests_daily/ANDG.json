@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANDG",
         "name": "Andersen Group Inc.",
-        "collected_at": "2026-03-14T02:06:18.056Z",
+        "collected_at": "2026-03-15T02:06:41.228Z",
         "data_start_date": "2025-12-17",
         "price": 22.84000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:ANDG",
-        "market_capitalization": 2534155162.384019,
+        "market_capitalization": 2534155108,
         "commodity_name": null,
         "display_name": "Andersen Group Inc.",
         "sma_50": 22.596600036621094,

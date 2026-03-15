@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMCR",
         "name": "Amcor plc",
-        "collected_at": "2026-03-14T02:02:22.371Z",
+        "collected_at": "2026-03-15T02:02:31.588Z",
         "data_start_date": "2016-03-14",
         "price": 40.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:AMCR",
-        "market_capitalization": 18745194284.392513,
+        "market_capitalization": 18745193292,
         "commodity_name": null,
         "display_name": "Amcor plc",
         "sma_50": 44.16639999389648,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARKO",
         "name": "ARKO Corp.",
-        "collected_at": "2026-03-14T02:09:52.403Z",
+        "collected_at": "2026-03-15T02:10:09.394Z",
         "data_start_date": "2019-07-22",
         "price": 5.260000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NASDAQ:ARKO",
-        "market_capitalization": 583288375.2173913,
+        "market_capitalization": 583288405,
         "commodity_name": null,
         "display_name": "ARKO Corp.",
         "sma_50": 4.789999985694886,

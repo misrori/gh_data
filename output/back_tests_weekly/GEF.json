@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GEF",
         "name": "Greif Inc.",
-        "collected_at": "2026-03-14T02:05:34.170Z",
+        "collected_at": "2026-03-15T02:05:50.283Z",
         "data_start_date": "2016-03-14",
         "price": 67.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:GEF",
-        "market_capitalization": 3473861422.892969,
+        "market_capitalization": 3450289708,
         "commodity_name": null,
         "display_name": "Greif Inc.",
         "sma_50": 64.0918000793457,

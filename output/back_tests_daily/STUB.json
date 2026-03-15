@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STUB",
         "name": "StubHub Holdings, Inc.",
-        "collected_at": "2026-03-14T02:06:12.673Z",
+        "collected_at": "2026-03-15T02:06:35.168Z",
         "data_start_date": "2025-09-17",
         "price": 7.519999980926514,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:STUB",
-        "market_capitalization": 2682565345.4195185,
+        "market_capitalization": 2682565384,
         "commodity_name": null,
         "display_name": "StubHub Holdings, Inc.",
         "sma_50": 11.23099998474121,

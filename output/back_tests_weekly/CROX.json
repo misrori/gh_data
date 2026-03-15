@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CROX",
         "name": "Crocs, Inc.",
-        "collected_at": "2026-03-14T02:05:17.682Z",
+        "collected_at": "2026-03-15T02:05:32.207Z",
         "data_start_date": "2016-03-14",
         "price": 77.94999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NASDAQ:CROX",
-        "market_capitalization": 3915708735.2913475,
+        "market_capitalization": 3915708717,
         "commodity_name": null,
         "display_name": "Crocs, Inc.",
         "sma_50": 90.51639907836915,

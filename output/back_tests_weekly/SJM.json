@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SJM",
         "name": "The J.M. Smucker Company",
-        "collected_at": "2026-03-14T02:03:06.799Z",
+        "collected_at": "2026-03-15T02:03:16.114Z",
         "data_start_date": "2016-03-14",
         "price": 106.08000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:SJM",
-        "market_capitalization": 11313254109.844528,
+        "market_capitalization": 11313254305,
         "commodity_name": null,
         "display_name": "The J.M. Smucker Company",
         "sma_50": 107.07920043945313,

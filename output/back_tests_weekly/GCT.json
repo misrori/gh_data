@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GCT",
         "name": "GigaCloud Technology Inc",
-        "collected_at": "2026-03-14T02:07:34.520Z",
+        "collected_at": "2026-03-15T02:08:01.494Z",
         "data_start_date": "2022-08-15",
         "price": 40.95000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NASDAQ:GCT",
-        "market_capitalization": 1499510821.469595,
+        "market_capitalization": 1499510899,
         "commodity_name": null,
         "display_name": "GigaCloud Technology Inc",
         "sma_50": 29.06749984741211,

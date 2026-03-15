@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTS",
         "name": "Watts Water Technologies, Inc.",
-        "collected_at": "2026-03-14T02:03:19.978Z",
+        "collected_at": "2026-03-15T02:03:29.932Z",
         "data_start_date": "2016-03-14",
         "price": 297.79998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:WTS",
-        "market_capitalization": 9928630336.64073,
+        "market_capitalization": 9928629970,
         "commodity_name": null,
         "display_name": "Watts Water Technologies, Inc.",
         "sma_50": 269.5501977539063,

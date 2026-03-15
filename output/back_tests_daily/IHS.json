@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IHS",
         "name": "IHS Holding Limited",
-        "collected_at": "2026-03-14T02:06:10.366Z",
+        "collected_at": "2026-03-15T02:06:32.753Z",
         "data_start_date": "2021-10-14",
         "price": 8.199999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:IHS",
-        "market_capitalization": 2734215726.691176,
+        "market_capitalization": 2734215714,
         "commodity_name": null,
         "display_name": "IHS Holding Limited",
         "sma_50": 7.965799980163574,

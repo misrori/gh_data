@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPOT",
         "name": "Spotify Technology S.A.",
-        "collected_at": "2026-03-14T02:00:43.230Z",
+        "collected_at": "2026-03-15T02:00:51.317Z",
         "data_start_date": "2018-04-03",
         "price": 516.0599975585938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:SPOT",
-        "market_capitalization": 106221937140.52277,
+        "market_capitalization": 106221937401.00002,
         "commodity_name": null,
         "display_name": "Spotify Technology S.A.",
         "sma_50": 504.9072009277344,

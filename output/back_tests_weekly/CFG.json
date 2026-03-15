@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CFG",
         "name": "Citizens Financial Group, Inc.",
-        "collected_at": "2026-03-14T02:02:01.567Z",
+        "collected_at": "2026-03-15T02:02:09.671Z",
         "data_start_date": "2016-03-14",
         "price": 55.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:CFG",
-        "market_capitalization": 23646089302.968037,
+        "market_capitalization": 23646089614,
         "commodity_name": null,
         "display_name": "Citizens Financial Group, Inc.",
         "sma_50": 51.12999984741211,

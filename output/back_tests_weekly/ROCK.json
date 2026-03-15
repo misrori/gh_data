@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROCK",
         "name": "Gibraltar Industries, Inc.",
-        "collected_at": "2026-03-14T02:08:14.126Z",
+        "collected_at": "2026-03-15T02:08:29.394Z",
         "data_start_date": "2016-03-14",
         "price": 41.27000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Metal Fabrication",
         "tradingview_id": "NASDAQ:ROCK",
-        "market_capitalization": 1219407328.5897496,
+        "market_capitalization": 1219407338,
         "commodity_name": null,
         "display_name": "Gibraltar Industries, Inc.",
         "sma_50": 56.92379989624023,

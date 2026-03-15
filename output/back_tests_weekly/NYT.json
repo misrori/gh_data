@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NYT",
         "name": "New York Times Company (The)",
-        "collected_at": "2026-03-14T02:02:53.256Z",
+        "collected_at": "2026-03-15T02:03:02.618Z",
         "data_start_date": "2016-03-14",
         "price": 79.30999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Publishing: Newspapers",
         "tradingview_id": "NYSE:NYT",
-        "market_capitalization": 12787839789.236229,
+        "market_capitalization": 12787839796,
         "commodity_name": null,
         "display_name": "New York Times Company (The)",
         "sma_50": 61.837199935913084,

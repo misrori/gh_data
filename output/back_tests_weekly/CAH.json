@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CAH",
         "name": "Cardinal Health, Inc.",
-        "collected_at": "2026-03-14T02:01:16.316Z",
+        "collected_at": "2026-03-15T02:01:24.446Z",
         "data_start_date": "2016-03-14",
         "price": 217.0800018310547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Medical Distributors",
         "tradingview_id": "NYSE:CAH",
-        "market_capitalization": 51082398492.770645,
+        "market_capitalization": 51082399778,
         "commodity_name": null,
         "display_name": "Cardinal Health, Inc.",
         "sma_50": 177.4438003540039,

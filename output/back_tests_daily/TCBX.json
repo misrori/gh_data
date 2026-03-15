@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TCBX",
         "name": "Third Coast Bancshares, Inc.",
-        "collected_at": "2026-03-14T02:09:42.366Z",
+        "collected_at": "2026-03-15T02:09:58.797Z",
         "data_start_date": "2021-11-09",
         "price": 37.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NYSE:TCBX",
-        "market_capitalization": 615579056.514862,
+        "market_capitalization": 615579054,
         "commodity_name": null,
         "display_name": "Third Coast Bancshares, Inc.",
         "sma_50": 40.02320007324219,

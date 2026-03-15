@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZBRA",
         "name": "Zebra Technologies Corporation",
-        "collected_at": "2026-03-14T02:03:18.756Z",
+        "collected_at": "2026-03-15T02:03:28.417Z",
         "data_start_date": "2016-03-14",
         "price": 202.72000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Processing Hardware",
         "tradingview_id": "NASDAQ:ZBRA",
-        "market_capitalization": 9972142342.97084,
+        "market_capitalization": 9972142254,
         "commodity_name": null,
         "display_name": "Zebra Technologies Corporation",
         "sma_50": 275.6770001220703,

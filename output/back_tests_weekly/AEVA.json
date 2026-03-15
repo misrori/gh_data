@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AEVA",
         "name": "Aeva Technologies, Inc.",
-        "collected_at": "2026-03-14T02:08:51.923Z",
+        "collected_at": "2026-03-15T02:09:08.382Z",
         "data_start_date": "2020-02-24",
         "price": 15.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:AEVA",
-        "market_capitalization": 910811392.993464,
+        "market_capitalization": 910811373,
         "commodity_name": null,
         "display_name": "Aeva Technologies, Inc.",
         "sma_50": 16.15900001525879,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COUR",
         "name": "Coursera, Inc.",
-        "collected_at": "2026-03-14T02:08:36.570Z",
+        "collected_at": "2026-03-15T02:08:53.193Z",
         "data_start_date": "2021-03-29",
         "price": 6.039999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:COUR",
-        "market_capitalization": 1022654103.394958,
+        "market_capitalization": 1022654129,
         "commodity_name": null,
         "display_name": "Coursera, Inc.",
         "sma_50": 8.625399980545044,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PSX",
         "name": "Phillips 66",
-        "collected_at": "2026-03-14T02:01:01.569Z",
+        "collected_at": "2026-03-15T02:01:10.715Z",
         "data_start_date": "2016-03-14",
         "price": 172.74000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NYSE:PSX",
-        "market_capitalization": 69224520309.32861,
+        "market_capitalization": 69224523965.99998,
         "commodity_name": null,
         "display_name": "Phillips 66",
         "sma_50": 132.0464012145996,

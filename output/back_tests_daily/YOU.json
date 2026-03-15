@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YOU",
         "name": "Clear Secure, Inc.",
-        "collected_at": "2026-03-14T02:04:18.150Z",
+        "collected_at": "2026-03-15T02:04:31.145Z",
         "data_start_date": "2021-06-30",
         "price": 44.630001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:YOU",
-        "market_capitalization": 5920629238.799152,
+        "market_capitalization": 5920629199,
         "commodity_name": null,
         "display_name": "Clear Secure, Inc.",
         "sma_50": 37.45259986877441,

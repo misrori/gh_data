@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACMR",
         "name": "ACM Research, Inc.",
-        "collected_at": "2026-03-14T02:05:52.729Z",
+        "collected_at": "2026-03-15T02:06:07.833Z",
         "data_start_date": "2017-11-02",
         "price": 46.380001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:ACMR",
-        "market_capitalization": 3048445702.7806497,
+        "market_capitalization": 3048445742,
         "commodity_name": null,
         "display_name": "ACM Research, Inc.",
         "sma_50": 55.17290000915527,

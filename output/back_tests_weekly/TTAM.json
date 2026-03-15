@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTAM",
         "name": "Titan America SA",
-        "collected_at": "2026-03-14T02:06:02.374Z",
+        "collected_at": "2026-03-15T02:06:18.269Z",
         "data_start_date": "2025-02-03",
         "price": 15.59000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Construction Materials",
         "tradingview_id": "NYSE:TTAM",
-        "market_capitalization": 2874210981.303165,
+        "market_capitalization": 2874210975,
         "commodity_name": null,
         "display_name": "Titan America SA",
         "sma_50": 15.23560001373291,

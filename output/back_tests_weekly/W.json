@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "W",
         "name": "Wayfair Inc.",
-        "collected_at": "2026-03-14T02:03:20.326Z",
+        "collected_at": "2026-03-15T02:03:30.138Z",
         "data_start_date": "2016-03-14",
         "price": 75.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:W",
-        "market_capitalization": 9904150440.815702,
+        "market_capitalization": 9904150728,
         "commodity_name": null,
         "display_name": "Wayfair Inc.",
         "sma_50": 75.60379974365235,

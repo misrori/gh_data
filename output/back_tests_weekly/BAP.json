@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BAP",
         "name": "Credicorp Ltd.",
-        "collected_at": "2026-03-14T02:01:55.813Z",
+        "collected_at": "2026-03-15T02:02:03.690Z",
         "data_start_date": "2016-03-14",
         "price": 325.67999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:BAP",
-        "market_capitalization": 25902339779.66347,
+        "market_capitalization": 25902338225,
         "commodity_name": null,
         "display_name": "Credicorp Ltd.",
         "sma_50": 261.98079803466794,

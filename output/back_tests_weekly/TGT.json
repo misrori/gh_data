@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TGT",
         "name": "Target Corporation",
-        "collected_at": "2026-03-14T02:01:13.719Z",
+        "collected_at": "2026-03-15T02:01:21.795Z",
         "data_start_date": "2016-03-14",
         "price": 117.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:TGT",
-        "market_capitalization": 53138075026.398094,
+        "market_capitalization": 53138073368,
         "commodity_name": null,
         "display_name": "Target Corporation",
         "sma_50": 99.55300018310547,

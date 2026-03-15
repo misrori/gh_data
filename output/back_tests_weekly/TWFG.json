@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TWFG",
         "name": "TWFG, Inc.",
-        "collected_at": "2026-03-14T02:08:25.589Z",
+        "collected_at": "2026-03-15T02:08:41.769Z",
         "data_start_date": "2024-07-15",
         "price": 19.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NASDAQ:TWFG",
-        "market_capitalization": 1112200789.0045989,
+        "market_capitalization": 1112200858,
         "commodity_name": null,
         "display_name": "TWFG, Inc.",
         "sma_50": 28.184300041198732,

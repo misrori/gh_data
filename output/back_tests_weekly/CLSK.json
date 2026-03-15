@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLSK",
         "name": "CleanSpark, Inc.",
-        "collected_at": "2026-03-14T02:06:19.853Z",
+        "collected_at": "2026-03-15T02:06:43.274Z",
         "data_start_date": "2016-11-14",
         "price": 9.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:CLSK",
-        "market_capitalization": 2496148345.9015703,
+        "market_capitalization": 2496148353.9999995,
         "commodity_name": null,
         "display_name": "CleanSpark, Inc.",
         "sma_50": 11.561499938964843,

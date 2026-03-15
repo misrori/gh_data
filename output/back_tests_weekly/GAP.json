@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GAP",
         "name": "Gap, Inc. (The)",
-        "collected_at": "2026-03-14T02:03:31.788Z",
+        "collected_at": "2026-03-15T02:03:42.438Z",
         "data_start_date": "2016-03-14",
         "price": 23.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NYSE:GAP",
-        "market_capitalization": 8643461224.337223,
+        "market_capitalization": 8643461453,
         "commodity_name": null,
         "display_name": "Gap, Inc. (The)",
         "sma_50": 23.66699993133545,

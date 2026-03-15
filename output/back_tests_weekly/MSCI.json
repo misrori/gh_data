@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSCI",
         "name": "MSCI Inc.",
-        "collected_at": "2026-03-14T02:01:29.950Z",
+        "collected_at": "2026-03-15T02:01:38.246Z",
         "data_start_date": "2016-03-14",
         "price": 547.9000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Financial Publishing/Services",
         "tradingview_id": "NYSE:MSCI",
-        "market_capitalization": 40256423133.69945,
+        "market_capitalization": 40256426759,
         "commodity_name": null,
         "display_name": "MSCI Inc.",
         "sma_50": 562.1985998535156,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QBTS",
         "name": "D-Wave Quantum Inc.",
-        "collected_at": "2026-03-14T02:04:05.811Z",
+        "collected_at": "2026-03-15T02:04:18.320Z",
         "data_start_date": "2020-12-11",
         "price": 17.549999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Processing Hardware",
         "tradingview_id": "NYSE:QBTS",
-        "market_capitalization": 6491984974.349413,
+        "market_capitalization": 6491984720,
         "commodity_name": null,
         "display_name": "D-Wave Quantum Inc.",
         "sma_50": 22.410199851989745,

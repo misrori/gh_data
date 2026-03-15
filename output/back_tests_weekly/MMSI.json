@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MMSI",
         "name": "Merit Medical Systems, Inc.",
-        "collected_at": "2026-03-14T02:05:09.109Z",
+        "collected_at": "2026-03-15T02:05:23.367Z",
         "data_start_date": "2016-03-14",
         "price": 69.94999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:MMSI",
-        "market_capitalization": 4157263429.517383,
+        "market_capitalization": 4157263360,
         "commodity_name": null,
         "display_name": "Merit Medical Systems, Inc.",
         "sma_50": 86.5177995300293,

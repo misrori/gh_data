@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SVV",
         "name": "Savers Value Village, Inc.",
-        "collected_at": "2026-03-14T02:08:13.312Z",
+        "collected_at": "2026-03-15T02:08:28.617Z",
         "data_start_date": "2023-06-26",
         "price": 7.880000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:SVV",
-        "market_capitalization": 1221846959.6615386,
+        "market_capitalization": 1221846947,
         "commodity_name": null,
         "display_name": "Savers Value Village, Inc.",
         "sma_50": 10.412999973297119,

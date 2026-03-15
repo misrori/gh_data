@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SOFI",
         "name": "SoFi Technologies, Inc.",
-        "collected_at": "2026-03-14T02:02:06.080Z",
+        "collected_at": "2026-03-15T02:02:15.142Z",
         "data_start_date": "2021-01-04",
         "price": 17.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:SOFI",
-        "market_capitalization": 22648688124.25763,
+        "market_capitalization": 22648687440,
         "commodity_name": null,
         "display_name": "SoFi Technologies, Inc.",
         "sma_50": 21.79680006027222,

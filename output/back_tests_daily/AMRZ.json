@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMRZ",
         "name": "Amrize Ltd",
-        "collected_at": "2026-03-14T02:01:45.021Z",
+        "collected_at": "2026-03-15T02:01:52.990Z",
         "data_start_date": "2025-06-23",
         "price": 55.54999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Construction Materials",
         "tradingview_id": "NYSE:AMRZ",
-        "market_capitalization": 30704482268.182953,
+        "market_capitalization": 30704482263,
         "commodity_name": null,
         "display_name": "Amrize Ltd",
         "sma_50": 57.87359962463379,

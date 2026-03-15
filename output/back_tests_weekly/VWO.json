@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VWO",
         "name": "Vanguard FTSE Emerging Markets ETF",
-        "collected_at": "2026-03-14T02:10:23.988Z",
+        "collected_at": "2026-03-15T02:10:41.142Z",
         "data_start_date": "2016-03-14",
         "price": 54.02000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VWO",
-        "market_capitalization": 113143952173.17,
+        "market_capitalization": 110622431335.5,
         "commodity_name": null,
         "display_name": "Vanguard FTSE Emerging Markets ETF",
         "sma_50": 52.140999984741214,

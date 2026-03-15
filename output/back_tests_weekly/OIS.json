@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OIS",
         "name": "Oil States International, Inc.",
-        "collected_at": "2026-03-14T02:09:22.657Z",
+        "collected_at": "2026-03-15T02:09:39.717Z",
         "data_start_date": "2016-03-14",
         "price": 11.890000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:OIS",
-        "market_capitalization": 715852978.8518213,
+        "market_capitalization": 715853004,
         "commodity_name": null,
         "display_name": "Oil States International, Inc.",
         "sma_50": 6.568200016021729,

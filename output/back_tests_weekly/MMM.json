@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MMM",
         "name": "3M Company",
-        "collected_at": "2026-03-14T02:00:52.647Z",
+        "collected_at": "2026-03-15T02:01:01.208Z",
         "data_start_date": "2016-03-14",
         "price": 150.9600067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Conglomerates",
         "tradingview_id": "NYSE:MMM",
-        "market_capitalization": 79510637097.81085,
+        "market_capitalization": 79510637379,
         "commodity_name": null,
         "display_name": "3M Company",
         "sma_50": 155.8446014404297,

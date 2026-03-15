@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BBAI",
         "name": "BigBear.ai, Inc.",
-        "collected_at": "2026-03-14T02:07:00.020Z",
+        "collected_at": "2026-03-15T02:07:24.585Z",
         "data_start_date": "2021-04-05",
         "price": 3.940000057220459,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:BBAI",
-        "market_capitalization": 1875662901.344913,
+        "market_capitalization": 1875662831,
         "commodity_name": null,
         "display_name": "BigBear.ai, Inc.",
         "sma_50": 5.398200001716614,

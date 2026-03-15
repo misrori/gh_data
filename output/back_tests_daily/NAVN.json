@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NAVN",
         "name": "Navan, Inc.",
-        "collected_at": "2026-03-14T02:06:36.427Z",
+        "collected_at": "2026-03-15T02:07:00.518Z",
         "data_start_date": "2025-10-30",
         "price": 8.899999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:NAVN",
-        "market_capitalization": 2212932222.3986487,
+        "market_capitalization": 2212932099,
         "commodity_name": null,
         "display_name": "Navan, Inc.",
         "sma_50": 12.223299961090088,

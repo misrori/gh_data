@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MHO",
         "name": "M/I Homes, Inc.",
-        "collected_at": "2026-03-14T02:05:40.798Z",
+        "collected_at": "2026-03-15T02:05:56.103Z",
         "data_start_date": "2016-03-14",
         "price": 128.7100067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:MHO",
-        "market_capitalization": 3316561856.697296,
+        "market_capitalization": 3316562093,
         "commodity_name": null,
         "display_name": "M/I Homes, Inc.",
         "sma_50": 128.53680038452148,

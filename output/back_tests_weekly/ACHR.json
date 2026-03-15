@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACHR",
         "name": "Archer Aviation Inc.",
-        "collected_at": "2026-03-14T02:04:58.343Z",
+        "collected_at": "2026-03-15T02:05:11.687Z",
         "data_start_date": "2020-12-14",
         "price": 6.03000020980835,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:ACHR",
-        "market_capitalization": 4489569144.409756,
+        "market_capitalization": 4489569231,
         "commodity_name": null,
         "display_name": "Archer Aviation Inc.",
         "sma_50": 9.086000032424927,

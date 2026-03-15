@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SW",
         "name": "Smurfit WestRock plc",
-        "collected_at": "2026-03-14T02:02:14.020Z",
+        "collected_at": "2026-03-15T02:02:23.153Z",
         "data_start_date": "2016-03-14",
         "price": 39.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:SW",
-        "market_capitalization": 20774144327.32309,
+        "market_capitalization": 20774144806,
         "commodity_name": null,
         "display_name": "Smurfit WestRock plc",
         "sma_50": 42.39539993286133,

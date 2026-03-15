@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MNTN",
         "name": "MNTN, Inc.",
-        "collected_at": "2026-03-14T02:09:24.395Z",
+        "collected_at": "2026-03-15T02:09:41.622Z",
         "data_start_date": "2025-05-22",
         "price": 9.569999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:MNTN",
-        "market_capitalization": 706961858.0152906,
+        "market_capitalization": 706961804.9999999,
         "commodity_name": null,
         "display_name": "MNTN, Inc.",
         "sma_50": 10.220799980163575,

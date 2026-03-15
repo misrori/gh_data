@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XNCR",
         "name": "Xencor, Inc.",
-        "collected_at": "2026-03-14T02:08:55.932Z",
+        "collected_at": "2026-03-15T02:09:12.781Z",
         "data_start_date": "2016-03-14",
         "price": 12,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:XNCR",
-        "market_capitalization": 880063634.1085271,
+        "market_capitalization": 880063660,
         "commodity_name": null,
         "display_name": "Xencor, Inc.",
         "sma_50": 11.293200016021729,

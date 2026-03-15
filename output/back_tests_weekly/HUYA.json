@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HUYA",
         "name": "HUYA Inc.",
-        "collected_at": "2026-03-14T02:09:21.352Z",
+        "collected_at": "2026-03-15T02:09:34.809Z",
         "data_start_date": "2018-05-07",
         "price": 3.369999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:HUYA",
-        "market_capitalization": 721600112,
+        "market_capitalization": 752876867,
         "commodity_name": null,
         "display_name": "HUYA Inc.",
         "sma_50": 3.376199984550476,

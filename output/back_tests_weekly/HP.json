@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HP",
         "name": "Helmerich & Payne, Inc.",
-        "collected_at": "2026-03-14T02:05:30.243Z",
+        "collected_at": "2026-03-15T02:05:44.781Z",
         "data_start_date": "2016-03-14",
         "price": 35.650001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Contract Drilling",
         "tradingview_id": "NYSE:HP",
-        "market_capitalization": 3559634062.051698,
+        "market_capitalization": 3559634375,
         "commodity_name": null,
         "display_name": "Helmerich & Payne, Inc.",
         "sma_50": 24.06600019454956,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COHR",
         "name": "Coherent Corp.",
-        "collected_at": "2026-03-14T02:01:22.517Z",
+        "collected_at": "2026-03-15T02:01:30.767Z",
         "data_start_date": "2016-03-14",
         "price": 242.75999450683594,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NYSE:COHR",
-        "market_capitalization": 45513096484.3251,
+        "market_capitalization": 45513094647.99999,
         "commodity_name": null,
         "display_name": "Coherent Corp.",
         "sma_50": 135.0343985748291,

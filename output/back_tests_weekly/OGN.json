@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OGN",
         "name": "Organon & Co.",
-        "collected_at": "2026-03-14T02:07:17.596Z",
+        "collected_at": "2026-03-15T02:07:42.416Z",
         "data_start_date": "2021-05-10",
         "price": 6.349999904632568,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:OGN",
-        "market_capitalization": 1653004314.8025274,
+        "market_capitalization": 1653004310,
         "commodity_name": null,
         "display_name": "Organon & Co.",
         "sma_50": 8.86840000152588,

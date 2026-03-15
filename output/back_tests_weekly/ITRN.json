@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ITRN",
         "name": "Ituran Location and Control Ltd.",
-        "collected_at": "2026-03-14T02:08:39.275Z",
+        "collected_at": "2026-03-15T02:08:55.828Z",
         "data_start_date": "2016-03-14",
         "price": 49.70000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Specialty Telecommunications",
         "tradingview_id": "NASDAQ:ITRN",
-        "market_capitalization": 988710906.4940321,
+        "market_capitalization": 988710915,
         "commodity_name": null,
         "display_name": "Ituran Location and Control Ltd.",
         "sma_50": 39.85140007019043,

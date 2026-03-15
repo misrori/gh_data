@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRA",
         "name": "ProAssurance Corporation",
-        "collected_at": "2026-03-14T02:08:09.299Z",
+        "collected_at": "2026-03-15T02:08:24.808Z",
         "data_start_date": "2016-03-14",
         "price": 24.6299991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:PRA",
-        "market_capitalization": 1266318024.5767345,
+        "market_capitalization": 1266317981,
         "commodity_name": null,
         "display_name": "ProAssurance Corporation",
         "sma_50": 23.83019989013672,

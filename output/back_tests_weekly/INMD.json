@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INMD",
         "name": "InMode Ltd.",
-        "collected_at": "2026-03-14T02:08:59.066Z",
+        "collected_at": "2026-03-15T02:09:15.533Z",
         "data_start_date": "2019-08-05",
         "price": 13.539999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:INMD",
-        "market_capitalization": 857877482.4278997,
+        "market_capitalization": 857877464,
         "commodity_name": null,
         "display_name": "InMode Ltd.",
         "sma_50": 14.511599941253662,

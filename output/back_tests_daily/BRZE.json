@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BRZE",
         "name": "Braze, Inc.",
-        "collected_at": "2026-03-14T02:06:42.166Z",
+        "collected_at": "2026-03-15T02:07:06.216Z",
         "data_start_date": "2021-11-17",
         "price": 18.770000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:BRZE",
-        "market_capitalization": 2106284822.8649085,
+        "market_capitalization": 2106284883,
         "commodity_name": null,
         "display_name": "Braze, Inc.",
         "sma_50": 21.83050001144409,

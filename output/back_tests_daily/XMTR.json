@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XMTR",
         "name": "Xometry, Inc.",
-        "collected_at": "2026-03-14T02:06:56.459Z",
+        "collected_at": "2026-03-15T02:07:20.724Z",
         "data_start_date": "2021-06-30",
         "price": 36.91999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:XMTR",
-        "market_capitalization": 1913357670.262604,
+        "market_capitalization": 1913357656,
         "commodity_name": null,
         "display_name": "Xometry, Inc.",
         "sma_50": 56.03229972839355,

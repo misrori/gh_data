@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AROW",
         "name": "Arrow Financial Corporation",
-        "collected_at": "2026-03-14T02:10:03.179Z",
+        "collected_at": "2026-03-15T02:10:19.726Z",
         "data_start_date": "2016-03-14",
         "price": 32.47999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:AROW",
-        "market_capitalization": 536298124.2312634,
+        "market_capitalization": 536298139,
         "commodity_name": null,
         "display_name": "Arrow Financial Corporation",
         "sma_50": 29.077399826049806,

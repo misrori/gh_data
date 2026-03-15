@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FBP",
         "name": "First BanCorp. New",
-        "collected_at": "2026-03-14T02:05:45.391Z",
+        "collected_at": "2026-03-15T02:06:00.822Z",
         "data_start_date": "2016-03-14",
         "price": 20.549999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:FBP",
-        "market_capitalization": 3217412078.2557583,
+        "market_capitalization": 3217411935,
         "commodity_name": null,
         "display_name": "First BanCorp. New",
         "sma_50": 20.88819995880127,

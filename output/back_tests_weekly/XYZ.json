@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XYZ",
         "name": "Block, Inc.",
-        "collected_at": "2026-03-14T02:01:36.158Z",
+        "collected_at": "2026-03-15T02:01:43.813Z",
         "data_start_date": "2016-03-14",
         "price": 59.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:XYZ",
-        "market_capitalization": 35819952387.31352,
+        "market_capitalization": 35819952023.00001,
         "commodity_name": null,
         "display_name": "Block, Inc.",
         "sma_50": 65.94240013122558,

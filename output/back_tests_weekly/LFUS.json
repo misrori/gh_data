@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LFUS",
         "name": "Littelfuse, Inc.",
-        "collected_at": "2026-03-14T02:03:38.059Z",
+        "collected_at": "2026-03-15T02:03:48.976Z",
         "data_start_date": "2016-03-14",
         "price": 326.17999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:LFUS",
-        "market_capitalization": 8189620928.179062,
+        "market_capitalization": 8189620806,
         "commodity_name": null,
         "display_name": "Littelfuse, Inc.",
         "sma_50": 255.73279876708983,

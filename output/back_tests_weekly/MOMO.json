@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MOMO",
         "name": "Hello Group Inc.",
-        "collected_at": "2026-03-14T02:08:45.891Z",
+        "collected_at": "2026-03-15T02:09:03.920Z",
         "data_start_date": "2016-03-14",
         "price": 5.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:MOMO",
-        "market_capitalization": 942394374,
+        "market_capitalization": 940823681,
         "commodity_name": null,
         "display_name": "Hello Group Inc.",
         "sma_50": 7.073000011444091,

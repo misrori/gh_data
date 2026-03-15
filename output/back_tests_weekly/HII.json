@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HII",
         "name": "Huntington Ingalls Industries, Inc.",
-        "collected_at": "2026-03-14T02:02:33.655Z",
+        "collected_at": "2026-03-15T02:02:42.225Z",
         "data_start_date": "2016-03-14",
         "price": 415.7099914550781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:HII",
-        "market_capitalization": 16313577410.042454,
+        "market_capitalization": 16313577171,
         "commodity_name": null,
         "display_name": "Huntington Ingalls Industries, Inc.",
         "sma_50": 303.9203982543945,

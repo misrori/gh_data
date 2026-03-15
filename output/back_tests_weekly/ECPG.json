@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ECPG",
         "name": "Encore Capital Group Inc",
-        "collected_at": "2026-03-14T02:07:52.105Z",
+        "collected_at": "2026-03-15T02:08:07.740Z",
         "data_start_date": "2016-03-14",
         "price": 66.70999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:ECPG",
-        "market_capitalization": 1428279219.8110526,
+        "market_capitalization": 1428279265,
         "commodity_name": null,
         "display_name": "Encore Capital Group Inc",
         "sma_50": 46.52680023193359,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MZTI",
         "name": "The Marzetti Company",
-        "collected_at": "2026-03-14T02:05:09.622Z",
+        "collected_at": "2026-03-15T02:05:23.986Z",
         "data_start_date": "2016-03-14",
         "price": 151.4499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NASDAQ:MZTI",
-        "market_capitalization": 4153213317.1085887,
+        "market_capitalization": 4153213317,
         "commodity_name": null,
         "display_name": "The Marzetti Company",
         "sma_50": 170.55160064697264,

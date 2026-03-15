@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABT",
         "name": "Abbott Laboratories",
-        "collected_at": "2026-03-14T02:00:24.449Z",
+        "collected_at": "2026-03-15T02:00:32.687Z",
         "data_start_date": "2016-03-14",
         "price": 108.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:ABT",
-        "market_capitalization": 187721878449.33316,
+        "market_capitalization": 187721877388,
         "commodity_name": null,
         "display_name": "Abbott Laboratories",
         "sma_50": 126.5552001953125,

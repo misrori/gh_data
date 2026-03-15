@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MITK",
         "name": "Mitek Systems, Inc.",
-        "collected_at": "2026-03-14T02:09:39.538Z",
+        "collected_at": "2026-03-15T02:09:55.645Z",
         "data_start_date": "2016-03-14",
         "price": 13.869999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:MITK",
-        "market_capitalization": 628536907.625,
+        "market_capitalization": 628536909.0000001,
         "commodity_name": null,
         "display_name": "Mitek Systems, Inc.",
         "sma_50": 10.152600040435791,

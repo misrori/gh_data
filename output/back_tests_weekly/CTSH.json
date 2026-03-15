@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTSH",
         "name": "Cognizant Technology Solutions Corporation",
-        "collected_at": "2026-03-14T02:01:48.549Z",
+        "collected_at": "2026-03-15T02:01:56.326Z",
         "data_start_date": "2016-03-14",
         "price": 60.369998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:CTSH",
-        "market_capitalization": 28871766566.715267,
+        "market_capitalization": 28871765912,
         "commodity_name": null,
         "display_name": "Cognizant Technology Solutions Corporation",
         "sma_50": 74.28140029907226,

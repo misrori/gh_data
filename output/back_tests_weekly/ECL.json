@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ECL",
         "name": "Ecolab Inc.",
-        "collected_at": "2026-03-14T02:00:54.970Z",
+        "collected_at": "2026-03-15T02:01:03.688Z",
         "data_start_date": "2016-03-14",
         "price": 274.17999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:ECL",
-        "market_capitalization": 77310388427.64464,
+        "market_capitalization": 77310382258,
         "commodity_name": null,
         "display_name": "Ecolab Inc.",
         "sma_50": 269.6540005493164,

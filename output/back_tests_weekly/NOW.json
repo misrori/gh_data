@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NOW",
         "name": "ServiceNow, Inc.",
-        "collected_at": "2026-03-14T02:00:38.956Z",
+        "collected_at": "2026-03-15T02:00:47.105Z",
         "data_start_date": "2016-03-14",
         "price": 113.62000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:NOW",
-        "market_capitalization": 118846521284.34752,
+        "market_capitalization": 118846522873,
         "commodity_name": null,
         "display_name": "ServiceNow, Inc.",
         "sma_50": 167.9689190673828,

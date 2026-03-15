@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NVRI",
         "name": "Enviri Corporation",
-        "collected_at": "2026-03-14T02:07:49.605Z",
+        "collected_at": "2026-03-15T02:08:05.315Z",
         "data_start_date": "2016-03-14",
         "price": 17.84000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Environmental Services",
         "tradingview_id": "NYSE:NVRI",
-        "market_capitalization": 1453059092.0067306,
+        "market_capitalization": 1453059111,
         "commodity_name": null,
         "display_name": "Enviri Corporation",
         "sma_50": 12.833199996948242,

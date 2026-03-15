@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APG",
         "name": "APi Group Corporation",
-        "collected_at": "2026-03-14T02:02:28.213Z",
+        "collected_at": "2026-03-15T02:02:37.402Z",
         "data_start_date": "2020-04-29",
         "price": 39.91999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:APG",
-        "market_capitalization": 17383406400.935757,
+        "market_capitalization": 17383406124,
         "commodity_name": null,
         "display_name": "APi Group Corporation",
         "sma_50": 42.70080024719238,

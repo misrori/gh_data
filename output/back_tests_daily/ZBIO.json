@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZBIO",
         "name": "Zenas BioPharma, Inc.",
-        "collected_at": "2026-03-14T02:08:05.746Z",
+        "collected_at": "2026-03-15T02:08:20.802Z",
         "data_start_date": "2024-09-13",
         "price": 24.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:ZBIO",
-        "market_capitalization": 1290447124.1469386,
+        "market_capitalization": 1290447173,
         "commodity_name": null,
         "display_name": "Zenas BioPharma, Inc.",
         "sma_50": 22.716799983978273,

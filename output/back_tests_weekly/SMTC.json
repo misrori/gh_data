@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMTC",
         "name": "Semtech Corporation",
-        "collected_at": "2026-03-14T02:03:41.732Z",
+        "collected_at": "2026-03-15T02:03:53.303Z",
         "data_start_date": "2016-03-14",
         "price": 84.8499984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:SMTC",
-        "market_capitalization": 7852023954.076251,
+        "market_capitalization": 7852023468.000001,
         "commodity_name": null,
         "display_name": "Semtech Corporation",
         "sma_50": 60.922199745178226,

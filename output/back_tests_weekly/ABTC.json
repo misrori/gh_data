@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABTC",
         "name": "American Bitcoin Corp.",
-        "collected_at": "2026-03-14T02:08:41.754Z",
+        "collected_at": "2026-03-15T02:08:58.605Z",
         "data_start_date": "2018-02-26",
         "price": 1.0399999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:ABTC",
-        "market_capitalization": 964709155.4285713,
+        "market_capitalization": 964709164,
         "commodity_name": null,
         "display_name": "American Bitcoin Corp.",
         "sma_50": 4.043199986219406,

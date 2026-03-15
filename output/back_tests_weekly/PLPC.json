@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLPC",
         "name": "Preformed Line Products Company",
-        "collected_at": "2026-03-14T02:08:07.128Z",
+        "collected_at": "2026-03-15T02:08:22.348Z",
         "data_start_date": "2016-03-14",
         "price": 261.6499938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NASDAQ:PLPC",
-        "market_capitalization": 1281262060.3941114,
+        "market_capitalization": 1281262049,
         "commodity_name": null,
         "display_name": "Preformed Line Products Company",
         "sma_50": 195.78679962158202,

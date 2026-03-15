@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RSP",
         "name": "Invesco S&P 500 Equal Weight ETF",
-        "collected_at": "2026-03-14T02:10:26.299Z",
+        "collected_at": "2026-03-15T02:10:43.579Z",
         "data_start_date": "2016-03-14",
         "price": 193.52000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:RSP",
-        "market_capitalization": 86754406415.148,
+        "market_capitalization": 84875267383.43,
         "commodity_name": null,
         "display_name": "Invesco S&P 500 Equal Weight ETF",
         "sma_50": 187.21699981689454,

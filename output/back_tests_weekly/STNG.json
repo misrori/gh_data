@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STNG",
         "name": "Scorpio Tankers Inc.",
-        "collected_at": "2026-03-14T02:05:36.207Z",
+        "collected_at": "2026-03-15T02:05:51.128Z",
         "data_start_date": "2016-03-14",
         "price": 66.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:STNG",
-        "market_capitalization": 3436531580.045535,
+        "market_capitalization": 3436531642,
         "commodity_name": null,
         "display_name": "Scorpio Tankers Inc.",
         "sma_50": 52.999400253295896,

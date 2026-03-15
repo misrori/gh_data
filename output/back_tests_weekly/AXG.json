@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AXG",
         "name": "Solowin Holdings",
-        "collected_at": "2026-03-14T02:09:29.007Z",
+        "collected_at": "2026-03-15T02:09:46.309Z",
         "data_start_date": "2023-09-04",
         "price": 3.630000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:AXG",
-        "market_capitalization": 683179879.7083333,
+        "market_capitalization": 683179919,
         "commodity_name": null,
         "display_name": "Solowin Holdings",
         "sma_50": 3.1884200096130373,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WMS",
         "name": "Advanced Drainage Systems, Inc.",
-        "collected_at": "2026-03-14T02:03:11.852Z",
+        "collected_at": "2026-03-15T02:03:20.886Z",
         "data_start_date": "2016-03-14",
         "price": 137.27000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NYSE:WMS",
-        "market_capitalization": 10692726736.179316,
+        "market_capitalization": 10692727163,
         "commodity_name": null,
         "display_name": "Advanced Drainage Systems, Inc.",
         "sma_50": 136.76180053710937,

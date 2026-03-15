@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WRLD",
         "name": "World Acceptance Corporation",
-        "collected_at": "2026-03-14T02:09:33.481Z",
+        "collected_at": "2026-03-15T02:09:50.495Z",
         "data_start_date": "2016-03-14",
         "price": 133.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:WRLD",
-        "market_capitalization": 660603745.2425044,
+        "market_capitalization": 660603724.0000001,
         "commodity_name": null,
         "display_name": "World Acceptance Corporation",
         "sma_50": 149.6511996459961,

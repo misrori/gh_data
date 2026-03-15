@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GO",
         "name": "Grocery Outlet Holding Corp.",
-        "collected_at": "2026-03-14T02:09:39.635Z",
+        "collected_at": "2026-03-15T02:09:55.768Z",
         "data_start_date": "2019-06-20",
         "price": 6.400000095367432,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NASDAQ:GO",
-        "market_capitalization": 628179728.4210527,
+        "market_capitalization": 628179746,
         "commodity_name": null,
         "display_name": "Grocery Outlet Holding Corp.",
         "sma_50": 9.186599969863892,

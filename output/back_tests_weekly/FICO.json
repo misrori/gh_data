@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FICO",
         "name": "Fair Isaac Corporation",
-        "collected_at": "2026-03-14T02:01:53.626Z",
+        "collected_at": "2026-03-15T02:02:01.538Z",
         "data_start_date": "2016-03-14",
         "price": 1131.219970703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Financial Publishing/Services",
         "tradingview_id": "NYSE:FICO",
-        "market_capitalization": 26834954050.478924,
+        "market_capitalization": 26834953475,
         "commodity_name": null,
         "display_name": "Fair Isaac Corporation",
         "sma_50": 1640.2861889648439,

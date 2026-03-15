@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CDW",
         "name": "CDW Corporation",
-        "collected_at": "2026-03-14T02:02:39.292Z",
+        "collected_at": "2026-03-15T02:02:47.885Z",
         "data_start_date": "2016-03-14",
         "price": 116.16000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:CDW",
-        "market_capitalization": 14983896009.940077,
+        "market_capitalization": 14983896038.999998,
         "commodity_name": null,
         "display_name": "CDW Corporation",
         "sma_50": 154.00899963378907,

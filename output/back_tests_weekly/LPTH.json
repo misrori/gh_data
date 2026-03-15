@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LPTH",
         "name": "LightPath Technologies, Inc.",
-        "collected_at": "2026-03-14T02:09:46.774Z",
+        "collected_at": "2026-03-15T02:10:03.209Z",
         "data_start_date": "2016-03-14",
         "price": 10.510000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NASDAQ:LPTH",
-        "market_capitalization": 606517431.0291705,
+        "market_capitalization": 606517430,
         "commodity_name": null,
         "display_name": "LightPath Technologies, Inc.",
         "sma_50": 6.548800029754639,

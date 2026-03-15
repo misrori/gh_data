@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TDOC",
         "name": "Teladoc Health, Inc.",
-        "collected_at": "2026-03-14T02:08:42.978Z",
+        "collected_at": "2026-03-15T02:08:59.809Z",
         "data_start_date": "2016-03-14",
         "price": 5.369999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NYSE:TDOC",
-        "market_capitalization": 957988899.4309702,
+        "market_capitalization": 957988855,
         "commodity_name": null,
         "display_name": "Teladoc Health, Inc.",
         "sma_50": 7.152200002670288,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APPF",
         "name": "AppFolio, Inc.",
-        "collected_at": "2026-03-14T02:04:11.677Z",
+        "collected_at": "2026-03-15T02:04:24.523Z",
         "data_start_date": "2016-03-14",
         "price": 172.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:APPF",
-        "market_capitalization": 6208243083.778106,
+        "market_capitalization": 6208243256,
         "commodity_name": null,
         "display_name": "AppFolio, Inc.",
         "sma_50": 231.1027993774414,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AGCC",
         "name": "Agencia Comercial Spirits Ltd",
-        "collected_at": "2026-03-14T02:10:00.558Z",
+        "collected_at": "2026-03-15T02:10:17.133Z",
         "data_start_date": "2025-10-22",
         "price": 15.9399995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Food Distributors",
         "tradingview_id": "NASDAQ:AGCC",
-        "market_capitalization": 547961400.821497,
+        "market_capitalization": 547961382,
         "commodity_name": null,
         "display_name": "Agencia Comercial Spirits Ltd",
         "sma_50": 12.127120056152343,

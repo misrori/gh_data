@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VSNT",
         "name": "Versant Media Group, Inc.",
-        "collected_at": "2026-03-14T02:04:33.207Z",
+        "collected_at": "2026-03-15T02:04:46.162Z",
         "data_start_date": "2025-12-15",
         "price": 37.54999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Cable/Satellite TV",
         "tradingview_id": "NASDAQ:VSNT",
-        "market_capitalization": 5399346552.640106,
+        "market_capitalization": 5399346224,
         "commodity_name": null,
         "display_name": "Versant Media Group, Inc.",
         "sma_50": 33.124900093078615,

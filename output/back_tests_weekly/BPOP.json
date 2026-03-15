@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BPOP",
         "name": "Popular, Inc.",
-        "collected_at": "2026-03-14T02:03:34.252Z",
+        "collected_at": "2026-03-15T02:03:45.256Z",
         "data_start_date": "2016-03-14",
         "price": 130.38499450683594,
         "change": -0.0038383946897213757,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:BPOP",
-        "market_capitalization": 8488624027.974363,
+        "market_capitalization": 8488623987.000001,
         "commodity_name": null,
         "display_name": "Popular, Inc.",
         "sma_50": 117.78189971923828,

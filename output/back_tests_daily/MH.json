@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MH",
         "name": "McGraw Hill, Inc.",
-        "collected_at": "2026-03-14T02:06:15.592Z",
+        "collected_at": "2026-03-15T02:06:38.458Z",
         "data_start_date": "2025-07-24",
         "price": 13.59000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:MH",
-        "market_capitalization": 2595710557.8208094,
+        "market_capitalization": 2595710558,
         "commodity_name": null,
         "display_name": "McGraw Hill, Inc.",
         "sma_50": 14.161400032043456,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NATL",
         "name": "NCR Atleos Corporation",
-        "collected_at": "2026-03-14T02:05:44.645Z",
+        "collected_at": "2026-03-15T02:06:00.093Z",
         "data_start_date": "2023-10-11",
         "price": 44.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Processing Hardware",
         "tradingview_id": "NYSE:NATL",
-        "market_capitalization": 3246532017.179418,
+        "market_capitalization": 3246531894,
         "commodity_name": null,
         "display_name": "NCR Atleos Corporation",
         "sma_50": 40.929600143432616,

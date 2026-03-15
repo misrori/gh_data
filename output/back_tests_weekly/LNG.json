@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LNG",
         "name": "Cheniere Energy, Inc.",
-        "collected_at": "2026-03-14T02:01:13.954Z",
+        "collected_at": "2026-03-15T02:01:22.046Z",
         "data_start_date": "2016-03-14",
         "price": 252.27000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:LNG",
-        "market_capitalization": 53027883838.85467,
+        "market_capitalization": 53027885502,
         "commodity_name": null,
         "display_name": "Cheniere Energy, Inc.",
         "sma_50": 225.43519897460936,

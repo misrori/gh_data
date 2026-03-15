@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EHAB",
         "name": "Enhabit, Inc.",
-        "collected_at": "2026-03-14T02:09:27.010Z",
+        "collected_at": "2026-03-15T02:09:44.048Z",
         "data_start_date": "2022-06-23",
         "price": 13.619999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NYSE:EHAB",
-        "market_capitalization": 690850650.9794117,
+        "market_capitalization": 690850626,
         "commodity_name": null,
         "display_name": "Enhabit, Inc.",
         "sma_50": 11.587999992370605,

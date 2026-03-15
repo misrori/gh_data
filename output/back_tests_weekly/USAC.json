@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "USAC",
         "name": "USA Compression Partners, LP",
-        "collected_at": "2026-03-14T02:05:14.883Z",
+        "collected_at": "2026-03-15T02:05:29.245Z",
         "data_start_date": "2016-03-14",
         "price": 27.6299991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:USAC",
-        "market_capitalization": 4005586482.212477,
+        "market_capitalization": 4005586359.9999995,
         "commodity_name": null,
         "display_name": "USA Compression Partners, LP",
         "sma_50": 24.643599891662596,

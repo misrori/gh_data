@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INDI",
         "name": "indie Semiconductor, Inc.",
-        "collected_at": "2026-03-14T02:09:58.533Z",
+        "collected_at": "2026-03-15T02:10:15.311Z",
         "data_start_date": "2019-09-30",
         "price": 2.4800000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:INDI",
-        "market_capitalization": 554678587.8360656,
+        "market_capitalization": 554678580,
         "commodity_name": null,
         "display_name": "indie Semiconductor, Inc.",
         "sma_50": 3.685900013446808,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NUTX",
         "name": "Nutex Health Inc.",
-        "collected_at": "2026-03-14T02:09:41.980Z",
+        "collected_at": "2026-03-15T02:09:58.036Z",
         "data_start_date": "2022-04-04",
         "price": 88.80000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:NUTX",
-        "market_capitalization": 618789489.6954373,
+        "market_capitalization": 618789495,
         "commodity_name": null,
         "display_name": "Nutex Health Inc.",
         "sma_50": 128.7208999633789,

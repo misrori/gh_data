@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AVAV",
         "name": "AeroVironment, Inc.",
-        "collected_at": "2026-03-14T02:03:15.282Z",
+        "collected_at": "2026-03-15T02:03:24.286Z",
         "data_start_date": "2016-03-14",
         "price": 207.07000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:AVAV",
-        "market_capitalization": 10339831646.272512,
+        "market_capitalization": 10339831774,
         "commodity_name": null,
         "display_name": "AeroVironment, Inc.",
         "sma_50": 255.8024008178711,

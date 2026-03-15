@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NKE",
         "name": "Nike, Inc.",
-        "collected_at": "2026-03-14T02:00:51.473Z",
+        "collected_at": "2026-03-15T02:01:00.238Z",
         "data_start_date": "2016-03-14",
         "price": 53.97999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:NKE",
-        "market_capitalization": 79911108599.79861,
+        "market_capitalization": 79911106346,
         "commodity_name": null,
         "display_name": "Nike, Inc.",
         "sma_50": 65.47699981689453,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SUNC",
         "name": "SunocoCorp LLC",
-        "collected_at": "2026-03-14T02:05:50.472Z",
+        "collected_at": "2026-03-15T02:06:05.901Z",
         "data_start_date": "2025-11-06",
         "price": 60.22999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:SUNC",
-        "market_capitalization": 3102880943.7602034,
+        "market_capitalization": 3102880961,
         "commodity_name": null,
         "display_name": "SunocoCorp LLC",
         "sma_50": 55.69539993286133,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ODFL",
         "name": "Old Dominion Freight Line, Inc.",
-        "collected_at": "2026-03-14T02:01:33.553Z",
+        "collected_at": "2026-03-15T02:01:41.727Z",
         "data_start_date": "2016-03-14",
         "price": 180.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NASDAQ:ODFL",
-        "market_capitalization": 37672933554.55629,
+        "market_capitalization": 37672932381,
         "commodity_name": null,
         "display_name": "Old Dominion Freight Line, Inc.",
         "sma_50": 159.35499938964844,

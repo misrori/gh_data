@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FWRD",
         "name": "Forward Air Corporation",
-        "collected_at": "2026-03-14T02:10:12.335Z",
+        "collected_at": "2026-03-15T02:10:29.396Z",
         "data_start_date": "2016-03-14",
         "price": 15.800000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NASDAQ:FWRD",
-        "market_capitalization": 498557086.80953825,
+        "market_capitalization": 498557077,
         "commodity_name": null,
         "display_name": "Forward Air Corporation",
         "sma_50": 23.665,

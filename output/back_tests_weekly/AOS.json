@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AOS",
         "name": "A.O. Smith Corporation",
-        "collected_at": "2026-03-14T02:03:26.663Z",
+        "collected_at": "2026-03-15T02:03:37.125Z",
         "data_start_date": "2016-03-14",
         "price": 66.83999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:AOS",
-        "market_capitalization": 9243297997.368185,
+        "market_capitalization": 9243297533.000002,
         "commodity_name": null,
         "display_name": "A.O. Smith Corporation",
         "sma_50": 69.49539962768554,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FRSH",
         "name": "Freshworks Inc.",
-        "collected_at": "2026-03-14T02:06:30.174Z",
+        "collected_at": "2026-03-15T02:06:54.292Z",
         "data_start_date": "2021-09-20",
         "price": 8.130000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:FRSH",
-        "market_capitalization": 2310019047.14717,
+        "market_capitalization": 2310019135,
         "commodity_name": null,
         "display_name": "Freshworks Inc.",
         "sma_50": 12.325399980545043,

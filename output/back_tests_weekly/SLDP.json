@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SLDP",
         "name": "Solid Power, Inc.",
-        "collected_at": "2026-03-14T02:09:26.135Z",
+        "collected_at": "2026-03-15T02:09:43.381Z",
         "data_start_date": "2021-05-17",
         "price": 3.1500000953674316,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:SLDP",
-        "market_capitalization": 694821728.671875,
+        "market_capitalization": 694821740,
         "commodity_name": null,
         "display_name": "Solid Power, Inc.",
         "sma_50": 3.769600019454956,

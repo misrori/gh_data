@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KBR",
         "name": "KBR, Inc.",
-        "collected_at": "2026-03-14T02:04:51.935Z",
+        "collected_at": "2026-03-15T02:05:05.156Z",
         "data_start_date": "2016-03-14",
         "price": 36.650001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:KBR",
-        "market_capitalization": 4634984173.854308,
+        "market_capitalization": 4634984251,
         "commodity_name": null,
         "display_name": "KBR, Inc.",
         "sma_50": 46.208800048828124,

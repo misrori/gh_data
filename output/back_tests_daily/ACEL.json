@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACEL",
         "name": "Accel Entertainment, Inc.",
-        "collected_at": "2026-03-14T02:08:50.172Z",
+        "collected_at": "2026-03-15T02:09:07.001Z",
         "data_start_date": "2017-08-24",
         "price": 11.289999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NYSE:ACEL",
-        "market_capitalization": 920892109.1952295,
+        "market_capitalization": 920892131,
         "commodity_name": null,
         "display_name": "Accel Entertainment, Inc.",
         "sma_50": 11.339599952697753,

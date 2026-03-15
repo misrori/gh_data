@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ECG",
         "name": "Everus Construction Group, Inc.",
-        "collected_at": "2026-03-14T02:04:22.191Z",
+        "collected_at": "2026-03-15T02:04:34.969Z",
         "data_start_date": "2024-10-28",
         "price": 112.5999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:ECG",
-        "market_capitalization": 5743356426.120605,
+        "market_capitalization": 5743356333,
         "commodity_name": null,
         "display_name": "Everus Construction Group, Inc.",
         "sma_50": 79.33779975891113,

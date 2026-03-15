@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SFD",
         "name": "Smithfield Foods, Inc.",
-        "collected_at": "2026-03-14T02:03:27.079Z",
+        "collected_at": "2026-03-15T02:03:37.538Z",
         "data_start_date": "2025-01-28",
         "price": 23.420000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Meat/Fish/Dairy",
         "tradingview_id": "NASDAQ:SFD",
-        "market_capitalization": 9206700512.302097,
+        "market_capitalization": 9206700212,
         "commodity_name": null,
         "display_name": "Smithfield Foods, Inc.",
         "sma_50": 23.85619998931885,

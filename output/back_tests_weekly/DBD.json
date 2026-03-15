@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DBD",
         "name": "Diebold Nixdorf Incorporated",
-        "collected_at": "2026-03-14T02:06:17.991Z",
+        "collected_at": "2026-03-15T02:06:41.163Z",
         "data_start_date": "2023-08-14",
         "price": 72.4800033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:DBD",
-        "market_capitalization": 2549341913.84834,
+        "market_capitalization": 2549341946.9999995,
         "commodity_name": null,
         "display_name": "Diebold Nixdorf Incorporated",
         "sma_50": 60.61020011901856,

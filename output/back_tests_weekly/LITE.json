@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LITE",
         "name": "Lumentum Holdings Inc.",
-        "collected_at": "2026-03-14T02:01:24.148Z",
+        "collected_at": "2026-03-15T02:01:32.179Z",
         "data_start_date": "2016-03-14",
         "price": 622.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:LITE",
-        "market_capitalization": 44446502887.73555,
+        "market_capitalization": 44446500950,
         "commodity_name": null,
         "display_name": "Lumentum Holdings Inc.",
         "sma_50": 238.00829902648925,

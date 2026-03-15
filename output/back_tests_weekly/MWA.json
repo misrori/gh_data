@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MWA",
         "name": "MUELLER WATER PRODUCTS",
-        "collected_at": "2026-03-14T02:05:03.006Z",
+        "collected_at": "2026-03-15T02:05:15.931Z",
         "data_start_date": "2016-03-14",
         "price": 27.739999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:MWA",
-        "market_capitalization": 4338128768.363505,
+        "market_capitalization": 4338128601,
         "commodity_name": null,
         "display_name": "MUELLER WATER PRODUCTS",
         "sma_50": 25.663800010681154,

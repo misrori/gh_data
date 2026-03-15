@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMR",
         "name": "NuScale Power Corporation",
-        "collected_at": "2026-03-14T02:05:15.707Z",
+        "collected_at": "2026-03-15T02:05:29.670Z",
         "data_start_date": "2022-02-28",
         "price": 11.800000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:SMR",
-        "market_capitalization": 3988592823.639456,
+        "market_capitalization": 3988592811,
         "commodity_name": null,
         "display_name": "NuScale Power Corporation",
         "sma_50": 27.84160005569458,

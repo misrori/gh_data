@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ESAB",
         "name": "ESAB Corporation",
-        "collected_at": "2026-03-14T02:04:17.509Z",
+        "collected_at": "2026-03-15T02:04:30.429Z",
         "data_start_date": "2022-03-28",
         "price": 97.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:ESAB",
-        "market_capitalization": 5947162499.404731,
+        "market_capitalization": 5947162606,
         "commodity_name": null,
         "display_name": "ESAB Corporation",
         "sma_50": 118.56159973144531,

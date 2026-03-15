@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CVSA",
         "name": "Covista Inc.",
-        "collected_at": "2026-03-14T02:05:27.450Z",
+        "collected_at": "2026-03-15T02:05:41.894Z",
         "data_start_date": "2016-03-14",
         "price": 105.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:CVSA",
-        "market_capitalization": 3627190623.442026,
+        "market_capitalization": 3627190771.9999995,
         "commodity_name": null,
         "display_name": "Covista Inc.",
         "sma_50": 117.27620010375976,

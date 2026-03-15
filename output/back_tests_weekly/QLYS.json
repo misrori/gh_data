@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QLYS",
         "name": "Qualys, Inc.",
-        "collected_at": "2026-03-14T02:05:30.912Z",
+        "collected_at": "2026-03-15T02:05:45.358Z",
         "data_start_date": "2016-03-14",
         "price": 99.70999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:QLYS",
-        "market_capitalization": 3557246524.1568203,
+        "market_capitalization": 3557246570,
         "commodity_name": null,
         "display_name": "Qualys, Inc.",
         "sma_50": 130.26100006103516,

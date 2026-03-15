@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KMPR",
         "name": "Kemper Corporation",
-        "collected_at": "2026-03-14T02:07:08.544Z",
+        "collected_at": "2026-03-15T02:07:33.021Z",
         "data_start_date": "2016-03-14",
         "price": 29.719999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:KMPR",
-        "market_capitalization": 1744997523.4166093,
+        "market_capitalization": 1744997520,
         "commodity_name": null,
         "display_name": "Kemper Corporation",
         "sma_50": 48.93960033416748,

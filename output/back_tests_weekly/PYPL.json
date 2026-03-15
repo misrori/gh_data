@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PYPL",
         "name": "PayPal Holdings, Inc.",
-        "collected_at": "2026-03-14T02:01:27.372Z",
+        "collected_at": "2026-03-15T02:01:36.021Z",
         "data_start_date": "2016-03-14",
         "price": 44.900001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:PYPL",
-        "market_capitalization": 41337838899.26736,
+        "market_capitalization": 41337839735.00001,
         "commodity_name": null,
         "display_name": "PayPal Holdings, Inc.",
         "sma_50": 63.40860015869141,

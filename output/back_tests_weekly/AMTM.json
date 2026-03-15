@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMTM",
         "name": "Amentum Holdings, Inc.",
-        "collected_at": "2026-03-14T02:04:00.012Z",
+        "collected_at": "2026-03-15T02:04:12.409Z",
         "data_start_date": "2024-09-23",
         "price": 27.899999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:AMTM",
-        "market_capitalization": 6805791114.460714,
+        "market_capitalization": 6805791022,
         "commodity_name": null,
         "display_name": "Amentum Holdings, Inc.",
         "sma_50": 25.766199913024902,

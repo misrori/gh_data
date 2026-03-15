@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPB",
         "name": "The Campbell's Company",
-        "collected_at": "2026-03-14T02:04:06.510Z",
+        "collected_at": "2026-03-15T02:04:18.888Z",
         "data_start_date": "2016-03-14",
         "price": 21.709999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NASDAQ:CPB",
-        "market_capitalization": 6472760724.579216,
+        "market_capitalization": 6472760565,
         "commodity_name": null,
         "display_name": "The Campbell's Company",
         "sma_50": 30.94319995880127,

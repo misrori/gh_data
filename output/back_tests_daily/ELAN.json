@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ELAN",
         "name": "Elanco Animal Health Incorporated",
-        "collected_at": "2026-03-14T02:03:06.045Z",
+        "collected_at": "2026-03-15T02:03:15.392Z",
         "data_start_date": "2018-09-20",
         "price": 22.940000534057617,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NYSE:ELAN",
-        "market_capitalization": 11405035456.41358,
+        "market_capitalization": 11405035569,
         "commodity_name": null,
         "display_name": "Elanco Animal Health Incorporated",
         "sma_50": 24.432600135803224,

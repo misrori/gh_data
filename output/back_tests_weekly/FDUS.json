@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FDUS",
         "name": "Fidus Investment Corporation",
-        "collected_at": "2026-03-14T02:09:30.906Z",
+        "collected_at": "2026-03-15T02:09:48.365Z",
         "data_start_date": "2016-03-14",
         "price": 17.670000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NASDAQ:FDUS",
-        "market_capitalization": 670653634.1266892,
+        "market_capitalization": 670653628,
         "commodity_name": null,
         "display_name": "Fidus Investment Corporation",
         "sma_50": 19.85660011291504,

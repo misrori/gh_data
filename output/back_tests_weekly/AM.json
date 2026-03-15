@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AM",
         "name": "Antero Midstream Corporation",
-        "collected_at": "2026-03-14T02:03:08.933Z",
+        "collected_at": "2026-03-15T02:03:18.069Z",
         "data_start_date": "2017-05-01",
         "price": 23.139999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:AM",
-        "market_capitalization": 10947094375.444199,
+        "market_capitalization": 10947093903.999998,
         "commodity_name": null,
         "display_name": "Antero Midstream Corporation",
         "sma_50": 18.63,

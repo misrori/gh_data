@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RMR",
         "name": "The RMR Group Inc.",
-        "collected_at": "2026-03-14T02:10:07.407Z",
+        "collected_at": "2026-03-15T02:10:24.123Z",
         "data_start_date": "2016-03-14",
         "price": 16.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NASDAQ:RMR",
-        "market_capitalization": 519663055.58230954,
+        "market_capitalization": 519663004,
         "commodity_name": null,
         "display_name": "The RMR Group Inc.",
         "sma_50": 15.945799884796143,

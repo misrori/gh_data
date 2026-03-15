@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPRT",
         "name": "Copart, Inc.",
-        "collected_at": "2026-03-14T02:01:40.407Z",
+        "collected_at": "2026-03-15T02:01:48.296Z",
         "data_start_date": "2016-03-14",
         "price": 34.09000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NASDAQ:CPRT",
-        "market_capitalization": 32839182818.10657,
+        "market_capitalization": 32839181785,
         "commodity_name": null,
         "display_name": "Copart, Inc.",
         "sma_50": 45.554600143432616,

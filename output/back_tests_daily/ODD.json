@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ODD",
         "name": "ODDITY Tech Ltd.",
-        "collected_at": "2026-03-14T02:09:10.899Z",
+        "collected_at": "2026-03-15T02:09:27.659Z",
         "data_start_date": "2023-07-19",
         "price": 13.619999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ODD",
-        "market_capitalization": 782317419.564179,
+        "market_capitalization": 782317436,
         "commodity_name": null,
         "display_name": "ODDITY Tech Ltd.",
         "sma_50": 27.54890016555786,

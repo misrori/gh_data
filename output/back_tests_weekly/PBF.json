@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PBF",
         "name": "PBF Energy Inc.",
-        "collected_at": "2026-03-14T02:04:39.780Z",
+        "collected_at": "2026-03-15T02:04:52.613Z",
         "data_start_date": "2016-03-14",
         "price": 43.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NYSE:PBF",
-        "market_capitalization": 5086316592.567567,
+        "market_capitalization": 5086316810,
         "commodity_name": null,
         "display_name": "PBF Energy Inc.",
         "sma_50": 28.29060007095337,

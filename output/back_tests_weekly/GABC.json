@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GABC",
         "name": "German American Bancorp, Inc.",
-        "collected_at": "2026-03-14T02:07:34.069Z",
+        "collected_at": "2026-03-15T02:08:00.217Z",
         "data_start_date": "2016-03-14",
         "price": 40.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:GABC",
-        "market_capitalization": 1502486139.3637156,
+        "market_capitalization": 1505652433,
         "commodity_name": null,
         "display_name": "German American Bancorp, Inc.",
         "sma_50": 39.6297998046875,

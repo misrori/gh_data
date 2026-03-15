@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AEBI",
         "name": "Aebi Schmidt Holding AG",
-        "collected_at": "2026-03-14T02:08:34.975Z",
+        "collected_at": "2026-03-15T02:08:51.472Z",
         "data_start_date": "2025-07-02",
         "price": 13.359999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NASDAQ:AEBI",
-        "market_capitalization": 1033286193.1907254,
+        "market_capitalization": 1033286176,
         "commodity_name": null,
         "display_name": "Aebi Schmidt Holding AG",
         "sma_50": 14.438200073242188,

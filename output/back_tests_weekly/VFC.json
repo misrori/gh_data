@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VFC",
         "name": "V.F. Corporation",
-        "collected_at": "2026-03-14T02:04:11.023Z",
+        "collected_at": "2026-03-15T02:04:23.898Z",
         "data_start_date": "2016-03-14",
         "price": 15.960000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:VFC",
-        "market_capitalization": 6244562951.274809,
+        "market_capitalization": 6244562860,
         "commodity_name": null,
         "display_name": "V.F. Corporation",
         "sma_50": 15.186799907684327,

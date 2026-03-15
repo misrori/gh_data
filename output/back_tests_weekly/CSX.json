@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSX",
         "name": "CSX Corporation",
-        "collected_at": "2026-03-14T02:00:58.803Z",
+        "collected_at": "2026-03-15T02:01:07.486Z",
         "data_start_date": "2016-03-14",
         "price": 39.29999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Railroads",
         "tradingview_id": "NASDAQ:CSX",
-        "market_capitalization": 73080583048.6461,
+        "market_capitalization": 73080579355,
         "commodity_name": null,
         "display_name": "CSX Corporation",
         "sma_50": 34.835999755859376,

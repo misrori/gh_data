@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OFG",
         "name": "OFG Bancorp",
-        "collected_at": "2026-03-14T02:07:13.582Z",
+        "collected_at": "2026-03-15T02:07:38.413Z",
         "data_start_date": "2016-03-14",
         "price": 39.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:OFG",
-        "market_capitalization": 1691956233.112755,
+        "market_capitalization": 1691956240,
         "commodity_name": null,
         "display_name": "OFG Bancorp",
         "sma_50": 41.40760009765625,

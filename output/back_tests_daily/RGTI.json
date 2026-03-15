@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RGTI",
         "name": "Rigetti Computing, Inc.",
-        "collected_at": "2026-03-14T02:04:33.756Z",
+        "collected_at": "2026-03-15T02:04:46.766Z",
         "data_start_date": "2021-04-22",
         "price": 16.170000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Processing Hardware",
         "tradingview_id": "NASDAQ:RGTI",
-        "market_capitalization": 5370874674.739265,
+        "market_capitalization": 5370874803,
         "commodity_name": null,
         "display_name": "Rigetti Computing, Inc.",
         "sma_50": 19.62109992980957,

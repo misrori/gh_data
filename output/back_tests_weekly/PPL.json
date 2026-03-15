@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PPL",
         "name": "PPL Corporation",
-        "collected_at": "2026-03-14T02:01:48.332Z",
+        "collected_at": "2026-03-15T02:01:56.124Z",
         "data_start_date": "2016-03-14",
         "price": 38.5099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:PPL",
-        "market_capitalization": 28932825549.789856,
+        "market_capitalization": 28932824521,
         "commodity_name": null,
         "display_name": "PPL Corporation",
         "sma_50": 35.96479995727539,

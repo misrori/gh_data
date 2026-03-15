@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CMS",
         "name": "CMS Energy Corporation",
-        "collected_at": "2026-03-14T02:02:01.137Z",
+        "collected_at": "2026-03-15T02:02:09.241Z",
         "data_start_date": "2016-03-14",
         "price": 77.83000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:CMS",
-        "market_capitalization": 23848738146.244335,
+        "market_capitalization": 23848739086.000004,
         "commodity_name": null,
         "display_name": "CMS Energy Corporation",
         "sma_50": 72.48260025024415,

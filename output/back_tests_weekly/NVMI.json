@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NVMI",
         "name": "Nova Ltd.",
-        "collected_at": "2026-03-14T02:02:46.463Z",
+        "collected_at": "2026-03-15T02:02:55.477Z",
         "data_start_date": "2016-03-14",
         "price": 428.6000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NASDAQ:NVMI",
-        "market_capitalization": 13622181467.713696,
+        "market_capitalization": 13622182137,
         "commodity_name": null,
         "display_name": "Nova Ltd.",
         "sma_50": 306.615400390625,

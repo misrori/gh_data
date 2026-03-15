@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TNGX",
         "name": "Tango Therapeutics, Inc.",
-        "collected_at": "2026-03-14T02:06:21.965Z",
+        "collected_at": "2026-03-15T02:06:45.330Z",
         "data_start_date": "2020-08-31",
         "price": 17.299999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:TNGX",
-        "market_capitalization": 2468516924.938776,
+        "market_capitalization": 2468516871,
         "commodity_name": null,
         "display_name": "Tango Therapeutics, Inc.",
         "sma_50": 7.796499998569488,

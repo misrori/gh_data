@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMTB",
         "name": "Amerant Bancorp Inc.",
-        "collected_at": "2026-03-14T02:09:02.088Z",
+        "collected_at": "2026-03-15T02:09:19.044Z",
         "data_start_date": "2018-10-18",
         "price": 20.670000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:AMTB",
-        "market_capitalization": 831573639.1305596,
+        "market_capitalization": 831573648,
         "commodity_name": null,
         "display_name": "Amerant Bancorp Inc.",
         "sma_50": 21.510199966430665,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RLAY",
         "name": "Relay Therapeutics, Inc.",
-        "collected_at": "2026-03-14T02:07:02.400Z",
+        "collected_at": "2026-03-15T02:07:26.720Z",
         "data_start_date": "2020-07-16",
         "price": 10.359999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:RLAY",
-        "market_capitalization": 1851599474.578199,
+        "market_capitalization": 1851599380,
         "commodity_name": null,
         "display_name": "Relay Therapeutics, Inc.",
         "sma_50": 8.75939998626709,

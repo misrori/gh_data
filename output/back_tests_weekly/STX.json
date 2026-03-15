@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STX",
         "name": "Seagate Technology Holdings PLC",
-        "collected_at": "2026-03-14T02:00:48.789Z",
+        "collected_at": "2026-03-15T02:00:57.608Z",
         "data_start_date": "2016-03-14",
         "price": 383.7099914550781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Peripherals",
         "tradingview_id": "NASDAQ:STX",
-        "market_capitalization": 83676815958.19296,
+        "market_capitalization": 83676811637,
         "commodity_name": null,
         "display_name": "Seagate Technology Holdings PLC",
         "sma_50": 226.7531997680664,

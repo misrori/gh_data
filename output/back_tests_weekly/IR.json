@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IR",
         "name": "Ingersoll Rand Inc.",
-        "collected_at": "2026-03-14T02:01:41.875Z",
+        "collected_at": "2026-03-15T02:01:49.717Z",
         "data_start_date": "2017-05-08",
         "price": 82.12999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:IR",
-        "market_capitalization": 32163586556.530987,
+        "market_capitalization": 32163586207,
         "commodity_name": null,
         "display_name": "Ingersoll Rand Inc.",
         "sma_50": 82.09379989624023,

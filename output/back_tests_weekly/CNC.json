@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNC",
         "name": "Centene Corporation",
-        "collected_at": "2026-03-14T02:02:30.121Z",
+        "collected_at": "2026-03-15T02:02:39.136Z",
         "data_start_date": "2016-03-14",
         "price": 34.45000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Managed Health Care",
         "tradingview_id": "NYSE:CNC",
-        "market_capitalization": 16941510665.989296,
+        "market_capitalization": 16941511191,
         "commodity_name": null,
         "display_name": "Centene Corporation",
         "sma_50": 41.558600158691405,

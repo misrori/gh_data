@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLY",
         "name": "Firefly Aerospace Inc.",
-        "collected_at": "2026-03-14T02:05:23.944Z",
+        "collected_at": "2026-03-15T02:05:38.434Z",
         "data_start_date": "2025-08-07",
         "price": 23.469999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:FLY",
-        "market_capitalization": 3737623927.2402067,
+        "market_capitalization": 3737623892,
         "commodity_name": null,
         "display_name": "Firefly Aerospace Inc.",
         "sma_50": 24.25909996032715,

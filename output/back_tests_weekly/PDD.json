@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PDD",
         "name": "PDD Holdings Inc.",
-        "collected_at": "2026-03-14T02:00:32.420Z",
+        "collected_at": "2026-03-15T02:00:40.883Z",
         "data_start_date": "2018-07-23",
         "price": 102.6500015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Department Stores",
         "tradingview_id": "NASDAQ:PDD",
-        "market_capitalization": 141469927292,
+        "market_capitalization": 142903836449,
         "commodity_name": null,
         "display_name": "PDD Holdings Inc.",
         "sma_50": 113.27420043945312,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OKLO",
         "name": "Oklo Inc.",
-        "collected_at": "2026-03-14T02:03:28.244Z",
+        "collected_at": "2026-03-15T02:03:38.763Z",
         "data_start_date": "2021-07-08",
         "price": 58.369998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:OKLO",
-        "market_capitalization": 9120142408.115622,
+        "market_capitalization": 9120142218,
         "commodity_name": null,
         "display_name": "Oklo Inc.",
         "sma_50": 75.89419967651367,

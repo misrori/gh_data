@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GDRX",
         "name": "GoodRx Holdings, Inc.",
-        "collected_at": "2026-03-14T02:09:13.676Z",
+        "collected_at": "2026-03-15T02:09:30.599Z",
         "data_start_date": "2020-09-21",
         "price": 2.240000009536743,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:GDRX",
-        "market_capitalization": 767366894.1900452,
+        "market_capitalization": 767366884,
         "commodity_name": null,
         "display_name": "GoodRx Holdings, Inc.",
         "sma_50": 3.593399999141693,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXLS",
         "name": "ExlService Holdings, Inc.",
-        "collected_at": "2026-03-14T02:04:51.695Z",
+        "collected_at": "2026-03-15T02:05:04.891Z",
         "data_start_date": "2016-03-14",
         "price": 29.639999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:EXLS",
-        "market_capitalization": 4635212651.511276,
+        "market_capitalization": 4635212699,
         "commodity_name": null,
         "display_name": "ExlService Holdings, Inc.",
         "sma_50": 41.31579986572265,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GPC",
         "name": "Genuine Parts Company",
-        "collected_at": "2026-03-14T02:02:40.255Z",
+        "collected_at": "2026-03-15T02:02:48.940Z",
         "data_start_date": "2016-03-14",
         "price": 105.73999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:GPC",
-        "market_capitalization": 14552162846.07401,
+        "market_capitalization": 14552162261,
         "commodity_name": null,
         "display_name": "Genuine Parts Company",
         "sma_50": 128.12019989013672,

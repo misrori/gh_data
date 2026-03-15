@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IVZ",
         "name": "Invesco Ltd",
-        "collected_at": "2026-03-14T02:03:16.389Z",
+        "collected_at": "2026-03-15T02:03:25.503Z",
         "data_start_date": "2016-03-14",
         "price": 23,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:IVZ",
-        "market_capitalization": 10204496472.96943,
+        "market_capitalization": 10204496643,
         "commodity_name": null,
         "display_name": "Invesco Ltd",
         "sma_50": 21.54540002822876,

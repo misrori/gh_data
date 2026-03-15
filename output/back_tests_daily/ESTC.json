@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ESTC",
         "name": "Elastic N.V.",
-        "collected_at": "2026-03-14T02:04:34.362Z",
+        "collected_at": "2026-03-15T02:04:47.307Z",
         "data_start_date": "2018-10-05",
         "price": 51.4900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:ESTC",
-        "market_capitalization": 5329266933.192456,
+        "market_capitalization": 5329267028.000001,
         "commodity_name": null,
         "display_name": "Elastic N.V.",
         "sma_50": 63.49919998168945,

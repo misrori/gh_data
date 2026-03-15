@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARDX",
         "name": "Ardelyx, Inc.",
-        "collected_at": "2026-03-14T02:07:52.944Z",
+        "collected_at": "2026-03-15T02:08:08.516Z",
         "data_start_date": "2016-03-14",
         "price": 5.78000020980835,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ARDX",
-        "market_capitalization": 1417530056.7597175,
+        "market_capitalization": 1417530146,
         "commodity_name": null,
         "display_name": "Ardelyx, Inc.",
         "sma_50": 5.431700029373169,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BEPC",
         "name": "Brookfield Renewable Corporation",
-        "collected_at": "2026-03-14T02:04:23.108Z",
+        "collected_at": "2026-03-15T02:04:36.031Z",
         "data_start_date": "2020-07-20",
         "price": 39.220001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:BEPC",
-        "market_capitalization": 5707308246.667323,
+        "market_capitalization": 5707308510,
         "commodity_name": null,
         "display_name": "Brookfield Renewable Corporation",
         "sma_50": 36.16940006256104,

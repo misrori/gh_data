@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MFI",
         "name": "mF International Limited",
-        "collected_at": "2026-03-14T02:09:47.606Z",
+        "collected_at": "2026-03-15T02:10:04.041Z",
         "data_start_date": "2024-04-22",
         "price": 12,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:MFI",
-        "market_capitalization": 602117488.1050041,
+        "market_capitalization": 602117509,
         "commodity_name": null,
         "display_name": "mF International Limited",
         "sma_50": 21.931040029525757,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ORI",
         "name": "Old Republic International Corporation",
-        "collected_at": "2026-03-14T02:03:20.978Z",
+        "collected_at": "2026-03-15T02:03:31.129Z",
         "data_start_date": "2016-03-14",
         "price": 40.099998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Specialty Insurance",
         "tradingview_id": "NYSE:ORI",
-        "market_capitalization": 9853785677.615,
+        "market_capitalization": 9853785303,
         "commodity_name": null,
         "display_name": "Old Republic International Corporation",
         "sma_50": 40.32219985961914,

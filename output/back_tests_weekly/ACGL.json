@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACGL",
         "name": "Arch Capital Group Ltd.",
-        "collected_at": "2026-03-14T02:01:39.355Z",
+        "collected_at": "2026-03-15T02:01:47.067Z",
         "data_start_date": "2016-03-14",
         "price": 93.47000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NASDAQ:ACGL",
-        "market_capitalization": 33256936209.88675,
+        "market_capitalization": 33256936213,
         "commodity_name": null,
         "display_name": "Arch Capital Group Ltd.",
         "sma_50": 92.41839981079102,

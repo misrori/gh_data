@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PM",
         "name": "Philip Morris International Inc",
-        "collected_at": "2026-03-14T02:00:17.986Z",
+        "collected_at": "2026-03-15T02:00:25.633Z",
         "data_start_date": "2016-03-14",
         "price": 174.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Tobacco",
         "tradingview_id": "NYSE:PM",
-        "market_capitalization": 271889652898.04446,
+        "market_capitalization": 271889658599,
         "commodity_name": null,
         "display_name": "Philip Morris International Inc",
         "sma_50": 168.06259979248046,

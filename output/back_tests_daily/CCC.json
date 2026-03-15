@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCC",
         "name": "CCC Intelligent Solutions Holdings Inc.",
-        "collected_at": "2026-03-14T02:05:26.281Z",
+        "collected_at": "2026-03-15T02:05:40.625Z",
         "data_start_date": "2020-10-05",
         "price": 6.019999980926514,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:CCC",
-        "market_capitalization": 3654898866.6689653,
+        "market_capitalization": 3654898735,
         "commodity_name": null,
         "display_name": "CCC Intelligent Solutions Holdings Inc.",
         "sma_50": 6.660399980545044,

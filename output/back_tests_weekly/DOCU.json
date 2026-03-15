@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DOCU",
         "name": "DocuSign, Inc.",
-        "collected_at": "2026-03-14T02:03:24.322Z",
+        "collected_at": "2026-03-15T02:03:34.555Z",
         "data_start_date": "2018-04-23",
         "price": 47.04999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:DOCU",
-        "market_capitalization": 9422832117.1676,
+        "market_capitalization": 9422832057,
         "commodity_name": null,
         "display_name": "DocuSign, Inc.",
         "sma_50": 69.84459968566894,

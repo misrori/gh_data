@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EVAC",
         "name": "EQV Ventures Acquisition Corp. II",
-        "collected_at": "2026-03-14T02:09:49.088Z",
+        "collected_at": "2026-03-15T02:10:05.688Z",
         "data_start_date": "2025-08-22",
         "price": 10.069999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NYSE:EVAC",
-        "market_capitalization": 594360193.5934393,
+        "market_capitalization": 594360151,
         "commodity_name": null,
         "display_name": "EQV Ventures Acquisition Corp. II",
         "sma_50": 10.07879997253418,

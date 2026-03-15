@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MS",
         "name": "Morgan Stanley",
-        "collected_at": "2026-03-14T02:00:19.128Z",
+        "collected_at": "2026-03-15T02:00:27.053Z",
         "data_start_date": "2016-03-14",
         "price": 154.8699951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:MS",
-        "market_capitalization": 245911905962.63208,
+        "market_capitalization": 245911905988,
         "commodity_name": null,
         "display_name": "Morgan Stanley",
         "sma_50": 153.24659973144531,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TGTX",
         "name": "TG Therapeutics, Inc.",
-        "collected_at": "2026-03-14T02:04:59.171Z",
+        "collected_at": "2026-03-15T02:05:12.404Z",
         "data_start_date": "2016-03-14",
         "price": 27.959999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:TGTX",
-        "market_capitalization": 4464883493.870825,
+        "market_capitalization": 4464883259,
         "commodity_name": null,
         "display_name": "TG Therapeutics, Inc.",
         "sma_50": 33.04819995880127,

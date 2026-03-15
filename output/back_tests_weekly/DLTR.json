@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DLTR",
         "name": "Dollar Tree, Inc.",
-        "collected_at": "2026-03-14T02:02:11.229Z",
+        "collected_at": "2026-03-15T02:02:19.514Z",
         "data_start_date": "2016-03-14",
         "price": 107.45999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Discount Stores",
         "tradingview_id": "NASDAQ:DLTR",
-        "market_capitalization": 21368762132.106716,
+        "market_capitalization": 21368762533,
         "commodity_name": null,
         "display_name": "Dollar Tree, Inc.",
         "sma_50": 106.65360000610352,

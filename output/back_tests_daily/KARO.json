@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KARO",
         "name": "Karooooo Ltd.",
-        "collected_at": "2026-03-14T02:07:48.755Z",
+        "collected_at": "2026-03-15T02:08:04.311Z",
         "data_start_date": "2021-04-01",
         "price": 47.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:KARO",
-        "market_capitalization": 1458156375.8734448,
+        "market_capitalization": 1458156381,
         "commodity_name": null,
         "display_name": "Karooooo Ltd.",
         "sma_50": 47.23519989013672,

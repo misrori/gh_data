@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IE",
         "name": "Ivanhoe Electric Inc.",
-        "collected_at": "2026-03-14T02:06:54.432Z",
+        "collected_at": "2026-03-15T02:07:18.591Z",
         "data_start_date": "2022-06-27",
         "price": 12.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "AMEX:IE",
-        "market_capitalization": 1942595363.464396,
+        "market_capitalization": 1942595375.9999998,
         "commodity_name": null,
         "display_name": "Ivanhoe Electric Inc.",
         "sma_50": 11.825000057220459,

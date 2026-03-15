@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACAD",
         "name": "ACADIA Pharmaceuticals Inc.",
-        "collected_at": "2026-03-14T02:05:32.803Z",
+        "collected_at": "2026-03-15T02:05:47.462Z",
         "data_start_date": "2016-03-14",
         "price": 20.610000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ACAD",
-        "market_capitalization": 3513894062.5811005,
+        "market_capitalization": 3513894091,
         "commodity_name": null,
         "display_name": "ACADIA Pharmaceuticals Inc.",
         "sma_50": 22.771399993896484,

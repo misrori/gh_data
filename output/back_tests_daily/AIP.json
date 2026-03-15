@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AIP",
         "name": "Arteris, Inc.",
-        "collected_at": "2026-03-14T02:09:32.021Z",
+        "collected_at": "2026-03-15T02:09:49.193Z",
         "data_start_date": "2021-10-27",
         "price": 14.630000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:AIP",
-        "market_capitalization": 665186060.8392371,
+        "market_capitalization": 665186052,
         "commodity_name": null,
         "display_name": "Arteris, Inc.",
         "sma_50": 15.763000030517578,

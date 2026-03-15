@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BEAM",
         "name": "Beam Therapeutics Inc.",
-        "collected_at": "2026-03-14T02:06:16.771Z",
+        "collected_at": "2026-03-15T02:06:39.786Z",
         "data_start_date": "2020-02-03",
         "price": 25.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:BEAM",
-        "market_capitalization": 2562702996.8268857,
+        "market_capitalization": 2562702966,
         "commodity_name": null,
         "display_name": "Beam Therapeutics Inc.",
         "sma_50": 22.65989984512329,

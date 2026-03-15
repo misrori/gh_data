@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VPG",
         "name": "Vishay Precision Group, Inc.",
-        "collected_at": "2026-03-14T02:10:01.002Z",
+        "collected_at": "2026-03-15T02:10:17.750Z",
         "data_start_date": "2016-03-14",
         "price": 41.0099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NYSE:VPG",
-        "market_capitalization": 545326763.3541117,
+        "market_capitalization": 545326753,
         "commodity_name": null,
         "display_name": "Vishay Precision Group, Inc.",
         "sma_50": 33.45719970703125,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CYD",
         "name": "China Yuchai International Limited",
-        "collected_at": "2026-03-14T02:07:27.865Z",
+        "collected_at": "2026-03-15T02:07:53.237Z",
         "data_start_date": "2016-03-14",
         "price": 41.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:CYD",
-        "market_capitalization": 1559636650.4979804,
+        "market_capitalization": 1559636634,
         "commodity_name": null,
         "display_name": "China Yuchai International Limited",
         "sma_50": 32.56300001144409,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DUK",
         "name": "Duke Energy Corporation (Holding Company)",
-        "collected_at": "2026-03-14T02:00:43.921Z",
+        "collected_at": "2026-03-15T02:00:52.149Z",
         "data_start_date": "2016-03-14",
         "price": 133.14999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:DUK",
-        "market_capitalization": 103546885880.39146,
+        "market_capitalization": 103546875379.99998,
         "commodity_name": null,
         "display_name": "Duke Energy Corporation (Holding Company)",
         "sma_50": 121.63660003662109,

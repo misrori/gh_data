@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VST",
         "name": "Vistra Corp.",
-        "collected_at": "2026-03-14T02:01:12.625Z",
+        "collected_at": "2026-03-15T02:01:20.464Z",
         "data_start_date": "2016-10-03",
         "price": 158.9499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:VST",
-        "market_capitalization": 53558879311.450676,
+        "market_capitalization": 53558877669.00001,
         "commodity_name": null,
         "display_name": "Vistra Corp.",
         "sma_50": 174.6729997253418,

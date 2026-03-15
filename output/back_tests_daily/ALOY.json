@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALOY",
         "name": "REalloys Inc.",
-        "collected_at": "2026-03-14T02:09:28.561Z",
+        "collected_at": "2026-03-15T02:09:45.885Z",
         "data_start_date": "2016-08-01",
         "price": 11.984999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "NASDAQ:ALOY",
-        "market_capitalization": 684679073.2573838,
+        "market_capitalization": 684679041,
         "commodity_name": null,
         "display_name": "REalloys Inc.",
         "sma_50": 13.097199993133545,

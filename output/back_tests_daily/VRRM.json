@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VRRM",
         "name": "Verra Mobility Corporation",
-        "collected_at": "2026-03-14T02:06:33.874Z",
+        "collected_at": "2026-03-15T02:06:57.847Z",
         "data_start_date": "2017-03-24",
         "price": 14.949999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Other Transportation",
         "tradingview_id": "NASDAQ:VRRM",
-        "market_capitalization": 2262861186.0290236,
+        "market_capitalization": 2262861179,
         "commodity_name": null,
         "display_name": "Verra Mobility Corporation",
         "sma_50": 19.19400001525879,

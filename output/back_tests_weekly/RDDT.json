@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RDDT",
         "name": "Reddit, Inc.",
-        "collected_at": "2026-03-14T02:01:57.478Z",
+        "collected_at": "2026-03-15T02:02:05.230Z",
         "data_start_date": "2024-03-18",
         "price": 132.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:RDDT",
-        "market_capitalization": 25285498074.656483,
+        "market_capitalization": 25285498190.999996,
         "commodity_name": null,
         "display_name": "Reddit, Inc.",
         "sma_50": 178.07519989013673,

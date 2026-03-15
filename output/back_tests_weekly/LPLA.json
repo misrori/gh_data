@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LPLA",
         "name": "LPL Financial Holdings Inc.",
-        "collected_at": "2026-03-14T02:02:03.780Z",
+        "collected_at": "2026-03-15T02:02:12.336Z",
         "data_start_date": "2016-03-14",
         "price": 289.0299987792969,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:LPLA",
-        "market_capitalization": 23145573257.184692,
+        "market_capitalization": 23145573549,
         "commodity_name": null,
         "display_name": "LPL Financial Holdings Inc.",
         "sma_50": 353.1747998046875,

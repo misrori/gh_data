@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OPEN",
         "name": "Opendoor Technologies Inc",
-        "collected_at": "2026-03-14T02:04:48.718Z",
+        "collected_at": "2026-03-15T02:05:02.068Z",
         "data_start_date": "2020-06-15",
         "price": 4.949999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NASDAQ:OPEN",
-        "market_capitalization": 4743711377.386364,
+        "market_capitalization": 4743711045,
         "commodity_name": null,
         "display_name": "Opendoor Technologies Inc",
         "sma_50": 4.5040599989891055,

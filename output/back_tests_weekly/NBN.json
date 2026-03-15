@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NBN",
         "name": "Northeast Bank",
-        "collected_at": "2026-03-14T02:08:56.890Z",
+        "collected_at": "2026-03-15T02:09:13.604Z",
         "data_start_date": "2016-03-14",
         "price": 109.16999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:NBN",
-        "market_capitalization": 870924413.2863971,
+        "market_capitalization": 870924375.0000001,
         "commodity_name": null,
         "display_name": "Northeast Bank",
         "sma_50": 98.07119964599609,

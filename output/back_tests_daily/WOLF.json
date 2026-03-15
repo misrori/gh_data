@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WOLF",
         "name": "Wolfspeed, Inc.",
-        "collected_at": "2026-03-14T02:09:17.302Z",
+        "collected_at": "2026-03-15T02:09:34.496Z",
         "data_start_date": "2025-09-29",
         "price": 16.700000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NYSE:WOLF",
-        "market_capitalization": 752980929.8232174,
+        "market_capitalization": 752980995,
         "commodity_name": null,
         "display_name": "Wolfspeed, Inc.",
         "sma_50": 18.309999980926513,

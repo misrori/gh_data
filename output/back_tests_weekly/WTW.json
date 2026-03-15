@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTW",
         "name": "Willis Towers Watson Public Limited Company",
-        "collected_at": "2026-03-14T02:01:53.123Z",
+        "collected_at": "2026-03-15T02:02:01.026Z",
         "data_start_date": "2016-03-14",
         "price": 289.5400085449219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NASDAQ:WTW",
-        "market_capitalization": 27374822109.345573,
+        "market_capitalization": 27374822450,
         "commodity_name": null,
         "display_name": "Willis Towers Watson Public Limited Company",
         "sma_50": 318.4309997558594,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BKU",
         "name": "BankUnited, Inc.",
-        "collected_at": "2026-03-14T02:05:48.084Z",
+        "collected_at": "2026-03-15T02:06:03.572Z",
         "data_start_date": "2016-03-14",
         "price": 42.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:BKU",
-        "market_capitalization": 3150996180.565308,
+        "market_capitalization": 3150996225,
         "commodity_name": null,
         "display_name": "BankUnited, Inc.",
         "sma_50": 39.89900001525879,

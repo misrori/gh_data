@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZYME",
         "name": "Zymeworks Inc.",
-        "collected_at": "2026-03-14T02:07:12.713Z",
+        "collected_at": "2026-03-15T02:07:37.616Z",
         "data_start_date": "2017-04-24",
         "price": 22.8799991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ZYME",
-        "market_capitalization": 1699995290.290142,
+        "market_capitalization": 1699995261,
         "commodity_name": null,
         "display_name": "Zymeworks Inc.",
         "sma_50": 17.855199966430664,

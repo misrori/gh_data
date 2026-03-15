@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXAS",
         "name": "Exact Sciences Corporation",
-        "collected_at": "2026-03-14T02:02:17.339Z",
+        "collected_at": "2026-03-15T02:02:26.586Z",
         "data_start_date": "2016-03-14",
         "price": 103.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:EXAS",
-        "market_capitalization": 19770291692.370483,
+        "market_capitalization": 19770292277,
         "commodity_name": null,
         "display_name": "Exact Sciences Corporation",
         "sma_50": 70.9839998626709,

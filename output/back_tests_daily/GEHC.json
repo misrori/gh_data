@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GEHC",
         "name": "GE HealthCare Technologies Inc.",
-        "collected_at": "2026-03-14T02:01:41.407Z",
+        "collected_at": "2026-03-15T02:01:49.289Z",
         "data_start_date": "2022-12-15",
         "price": 70.7699966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:GEHC",
-        "market_capitalization": 32253413221.224228,
+        "market_capitalization": 32253410852,
         "commodity_name": null,
         "display_name": "GE HealthCare Technologies Inc.",
         "sma_50": 80.61359985351562,

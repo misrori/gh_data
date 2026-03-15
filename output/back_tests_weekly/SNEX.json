@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SNEX",
         "name": "StoneX Group Inc.",
-        "collected_at": "2026-03-14T02:04:31.724Z",
+        "collected_at": "2026-03-15T02:04:44.689Z",
         "data_start_date": "2016-03-14",
         "price": 103.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:SNEX",
-        "market_capitalization": 5433625974.170756,
+        "market_capitalization": 5433625815.999999,
         "commodity_name": null,
         "display_name": "StoneX Group Inc.",
         "sma_50": 96.98339950561524,

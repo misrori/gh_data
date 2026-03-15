@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ENVX",
         "name": "Enovix Corporation",
-        "collected_at": "2026-03-14T02:08:29.084Z",
+        "collected_at": "2026-03-15T02:08:45.478Z",
         "data_start_date": "2021-01-05",
         "price": 4.940000057220459,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:ENVX",
-        "market_capitalization": 1073088757.8983742,
+        "market_capitalization": 1073088754.0000001,
         "commodity_name": null,
         "display_name": "Enovix Corporation",
         "sma_50": 6.516700019836426,

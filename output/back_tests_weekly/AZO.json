@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AZO",
         "name": "AutoZone, Inc.",
-        "collected_at": "2026-03-14T02:01:10.164Z",
+        "collected_at": "2026-03-15T02:01:17.940Z",
         "data_start_date": "2016-03-14",
         "price": 3562.85009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:AZO",
-        "market_capitalization": 59028656363.81017,
+        "market_capitalization": 59028657663,
         "commodity_name": null,
         "display_name": "AutoZone, Inc.",
         "sma_50": 3783.278193359375,

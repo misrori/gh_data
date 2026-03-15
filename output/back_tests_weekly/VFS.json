@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VFS",
         "name": "VinFast Auto Ltd.",
-        "collected_at": "2026-03-14T02:03:52.664Z",
+        "collected_at": "2026-03-15T02:04:04.716Z",
         "data_start_date": "2021-09-06",
         "price": 3.0999999046325684,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NASDAQ:VFS",
-        "market_capitalization": 7252489089.807693,
+        "market_capitalization": 7252489132,
         "commodity_name": null,
         "display_name": "VinFast Auto Ltd.",
         "sma_50": 3.3560000038146973,

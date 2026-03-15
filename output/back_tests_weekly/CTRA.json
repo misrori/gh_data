@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTRA",
         "name": "Coterra Energy Inc.",
-        "collected_at": "2026-03-14T02:01:59.766Z",
+        "collected_at": "2026-03-15T02:02:07.628Z",
         "data_start_date": "2016-03-14",
         "price": 32.150001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:CTRA",
-        "market_capitalization": 24410617119.016575,
+        "market_capitalization": 24410618627,
         "commodity_name": null,
         "display_name": "Coterra Energy Inc.",
         "sma_50": 25.938400077819825,

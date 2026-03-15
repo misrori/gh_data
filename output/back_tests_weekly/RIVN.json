@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RIVN",
         "name": "Rivian Automotive, Inc.",
-        "collected_at": "2026-03-14T02:02:24.224Z",
+        "collected_at": "2026-03-15T02:02:33.436Z",
         "data_start_date": "2021-11-08",
         "price": 14.859999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NASDAQ:RIVN",
-        "market_capitalization": 18441108219.18301,
+        "market_capitalization": 18441107564.000004,
         "commodity_name": null,
         "display_name": "Rivian Automotive, Inc.",
         "sma_50": 14.817799968719482,

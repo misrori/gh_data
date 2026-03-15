@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TWST",
         "name": "Twist Bioscience Corporation",
-        "collected_at": "2026-03-14T02:06:13.655Z",
+        "collected_at": "2026-03-15T02:06:36.277Z",
         "data_start_date": "2018-10-29",
         "price": 43.279998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:TWST",
-        "market_capitalization": 2653570521.8763366,
+        "market_capitalization": 2653570419,
         "commodity_name": null,
         "display_name": "Twist Bioscience Corporation",
         "sma_50": 34.61219970703125,

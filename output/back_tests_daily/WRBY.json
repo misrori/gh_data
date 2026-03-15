@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WRBY",
         "name": "Warby Parker Inc.",
-        "collected_at": "2026-03-14T02:05:56.819Z",
+        "collected_at": "2026-03-15T02:06:12.304Z",
         "data_start_date": "2021-09-29",
         "price": 24.059999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:WRBY",
-        "market_capitalization": 2946093579.8409185,
+        "market_capitalization": 2946093486,
         "commodity_name": null,
         "display_name": "Warby Parker Inc.",
         "sma_50": 25.29480010986328,

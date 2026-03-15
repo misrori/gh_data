@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AX",
         "name": "Axos Financial, Inc.",
-        "collected_at": "2026-03-14T02:04:47.785Z",
+        "collected_at": "2026-03-15T02:05:01.254Z",
         "data_start_date": "2016-03-14",
         "price": 84.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:AX",
-        "market_capitalization": 4799514363.036145,
+        "market_capitalization": 4799514172.999999,
         "commodity_name": null,
         "display_name": "Axos Financial, Inc.",
         "sma_50": 82.48400024414063,

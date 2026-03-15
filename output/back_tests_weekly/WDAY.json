@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WDAY",
         "name": "Workday, Inc.",
-        "collected_at": "2026-03-14T02:01:37.723Z",
+        "collected_at": "2026-03-15T02:01:45.505Z",
         "data_start_date": "2016-03-14",
         "price": 133.08999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:WDAY",
-        "market_capitalization": 34204129844.228943,
+        "market_capitalization": 34204129058.999996,
         "commodity_name": null,
         "display_name": "Workday, Inc.",
         "sma_50": 217.03279876708984,

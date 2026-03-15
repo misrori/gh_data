@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLVT",
         "name": "Clarivate Plc",
-        "collected_at": "2026-03-14T02:07:18.180Z",
+        "collected_at": "2026-03-15T02:07:43.104Z",
         "data_start_date": "2018-10-29",
         "price": 2.569999933242798,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:CLVT",
-        "market_capitalization": 1646595212.4749036,
+        "market_capitalization": 1646595224,
         "commodity_name": null,
         "display_name": "Clarivate Plc",
         "sma_50": 2.579599995613098,

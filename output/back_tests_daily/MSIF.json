@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSIF",
         "name": "MSC Income Fund, Inc.",
-        "collected_at": "2026-03-14T02:09:53.654Z",
+        "collected_at": "2026-03-15T02:10:10.592Z",
         "data_start_date": "2025-01-29",
         "price": 12.449999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NYSE:MSIF",
-        "market_capitalization": 573029650.2207062,
+        "market_capitalization": 573029640,
         "commodity_name": null,
         "display_name": "MSC Income Fund, Inc.",
         "sma_50": 12.939999961853028,

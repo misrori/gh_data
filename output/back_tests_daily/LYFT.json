@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LYFT",
         "name": "Lyft, Inc.",
-        "collected_at": "2026-03-14T02:04:36.328Z",
+        "collected_at": "2026-03-15T02:04:49.230Z",
         "data_start_date": "2019-03-29",
         "price": 13.069999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Other Transportation",
         "tradingview_id": "NASDAQ:LYFT",
-        "market_capitalization": 5203266320.898069,
+        "market_capitalization": 5203266276.000001,
         "commodity_name": null,
         "display_name": "Lyft, Inc.",
         "sma_50": 15.963600063323975,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FN",
         "name": "Fabrinet",
-        "collected_at": "2026-03-14T02:02:26.781Z",
+        "collected_at": "2026-03-15T02:02:35.940Z",
         "data_start_date": "2016-03-14",
         "price": 502.1400146484375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NYSE:FN",
-        "market_capitalization": 17989726700.202732,
+        "market_capitalization": 17989727653,
         "commodity_name": null,
         "display_name": "Fabrinet",
         "sma_50": 371.93300262451174,

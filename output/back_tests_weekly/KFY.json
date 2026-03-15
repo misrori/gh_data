@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KFY",
         "name": "Korn Ferry",
-        "collected_at": "2026-03-14T02:05:48.622Z",
+        "collected_at": "2026-03-15T02:06:04.034Z",
         "data_start_date": "2016-03-14",
         "price": 60.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Personnel Services",
         "tradingview_id": "NYSE:KFY",
-        "market_capitalization": 3148508339.302341,
+        "market_capitalization": 3148508330.9999995,
         "commodity_name": null,
         "display_name": "Korn Ferry",
         "sma_50": 68.01880012512207,

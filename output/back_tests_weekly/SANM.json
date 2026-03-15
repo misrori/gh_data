@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SANM",
         "name": "Sanmina Corporation",
-        "collected_at": "2026-03-14T02:03:58.984Z",
+        "collected_at": "2026-03-15T02:04:11.263Z",
         "data_start_date": "2016-03-14",
         "price": 125.19999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:SANM",
-        "market_capitalization": 6836531531.893946,
+        "market_capitalization": 6836531448,
         "commodity_name": null,
         "display_name": "Sanmina Corporation",
         "sma_50": 122.91119934082032,

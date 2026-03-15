@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SERV",
         "name": "Serve Robotics Inc.",
-        "collected_at": "2026-03-14T02:09:29.639Z",
+        "collected_at": "2026-03-15T02:09:44.199Z",
         "data_start_date": "2024-03-08",
         "price": 9.119999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:SERV",
-        "market_capitalization": 679289326.7756377,
+        "market_capitalization": 690294414,
         "commodity_name": null,
         "display_name": "Serve Robotics Inc.",
         "sma_50": 11.208299999237061,

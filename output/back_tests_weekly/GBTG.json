@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GBTG",
         "name": "Global Business Travel Group, Inc.",
-        "collected_at": "2026-03-14T02:05:59.516Z",
+        "collected_at": "2026-03-15T02:06:15.355Z",
         "data_start_date": "2022-08-15",
         "price": 5.559999942779541,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:GBTG",
-        "market_capitalization": 2913437964.029091,
+        "market_capitalization": 2913437934,
         "commodity_name": null,
         "display_name": "Global Business Travel Group, Inc.",
         "sma_50": 6.9948000144958495,

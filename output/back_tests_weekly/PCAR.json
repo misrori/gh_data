@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PCAR",
         "name": "PACCAR Inc.",
-        "collected_at": "2026-03-14T02:01:09.429Z",
+        "collected_at": "2026-03-15T02:01:17.247Z",
         "data_start_date": "2016-03-14",
         "price": 115.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NASDAQ:PCAR",
-        "market_capitalization": 60656660996.44582,
+        "market_capitalization": 60656659228.99999,
         "commodity_name": null,
         "display_name": "PACCAR Inc.",
         "sma_50": 103.60399993896485,

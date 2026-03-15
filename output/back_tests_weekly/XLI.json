@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XLI",
         "name": "State Street Industrial Select Sector SPDR ETF",
-        "collected_at": "2026-03-14T02:10:43.593Z",
+        "collected_at": "2026-03-15T02:11:01.057Z",
         "data_start_date": "2016-03-14",
         "price": 164.64999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:XLI",
-        "market_capitalization": 29381697648.916,
+        "market_capitalization": 28599807409.188,
         "commodity_name": null,
         "display_name": "State Street Industrial Select Sector SPDR ETF",
         "sma_50": 152.83539916992189,

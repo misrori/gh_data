@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VICR",
         "name": "Vicor Corporation",
-        "collected_at": "2026-03-14T02:03:42.527Z",
+        "collected_at": "2026-03-15T02:03:54.118Z",
         "data_start_date": "2016-03-14",
         "price": 172.57000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NASDAQ:VICR",
-        "market_capitalization": 7830043545.80454,
+        "market_capitalization": 7830043992,
         "commodity_name": null,
         "display_name": "Vicor Corporation",
         "sma_50": 83.56040008544922,

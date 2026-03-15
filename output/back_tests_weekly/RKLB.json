@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RKLB",
         "name": "Rocket Lab Corporation",
-        "collected_at": "2026-03-14T02:01:32.276Z",
+        "collected_at": "2026-03-15T02:01:40.190Z",
         "data_start_date": "2020-11-23",
         "price": 68.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:RKLB",
-        "market_capitalization": 38818943738.29458,
+        "market_capitalization": 38818944257,
         "commodity_name": null,
         "display_name": "Rocket Lab Corporation",
         "sma_50": 51.09190006256104,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CWH",
         "name": "Camping World Holdings, Inc.",
-        "collected_at": "2026-03-14T02:09:31.944Z",
+        "collected_at": "2026-03-15T02:09:49.112Z",
         "data_start_date": "2016-10-03",
         "price": 6.460000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:CWH",
-        "market_capitalization": 665288197.563863,
+        "market_capitalization": 665288193,
         "commodity_name": null,
         "display_name": "Camping World Holdings, Inc.",
         "sma_50": 13.976999998092651,

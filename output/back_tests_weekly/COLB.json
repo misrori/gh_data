@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COLB",
         "name": "Columbia Banking System, Inc.",
-        "collected_at": "2026-03-14T02:03:43.526Z",
+        "collected_at": "2026-03-15T02:03:55.151Z",
         "data_start_date": "2016-03-14",
         "price": 26.229999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:COLB",
-        "market_capitalization": 7752294612.79788,
+        "market_capitalization": 7752294455,
         "commodity_name": null,
         "display_name": "Columbia Banking System, Inc.",
         "sma_50": 26.177799911499022,

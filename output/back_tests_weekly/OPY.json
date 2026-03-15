@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OPY",
         "name": "Oppenheimer Holdings, Inc.",
-        "collected_at": "2026-03-14T02:08:56.223Z",
+        "collected_at": "2026-03-15T02:09:13.051Z",
         "data_start_date": "2016-03-14",
         "price": 82.5199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:OPY",
-        "market_capitalization": 875338287.6933415,
+        "market_capitalization": 875338267.9999999,
         "commodity_name": null,
         "display_name": "Oppenheimer Holdings, Inc.",
         "sma_50": 71.59140022277832,

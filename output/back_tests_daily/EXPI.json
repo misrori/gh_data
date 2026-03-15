@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXPI",
         "name": "eXp World Holdings, Inc.",
-        "collected_at": "2026-03-14T02:08:49.183Z",
+        "collected_at": "2026-03-15T02:09:05.730Z",
         "data_start_date": "2018-02-07",
         "price": 5.71999979019165,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NASDAQ:EXPI",
-        "market_capitalization": 926028532,
+        "market_capitalization": 926028480,
         "commodity_name": null,
         "display_name": "eXp World Holdings, Inc.",
         "sma_50": 8.088600034713744,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MAX",
         "name": "MediaAlpha, Inc.",
-        "collected_at": "2026-03-14T02:09:38.101Z",
+        "collected_at": "2026-03-15T02:09:54.309Z",
         "data_start_date": "2020-10-26",
         "price": 9.920000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:MAX",
-        "market_capitalization": 639797051.6960984,
+        "market_capitalization": 639797072,
         "commodity_name": null,
         "display_name": "MediaAlpha, Inc.",
         "sma_50": 10.784600019454956,

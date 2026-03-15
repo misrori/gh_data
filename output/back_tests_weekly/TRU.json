@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRU",
         "name": "TransUnion",
-        "collected_at": "2026-03-14T02:02:47.760Z",
+        "collected_at": "2026-03-15T02:02:56.666Z",
         "data_start_date": "2016-03-14",
         "price": 69.94999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Financial Publishing/Services",
         "tradingview_id": "NYSE:TRU",
-        "market_capitalization": 13472370781.131792,
+        "market_capitalization": 13472369839,
         "commodity_name": null,
         "display_name": "TransUnion",
         "sma_50": 83.9731999206543,

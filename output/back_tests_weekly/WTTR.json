@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTTR",
         "name": "Select Water Solutions, Inc.",
-        "collected_at": "2026-03-14T02:06:56.171Z",
+        "collected_at": "2026-03-15T02:07:20.387Z",
         "data_start_date": "2017-06-26",
         "price": 14.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:WTTR",
-        "market_capitalization": 1921414871.115357,
+        "market_capitalization": 1921414918,
         "commodity_name": null,
         "display_name": "Select Water Solutions, Inc.",
         "sma_50": 10.257000064849853,

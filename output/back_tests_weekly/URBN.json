@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "URBN",
         "name": "Urban Outfitters, Inc.",
-        "collected_at": "2026-03-14T02:04:23.727Z",
+        "collected_at": "2026-03-15T02:04:36.592Z",
         "data_start_date": "2016-03-14",
         "price": 63.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NASDAQ:URBN",
-        "market_capitalization": 5686541573.464,
+        "market_capitalization": 5686541560,
         "commodity_name": null,
         "display_name": "Urban Outfitters, Inc.",
         "sma_50": 68.7527996826172,

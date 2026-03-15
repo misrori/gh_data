@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROAD",
         "name": "Construction Partners, Inc.",
-        "collected_at": "2026-03-14T02:04:06.782Z",
+        "collected_at": "2026-03-15T02:04:19.372Z",
         "data_start_date": "2018-05-04",
         "price": 113.97000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:ROAD",
-        "market_capitalization": 6441057415.524737,
+        "market_capitalization": 6441057586,
         "commodity_name": null,
         "display_name": "Construction Partners, Inc.",
         "sma_50": 121.67749969482422,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ILMN",
         "name": "Illumina, Inc.",
-        "collected_at": "2026-03-14T02:02:26.075Z",
+        "collected_at": "2026-03-15T02:02:35.090Z",
         "data_start_date": "2016-03-14",
         "price": 118.94000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:ILMN",
-        "market_capitalization": 18185924889.44046,
+        "market_capitalization": 18185925647,
         "commodity_name": null,
         "display_name": "Illumina, Inc.",
         "sma_50": 107.45960052490234,

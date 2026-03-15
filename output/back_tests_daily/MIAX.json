@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MIAX",
         "name": "Miami International Holdings, Inc.",
-        "collected_at": "2026-03-14T02:05:32.026Z",
+        "collected_at": "2026-03-15T02:05:46.827Z",
         "data_start_date": "2025-08-14",
         "price": 38.470001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:MIAX",
-        "market_capitalization": 3525832512.156209,
+        "market_capitalization": 3525832610,
         "commodity_name": null,
         "display_name": "Miami International Holdings, Inc.",
         "sma_50": 41.713800048828126,

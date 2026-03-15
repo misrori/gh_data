@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BWXT",
         "name": "BWX Technologies, Inc.",
-        "collected_at": "2026-03-14T02:02:27.844Z",
+        "collected_at": "2026-03-15T02:02:37.023Z",
         "data_start_date": "2016-03-14",
         "price": 194.1300048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:BWXT",
-        "market_capitalization": 17752234739.957687,
+        "market_capitalization": 17752234529,
         "commodity_name": null,
         "display_name": "BWX Technologies, Inc.",
         "sma_50": 167.21300018310546,

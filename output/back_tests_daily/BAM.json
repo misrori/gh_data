@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BAM",
         "name": "Brookfield Asset Management Inc",
-        "collected_at": "2026-03-14T02:01:00.849Z",
+        "collected_at": "2026-03-15T02:01:09.888Z",
         "data_start_date": "2022-12-01",
         "price": 42.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:BAM",
-        "market_capitalization": 70326587280.2609,
+        "market_capitalization": 70326589106.89357,
         "commodity_name": null,
         "display_name": "Brookfield Asset Management Inc",
         "sma_50": 49.98619972229004,

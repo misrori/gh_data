@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RJET",
         "name": "Republic Airways Holdings Inc.",
-        "collected_at": "2026-03-14T02:09:09.863Z",
+        "collected_at": "2026-03-15T02:09:26.908Z",
         "data_start_date": "2018-08-10",
         "price": 16.8700008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NASDAQ:RJET",
-        "market_capitalization": 790013289.4344165,
+        "market_capitalization": 790013289,
         "commodity_name": null,
         "display_name": "Republic Airways Holdings Inc.",
         "sma_50": 18.936200065612795,

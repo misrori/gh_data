@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AIT",
         "name": "Applied Industrial Technologies, Inc.",
-        "collected_at": "2026-03-14T02:03:23.264Z",
+        "collected_at": "2026-03-15T02:03:33.375Z",
         "data_start_date": "2016-03-14",
         "price": 255.64999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:AIT",
-        "market_capitalization": 9536369130.106396,
+        "market_capitalization": 9536368723,
         "commodity_name": null,
         "display_name": "Applied Industrial Technologies, Inc.",
         "sma_50": 254.65940002441405,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XIFR",
         "name": "XPLR Infrastructure, LP",
-        "collected_at": "2026-03-14T02:06:50.554Z",
+        "collected_at": "2026-03-15T02:07:14.531Z",
         "data_start_date": "2016-03-14",
         "price": 10.319999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Alternative Power Generation",
         "tradingview_id": "NYSE:XIFR",
-        "market_capitalization": 1989161173.2881355,
+        "market_capitalization": 1989161135,
         "commodity_name": null,
         "display_name": "XPLR Infrastructure, LP",
         "sma_50": 9.596599941253663,

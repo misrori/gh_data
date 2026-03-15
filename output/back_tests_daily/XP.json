@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XP",
         "name": "XP Inc.",
-        "collected_at": "2026-03-14T02:03:22.097Z",
+        "collected_at": "2026-03-15T02:03:32.349Z",
         "data_start_date": "2019-12-11",
         "price": 18.200000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:XP",
-        "market_capitalization": 9590347078.60465,
+        "market_capitalization": 9590347764,
         "commodity_name": null,
         "display_name": "XP Inc.",
         "sma_50": 19.43200008392334,

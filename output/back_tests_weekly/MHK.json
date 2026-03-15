@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MHK",
         "name": "Mohawk Industries, Inc.",
-        "collected_at": "2026-03-14T02:04:10.118Z",
+        "collected_at": "2026-03-15T02:04:22.997Z",
         "data_start_date": "2016-03-14",
         "price": 102.55000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:MHK",
-        "market_capitalization": 6302759679.048544,
+        "market_capitalization": 6302759866,
         "commodity_name": null,
         "display_name": "Mohawk Industries, Inc.",
         "sma_50": 115.47700027465821,

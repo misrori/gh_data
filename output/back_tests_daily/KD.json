@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KD",
         "name": "Kyndryl Holdings, Inc.",
-        "collected_at": "2026-03-14T02:06:08.874Z",
+        "collected_at": "2026-03-15T02:06:24.954Z",
         "data_start_date": "2021-10-22",
         "price": 12.350000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NYSE:KD",
-        "market_capitalization": 2784272881.65207,
+        "market_capitalization": 2784272874,
         "commodity_name": null,
         "display_name": "Kyndryl Holdings, Inc.",
         "sma_50": 18.70939992904663,

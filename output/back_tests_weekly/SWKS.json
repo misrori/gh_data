@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SWKS",
         "name": "Skyworks Solutions, Inc.",
-        "collected_at": "2026-03-14T02:03:37.774Z",
+        "collected_at": "2026-03-15T02:03:48.757Z",
         "data_start_date": "2016-03-14",
         "price": 54.7400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:SWKS",
-        "market_capitalization": 8231451604.775,
+        "market_capitalization": 8231451743,
         "commodity_name": null,
         "display_name": "Skyworks Solutions, Inc.",
         "sma_50": 67.80759979248047,

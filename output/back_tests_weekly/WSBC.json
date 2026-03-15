@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WSBC",
         "name": "WesBanco, Inc.",
-        "collected_at": "2026-03-14T02:05:46.534Z",
+        "collected_at": "2026-03-15T02:06:01.914Z",
         "data_start_date": "2016-03-14",
         "price": 33.33000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:WSBC",
-        "market_capitalization": 3203448437.59819,
+        "market_capitalization": 3203448465.9999995,
         "commodity_name": null,
         "display_name": "WesBanco, Inc.",
         "sma_50": 32.30940013885498,

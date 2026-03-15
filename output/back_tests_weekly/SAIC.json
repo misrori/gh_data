@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SAIC",
         "name": "Science Applications International Corporation",
-        "collected_at": "2026-03-14T02:05:09.886Z",
+        "collected_at": "2026-03-15T02:05:24.203Z",
         "data_start_date": "2016-03-14",
         "price": 91.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:SAIC",
-        "market_capitalization": 4147660726.606182,
+        "market_capitalization": 4147660850.9999995,
         "commodity_name": null,
         "display_name": "Science Applications International Corporation",
         "sma_50": 105.0752001953125,

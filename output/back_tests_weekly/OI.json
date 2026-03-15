@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OI",
         "name": "O-I Glass, Inc.",
-        "collected_at": "2026-03-14T02:07:21.526Z",
+        "collected_at": "2026-03-15T02:07:46.524Z",
         "data_start_date": "2016-03-14",
         "price": 10.619999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:OI",
-        "market_capitalization": 1618080154.2786884,
+        "market_capitalization": 1618080204,
         "commodity_name": null,
         "display_name": "O-I Glass, Inc.",
         "sma_50": 13.529999923706054,

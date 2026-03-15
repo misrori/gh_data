@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LC",
         "name": "LendingClub Corporation",
-        "collected_at": "2026-03-14T02:07:24.716Z",
+        "collected_at": "2026-03-15T02:07:49.791Z",
         "data_start_date": "2016-03-14",
         "price": 13.800000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:LC",
-        "market_capitalization": 1589492334.6921444,
+        "market_capitalization": 1589492344,
         "commodity_name": null,
         "display_name": "LendingClub Corporation",
         "sma_50": 15.127400035858154,

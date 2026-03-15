@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMBA",
         "name": "Ambarella, Inc.",
-        "collected_at": "2026-03-14T02:06:34.942Z",
+        "collected_at": "2026-03-15T02:06:59.120Z",
         "data_start_date": "2016-03-14",
         "price": 52.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:AMBA",
-        "market_capitalization": 2251109714.3138113,
+        "market_capitalization": 2251109832,
         "commodity_name": null,
         "display_name": "Ambarella, Inc.",
         "sma_50": 67.83139999389648,

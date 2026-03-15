@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZION",
         "name": "Zions Bancorporation N.A.",
-        "collected_at": "2026-03-14T02:03:41.539Z",
+        "collected_at": "2026-03-15T02:03:53.077Z",
         "data_start_date": "2016-03-14",
         "price": 53.099998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:ZION",
-        "market_capitalization": 7852896821.897124,
+        "market_capitalization": 7852896353,
         "commodity_name": null,
         "display_name": "Zions Bancorporation N.A.",
         "sma_50": 54.0583999633789,

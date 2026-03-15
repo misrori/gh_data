@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HBT",
         "name": "HBT Financial, Inc.",
-        "collected_at": "2026-03-14T02:08:41.595Z",
+        "collected_at": "2026-03-15T02:08:58.407Z",
         "data_start_date": "2019-10-07",
         "price": 26.170000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:HBT",
-        "market_capitalization": 966508511.0562311,
+        "market_capitalization": 966508525,
         "commodity_name": null,
         "display_name": "HBT Financial, Inc.",
         "sma_50": 25.251399955749513,

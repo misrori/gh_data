@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HY",
         "name": "Hyster-Yale, Inc.",
-        "collected_at": "2026-03-14T02:09:57.876Z",
+        "collected_at": "2026-03-15T02:10:14.672Z",
         "data_start_date": "2016-03-14",
         "price": 31.280000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:HY",
-        "market_capitalization": 559914792.0619004,
+        "market_capitalization": 559914779.9999999,
         "commodity_name": null,
         "display_name": "Hyster-Yale, Inc.",
         "sma_50": 36.482200164794925,

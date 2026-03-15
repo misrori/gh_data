@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CMPR",
         "name": "Cimpress plc",
-        "collected_at": "2026-03-14T02:07:09.787Z",
+        "collected_at": "2026-03-15T02:07:34.229Z",
         "data_start_date": "2016-03-14",
         "price": 71.05000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Commercial Printing/Forms",
         "tradingview_id": "NASDAQ:CMPR",
-        "market_capitalization": 1725462745.638587,
+        "market_capitalization": 1725462865,
         "commodity_name": null,
         "display_name": "Cimpress plc",
         "sma_50": 60.400799942016604,

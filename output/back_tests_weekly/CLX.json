@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLX",
         "name": "Clorox Company (The)",
-        "collected_at": "2026-03-14T02:02:48.495Z",
+        "collected_at": "2026-03-15T02:02:57.473Z",
         "data_start_date": "2016-03-14",
         "price": 110.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NYSE:CLX",
-        "market_capitalization": 13382524812.604065,
+        "market_capitalization": 13382524437,
         "commodity_name": null,
         "display_name": "Clorox Company (The)",
         "sma_50": 119.88420043945312,

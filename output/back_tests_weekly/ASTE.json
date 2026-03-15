@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ASTE",
         "name": "Astec Industries, Inc.",
-        "collected_at": "2026-03-14T02:08:15.096Z",
+        "collected_at": "2026-03-15T02:08:30.346Z",
         "data_start_date": "2016-03-14",
         "price": 52.880001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NASDAQ:ASTE",
-        "market_capitalization": 1210941406.2748601,
+        "market_capitalization": 1210941414,
         "commodity_name": null,
         "display_name": "Astec Industries, Inc.",
         "sma_50": 45.2636001586914,

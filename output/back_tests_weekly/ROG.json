@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROG",
         "name": "Rogers Corporation",
-        "collected_at": "2026-03-14T02:07:03.609Z",
+        "collected_at": "2026-03-15T02:07:27.988Z",
         "data_start_date": "2016-03-14",
         "price": 102.4800033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:ROG",
-        "market_capitalization": 1826979973.005431,
+        "market_capitalization": 1826979985.0000002,
         "commodity_name": null,
         "display_name": "Rogers Corporation",
         "sma_50": 81.50160041809082,

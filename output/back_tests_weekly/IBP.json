@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IBP",
         "name": "Installed Building Products, Inc.",
-        "collected_at": "2026-03-14T02:03:45.419Z",
+        "collected_at": "2026-03-15T02:03:57.136Z",
         "data_start_date": "2016-03-14",
         "price": 284.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:IBP",
-        "market_capitalization": 7679561858.004924,
+        "market_capitalization": 7679562338,
         "commodity_name": null,
         "display_name": "Installed Building Products, Inc.",
         "sma_50": 242.30700073242187,

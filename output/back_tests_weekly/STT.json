@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STT",
         "name": "State Street Corporation",
-        "collected_at": "2026-03-14T02:01:38.024Z",
+        "collected_at": "2026-03-15T02:01:45.778Z",
         "data_start_date": "2016-03-14",
         "price": 121.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:STT",
-        "market_capitalization": 33820880804.336983,
+        "market_capitalization": 33820880035.000004,
         "commodity_name": null,
         "display_name": "State Street Corporation",
         "sma_50": 113.17740020751953,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HE",
         "name": "Hawaiian Electric Industries, Inc.",
-        "collected_at": "2026-03-14T02:06:18.369Z",
+        "collected_at": "2026-03-15T02:06:41.599Z",
         "data_start_date": "2016-03-14",
         "price": 14.680000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:HE",
-        "market_capitalization": 2534068433.0719132,
+        "market_capitalization": 2534068525,
         "commodity_name": null,
         "display_name": "Hawaiian Electric Industries, Inc.",
         "sma_50": 12.090799961090088,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GRND",
         "name": "Grindr Inc.",
-        "collected_at": "2026-03-14T02:06:36.643Z",
+        "collected_at": "2026-03-15T02:07:00.739Z",
         "data_start_date": "2021-01-11",
         "price": 11.930000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:GRND",
-        "market_capitalization": 2208812317.833196,
+        "market_capitalization": 2208812360,
         "commodity_name": null,
         "display_name": "Grindr Inc.",
         "sma_50": 16.2642000579834,

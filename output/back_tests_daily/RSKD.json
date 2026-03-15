@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RSKD",
         "name": "Riskified Ltd.",
-        "collected_at": "2026-03-14T02:09:38.187Z",
+        "collected_at": "2026-03-15T02:09:54.390Z",
         "data_start_date": "2021-07-29",
         "price": 4.179999828338623,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:RSKD",
-        "market_capitalization": 637431999.6213591,
+        "market_capitalization": 637431992,
         "commodity_name": null,
         "display_name": "Riskified Ltd.",
         "sma_50": 4.512199974060058,

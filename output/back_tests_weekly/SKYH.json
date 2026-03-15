@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SKYH",
         "name": "Sky Harbour Group Corporation",
-        "collected_at": "2026-03-14T02:09:28.081Z",
+        "collected_at": "2026-03-15T02:09:45.503Z",
         "data_start_date": "2020-12-07",
         "price": 9,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:SKYH",
-        "market_capitalization": 685059634.9775785,
+        "market_capitalization": 685059629.9999999,
         "commodity_name": null,
         "display_name": "Sky Harbour Group Corporation",
         "sma_50": 9.872199935913086,

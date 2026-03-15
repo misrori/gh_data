@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GOLD",
         "name": "Gold.com, Inc.",
-        "collected_at": "2026-03-14T02:08:15.946Z",
+        "collected_at": "2026-03-15T02:08:31.276Z",
         "data_start_date": "2016-03-14",
         "price": 47.470001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:GOLD",
-        "market_capitalization": 1200848145.7568452,
+        "market_capitalization": 1200848210,
         "commodity_name": null,
         "display_name": "Gold.com, Inc.",
         "sma_50": 30.706099891662596,

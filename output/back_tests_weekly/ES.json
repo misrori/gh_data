@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ES",
         "name": "Eversource Energy (D/B/A)",
-        "collected_at": "2026-03-14T02:01:52.872Z",
+        "collected_at": "2026-03-15T02:02:00.668Z",
         "data_start_date": "2016-03-14",
         "price": 73.0999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:ES",
-        "market_capitalization": 27448802034.136047,
+        "market_capitalization": 27448801804,
         "commodity_name": null,
         "display_name": "Eversource Energy (D/B/A)",
         "sma_50": 67.31099983215331,

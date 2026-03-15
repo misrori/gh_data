@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TFSL",
         "name": "TFS Financial Corporation",
-        "collected_at": "2026-03-14T02:05:21.629Z",
+        "collected_at": "2026-03-15T02:05:36.021Z",
         "data_start_date": "2016-03-14",
         "price": 13.510000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:TFSL",
-        "market_capitalization": 3790511529.0780087,
+        "market_capitalization": 3790511582.9999995,
         "commodity_name": null,
         "display_name": "TFS Financial Corporation",
         "sma_50": 13.49879997253418,

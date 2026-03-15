@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LIVN",
         "name": "LivaNova PLC",
-        "collected_at": "2026-03-14T02:05:46.753Z",
+        "collected_at": "2026-03-15T02:06:02.118Z",
         "data_start_date": "2016-03-14",
         "price": 58.459999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:LIVN",
-        "market_capitalization": 3197170142.2846546,
+        "market_capitalization": 3197170133,
         "commodity_name": null,
         "display_name": "LivaNova PLC",
         "sma_50": 53.30060005187988,

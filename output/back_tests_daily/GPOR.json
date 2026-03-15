@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GPOR",
         "name": "Gulfport Energy Corporation",
-        "collected_at": "2026-03-14T02:05:26.636Z",
+        "collected_at": "2026-03-15T02:05:40.998Z",
         "data_start_date": "2021-05-18",
         "price": 196.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:GPOR",
-        "market_capitalization": 3649326516.7809806,
+        "market_capitalization": 3649326607.9999995,
         "commodity_name": null,
         "display_name": "Gulfport Energy Corporation",
         "sma_50": 196.63219970703125,

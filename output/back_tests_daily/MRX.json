@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRX",
         "name": "Marex Group plc",
-        "collected_at": "2026-03-14T02:06:20.204Z",
+        "collected_at": "2026-03-15T02:06:43.733Z",
         "data_start_date": "2024-04-25",
         "price": 35,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:MRX",
-        "market_capitalization": 2493109740.825688,
+        "market_capitalization": 2493109665,
         "commodity_name": null,
         "display_name": "Marex Group plc",
         "sma_50": 39.590800247192384,

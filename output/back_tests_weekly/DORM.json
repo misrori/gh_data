@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DORM",
         "name": "Dorman Products, Inc.",
-        "collected_at": "2026-03-14T02:05:50.405Z",
+        "collected_at": "2026-03-15T02:06:05.827Z",
         "data_start_date": "2016-03-14",
         "price": 102.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Automotive Aftermarket",
         "tradingview_id": "NASDAQ:DORM",
-        "market_capitalization": 3103140891.818662,
+        "market_capitalization": 3103140883,
         "commodity_name": null,
         "display_name": "Dorman Products, Inc.",
         "sma_50": 131.00839965820313,

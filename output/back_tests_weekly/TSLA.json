@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TSLA",
         "name": "Tesla, Inc.",
-        "collected_at": "2026-03-14T02:00:08.846Z",
+        "collected_at": "2026-03-15T02:00:15.123Z",
         "data_start_date": "2016-03-14",
         "price": 391.20001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NASDAQ:TSLA",
-        "market_capitalization": 1467951389611.5925,
+        "market_capitalization": 1467951399126,
         "commodity_name": null,
         "display_name": "Tesla, Inc.",
         "sma_50": 378.2222015380859,

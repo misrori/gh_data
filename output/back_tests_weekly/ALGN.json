@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALGN",
         "name": "Align Technology, Inc.",
-        "collected_at": "2026-03-14T02:03:03.419Z",
+        "collected_at": "2026-03-15T02:03:12.758Z",
         "data_start_date": "2016-03-14",
         "price": 164.22999572753906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:ALGN",
-        "market_capitalization": 11706664903.932125,
+        "market_capitalization": 11706664728,
         "commodity_name": null,
         "display_name": "Align Technology, Inc.",
         "sma_50": 162.68800094604492,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JOBY",
         "name": "Joby Aviation, Inc.",
-        "collected_at": "2026-03-14T02:03:23.417Z",
+        "collected_at": "2026-03-15T02:03:33.536Z",
         "data_start_date": "2020-11-09",
         "price": 9.699999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:JOBY",
-        "market_capitalization": 9499541793.778233,
+        "market_capitalization": 9499541830,
         "commodity_name": null,
         "display_name": "Joby Aviation, Inc.",
         "sma_50": 12.483400011062622,

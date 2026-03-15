@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MGY",
         "name": "Magnolia Oil & Gas Corporation",
-        "collected_at": "2026-03-14T02:04:27.835Z",
+        "collected_at": "2026-03-15T02:04:40.987Z",
         "data_start_date": "2017-06-26",
         "price": 29.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:MGY",
-        "market_capitalization": 5498973996.99378,
+        "market_capitalization": 5498973896,
         "commodity_name": null,
         "display_name": "Magnolia Oil & Gas Corporation",
         "sma_50": 23.709399909973143,

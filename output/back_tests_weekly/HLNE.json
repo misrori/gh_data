@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HLNE",
         "name": "Hamilton Lane Incorporated",
-        "collected_at": "2026-03-14T02:04:33.139Z",
+        "collected_at": "2026-03-15T02:04:46.098Z",
         "data_start_date": "2017-02-27",
         "price": 96.8499984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:HLNE",
-        "market_capitalization": 5401819933.538682,
+        "market_capitalization": 5401819656,
         "commodity_name": null,
         "display_name": "Hamilton Lane Incorporated",
         "sma_50": 137.95229934692384,

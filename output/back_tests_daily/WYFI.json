@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WYFI",
         "name": "WhiteFiber, Inc.",
-        "collected_at": "2026-03-14T02:09:47.379Z",
+        "collected_at": "2026-03-15T02:10:03.788Z",
         "data_start_date": "2025-08-07",
         "price": 15.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:WYFI",
-        "market_capitalization": 602594809.3470483,
+        "market_capitalization": 602594793,
         "commodity_name": null,
         "display_name": "WhiteFiber, Inc.",
         "sma_50": 18.109900131225587,

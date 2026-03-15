@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CMCSA",
         "name": "Comcast Corporation",
-        "collected_at": "2026-03-14T02:00:43.128Z",
+        "collected_at": "2026-03-15T02:00:51.212Z",
         "data_start_date": "2016-03-14",
         "price": 30.15999984741211,
         "change": 0,
-        "volume": 18932533,
+        "volume": 18966560,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 438,

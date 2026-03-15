@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADMA",
         "name": "ADMA Biologics Inc",
-        "collected_at": "2026-03-14T02:05:27.925Z",
+        "collected_at": "2026-03-15T02:05:42.501Z",
         "data_start_date": "2016-03-14",
         "price": 15.149999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:ADMA",
-        "market_capitalization": 3608111285.723816,
+        "market_capitalization": 3608111250,
         "commodity_name": null,
         "display_name": "ADMA Biologics Inc",
         "sma_50": 17.66940004348755,

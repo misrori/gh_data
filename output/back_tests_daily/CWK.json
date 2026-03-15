@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CWK",
         "name": "Cushman & Wakefield Ltd.",
-        "collected_at": "2026-03-14T02:06:07.484Z",
+        "collected_at": "2026-03-15T02:06:23.503Z",
         "data_start_date": "2018-08-02",
         "price": 12.140000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:CWK",
-        "market_capitalization": 2814315531.934399,
+        "market_capitalization": 2814315530,
         "commodity_name": null,
         "display_name": "Cushman & Wakefield Ltd.",
         "sma_50": 14.827200031280517,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HESM",
         "name": "Hess Midstream LP",
-        "collected_at": "2026-03-14T02:03:38.356Z",
+        "collected_at": "2026-03-15T02:03:49.310Z",
         "data_start_date": "2017-04-05",
         "price": 38.9900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:HESM",
-        "market_capitalization": 8097697814.116906,
+        "market_capitalization": 8097698544,
         "commodity_name": null,
         "display_name": "Hess Midstream LP",
         "sma_50": 36.47160003662109,

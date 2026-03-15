@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VNOM",
         "name": "Viper Energy, Inc.",
-        "collected_at": "2026-03-14T02:02:35.605Z",
+        "collected_at": "2026-03-15T02:02:44.090Z",
         "data_start_date": "2016-03-14",
         "price": 44.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NASDAQ:VNOM",
-        "market_capitalization": 15821537764.802034,
+        "market_capitalization": 15821537491,
         "commodity_name": null,
         "display_name": "Viper Energy, Inc.",
         "sma_50": 39.63750007629395,

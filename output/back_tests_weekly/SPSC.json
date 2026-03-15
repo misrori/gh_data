@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPSC",
         "name": "SPS Commerce, Inc.",
-        "collected_at": "2026-03-14T02:06:33.771Z",
+        "collected_at": "2026-03-15T02:06:57.712Z",
         "data_start_date": "2016-03-14",
         "price": 60.54999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:SPSC",
-        "market_capitalization": 2264017425.517668,
+        "market_capitalization": 2264017328.9999995,
         "commodity_name": null,
         "display_name": "SPS Commerce, Inc.",
         "sma_50": 105.61819992065429,

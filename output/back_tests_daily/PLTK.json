@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLTK",
         "name": "Playtika Holding Corp.",
-        "collected_at": "2026-03-14T02:08:28.313Z",
+        "collected_at": "2026-03-15T02:08:44.596Z",
         "data_start_date": "2021-01-19",
         "price": 2.8499999046325684,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:PLTK",
-        "market_capitalization": 1081102801.1330936,
+        "market_capitalization": 1081102776,
         "commodity_name": null,
         "display_name": "Playtika Holding Corp.",
         "sma_50": 3.3746999979019163,

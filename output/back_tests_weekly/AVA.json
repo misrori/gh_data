@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AVA",
         "name": "Avista Corporation",
-        "collected_at": "2026-03-14T02:05:43.170Z",
+        "collected_at": "2026-03-15T02:05:58.526Z",
         "data_start_date": "2016-03-14",
         "price": 39.869998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:AVA",
-        "market_capitalization": 3279357158.394502,
+        "market_capitalization": 3279356994.0000005,
         "commodity_name": null,
         "display_name": "Avista Corporation",
         "sma_50": 38.97160003662109,

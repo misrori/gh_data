@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "USFD",
         "name": "US Foods Holding Corp.",
-        "collected_at": "2026-03-14T02:02:12.897Z",
+        "collected_at": "2026-03-15T02:02:22.230Z",
         "data_start_date": "2016-05-23",
         "price": 94.62999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Food Distributors",
         "tradingview_id": "NYSE:USFD",
-        "market_capitalization": 20869884526.69215,
+        "market_capitalization": 20869883783,
         "commodity_name": null,
         "display_name": "US Foods Holding Corp.",
         "sma_50": 78.76259971618653,

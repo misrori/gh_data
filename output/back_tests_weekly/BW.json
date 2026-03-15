@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BW",
         "name": "Babcock & Wilcox Enterprises, Inc.",
-        "collected_at": "2026-03-14T02:08:19.767Z",
+        "collected_at": "2026-03-15T02:08:35.465Z",
         "data_start_date": "2016-03-14",
         "price": 10.510000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:BW",
-        "market_capitalization": 1167662123.4827585,
+        "market_capitalization": 1167662132,
         "commodity_name": null,
         "display_name": "Babcock & Wilcox Enterprises, Inc.",
         "sma_50": 4.135340014100075,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.696,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 7.07662954313525,
+        "ml_value": 7.076629543135251,
         "ml_last_change_date": "2025-06-02",
         "ml_last_change_price": 1.1699999570846558,
         "ml_change_percent_from_last_change": 798.290650802253

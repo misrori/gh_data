@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VRSK",
         "name": "Verisk Analytics, Inc.",
-        "collected_at": "2026-03-14T02:01:51.794Z",
+        "collected_at": "2026-03-15T02:01:59.384Z",
         "data_start_date": "2016-03-14",
         "price": 201.22000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:VRSK",
-        "market_capitalization": 27756667076.74076,
+        "market_capitalization": 27756668186,
         "commodity_name": null,
         "display_name": "Verisk Analytics, Inc.",
         "sma_50": 252.62100036621095,

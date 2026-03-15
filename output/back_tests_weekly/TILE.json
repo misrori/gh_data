@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TILE",
         "name": "Interface, Inc.",
-        "collected_at": "2026-03-14T02:07:22.926Z",
+        "collected_at": "2026-03-15T02:07:48.063Z",
         "data_start_date": "2016-03-14",
         "price": 27.639999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NASDAQ:TILE",
-        "market_capitalization": 1602110890.635328,
+        "market_capitalization": 1602110815,
         "commodity_name": null,
         "display_name": "Interface, Inc.",
         "sma_50": 25.753199996948243,

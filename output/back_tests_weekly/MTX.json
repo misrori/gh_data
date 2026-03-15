@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTX",
         "name": "Minerals Technologies Inc.",
-        "collected_at": "2026-03-14T02:06:41.779Z",
+        "collected_at": "2026-03-15T02:07:05.878Z",
         "data_start_date": "2016-03-14",
         "price": 68.4000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:MTX",
-        "market_capitalization": 2123723361.1905112,
+        "market_capitalization": 2123723322,
         "commodity_name": null,
         "display_name": "Minerals Technologies Inc.",
         "sma_50": 61.21599983215332,

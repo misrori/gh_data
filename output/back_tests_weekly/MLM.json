@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MLM",
         "name": "Martin Marietta Materials, Inc.",
-        "collected_at": "2026-03-14T02:01:36.639Z",
+        "collected_at": "2026-03-15T02:01:44.343Z",
         "data_start_date": "2016-03-14",
         "price": 583.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Construction Materials",
         "tradingview_id": "NYSE:MLM",
-        "market_capitalization": 35207156589.11333,
+        "market_capitalization": 35207156882,
         "commodity_name": null,
         "display_name": "Martin Marietta Materials, Inc.",
         "sma_50": 600.8509973144531,

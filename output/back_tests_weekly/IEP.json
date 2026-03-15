@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IEP",
         "name": "Icahn Enterprises L.P.",
-        "collected_at": "2026-03-14T02:04:46.114Z",
+        "collected_at": "2026-03-15T02:04:59.276Z",
         "data_start_date": "2016-03-14",
         "price": 7.650000095367432,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NASDAQ:IEP",
-        "market_capitalization": 4874652096.46245,
+        "market_capitalization": 4874652060,
         "commodity_name": null,
         "display_name": "Icahn Enterprises L.P.",
         "sma_50": 8.327399978637695,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PI",
         "name": "Impinj, Inc.",
-        "collected_at": "2026-03-14T02:06:09.063Z",
+        "collected_at": "2026-03-15T02:06:25.147Z",
         "data_start_date": "2016-07-21",
         "price": 91.73500061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:PI",
-        "market_capitalization": 2773303571.3505583,
+        "market_capitalization": 2773303700,
         "commodity_name": null,
         "display_name": "Impinj, Inc.",
         "sma_50": 140.1395997619629,

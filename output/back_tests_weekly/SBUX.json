@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SBUX",
         "name": "Starbucks Corporation",
-        "collected_at": "2026-03-14T02:00:39.954Z",
+        "collected_at": "2026-03-15T02:00:48.098Z",
         "data_start_date": "2016-03-14",
         "price": 99.1500015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NASDAQ:SBUX",
-        "market_capitalization": 112961600185.13524,
+        "market_capitalization": 112961601580,
         "commodity_name": null,
         "display_name": "Starbucks Corporation",
         "sma_50": 88.84300003051757,

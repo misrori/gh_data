@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DHR",
         "name": "Danaher Corporation",
-        "collected_at": "2026-03-14T02:00:34.548Z",
+        "collected_at": "2026-03-15T02:00:42.822Z",
         "data_start_date": "2016-03-14",
         "price": 187.32000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:DHR",
-        "market_capitalization": 132461349306.44907,
+        "market_capitalization": 132461358392,
         "commodity_name": null,
         "display_name": "Danaher Corporation",
         "sma_50": 207.16340026855468,

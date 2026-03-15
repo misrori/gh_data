@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DEC",
         "name": "Diversified Energy Company",
-        "collected_at": "2026-03-14T02:08:26.291Z",
+        "collected_at": "2026-03-15T02:08:42.666Z",
         "data_start_date": "2021-01-04",
         "price": 14.609999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:DEC",
-        "market_capitalization": 1104264034.1592798,
+        "market_capitalization": 1104264040,
         "commodity_name": null,
         "display_name": "Diversified Energy Company",
         "sma_50": 13.532199974060058,

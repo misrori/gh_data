@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HLMN",
         "name": "Hillman Solutions Corp.",
-        "collected_at": "2026-03-14T02:07:25.209Z",
+        "collected_at": "2026-03-15T02:07:50.349Z",
         "data_start_date": "2020-11-30",
         "price": 8.050000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NASDAQ:HLMN",
-        "market_capitalization": 1582556788.1070988,
+        "market_capitalization": 1582556878,
         "commodity_name": null,
         "display_name": "Hillman Solutions Corp.",
         "sma_50": 8.643999977111816,

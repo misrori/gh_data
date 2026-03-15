@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADSE",
         "name": "ADS-TEC ENERGY PLC",
-        "collected_at": "2026-03-14T02:09:43.395Z",
+        "collected_at": "2026-03-15T02:09:59.779Z",
         "data_start_date": "2021-03-10",
         "price": 10.210000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:ADSE",
-        "market_capitalization": 613851107.3970038,
+        "market_capitalization": 613851092,
         "commodity_name": null,
         "display_name": "ADS-TEC ENERGY PLC",
         "sma_50": 11.461999988555908,

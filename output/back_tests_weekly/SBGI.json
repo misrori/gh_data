@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SBGI",
         "name": "Sinclair, Inc.",
-        "collected_at": "2026-03-14T02:08:38.287Z",
+        "collected_at": "2026-03-15T02:08:54.924Z",
         "data_start_date": "2016-03-14",
         "price": 14.09000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Broadcasting",
         "tradingview_id": "NASDAQ:SBGI",
-        "market_capitalization": 1009112192.2137185,
+        "market_capitalization": 1009112175,
         "commodity_name": null,
         "display_name": "Sinclair, Inc.",
         "sma_50": 14.529000053405762,

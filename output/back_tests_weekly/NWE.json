@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NWE",
         "name": "NorthWestern Energy Group, Inc.",
-        "collected_at": "2026-03-14T02:05:07.725Z",
+        "collected_at": "2026-03-15T02:05:20.666Z",
         "data_start_date": "2016-03-14",
         "price": 68.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:NWE",
-        "market_capitalization": 4203972657.4272118,
+        "market_capitalization": 4203972544.9999995,
         "commodity_name": null,
         "display_name": "NorthWestern Energy Group, Inc.",
         "sma_50": 60.36699966430664,

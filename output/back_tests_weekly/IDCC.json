@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IDCC",
         "name": "InterDigital, Inc.",
-        "collected_at": "2026-03-14T02:03:27.009Z",
+        "collected_at": "2026-03-15T02:03:37.468Z",
         "data_start_date": "2016-03-14",
         "price": 359.07000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:IDCC",
-        "market_capitalization": 9223347105.176928,
+        "market_capitalization": 9223347138,
         "commodity_name": null,
         "display_name": "InterDigital, Inc.",
         "sma_50": 295.72279876708984,

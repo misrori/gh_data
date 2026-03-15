@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MKSI",
         "name": "MKS Inc.",
-        "collected_at": "2026-03-14T02:02:41.794Z",
+        "collected_at": "2026-03-15T02:02:50.710Z",
         "data_start_date": "2016-03-14",
         "price": 213.4499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:MKSI",
-        "market_capitalization": 14354162743.54349,
+        "market_capitalization": 14354162169,
         "commodity_name": null,
         "display_name": "MKS Inc.",
         "sma_50": 138.97780044555665,

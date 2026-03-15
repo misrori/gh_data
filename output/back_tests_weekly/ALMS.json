@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALMS",
         "name": "Alumis Inc.",
-        "collected_at": "2026-03-14T02:05:50.833Z",
+        "collected_at": "2026-03-15T02:06:06.279Z",
         "data_start_date": "2024-06-24",
         "price": 24.809999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ALMS",
-        "market_capitalization": 3093581240.8945265,
+        "market_capitalization": 3093581090,
         "commodity_name": null,
         "display_name": "Alumis Inc.",
         "sma_50": 9.729600033760072,

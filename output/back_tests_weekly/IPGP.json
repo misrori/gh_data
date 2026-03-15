@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IPGP",
         "name": "IPG Photonics Corporation",
-        "collected_at": "2026-03-14T02:04:50.778Z",
+        "collected_at": "2026-03-15T02:05:04.019Z",
         "data_start_date": "2016-03-14",
         "price": 110.94999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:IPGP",
-        "market_capitalization": 4681130506.950691,
+        "market_capitalization": 4681130469,
         "commodity_name": null,
         "display_name": "IPG Photonics Corporation",
         "sma_50": 82.25240028381347,

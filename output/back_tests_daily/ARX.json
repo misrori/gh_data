@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARX",
         "name": "Accelerant Holdings",
-        "collected_at": "2026-03-14T02:06:27.405Z",
+        "collected_at": "2026-03-15T02:06:51.525Z",
         "data_start_date": "2025-07-24",
         "price": 10.710000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:ARX",
-        "market_capitalization": 2375692824.501393,
+        "market_capitalization": 2375692732,
         "commodity_name": null,
         "display_name": "Accelerant Holdings",
         "sma_50": 12.605400066375733,

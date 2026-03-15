@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NBR",
         "name": "Nabors Industries Ltd.",
-        "collected_at": "2026-03-14T02:08:24.410Z",
+        "collected_at": "2026-03-15T02:08:40.454Z",
         "data_start_date": "2016-03-14",
         "price": 76.58999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Contract Drilling",
         "tradingview_id": "NYSE:NBR",
-        "market_capitalization": 1123819274.7555878,
+        "market_capitalization": 1123819212,
         "commodity_name": null,
         "display_name": "Nabors Industries Ltd.",
         "sma_50": 45.6905997467041,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TNL",
         "name": "Travel Leisure Co.",
-        "collected_at": "2026-03-14T02:05:05.487Z",
+        "collected_at": "2026-03-15T02:05:18.375Z",
         "data_start_date": "2016-03-14",
         "price": 68.52999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NYSE:TNL",
-        "market_capitalization": 4276116932.5967355,
+        "market_capitalization": 4276116744,
         "commodity_name": null,
         "display_name": "Travel Leisure Co.",
         "sma_50": 61.31319969177246,

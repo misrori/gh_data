@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TBPH",
         "name": "Theravance Biopharma, Inc.",
-        "collected_at": "2026-03-14T02:09:25.456Z",
+        "collected_at": "2026-03-15T02:09:42.682Z",
         "data_start_date": "2016-03-14",
         "price": 13.779999732971191,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:TBPH",
-        "market_capitalization": 698266076.7688985,
+        "market_capitalization": 698266046,
         "commodity_name": null,
         "display_name": "Theravance Biopharma, Inc.",
         "sma_50": 14.283199920654297,

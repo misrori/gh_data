@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTEK",
         "name": "Tetra Tech, Inc.",
-        "collected_at": "2026-03-14T02:03:36.392Z",
+        "collected_at": "2026-03-15T02:03:47.281Z",
         "data_start_date": "2016-03-14",
         "price": 32.18000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:TTEK",
-        "market_capitalization": 8392787234.440628,
+        "market_capitalization": 8392787237.000001,
         "commodity_name": null,
         "display_name": "Tetra Tech, Inc.",
         "sma_50": 35.00299987792969,

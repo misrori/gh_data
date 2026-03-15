@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AI",
         "name": "C3.ai, Inc.",
-        "collected_at": "2026-03-14T02:08:12.836Z",
+        "collected_at": "2026-03-15T02:08:28.208Z",
         "data_start_date": "2020-12-09",
         "price": 8.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:AI",
-        "market_capitalization": 1222926715.1567082,
+        "market_capitalization": 1222926710,
         "commodity_name": null,
         "display_name": "C3.ai, Inc.",
         "sma_50": 11.246999969482422,

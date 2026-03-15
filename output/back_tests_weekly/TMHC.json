@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TMHC",
         "name": "Taylor Morrison Home Corporation",
-        "collected_at": "2026-03-14T02:04:23.466Z",
+        "collected_at": "2026-03-15T02:04:36.385Z",
         "data_start_date": "2016-03-14",
         "price": 59.20000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:TMHC",
-        "market_capitalization": 5702953415.671083,
+        "market_capitalization": 5702953430,
         "commodity_name": null,
         "display_name": "Taylor Morrison Home Corporation",
         "sma_50": 62.19440010070801,

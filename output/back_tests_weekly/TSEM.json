@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TSEM",
         "name": "Tower Semiconductor Ltd.",
-        "collected_at": "2026-03-14T02:02:45.186Z",
+        "collected_at": "2026-03-15T02:02:53.804Z",
         "data_start_date": "2016-03-14",
         "price": 124.70999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:TSEM",
-        "market_capitalization": 13937168475.981188,
+        "market_capitalization": 13937168267,
         "commodity_name": null,
         "display_name": "Tower Semiconductor Ltd.",
         "sma_50": 78.45599983215332,

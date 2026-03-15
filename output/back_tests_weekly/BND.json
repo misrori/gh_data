@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BND",
         "name": "Vanguard Total Bond Market ETF",
-        "collected_at": "2026-03-14T02:10:22.228Z",
+        "collected_at": "2026-03-15T02:10:39.288Z",
         "data_start_date": "2016-03-14",
         "price": 73.55000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:BND",
-        "market_capitalization": 152209276569.84,
+        "market_capitalization": 151779615275.7,
         "commodity_name": null,
         "display_name": "Vanguard Total Bond Market ETF",
         "sma_50": 73.76019958496094,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AVTR",
         "name": "Avantor, Inc.",
-        "collected_at": "2026-03-14T02:04:32.831Z",
+        "collected_at": "2026-03-15T02:04:45.886Z",
         "data_start_date": "2019-05-13",
         "price": 7.929999828338623,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:AVTR",
-        "market_capitalization": 5408703417.49367,
+        "market_capitalization": 5408703235,
         "commodity_name": null,
         "display_name": "Avantor, Inc.",
         "sma_50": 12.196600017547608,

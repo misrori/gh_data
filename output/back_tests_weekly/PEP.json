@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PEP",
         "name": "PepsiCo, Inc.",
-        "collected_at": "2026-03-14T02:00:22.070Z",
+        "collected_at": "2026-03-15T02:00:30.249Z",
         "data_start_date": "2016-03-14",
         "price": 159.8800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NASDAQ:PEP",
-        "market_capitalization": 218499850610.1654,
+        "market_capitalization": 218499856444.00003,
         "commodity_name": null,
         "display_name": "PepsiCo, Inc.",
         "sma_50": 145.06180053710938,

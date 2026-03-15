@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRMB",
         "name": "Primo Brands Corporation",
-        "collected_at": "2026-03-14T02:03:47.802Z",
+        "collected_at": "2026-03-15T02:03:59.619Z",
         "data_start_date": "2016-03-14",
         "price": 20.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Non-Alcoholic",
         "tradingview_id": "NYSE:PRMB",
-        "market_capitalization": 7542709752.247483,
+        "market_capitalization": 7542709697,
         "commodity_name": null,
         "display_name": "Primo Brands Corporation",
         "sma_50": 23.794000091552736,

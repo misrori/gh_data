@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YDES",
         "name": "YD Bio Limited",
-        "collected_at": "2026-03-14T02:10:07.961Z",
+        "collected_at": "2026-03-15T02:10:24.690Z",
         "data_start_date": "2025-08-26",
         "price": 7.300000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:YDES",
-        "market_capitalization": 514805960.4660454,
+        "market_capitalization": 514805958,
         "commodity_name": null,
         "display_name": "YD Bio Limited",
         "sma_50": 10.222400007247925,

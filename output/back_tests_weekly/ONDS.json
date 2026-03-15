@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ONDS",
         "name": "Ondas Inc",
-        "collected_at": "2026-03-14T02:04:55.131Z",
+        "collected_at": "2026-03-15T02:05:08.127Z",
         "data_start_date": "2020-11-30",
         "price": 10.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:ONDS",
-        "market_capitalization": 4567564267.926428,
+        "market_capitalization": 4573946789,
         "commodity_name": null,
         "display_name": "Ondas Inc",
         "sma_50": 6.026259969472886,

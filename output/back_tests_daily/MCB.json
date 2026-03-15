@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MCB",
         "name": "Metropolitan Bank Holding Corp.",
-        "collected_at": "2026-03-14T02:09:08.178Z",
+        "collected_at": "2026-03-15T02:09:25.346Z",
         "data_start_date": "2017-11-08",
         "price": 78.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:MCB",
-        "market_capitalization": 798262836.6579888,
+        "market_capitalization": 798262867,
         "commodity_name": null,
         "display_name": "Metropolitan Bank Holding Corp.",
         "sma_50": 86.8718000793457,

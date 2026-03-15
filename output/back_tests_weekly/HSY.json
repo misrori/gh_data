@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HSY",
         "name": "The Hershey Company",
-        "collected_at": "2026-03-14T02:01:24.900Z",
+        "collected_at": "2026-03-15T02:01:33.059Z",
         "data_start_date": "2016-03-14",
         "price": 217.08999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:HSY",
-        "market_capitalization": 44002235941.41443,
+        "market_capitalization": 44002235199.00001,
         "commodity_name": null,
         "display_name": "The Hershey Company",
         "sma_50": 185.0097998046875,

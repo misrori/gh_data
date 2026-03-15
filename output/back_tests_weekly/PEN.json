@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PEN",
         "name": "Penumbra, Inc.",
-        "collected_at": "2026-03-14T02:02:49.433Z",
+        "collected_at": "2026-03-15T02:02:58.373Z",
         "data_start_date": "2016-03-14",
         "price": 336.17999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:PEN",
-        "market_capitalization": 13192729319.226425,
+        "market_capitalization": 13192729417,
         "commodity_name": null,
         "display_name": "Penumbra, Inc.",
         "sma_50": 285.4340008544922,

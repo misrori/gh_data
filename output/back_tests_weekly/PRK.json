@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRK",
         "name": "Park National Corporation",
-        "collected_at": "2026-03-14T02:06:06.750Z",
+        "collected_at": "2026-03-15T02:06:22.718Z",
         "data_start_date": "2016-03-14",
         "price": 156.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "AMEX:PRK",
-        "market_capitalization": 2820525237.0254784,
+        "market_capitalization": 2820525170.9999995,
         "commodity_name": null,
         "display_name": "Park National Corporation",
         "sma_50": 161.96760040283203,

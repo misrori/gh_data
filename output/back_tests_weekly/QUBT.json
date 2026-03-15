@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QUBT",
         "name": "Quantum Computing Inc.",
-        "collected_at": "2026-03-14T02:07:19.084Z",
+        "collected_at": "2026-03-15T02:07:44.069Z",
         "data_start_date": "2016-03-14",
         "price": 7.300000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:QUBT",
-        "market_capitalization": 1639129239.9731002,
+        "market_capitalization": 1639129295,
         "commodity_name": null,
         "display_name": "Quantum Computing Inc.",
         "sma_50": 13.355699996948243,

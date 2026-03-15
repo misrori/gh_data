@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSW",
         "name": "CSW Industrials, Inc.",
-        "collected_at": "2026-03-14T02:05:06.577Z",
+        "collected_at": "2026-03-15T02:05:19.734Z",
         "data_start_date": "2016-03-14",
         "price": 256.5400085449219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:CSW",
-        "market_capitalization": 4225272830.575597,
+        "market_capitalization": 4225272971,
         "commodity_name": null,
         "display_name": "CSW Industrials, Inc.",
         "sma_50": 282.737799987793,

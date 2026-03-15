@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GHC",
         "name": "Graham Holdings Company",
-        "collected_at": "2026-03-14T02:04:53.251Z",
+        "collected_at": "2026-03-15T02:05:06.239Z",
         "data_start_date": "2016-03-14",
         "price": 1056.56005859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:GHC",
-        "market_capitalization": 4609161410.638926,
+        "market_capitalization": 4609161903,
         "commodity_name": null,
         "display_name": "Graham Holdings Company",
         "sma_50": 1037.5704016113282,

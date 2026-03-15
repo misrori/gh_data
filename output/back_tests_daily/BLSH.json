@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLSH",
         "name": "Bullish",
-        "collected_at": "2026-03-14T02:04:27.336Z",
+        "collected_at": "2026-03-15T02:04:40.430Z",
         "data_start_date": "2025-08-13",
         "price": 36.619998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:BLSH",
-        "market_capitalization": 5518038487.459712,
+        "market_capitalization": 5518038071,
         "commodity_name": null,
         "display_name": "Bullish",
         "sma_50": 34.524199867248534,

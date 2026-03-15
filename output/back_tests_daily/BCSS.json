@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BCSS",
         "name": "Bain Capital GSS Investment Corp.",
-        "collected_at": "2026-03-14T02:09:50.223Z",
+        "collected_at": "2026-03-15T02:10:06.834Z",
         "data_start_date": "2025-11-20",
         "price": 10.130000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NYSE:BCSS",
-        "market_capitalization": 591592035.964497,
+        "market_capitalization": 591592022,
         "commodity_name": null,
         "display_name": "Bain Capital GSS Investment Corp.",
         "sma_50": 10.159399967193604,

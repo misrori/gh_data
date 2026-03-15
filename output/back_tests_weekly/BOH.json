@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BOH",
         "name": "Bank of Hawaii Corporation",
-        "collected_at": "2026-03-14T02:06:00.738Z",
+        "collected_at": "2026-03-15T02:06:16.720Z",
         "data_start_date": "2016-03-14",
         "price": 73.08999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:BOH",
-        "market_capitalization": 2898548920.324068,
+        "market_capitalization": 2898548775,
         "commodity_name": null,
         "display_name": "Bank of Hawaii Corporation",
         "sma_50": 68.27099975585938,

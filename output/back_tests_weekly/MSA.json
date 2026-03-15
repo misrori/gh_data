@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSA",
         "name": "MSA Safety Incorporated",
-        "collected_at": "2026-03-14T02:03:58.358Z",
+        "collected_at": "2026-03-15T02:04:10.400Z",
         "data_start_date": "2016-03-14",
         "price": 177.22000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Other Consumer Specialties",
         "tradingview_id": "NYSE:MSA",
-        "market_capitalization": 6871656512.654816,
+        "market_capitalization": 6871656466.999999,
         "commodity_name": null,
         "display_name": "MSA Safety Incorporated",
         "sma_50": 169.34680084228515,

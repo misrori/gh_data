@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRGY",
         "name": "Crescent Energy Company",
-        "collected_at": "2026-03-14T02:05:17.160Z",
+        "collected_at": "2026-03-15T02:05:31.294Z",
         "data_start_date": "2021-12-08",
         "price": 11.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:CRGY",
-        "market_capitalization": 3931524143.5451446,
+        "market_capitalization": 3931524145,
         "commodity_name": null,
         "display_name": "Crescent Energy Company",
         "sma_50": 9.923600025177002,

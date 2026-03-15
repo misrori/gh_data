@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RS",
         "name": "Reliance, Inc.",
-        "collected_at": "2026-03-14T02:02:37.764Z",
+        "collected_at": "2026-03-15T02:02:46.182Z",
         "data_start_date": "2016-03-14",
         "price": 297.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NYSE:RS",
-        "market_capitalization": 15387545659.872763,
+        "market_capitalization": 15387545849,
         "commodity_name": null,
         "display_name": "Reliance, Inc.",
         "sma_50": 298.84019958496094,

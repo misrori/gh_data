@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRK",
         "name": "Merck & Company, Inc.",
-        "collected_at": "2026-03-14T02:00:17.050Z",
+        "collected_at": "2026-03-15T02:00:24.149Z",
         "data_start_date": "2016-03-14",
         "price": 115.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:MRK",
-        "market_capitalization": 285833258537.6127,
+        "market_capitalization": 285833251016,
         "commodity_name": null,
         "display_name": "Merck & Company, Inc.",
         "sma_50": 92.48860000610351,

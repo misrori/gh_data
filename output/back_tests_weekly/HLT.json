@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HLT",
         "name": "Hilton Worldwide Holdings Inc.",
-        "collected_at": "2026-03-14T02:01:04.756Z",
+        "collected_at": "2026-03-15T02:01:13.191Z",
         "data_start_date": "2016-03-14",
         "price": 291.54998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NYSE:HLT",
-        "market_capitalization": 66849971323.33294,
+        "market_capitalization": 66849966306,
         "commodity_name": null,
         "display_name": "Hilton Worldwide Holdings Inc.",
         "sma_50": 271.5653988647461,

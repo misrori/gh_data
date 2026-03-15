@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SYY",
         "name": "Sysco Corporation",
-        "collected_at": "2026-03-14T02:01:28.285Z",
+        "collected_at": "2026-03-15T02:01:36.618Z",
         "data_start_date": "2016-03-14",
         "price": 85.48999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Food Distributors",
         "tradingview_id": "NYSE:SYY",
-        "market_capitalization": 40943784236.13367,
+        "market_capitalization": 40943781448.00001,
         "commodity_name": null,
         "display_name": "Sysco Corporation",
         "sma_50": 78.05939987182617,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABG",
         "name": "Asbury Automotive Group Inc",
-        "collected_at": "2026-03-14T02:05:22.136Z",
+        "collected_at": "2026-03-15T02:05:36.572Z",
         "data_start_date": "2016-03-14",
         "price": 196.4600067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:ABG",
-        "market_capitalization": 3783410874.503839,
+        "market_capitalization": 3783410957,
         "commodity_name": null,
         "display_name": "Asbury Automotive Group Inc",
         "sma_50": 233.78560119628906,

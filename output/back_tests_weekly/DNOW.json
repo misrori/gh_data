@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DNOW",
         "name": "DNOW Inc.",
-        "collected_at": "2026-03-14T02:06:42.085Z",
+        "collected_at": "2026-03-15T02:07:06.114Z",
         "data_start_date": "2016-03-14",
         "price": 11.390000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:DNOW",
-        "market_capitalization": 2122482591.4995575,
+        "market_capitalization": 2122482662.9999998,
         "commodity_name": null,
         "display_name": "DNOW Inc.",
         "sma_50": 14.516599979400635,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HON",
         "name": "Honeywell International Inc.",
-        "collected_at": "2026-03-14T02:00:30.911Z",
+        "collected_at": "2026-03-15T02:00:39.619Z",
         "data_start_date": "2016-03-14",
         "price": 234.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:HON",
-        "market_capitalization": 149065938179.81366,
+        "market_capitalization": 149065942078,
         "commodity_name": null,
         "display_name": "Honeywell International Inc.",
         "sma_50": 208.77046173095704,

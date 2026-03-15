@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AZTA",
         "name": "Azenta, Inc.",
-        "collected_at": "2026-03-14T02:08:39.550Z",
+        "collected_at": "2026-03-15T02:08:56.085Z",
         "data_start_date": "2016-03-14",
         "price": 21.420000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:AZTA",
-        "market_capitalization": 986637952.4529715,
+        "market_capitalization": 986637917,
         "commodity_name": null,
         "display_name": "Azenta, Inc.",
         "sma_50": 30.69459987640381,

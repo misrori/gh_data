@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INTR",
         "name": "Inter & Co. Inc.",
-        "collected_at": "2026-03-14T02:05:35.898Z",
+        "collected_at": "2026-03-15T02:05:50.822Z",
         "data_start_date": "2022-06-23",
         "price": 7.800000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:INTR",
-        "market_capitalization": 3442309082.3762374,
+        "market_capitalization": 3442309199,
         "commodity_name": null,
         "display_name": "Inter & Co. Inc.",
         "sma_50": 8.805100002288818,

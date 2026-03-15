@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RUN",
         "name": "Sunrun Inc.",
-        "collected_at": "2026-03-14T02:06:04.826Z",
+        "collected_at": "2026-03-15T02:06:20.670Z",
         "data_start_date": "2016-03-14",
         "price": 12.140000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:RUN",
-        "market_capitalization": 2846737813.079365,
+        "market_capitalization": 2846737830.0000005,
         "commodity_name": null,
         "display_name": "Sunrun Inc.",
         "sma_50": 14.471200046539307,

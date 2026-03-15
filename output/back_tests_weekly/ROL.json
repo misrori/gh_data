@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROL",
         "name": "Rollins, Inc.",
-        "collected_at": "2026-03-14T02:01:54.598Z",
+        "collected_at": "2026-03-15T02:02:02.532Z",
         "data_start_date": "2016-03-14",
         "price": 55.130001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:ROL",
-        "market_capitalization": 26522614388.299335,
+        "market_capitalization": 26522614830,
         "commodity_name": null,
         "display_name": "Rollins, Inc.",
         "sma_50": 58.17119987487793,

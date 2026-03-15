@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "G",
         "name": "Genpact Limited",
-        "collected_at": "2026-03-14T02:04:05.706Z",
+        "collected_at": "2026-03-15T02:04:18.230Z",
         "data_start_date": "2016-03-14",
         "price": 38.29999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:G",
-        "market_capitalization": 6505783802.026213,
+        "market_capitalization": 6505783412,
         "commodity_name": null,
         "display_name": "Genpact Limited",
         "sma_50": 43.56999992370606,

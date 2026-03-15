@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DNUT",
         "name": "Krispy Kreme, Inc.",
-        "collected_at": "2026-03-14T02:09:56.903Z",
+        "collected_at": "2026-03-15T02:10:13.573Z",
         "data_start_date": "2021-07-01",
         "price": 3.2699999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Food Distributors",
         "tradingview_id": "NASDAQ:DNUT",
-        "market_capitalization": 563093996.9439251,
+        "market_capitalization": 563093987,
         "commodity_name": null,
         "display_name": "Krispy Kreme, Inc.",
         "sma_50": 3.4470000076293945,

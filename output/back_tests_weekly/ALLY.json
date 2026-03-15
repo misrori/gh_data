@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALLY",
         "name": "Ally Financial Inc.",
-        "collected_at": "2026-03-14T02:03:07.896Z",
+        "collected_at": "2026-03-15T02:03:17.003Z",
         "data_start_date": "2016-03-14",
         "price": 36.13999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:ALLY",
-        "market_capitalization": 11170573173.739954,
+        "market_capitalization": 11170572939,
         "commodity_name": null,
         "display_name": "Ally Financial Inc.",
         "sma_50": 39.370399742126466,

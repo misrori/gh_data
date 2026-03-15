@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GROY",
         "name": "Gold Royalty Corp.",
-        "collected_at": "2026-03-14T02:08:53.739Z",
+        "collected_at": "2026-03-15T02:09:10.378Z",
         "data_start_date": "2021-03-08",
         "price": 3.950000047683716,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "AMEX:GROY",
-        "market_capitalization": 896440893.5995085,
+        "market_capitalization": 896440866,
         "commodity_name": null,
         "display_name": "Gold Royalty Corp.",
         "sma_50": 3.2921999979019163,

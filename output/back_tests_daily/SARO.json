@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SARO",
         "name": "StandardAero, Inc.",
-        "collected_at": "2026-03-14T02:03:31.167Z",
+        "collected_at": "2026-03-15T02:03:41.485Z",
         "data_start_date": "2024-10-02",
         "price": 26.059999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Other Transportation",
         "tradingview_id": "NYSE:SARO",
-        "market_capitalization": 8668984546.67168,
+        "market_capitalization": 8668984319,
         "commodity_name": null,
         "display_name": "StandardAero, Inc.",
         "sma_50": 30.633799934387206,

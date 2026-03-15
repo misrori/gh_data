@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GEV",
         "name": "GE Vernova Inc.",
-        "collected_at": "2026-03-14T02:00:22.149Z",
+        "collected_at": "2026-03-15T02:00:30.325Z",
         "data_start_date": "2024-03-27",
         "price": 805.02001953125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:GEV",
-        "market_capitalization": 216976618153.8772,
+        "market_capitalization": 216976627237.99997,
         "commodity_name": null,
         "display_name": "GE Vernova Inc.",
         "sma_50": 760.1194006347656,

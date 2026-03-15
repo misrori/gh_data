@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LMAT",
         "name": "LeMaitre Vascular, Inc.",
-        "collected_at": "2026-03-14T02:06:23.013Z",
+        "collected_at": "2026-03-15T02:06:46.734Z",
         "data_start_date": "2016-03-14",
         "price": 108.05999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:LMAT",
-        "market_capitalization": 2461430054.856955,
+        "market_capitalization": 2461429978,
         "commodity_name": null,
         "display_name": "LeMaitre Vascular, Inc.",
         "sma_50": 88.02299972534179,

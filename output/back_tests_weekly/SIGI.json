@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SIGI",
         "name": "Selective Insurance Group, Inc.",
-        "collected_at": "2026-03-14T02:04:54.311Z",
+        "collected_at": "2026-03-15T02:05:07.268Z",
         "data_start_date": "2016-03-14",
         "price": 76.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:SIGI",
-        "market_capitalization": 4590862743.024292,
+        "market_capitalization": 4590862981,
         "commodity_name": null,
         "display_name": "Selective Insurance Group, Inc.",
         "sma_50": 82.53279998779297,

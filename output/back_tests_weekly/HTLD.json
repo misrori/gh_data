@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTLD",
         "name": "Heartland Express, Inc.",
-        "collected_at": "2026-03-14T02:09:18.728Z",
+        "collected_at": "2026-03-15T02:09:36.061Z",
         "data_start_date": "2016-03-14",
         "price": 9.529999732971191,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NASDAQ:HTLD",
-        "market_capitalization": 738145440.7673683,
+        "market_capitalization": 738145420,
         "commodity_name": null,
         "display_name": "Heartland Express, Inc.",
         "sma_50": 8.916799936294556,

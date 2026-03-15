@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FHB",
         "name": "First Hawaiian, Inc.",
-        "collected_at": "2026-03-14T02:05:57.725Z",
+        "collected_at": "2026-03-15T02:06:12.938Z",
         "data_start_date": "2016-08-05",
         "price": 23.950000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:FHB",
-        "market_capitalization": 2938407548.532244,
+        "market_capitalization": 2938407745,
         "commodity_name": null,
         "display_name": "First Hawaiian, Inc.",
         "sma_50": 26.093299980163575,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KMI",
         "name": "Kinder Morgan, Inc.",
-        "collected_at": "2026-03-14T02:00:57.738Z",
+        "collected_at": "2026-03-15T02:01:06.434Z",
         "data_start_date": "2016-03-14",
         "price": 33.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:KMI",
-        "market_capitalization": 74286286938.11601,
+        "market_capitalization": 74286284221,
         "commodity_name": null,
         "display_name": "Kinder Morgan, Inc.",
         "sma_50": 28.228999900817872,

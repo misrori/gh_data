@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRNS",
         "name": "Transcat, Inc.",
-        "collected_at": "2026-03-14T02:09:27.301Z",
+        "collected_at": "2026-03-15T02:09:44.452Z",
         "data_start_date": "2016-03-14",
         "price": 73.94999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NASDAQ:TRNS",
-        "market_capitalization": 690115353.3247001,
+        "market_capitalization": 690115319,
         "commodity_name": null,
         "display_name": "Transcat, Inc.",
         "sma_50": 73.86119979858398,

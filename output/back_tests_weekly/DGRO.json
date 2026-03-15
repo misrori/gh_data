@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DGRO",
         "name": "iShares Core Dividend Growth ETF",
-        "collected_at": "2026-03-14T02:10:38.862Z",
+        "collected_at": "2026-03-15T02:10:56.246Z",
         "data_start_date": "2016-03-14",
         "price": 70.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:DGRO",
-        "market_capitalization": 37775967443.25,
+        "market_capitalization": 37436209113.15,
         "commodity_name": null,
         "display_name": "iShares Core Dividend Growth ETF",
         "sma_50": 67.03960014343262,

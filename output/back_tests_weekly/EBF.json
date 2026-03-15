@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EBF",
         "name": "Ennis, Inc.",
-        "collected_at": "2026-03-14T02:10:03.459Z",
+        "collected_at": "2026-03-15T02:10:20.052Z",
         "data_start_date": "2016-03-14",
         "price": 21.149999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Commercial Printing/Forms",
         "tradingview_id": "NYSE:EBF",
-        "market_capitalization": 534944116.73565376,
+        "market_capitalization": 534944101,
         "commodity_name": null,
         "display_name": "Ennis, Inc.",
         "sma_50": 18.540599975585938,

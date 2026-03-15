@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SXC",
         "name": "SunCoke Energy, Inc.",
-        "collected_at": "2026-03-14T02:10:09.041Z",
+        "collected_at": "2026-03-15T02:10:25.843Z",
         "data_start_date": "2016-03-14",
         "price": 6.019999980926514,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NYSE:SXC",
-        "market_capitalization": 509686341.1211631,
+        "market_capitalization": 509686335,
         "commodity_name": null,
         "display_name": "SunCoke Energy, Inc.",
         "sma_50": 7.764000005722046,

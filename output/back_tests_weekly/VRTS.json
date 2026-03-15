@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VRTS",
         "name": "Virtus Investment Partners, Inc.",
-        "collected_at": "2026-03-14T02:09:01.274Z",
+        "collected_at": "2026-03-15T02:09:18.441Z",
         "data_start_date": "2016-03-14",
         "price": 126.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:VRTS",
-        "market_capitalization": 844371432.8465033,
+        "market_capitalization": 844371420,
         "commodity_name": null,
         "display_name": "Virtus Investment Partners, Inc.",
         "sma_50": 170.6247998046875,

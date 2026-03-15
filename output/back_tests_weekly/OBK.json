@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OBK",
         "name": "Origin Bancorp, Inc.",
-        "collected_at": "2026-03-14T02:08:09.721Z",
+        "collected_at": "2026-03-15T02:08:25.451Z",
         "data_start_date": "2018-05-07",
         "price": 40.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:OBK",
-        "market_capitalization": 1258248633.16246,
+        "market_capitalization": 1258248610.0000002,
         "commodity_name": null,
         "display_name": "Origin Bancorp, Inc.",
         "sma_50": 36.825200386047364,

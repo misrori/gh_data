@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ESI",
         "name": "Element Solutions Inc.",
-        "collected_at": "2026-03-14T02:03:47.336Z",
+        "collected_at": "2026-03-15T02:03:59.088Z",
         "data_start_date": "2016-03-14",
         "price": 30.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Major Diversified",
         "tradingview_id": "NYSE:ESI",
-        "market_capitalization": 7548494643.807577,
+        "market_capitalization": 7548494550,
         "commodity_name": null,
         "display_name": "Element Solutions Inc.",
         "sma_50": 25.604199905395507,

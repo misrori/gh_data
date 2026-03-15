@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GVA",
         "name": "Granite Construction Incorporated",
-        "collected_at": "2026-03-14T02:04:36.201Z",
+        "collected_at": "2026-03-15T02:04:49.145Z",
         "data_start_date": "2016-03-14",
         "price": 120.7300033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:GVA",
-        "market_capitalization": 5252198430.639363,
+        "market_capitalization": 5252198654,
         "commodity_name": null,
         "display_name": "Granite Construction Incorporated",
         "sma_50": 105.22079971313477,

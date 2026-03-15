@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EMBC",
         "name": "Embecta Corp.",
-        "collected_at": "2026-03-14T02:10:06.751Z",
+        "collected_at": "2026-03-15T02:10:23.545Z",
         "data_start_date": "2022-03-22",
         "price": 8.789999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:EMBC",
-        "market_capitalization": 520542561.817253,
+        "market_capitalization": 520542534.00000006,
         "commodity_name": null,
         "display_name": "Embecta Corp.",
         "sma_50": 10.752699947357177,

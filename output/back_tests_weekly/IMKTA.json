@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IMKTA",
         "name": "Ingles Markets, Incorporated",
-        "collected_at": "2026-03-14T02:07:18.559Z",
+        "collected_at": "2026-03-15T02:07:43.521Z",
         "data_start_date": "2016-03-14",
         "price": 88.52999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NASDAQ:IMKTA",
-        "market_capitalization": 1645797970.8623683,
+        "market_capitalization": 1645797960.0000002,
         "commodity_name": null,
         "display_name": "Ingles Markets, Incorporated",
         "sma_50": 70.42799972534179,

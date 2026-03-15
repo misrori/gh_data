@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALVO",
         "name": "Alvotech",
-        "collected_at": "2026-03-14T02:08:34.687Z",
+        "collected_at": "2026-03-15T02:08:51.204Z",
         "data_start_date": "2022-06-13",
         "price": 3.4700000286102295,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:ALVO",
-        "market_capitalization": 1037261860.161017,
+        "market_capitalization": 1037261879.9999999,
         "commodity_name": null,
         "display_name": "Alvotech",
         "sma_50": 7.246299967765808,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CARR",
         "name": "Carrier Global Corporation",
-        "collected_at": "2026-03-14T02:01:21.457Z",
+        "collected_at": "2026-03-15T02:01:29.831Z",
         "data_start_date": "2020-03-16",
         "price": 55.650001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:CARR",
-        "market_capitalization": 46514712862.60223,
+        "market_capitalization": 46491863784,
         "commodity_name": null,
         "display_name": "Carrier Global Corporation",
         "sma_50": 62.948600158691406,

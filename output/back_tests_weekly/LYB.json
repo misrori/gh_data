@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LYB",
         "name": "LyondellBasell Industries NV",
-        "collected_at": "2026-03-14T02:02:02.831Z",
+        "collected_at": "2026-03-15T02:02:11.054Z",
         "data_start_date": "2016-03-14",
         "price": 72.30000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:LYB",
-        "market_capitalization": 23292890338.57124,
+        "market_capitalization": 23292890748,
         "commodity_name": null,
         "display_name": "LyondellBasell Industries NV",
         "sma_50": 54.087000122070314,

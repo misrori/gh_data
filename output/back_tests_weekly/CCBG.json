@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCBG",
         "name": "Capital City Bank Group",
-        "collected_at": "2026-03-14T02:09:21.186Z",
+        "collected_at": "2026-03-15T02:09:38.267Z",
         "data_start_date": "2016-03-14",
         "price": 42.2400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CCBG",
-        "market_capitalization": 724511567.3763288,
+        "market_capitalization": 724511564.0000001,
         "commodity_name": null,
         "display_name": "Capital City Bank Group",
         "sma_50": 40.78719985961914,

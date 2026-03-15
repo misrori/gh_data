@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CART",
         "name": "Maplebear Inc.",
-        "collected_at": "2026-03-14T02:03:27.568Z",
+        "collected_at": "2026-03-15T02:03:38.048Z",
         "data_start_date": "2023-09-19",
         "price": 38.22999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Air Freight/Couriers",
         "tradingview_id": "NASDAQ:CART",
-        "market_capitalization": 9198713769.550251,
+        "market_capitalization": 9198713883,
         "commodity_name": null,
         "display_name": "Maplebear Inc.",
         "sma_50": 38.13259979248047,

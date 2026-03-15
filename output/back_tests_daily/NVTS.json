@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NVTS",
         "name": "Navitas Semiconductor Corporation",
-        "collected_at": "2026-03-14T02:06:29.395Z",
+        "collected_at": "2026-03-15T02:06:53.255Z",
         "data_start_date": "2021-10-20",
         "price": 10.100000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:NVTS",
-        "market_capitalization": 2331006874.1783566,
+        "market_capitalization": 2331007069,
         "commodity_name": null,
         "display_name": "Navitas Semiconductor Corporation",
         "sma_50": 9.2539000415802,

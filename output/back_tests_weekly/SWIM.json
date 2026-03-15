@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SWIM",
         "name": "Latham Group, Inc.",
-        "collected_at": "2026-03-14T02:09:25.189Z",
+        "collected_at": "2026-03-15T02:09:42.483Z",
         "data_start_date": "2021-04-19",
         "price": 6.019999980926514,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NASDAQ:SWIM",
-        "market_capitalization": 702936929.5008156,
+        "market_capitalization": 702936914,
         "commodity_name": null,
         "display_name": "Latham Group, Inc.",
         "sma_50": 6.683800001144409,

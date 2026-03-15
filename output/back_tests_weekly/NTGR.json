@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NTGR",
         "name": "NETGEAR, Inc.",
-        "collected_at": "2026-03-14T02:09:46.972Z",
+        "collected_at": "2026-03-15T02:10:03.409Z",
         "data_start_date": "2016-03-14",
         "price": 21.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:NTGR",
-        "market_capitalization": 606400646.5184135,
+        "market_capitalization": 606400629,
         "commodity_name": null,
         "display_name": "NETGEAR, Inc.",
         "sma_50": 26.366600036621094,

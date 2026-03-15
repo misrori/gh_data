@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "REYN",
         "name": "Reynolds Consumer Products Inc.",
-        "collected_at": "2026-03-14T02:04:57.117Z",
+        "collected_at": "2026-03-15T02:05:10.184Z",
         "data_start_date": "2020-01-27",
         "price": 21.469999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NASDAQ:REYN",
-        "market_capitalization": 4516076188.579217,
+        "market_capitalization": 4516076237,
         "commodity_name": null,
         "display_name": "Reynolds Consumer Products Inc.",
         "sma_50": 23.142599983215334,

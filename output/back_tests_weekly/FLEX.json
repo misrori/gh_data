@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLEX",
         "name": "Flex Ltd.",
-        "collected_at": "2026-03-14T02:02:02.313Z",
+        "collected_at": "2026-03-15T02:02:10.532Z",
         "data_start_date": "2016-03-14",
         "price": 63.44499969482422,
         "change": -0.007881903948148495,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:FLEX",
-        "market_capitalization": 23327073094.932934,
+        "market_capitalization": 23327073657.999996,
         "commodity_name": null,
         "display_name": "Flex Ltd.",
         "sma_50": 54.545900115966795,

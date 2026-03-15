@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NOAH",
         "name": "Noah Holdings Limited",
-        "collected_at": "2026-03-14T02:09:01.994Z",
+        "collected_at": "2026-03-15T02:09:20.480Z",
         "data_start_date": "2016-03-14",
         "price": 11.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:NOAH",
-        "market_capitalization": 831895168.9050801,
+        "market_capitalization": 824208239.4289501,
         "commodity_name": null,
         "display_name": "Noah Holdings Limited",
         "sma_50": 11.122999954223634,

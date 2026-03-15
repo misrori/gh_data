@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HBNB",
         "name": "Hotel101 Global Holdings Corp.",
-        "collected_at": "2026-03-14T02:07:00.313Z",
+        "collected_at": "2026-03-15T02:07:24.891Z",
         "data_start_date": "2025-06-03",
         "price": 8,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NASDAQ:HBNB",
-        "market_capitalization": 1873219124.9695492,
+        "market_capitalization": 1873219116,
         "commodity_name": null,
         "display_name": "Hotel101 Global Holdings Corp.",
         "sma_50": 8.203680000305177,

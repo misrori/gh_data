@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FOXF",
         "name": "Fox Factory Holding Corp.",
-        "collected_at": "2026-03-14T02:09:36.626Z",
+        "collected_at": "2026-03-15T02:09:52.978Z",
         "data_start_date": "2016-03-14",
         "price": 15.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NASDAQ:FOXF",
-        "market_capitalization": 647935343.5249527,
+        "market_capitalization": 647935347,
         "commodity_name": null,
         "display_name": "Fox Factory Holding Corp.",
         "sma_50": 22.22819999694824,

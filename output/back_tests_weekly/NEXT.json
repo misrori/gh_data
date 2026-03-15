@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NEXT",
         "name": "NextDecade Corporation",
-        "collected_at": "2026-03-14T02:07:30.433Z",
+        "collected_at": "2026-03-15T02:07:56.519Z",
         "data_start_date": "2016-03-14",
         "price": 5.769999980926514,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NASDAQ:NEXT",
-        "market_capitalization": 1528646454.9243984,
+        "market_capitalization": 1528646405,
         "commodity_name": null,
         "display_name": "NextDecade Corporation",
         "sma_50": 7.265500001907348,

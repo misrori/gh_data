@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APTV",
         "name": "Aptiv PLC",
-        "collected_at": "2026-03-14T02:02:39.037Z",
+        "collected_at": "2026-03-15T02:02:47.664Z",
         "data_start_date": "2016-03-14",
         "price": 70.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:APTV",
-        "market_capitalization": 14998763057.228489,
+        "market_capitalization": 14998763123.000002,
         "commodity_name": null,
         "display_name": "Aptiv PLC",
         "sma_50": 74.06760025024414,

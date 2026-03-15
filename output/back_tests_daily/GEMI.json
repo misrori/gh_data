@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GEMI",
         "name": "Gemini Space Station, Inc.",
-        "collected_at": "2026-03-14T02:08:51.688Z",
+        "collected_at": "2026-03-15T02:09:08.130Z",
         "data_start_date": "2025-09-12",
         "price": 7.755000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:GEMI",
-        "market_capitalization": 912404577.0037974,
+        "market_capitalization": 912404579,
         "commodity_name": null,
         "display_name": "Gemini Space Station, Inc.",
         "sma_50": 8.441699981689453,

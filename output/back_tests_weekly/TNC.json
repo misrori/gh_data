@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TNC",
         "name": "Tennant Company",
-        "collected_at": "2026-03-14T02:08:22.710Z",
+        "collected_at": "2026-03-15T02:08:38.591Z",
         "data_start_date": "2016-03-14",
         "price": 63.709999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:TNC",
-        "market_capitalization": 1137012062.9408977,
+        "market_capitalization": 1137012067.9999998,
         "commodity_name": null,
         "display_name": "Tennant Company",
         "sma_50": 76.4880004119873,

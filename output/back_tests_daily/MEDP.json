@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MEDP",
         "name": "Medpace Holdings, Inc.",
-        "collected_at": "2026-03-14T02:02:53.592Z",
+        "collected_at": "2026-03-15T02:03:02.723Z",
         "data_start_date": "2016-08-11",
         "price": 450.4100036621094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:MEDP",
-        "market_capitalization": 12783213764.772491,
+        "market_capitalization": 12783213693,
         "commodity_name": null,
         "display_name": "Medpace Holdings, Inc.",
         "sma_50": 523.278803100586,

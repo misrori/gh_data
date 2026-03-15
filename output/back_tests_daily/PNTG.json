@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PNTG",
         "name": "The Pennant Group, Inc.",
-        "collected_at": "2026-03-14T02:08:21.993Z",
+        "collected_at": "2026-03-15T02:08:37.423Z",
         "data_start_date": "2019-10-01",
         "price": 32.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:PNTG",
-        "market_capitalization": 1140069905.0762687,
+        "market_capitalization": 1140069879,
         "commodity_name": null,
         "display_name": "The Pennant Group, Inc.",
         "sma_50": 30.8393998336792,

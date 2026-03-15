@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EZPW",
         "name": "EZCORP, Inc.",
-        "collected_at": "2026-03-14T02:07:23.757Z",
+        "collected_at": "2026-03-15T02:07:48.949Z",
         "data_start_date": "2016-03-14",
         "price": 25.8700008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:EZPW",
-        "market_capitalization": 1596107198.3029253,
+        "market_capitalization": 1596107278,
         "commodity_name": null,
         "display_name": "EZCORP, Inc.",
         "sma_50": 18.10099998474121,
