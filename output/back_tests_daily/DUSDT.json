@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DUSDT",
         "name": "D / USDT",
-        "collected_at": "2026-03-15T11:46:29.855Z",
+        "collected_at": "2026-03-15T12:46:34.276Z",
         "data_start_date": "2025-01-09",
         "price": 0.00712,
         "change": -0.6973500697350149,
-        "volume": 45722546,
+        "volume": 52341922,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 173,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.009283443154459857,
+        "ml_value": 0.009286014583031285,
         "ml_last_change_date": "2026-01-31",
         "ml_last_change_price": 0.0117,
         "ml_change_percent_from_last_change": -39.14529914529915
