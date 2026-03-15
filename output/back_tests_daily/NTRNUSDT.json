@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NTRNUSDT",
         "name": "NTRN / USDT",
-        "collected_at": "2026-03-15T05:47:31.195Z",
+        "collected_at": "2026-03-15T06:47:51.608Z",
         "data_start_date": "2023-10-10",
         "price": 0.0096,
         "change": 0,
-        "volume": 4528712.7,
+        "volume": 4942543.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 176,
