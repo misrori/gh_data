@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PROK",
         "name": "ProKidney Corp.",
-        "collected_at": "2026-03-15T02:09:47.704Z",
+        "collected_at": "2026-03-16T02:09:53.212Z",
         "data_start_date": "2021-06-28",
         "price": 2.25,
         "change": 0,
-        "volume": 584360,
+        "volume": 584442,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 221,

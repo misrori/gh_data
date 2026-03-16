@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QLYS",
         "name": "Qualys, Inc.",
-        "collected_at": "2026-03-15T02:05:45.358Z",
+        "collected_at": "2026-03-16T02:05:42.524Z",
         "data_start_date": "2016-03-14",
         "price": 99.70999908447266,
         "change": 0,
-        "volume": 586295,
+        "volume": 599863,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 46,

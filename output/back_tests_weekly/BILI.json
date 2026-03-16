@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BILI",
         "name": "Bilibili Inc.",
-        "collected_at": "2026-03-15T02:03:23.175Z",
+        "collected_at": "2026-03-16T02:03:19.757Z",
         "data_start_date": "2018-03-26",
         "price": 25.200000762939453,
         "change": 0,
-        "volume": 1432531,
+        "volume": 1454442,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 466,

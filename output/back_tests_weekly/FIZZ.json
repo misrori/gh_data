@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIZZ",
         "name": "National Beverage Corp.",
-        "collected_at": "2026-03-15T02:05:53.821Z",
+        "collected_at": "2026-03-16T02:05:50.831Z",
         "data_start_date": "2016-03-14",
         "price": 35.72999954223633,
         "change": 0,
-        "volume": 439301,
+        "volume": 451357,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 200,

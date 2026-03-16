@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JOYY",
         "name": "JOYY Inc.",
-        "collected_at": "2026-03-15T02:06:06.670Z",
+        "collected_at": "2026-03-16T02:06:04.465Z",
         "data_start_date": "2016-03-14",
         "price": 61.73500061035156,
         "change": -0.008100207287455597,
-        "volume": 339069,
+        "volume": 444763,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 466,

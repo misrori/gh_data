@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LAES",
         "name": "SEALSQ Corp",
-        "collected_at": "2026-03-15T02:09:40.614Z",
+        "collected_at": "2026-03-16T02:09:45.552Z",
         "data_start_date": "2023-05-22",
         "price": 3.859999895095825,
         "change": 0,
-        "volume": 3201966,
+        "volume": 3260955,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

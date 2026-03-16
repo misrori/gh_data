@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BPOP",
         "name": "Popular, Inc.",
-        "collected_at": "2026-03-15T02:03:45.256Z",
+        "collected_at": "2026-03-16T02:03:39.947Z",
         "data_start_date": "2016-03-14",
         "price": 130.38499450683594,
         "change": -0.0038383946897213757,
-        "volume": 562334,
+        "volume": 567716,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 802,

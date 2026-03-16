@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XEL",
         "name": "Xcel Energy Inc.",
-        "collected_at": "2026-03-15T02:01:24.131Z",
+        "collected_at": "2026-03-16T02:01:16.708Z",
         "data_start_date": "2016-03-14",
         "price": 81.91000366210938,
         "change": 0,
-        "volume": 4503001,
+        "volume": 4503063,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 480,

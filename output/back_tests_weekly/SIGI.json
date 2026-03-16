@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SIGI",
         "name": "Selective Insurance Group, Inc.",
-        "collected_at": "2026-03-15T02:05:07.268Z",
+        "collected_at": "2026-03-16T02:05:03.403Z",
         "data_start_date": "2016-03-14",
         "price": 76.41000366210938,
         "change": 0,
-        "volume": 606986,
+        "volume": 622950,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 578,

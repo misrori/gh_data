@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WTFC",
         "name": "Wintrust Financial Corporation",
-        "collected_at": "2026-03-15T02:03:40.886Z",
+        "collected_at": "2026-03-16T02:03:35.419Z",
         "data_start_date": "2016-03-14",
         "price": 130.2100067138672,
         "change": 0,
-        "volume": 593803,
+        "volume": 607315,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 809,

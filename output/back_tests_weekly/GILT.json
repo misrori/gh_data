@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GILT",
         "name": "Gilat Satellite Networks Ltd.",
-        "collected_at": "2026-03-15T02:08:31.062Z",
+        "collected_at": "2026-03-16T02:08:23.337Z",
         "data_start_date": "2016-03-14",
         "price": 16.450000762939453,
         "change": 0,
-        "volume": 456192,
+        "volume": 474102,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 403,

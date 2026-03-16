@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NWS",
         "name": "News Corporation",
-        "collected_at": "2026-03-15T02:02:54.638Z",
+        "collected_at": "2026-03-16T02:02:51.783Z",
         "data_start_date": "2016-03-14",
         "price": 26.760000228881836,
         "change": 0,
-        "volume": 771909,
+        "volume": 787198,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

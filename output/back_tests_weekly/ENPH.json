@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENPH",
         "name": "Enphase Energy, Inc.",
-        "collected_at": "2026-03-15T02:04:34.017Z",
+        "collected_at": "2026-03-16T02:04:29.976Z",
         "data_start_date": "2016-03-14",
         "price": 44.06999969482422,
         "change": 0,
-        "volume": 4010356,
+        "volume": 4072138,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 998,

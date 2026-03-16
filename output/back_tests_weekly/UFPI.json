@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UFPI",
         "name": "UFP Industries, Inc.",
-        "collected_at": "2026-03-15T02:04:52.916Z",
+        "collected_at": "2026-03-16T02:04:49.017Z",
         "data_start_date": "2016-03-14",
         "price": 89.69999694824219,
         "change": 0,
-        "volume": 366709,
+        "volume": 375633,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IEP",
         "name": "Icahn Enterprises L.P.",
-        "collected_at": "2026-03-15T02:04:59.276Z",
+        "collected_at": "2026-03-16T02:04:55.444Z",
         "data_start_date": "2016-03-14",
         "price": 7.650000095367432,
         "change": 0,
-        "volume": 740264,
+        "volume": 746950,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1089,

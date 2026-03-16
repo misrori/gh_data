@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CTSH",
         "name": "Cognizant Technology Solutions Corporation",
-        "collected_at": "2026-03-15T02:01:56.326Z",
+        "collected_at": "2026-03-16T02:01:49.550Z",
         "data_start_date": "2016-03-14",
         "price": 60.369998931884766,
         "change": 0,
-        "volume": 7870820,
+        "volume": 7870844,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

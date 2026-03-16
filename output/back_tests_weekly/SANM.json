@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SANM",
         "name": "Sanmina Corporation",
-        "collected_at": "2026-03-15T02:04:11.263Z",
+        "collected_at": "2026-03-16T02:04:05.884Z",
         "data_start_date": "2016-03-14",
         "price": 125.19999694824219,
         "change": 0,
-        "volume": 865757,
+        "volume": 892667,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 753,

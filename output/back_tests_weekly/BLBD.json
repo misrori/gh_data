@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BLBD",
         "name": "Blue Bird Corporation",
-        "collected_at": "2026-03-15T02:07:39.400Z",
+        "collected_at": "2026-03-16T02:07:31.722Z",
         "data_start_date": "2016-03-14",
         "price": 53.380001068115234,
         "change": 0,
-        "volume": 305523,
+        "volume": 313270,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 249,

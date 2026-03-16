@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HE=F",
         "name": "Lean Hogs",
-        "collected_at": "2026-03-15T02:10:34.814Z",
+        "collected_at": "2026-03-16T02:10:41.810Z",
         "data_start_date": "2016-03-14",
         "price": 93.44999694824219,
         "change": 0,
-        "volume": 656,
+        "volume": 27777,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

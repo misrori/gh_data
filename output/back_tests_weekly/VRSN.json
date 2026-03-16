@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VRSN",
         "name": "VeriSign, Inc.",
-        "collected_at": "2026-03-15T02:02:17.858Z",
+        "collected_at": "2026-03-16T02:02:14.213Z",
         "data_start_date": "2016-03-14",
         "price": 238.60000610351562,
         "change": 0,
-        "volume": 478035,
+        "volume": 478094,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

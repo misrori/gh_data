@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FHB",
         "name": "First Hawaiian, Inc.",
-        "collected_at": "2026-03-15T02:06:13.027Z",
+        "collected_at": "2026-03-16T02:06:10.967Z",
         "data_start_date": "2016-08-01",
         "price": 23.950000762939453,
         "change": 0,
-        "volume": 1300687,
+        "volume": 1318589,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 571,

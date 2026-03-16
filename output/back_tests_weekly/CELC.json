@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CELC",
         "name": "Celcuity Inc.",
-        "collected_at": "2026-03-15T02:04:48.241Z",
+        "collected_at": "2026-03-16T02:04:44.061Z",
         "data_start_date": "2017-09-18",
         "price": 114.22000122070312,
         "change": 0,
-        "volume": 434732,
+        "volume": 434735,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 228,

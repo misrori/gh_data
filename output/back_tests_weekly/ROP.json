@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROP",
         "name": "Roper Technologies, Inc.",
-        "collected_at": "2026-03-15T02:01:43.340Z",
+        "collected_at": "2026-03-16T02:01:35.449Z",
         "data_start_date": "2016-03-14",
         "price": 351,
         "change": 0,
-        "volume": 1487093,
+        "volume": 1487531,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 151,

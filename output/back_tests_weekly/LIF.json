@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LIF",
         "name": "Life360, Inc.",
-        "collected_at": "2026-03-15T02:05:57.039Z",
+        "collected_at": "2026-03-16T02:05:54.325Z",
         "data_start_date": "2024-06-03",
         "price": 41.220001220703125,
         "change": 0,
-        "volume": 1308678,
+        "volume": 1364570,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

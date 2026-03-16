@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COLB",
         "name": "Columbia Banking System, Inc.",
-        "collected_at": "2026-03-15T02:03:55.151Z",
+        "collected_at": "2026-03-16T02:03:50.143Z",
         "data_start_date": "2016-03-14",
         "price": 26.229999542236328,
         "change": 0,
-        "volume": 3081551,
+        "volume": 3081571,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,

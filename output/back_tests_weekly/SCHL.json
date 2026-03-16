@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCHL",
         "name": "Scholastic Corporation",
-        "collected_at": "2026-03-15T02:09:15.353Z",
+        "collected_at": "2026-03-16T02:09:19.246Z",
         "data_start_date": "2016-03-14",
         "price": 33.79999923706055,
         "change": 0,
-        "volume": 591813,
+        "volume": 595265,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

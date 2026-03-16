@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OCS",
         "name": "Oculis Holding AG",
-        "collected_at": "2026-03-15T02:08:04.818Z",
+        "collected_at": "2026-03-16T02:07:55.656Z",
         "data_start_date": "2021-05-17",
         "price": 25.43000030517578,
         "change": 0,
-        "volume": 585071,
+        "volume": 585449,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 781,

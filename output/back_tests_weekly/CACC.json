@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CACC",
         "name": "Credit Acceptance Corporation",
-        "collected_at": "2026-03-15T02:05:01.028Z",
+        "collected_at": "2026-03-16T02:04:57.170Z",
         "data_start_date": "2016-03-14",
         "price": 447.7900085449219,
         "change": 0,
-        "volume": 305046,
+        "volume": 305379,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 37.1465,
         "number_of_employees": 2314,
         "ml_direction": -1,
-        "ml_value": 531.0795534653449,
+        "ml_value": 531.0795534653448,
         "ml_last_change_date": "2024-07-29",
         "ml_last_change_price": 471.6300048828125,
         "ml_change_percent_from_last_change": -5.05480908573962

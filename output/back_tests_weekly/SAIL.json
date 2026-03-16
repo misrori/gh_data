@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SAIL",
         "name": "SailPoint, Inc.",
-        "collected_at": "2026-03-15T02:03:41.420Z",
+        "collected_at": "2026-03-16T02:03:35.909Z",
         "data_start_date": "2025-02-10",
         "price": 15.449999809265137,
         "change": 0,
-        "volume": 1426204,
+        "volume": 1623308,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCSC",
         "name": "ScanSource, Inc.",
-        "collected_at": "2026-03-15T02:09:30.152Z",
+        "collected_at": "2026-03-16T02:09:34.666Z",
         "data_start_date": "2016-03-14",
         "price": 35.84000015258789,
         "change": 0,
-        "volume": 193973,
+        "volume": 196543,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

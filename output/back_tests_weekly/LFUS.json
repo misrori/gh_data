@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LFUS",
         "name": "Littelfuse, Inc.",
-        "collected_at": "2026-03-15T02:03:48.976Z",
+        "collected_at": "2026-03-16T02:03:44.179Z",
         "data_start_date": "2016-03-14",
         "price": 326.17999267578125,
         "change": 0,
-        "volume": 296723,
+        "volume": 303955,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

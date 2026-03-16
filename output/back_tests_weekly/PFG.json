@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PFG",
         "name": "Principal Financial Group Inc",
-        "collected_at": "2026-03-15T02:02:32.816Z",
+        "collected_at": "2026-03-16T02:02:29.026Z",
         "data_start_date": "2016-03-14",
         "price": 85.83000183105469,
         "change": 0,
-        "volume": 1302793,
+        "volume": 1352784,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 130,

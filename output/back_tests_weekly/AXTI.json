@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AXTI",
         "name": "AXT Inc",
-        "collected_at": "2026-03-15T02:06:34.293Z",
+        "collected_at": "2026-03-16T02:06:26.693Z",
         "data_start_date": "2016-03-14",
         "price": 48.86000061035156,
         "change": 0,
-        "volume": 10604643,
+        "volume": 10703912,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

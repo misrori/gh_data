@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TTAN",
         "name": "ServiceTitan, Inc.",
-        "collected_at": "2026-03-15T02:04:17.105Z",
+        "collected_at": "2026-03-16T02:04:11.723Z",
         "data_start_date": "2024-12-09",
         "price": 70.80000305175781,
         "change": 0,
-        "volume": 3283742,
+        "volume": 3284785,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 123,

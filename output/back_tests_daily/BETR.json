@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BETR",
         "name": "Better Home & Finance Holding Company",
-        "collected_at": "2026-03-15T02:10:18.600Z",
+        "collected_at": "2026-03-16T02:10:25.603Z",
         "data_start_date": "2021-04-30",
         "price": 34.45000076293945,
         "change": 0,
@@ -49,7 +49,7 @@
         "days_after_last_local_max": 172,
         "percent_fall_from_last_local_max": 63.37444008386331,
         "price_per_earning": null,
-        "earnings_per_share_basic_ttm": -10.8114,
+        "earnings_per_share_basic_ttm": -10.828,
         "number_of_employees": 1329,
         "ml_direction": 1,
         "ml_value": 28.673097940512836,

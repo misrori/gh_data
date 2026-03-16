@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BVS",
         "name": "Bioventus Inc.",
-        "collected_at": "2026-03-15T02:09:39.056Z",
+        "collected_at": "2026-03-16T02:09:43.869Z",
         "data_start_date": "2021-02-08",
         "price": 8.619999885559082,
         "change": 0,
-        "volume": 275383,
+        "volume": 286351,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 11,

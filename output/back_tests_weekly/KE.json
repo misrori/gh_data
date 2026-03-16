@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KE",
         "name": "Kimball Electronics, Inc.",
-        "collected_at": "2026-03-15T02:10:16.528Z",
+        "collected_at": "2026-03-16T02:10:23.412Z",
         "data_start_date": "2016-03-14",
         "price": 22.799999237060547,
         "change": 0,
-        "volume": 125909,
+        "volume": 129113,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 186,

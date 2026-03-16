@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PAHC",
         "name": "Phibro Animal Health Corporation",
-        "collected_at": "2026-03-15T02:07:13.618Z",
+        "collected_at": "2026-03-16T02:07:06.150Z",
         "data_start_date": "2016-03-14",
         "price": 49.470001220703125,
         "change": 0,
-        "volume": 222207,
+        "volume": 226509,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 620,

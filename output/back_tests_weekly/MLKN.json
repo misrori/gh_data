@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MLKN",
         "name": "MillerKnoll, Inc.",
-        "collected_at": "2026-03-15T02:08:20.531Z",
+        "collected_at": "2026-03-16T02:08:12.571Z",
         "data_start_date": "2016-03-14",
         "price": 18.959999084472656,
         "change": 0,
-        "volume": 675066,
+        "volume": 690359,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 431,

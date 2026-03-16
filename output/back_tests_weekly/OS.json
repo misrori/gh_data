@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OS",
         "name": "OneStream, Inc.",
-        "collected_at": "2026-03-15T02:04:31.062Z",
+        "collected_at": "2026-03-16T02:04:26.568Z",
         "data_start_date": "2024-07-22",
         "price": 23.56999969482422,
         "change": 0,
-        "volume": 2241172,
+        "volume": 2263683,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 403,

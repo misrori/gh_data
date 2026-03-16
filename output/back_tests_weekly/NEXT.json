@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NEXT",
         "name": "NextDecade Corporation",
-        "collected_at": "2026-03-15T02:07:56.519Z",
+        "collected_at": "2026-03-16T02:07:47.658Z",
         "data_start_date": "2016-03-14",
         "price": 5.769999980926514,
         "change": 0,
-        "volume": 2605111,
+        "volume": 2665356,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 74,

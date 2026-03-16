@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GABC",
         "name": "German American Bancorp, Inc.",
-        "collected_at": "2026-03-15T02:08:00.217Z",
+        "collected_at": "2026-03-16T02:07:51.184Z",
         "data_start_date": "2016-03-14",
         "price": 40.06999969482422,
         "change": 0,
-        "volume": 99291,
+        "volume": 103092,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 606,

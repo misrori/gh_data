@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FTDR",
         "name": "Frontdoor, Inc.",
-        "collected_at": "2026-03-15T02:05:12.577Z",
+        "collected_at": "2026-03-16T02:05:08.883Z",
         "data_start_date": "2018-09-10",
         "price": 63.20000076293945,
         "change": 0,
-        "volume": 576947,
+        "volume": 594034,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 935,

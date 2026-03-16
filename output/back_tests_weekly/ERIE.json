@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ERIE",
         "name": "Erie Indemnity Company",
-        "collected_at": "2026-03-15T02:03:13.871Z",
+        "collected_at": "2026-03-16T02:03:10.570Z",
         "data_start_date": "2016-03-14",
         "price": 246.91000366210938,
         "change": 0,
-        "volume": 121165,
+        "volume": 127017,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 200,

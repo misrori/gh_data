@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALGM",
         "name": "Allegro MicroSystems, Inc.",
-        "collected_at": "2026-03-15T02:04:34.689Z",
+        "collected_at": "2026-03-16T02:04:30.694Z",
         "data_start_date": "2020-10-26",
         "price": 31.1299991607666,
         "change": 0,
-        "volume": 1139604,
+        "volume": 1156590,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 235,

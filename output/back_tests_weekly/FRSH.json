@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FRSH",
         "name": "Freshworks Inc.",
-        "collected_at": "2026-03-15T02:06:54.292Z",
+        "collected_at": "2026-03-16T02:06:46.519Z",
         "data_start_date": "2021-09-20",
         "price": 8.130000114440918,
         "change": 0,
-        "volume": 5210613,
+        "volume": 5275272,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 333,

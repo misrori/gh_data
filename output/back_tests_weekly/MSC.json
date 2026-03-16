@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSC",
         "name": "Studio City International Holdings Limited",
-        "collected_at": "2026-03-15T02:10:07.097Z",
+        "collected_at": "2026-03-16T02:10:13.819Z",
         "data_start_date": "2018-10-15",
         "price": 2.799999952316284,
         "change": 0,
@@ -50,7 +50,7 @@
         "percent_fall_from_last_local_max": 57.76772392179065,
         "price_per_earning": null,
         "earnings_per_share_basic_ttm": -0.3051,
-        "number_of_employees": null,
+        "number_of_employees": 5879,
         "ml_direction": 1,
         "ml_value": 2.7242991343151517,
         "ml_last_change_date": "2025-07-07",

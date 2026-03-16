@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DXCM",
         "name": "DexCom, Inc.",
-        "collected_at": "2026-03-15T02:02:06.361Z",
+        "collected_at": "2026-03-16T02:02:00.365Z",
         "data_start_date": "2016-03-14",
         "price": 64.23999786376953,
         "change": 0,
-        "volume": 4075214,
+        "volume": 4075952,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 585,

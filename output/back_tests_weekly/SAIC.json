@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SAIC",
         "name": "Science Applications International Corporation",
-        "collected_at": "2026-03-15T02:05:24.203Z",
+        "collected_at": "2026-03-16T02:05:20.818Z",
         "data_start_date": "2016-03-14",
         "price": 91.91000366210938,
         "change": 0,
-        "volume": 784582,
+        "volume": 784618,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 382,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NTRA",
         "name": "Natera, Inc.",
-        "collected_at": "2026-03-15T02:02:02.212Z",
+        "collected_at": "2026-03-16T02:01:55.901Z",
         "data_start_date": "2016-03-14",
         "price": 187.85000610351562,
         "change": 0,
-        "volume": 1261477,
+        "volume": 1261748,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 781,

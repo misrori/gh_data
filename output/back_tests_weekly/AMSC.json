@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMSC",
         "name": "American Superconductor Corporation",
-        "collected_at": "2026-03-15T02:08:03.085Z",
+        "collected_at": "2026-03-16T02:07:54.008Z",
         "data_start_date": "2016-03-14",
         "price": 31.020000457763672,
         "change": 0,
-        "volume": 923228,
+        "volume": 925420,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

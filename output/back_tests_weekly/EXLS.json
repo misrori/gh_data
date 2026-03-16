@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EXLS",
         "name": "ExlService Holdings, Inc.",
-        "collected_at": "2026-03-15T02:05:04.891Z",
+        "collected_at": "2026-03-16T02:05:00.965Z",
         "data_start_date": "2016-03-14",
         "price": 29.639999389648438,
         "change": 0,
-        "volume": 2074707,
+        "volume": 2237538,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

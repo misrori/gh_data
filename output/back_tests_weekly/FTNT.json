@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FTNT",
         "name": "Fortinet, Inc.",
-        "collected_at": "2026-03-15T02:01:16.710Z",
+        "collected_at": "2026-03-16T02:01:09.434Z",
         "data_start_date": "2016-03-14",
         "price": 83.44000244140625,
         "change": 0,
-        "volume": 3727284,
+        "volume": 3963591,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

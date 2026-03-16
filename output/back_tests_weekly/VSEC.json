@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VSEC",
         "name": "VSE Corporation",
-        "collected_at": "2026-03-15T02:04:44.092Z",
+        "collected_at": "2026-03-16T02:04:39.872Z",
         "data_start_date": "2016-03-14",
         "price": 194.94000244140625,
         "change": 0,
-        "volume": 676164,
+        "volume": 688802,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1166,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LQDA",
         "name": "Liquidia Corporation",
-        "collected_at": "2026-03-15T02:06:00.531Z",
+        "collected_at": "2026-03-16T02:05:58.143Z",
         "data_start_date": "2018-07-23",
         "price": 36.65999984741211,
         "change": 0,
-        "volume": 1752747,
+        "volume": 1753755,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 438,

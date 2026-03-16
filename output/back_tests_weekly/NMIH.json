@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NMIH",
         "name": "NMI Holdings Inc",
-        "collected_at": "2026-03-15T02:06:21.208Z",
+        "collected_at": "2026-03-16T02:06:19.382Z",
         "data_start_date": "2016-03-14",
         "price": 37.310001373291016,
         "change": 0,
-        "volume": 336286,
+        "volume": 355241,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1117,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OSIS",
         "name": "OSI Systems, Inc.",
-        "collected_at": "2026-03-15T02:05:12.781Z",
+        "collected_at": "2026-03-16T02:05:09.124Z",
         "data_start_date": "2016-03-14",
         "price": 270.9200134277344,
         "change": 0,
-        "volume": 170129,
+        "volume": 172526,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1103,

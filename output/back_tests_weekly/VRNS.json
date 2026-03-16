@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VRNS",
         "name": "Varonis Systems, Inc.",
-        "collected_at": "2026-03-15T02:06:16.375Z",
+        "collected_at": "2026-03-16T02:06:14.055Z",
         "data_start_date": "2016-03-14",
         "price": 24.684999465942383,
         "change": 0,
-        "volume": 1467807,
+        "volume": 1467821,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

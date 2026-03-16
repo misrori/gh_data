@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VNET",
         "name": "VNET Group, Inc.",
-        "collected_at": "2026-03-15T02:06:21.667Z",
+        "collected_at": "2026-03-16T02:06:19.858Z",
         "data_start_date": "2016-03-14",
         "price": 10.510000228881836,
         "change": 0,
-        "volume": 7562136,
+        "volume": 7580031,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 424,

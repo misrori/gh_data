@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SVRA",
         "name": "Savara, Inc.",
-        "collected_at": "2026-03-15T02:08:46.407Z",
+        "collected_at": "2026-03-16T02:08:38.552Z",
         "data_start_date": "2017-04-24",
         "price": 5.25,
         "change": 0,
-        "volume": 2186715,
+        "volume": 2224830,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 116,

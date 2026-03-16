@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AEHR",
         "name": "Aehr Test Systems",
-        "collected_at": "2026-03-15T02:08:44.102Z",
+        "collected_at": "2026-03-16T02:08:36.023Z",
         "data_start_date": "2016-03-14",
         "price": 35.66999816894531,
         "change": 0,
-        "volume": 1556985,
+        "volume": 1591846,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

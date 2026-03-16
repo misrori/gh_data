@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SENEA",
         "name": "Seneca Foods Corp.",
-        "collected_at": "2026-03-15T02:08:56.800Z",
+        "collected_at": "2026-03-16T02:09:00.149Z",
         "data_start_date": "2016-03-14",
         "price": 143.77999877929688,
         "change": 0,
-        "volume": 105010,
+        "volume": 115400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 711,

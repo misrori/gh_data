@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALOY",
         "name": "REalloys Inc.",
-        "collected_at": "2026-03-15T02:09:45.963Z",
+        "collected_at": "2026-03-16T02:09:51.380Z",
         "data_start_date": "2016-08-01",
         "price": 11.984999656677246,
         "change": 0,
-        "volume": 2665747,
+        "volume": 2682665,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 291,

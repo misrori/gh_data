@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SBET",
         "name": "Sharplink, Inc.",
-        "collected_at": "2026-03-15T02:08:02.407Z",
+        "collected_at": "2026-03-16T02:07:53.357Z",
         "data_start_date": "2016-03-14",
         "price": 7.53000020980835,
         "change": 0,
-        "volume": 4404787,
+        "volume": 4412574,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -9.1428,
         "number_of_employees": 15,
         "ml_direction": -1,
-        "ml_value": 15.682653128039307,
+        "ml_value": 15.6826531280393,
         "ml_last_change_date": "2025-06-02",
         "ml_last_change_price": 38.2599983215332,
         "ml_change_percent_from_last_change": -80.31886947164247

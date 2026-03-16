@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CATY",
         "name": "Cathay General Bancorp",
-        "collected_at": "2026-03-15T02:06:03.147Z",
+        "collected_at": "2026-03-16T02:06:00.947Z",
         "data_start_date": "2016-03-14",
         "price": 47.380001068115234,
         "change": 0,
-        "volume": 624873,
+        "volume": 644153,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 592,

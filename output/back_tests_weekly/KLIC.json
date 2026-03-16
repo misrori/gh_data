@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KLIC",
         "name": "Kulicke and Soffa Industries, Inc.",
-        "collected_at": "2026-03-15T02:05:52.575Z",
+        "collected_at": "2026-03-16T02:05:49.794Z",
         "data_start_date": "2016-03-14",
         "price": 64.37000274658203,
         "change": 0,
-        "volume": 541186,
+        "volume": 562855,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

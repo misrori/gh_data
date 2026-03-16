@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMBA",
         "name": "Ambarella, Inc.",
-        "collected_at": "2026-03-15T02:06:59.120Z",
+        "collected_at": "2026-03-16T02:06:51.022Z",
         "data_start_date": "2016-03-14",
         "price": 52.290000915527344,
         "change": 0,
-        "volume": 630001,
+        "volume": 630077,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

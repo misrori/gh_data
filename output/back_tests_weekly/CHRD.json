@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHRD",
         "name": "Chord Energy Corporation",
-        "collected_at": "2026-03-15T02:04:08.726Z",
+        "collected_at": "2026-03-16T02:04:02.960Z",
         "data_start_date": "2016-03-14",
         "price": 123.44999694824219,
         "change": 0,
-        "volume": 955410,
+        "volume": 986325,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 508,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NTNX",
         "name": "Nutanix, Inc.",
-        "collected_at": "2026-03-15T02:03:23.874Z",
+        "collected_at": "2026-03-16T02:03:20.506Z",
         "data_start_date": "2016-09-26",
         "price": 39.290000915527344,
         "change": 0,
-        "volume": 2469443,
+        "volume": 2469509,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

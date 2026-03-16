@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MKSI",
         "name": "MKS Inc.",
-        "collected_at": "2026-03-15T02:02:50.710Z",
+        "collected_at": "2026-03-16T02:02:47.901Z",
         "data_start_date": "2016-03-14",
         "price": 213.4499969482422,
         "change": 0,
-        "volume": 756890,
+        "volume": 757418,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

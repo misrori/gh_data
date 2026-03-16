@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IVVD",
         "name": "Invivyd, Inc.",
-        "collected_at": "2026-03-14T02:10:13.717Z",
+        "collected_at": "2026-03-16T02:10:37.746Z",
         "data_start_date": "2021-08-06",
         "price": 1.7400000095367432,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:IVVD",
-        "market_capitalization": 491714810.8666667,
+        "market_capitalization": 491714827,
         "commodity_name": null,
         "display_name": "Invivyd, Inc.",
         "sma_50": 1.9264000034332276,

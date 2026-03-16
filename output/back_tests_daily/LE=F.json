@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "LE=F",
         "name": "Live Cattle",
-        "collected_at": "2026-03-15T02:10:34.948Z",
-        "data_start_date": "2016-03-17",
+        "collected_at": "2026-03-16T02:10:41.929Z",
+        "data_start_date": "2016-03-18",
         "price": 230.89999389648438,
         "change": 0.8517130265273669,
         "volume": 34966,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 241.4900169501352,
+        "ml_value": 241.1364455215638,
         "ml_last_change_date": "2026-03-02",
         "ml_last_change_price": 231,
         "ml_change_percent_from_last_change": -0.04329268550460341

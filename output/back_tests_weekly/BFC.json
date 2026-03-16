@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BFC",
         "name": "Bank First Corporation",
-        "collected_at": "2026-03-15T02:07:58.712Z",
+        "collected_at": "2026-03-16T02:07:49.650Z",
         "data_start_date": "2016-03-14",
         "price": 135.44000244140625,
         "change": 0,
-        "volume": 145047,
+        "volume": 145891,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 606,

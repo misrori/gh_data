@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SITM",
         "name": "SiTime Corporation",
-        "collected_at": "2026-03-15T02:03:44.038Z",
+        "collected_at": "2026-03-16T02:03:38.868Z",
         "data_start_date": "2019-11-18",
         "price": 326.1300048828125,
         "change": 0,
-        "volume": 261241,
+        "volume": 261543,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 571,

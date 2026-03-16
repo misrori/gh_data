@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DKNG",
         "name": "DraftKings Inc.",
-        "collected_at": "2026-03-15T02:03:03.642Z",
+        "collected_at": "2026-03-16T02:03:00.268Z",
         "data_start_date": "2019-07-22",
         "price": 25.8700008392334,
         "change": 0,
-        "volume": 11299743,
+        "volume": 11303423,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 109,

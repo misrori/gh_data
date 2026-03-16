@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LMB",
         "name": "Limbach Holdings, Inc.",
-        "collected_at": "2026-03-15T02:09:06.879Z",
+        "collected_at": "2026-03-16T02:09:10.503Z",
         "data_start_date": "2016-03-14",
         "price": 79.02999877929688,
         "change": 0,
-        "volume": 276120,
+        "volume": 278695,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 109,

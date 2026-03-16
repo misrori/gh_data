@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SHC",
         "name": "Sotera Health Company",
-        "collected_at": "2026-03-15T02:05:34.189Z",
+        "collected_at": "2026-03-16T02:05:31.352Z",
         "data_start_date": "2020-11-16",
         "price": 13.414999961853027,
         "change": 0,
-        "volume": 3687016,
+        "volume": 3798160,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 158,

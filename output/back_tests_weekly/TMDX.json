@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TMDX",
         "name": "TransMedics Group, Inc.",
-        "collected_at": "2026-03-15T02:05:18.906Z",
+        "collected_at": "2026-03-16T02:05:16.048Z",
         "data_start_date": "2019-04-29",
         "price": 123.4800033569336,
         "change": 0,
-        "volume": 487438,
+        "volume": 505445,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 277,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DGII",
         "name": "Digi International Inc.",
-        "collected_at": "2026-03-15T02:07:26.992Z",
+        "collected_at": "2026-03-16T02:07:20.123Z",
         "data_start_date": "2016-03-14",
         "price": 49.119998931884766,
         "change": 0,
-        "volume": 188886,
+        "volume": 201623,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 312,

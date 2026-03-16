@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GYRE",
         "name": "Gyre Therapeutics, Inc.",
-        "collected_at": "2026-03-15T02:09:44.833Z",
+        "collected_at": "2026-03-16T02:09:50.168Z",
         "data_start_date": "2016-03-14",
         "price": 7.554999828338623,
         "change": -0.06613908040691871,
-        "volume": 138254,
+        "volume": 138332,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 459,
