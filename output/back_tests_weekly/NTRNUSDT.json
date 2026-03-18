@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NTRNUSDT",
         "name": "NTRN / USDT",
-        "collected_at": "2026-03-18T18:47:05.328Z",
+        "collected_at": "2026-03-18T19:46:58.891Z",
         "data_start_date": "2023-10-09",
         "price": 0.0057,
         "change": -37.362637362637365,
-        "volume": 474144367.9,
+        "volume": 488025879.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 644,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.04041758614179589,
+        "ml_value": 0.04043044328465304,
         "ml_last_change_date": "2024-01-08",
         "ml_last_change_price": 1.384,
         "ml_change_percent_from_last_change": -99.58815028901734
