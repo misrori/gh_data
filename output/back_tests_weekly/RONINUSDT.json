@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RONINUSDT",
         "name": "RONIN / USDT",
-        "collected_at": "2026-03-19T07:48:39.023Z",
+        "collected_at": "2026-03-19T08:48:44.798Z",
         "data_start_date": "2024-02-05",
         "price": 0.0935,
         "change": -4.689092762487265,
-        "volume": 21327731.4,
+        "volume": 21464134.96,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 574,
