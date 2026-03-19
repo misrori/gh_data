@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XAIUSDT",
         "name": "Xai",
-        "collected_at": "2026-03-19T17:48:04.679Z",
+        "collected_at": "2026-03-19T18:48:00.720Z",
         "data_start_date": "2024-01-09",
         "price": 0.00999,
         "change": -2.346041055718464,
-        "volume": 39231869.1,
+        "volume": 41243097.6,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 238,

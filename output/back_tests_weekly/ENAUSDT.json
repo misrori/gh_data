@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENAUSDT",
         "name": "Ethena",
-        "collected_at": "2026-03-19T17:45:46.481Z",
+        "collected_at": "2026-03-19T18:45:44.445Z",
         "data_start_date": "2024-04-01",
         "price": 0.1015,
         "change": -8.061594202898544,
-        "volume": 492162721.57,
+        "volume": 494383030.17,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 140,
