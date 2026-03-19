@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RDNTUSDT",
         "name": "RDNT / USDT",
-        "collected_at": "2026-03-19T04:46:53.098Z",
+        "collected_at": "2026-03-19T05:47:08.530Z",
         "data_start_date": "2023-03-27",
         "price": 0.00425,
         "change": -21.441774491682065,
-        "volume": 641517619,
+        "volume": 646932787,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 693,
