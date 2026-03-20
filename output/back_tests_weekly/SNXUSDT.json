@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SNXUSDT",
         "name": "Synthetix",
-        "collected_at": "2026-03-20T03:46:27.838Z",
+        "collected_at": "2026-03-20T04:46:33.770Z",
         "data_start_date": "2020-07-06",
         "price": 0.327,
         "change": 2.1875000000000018,
-        "volume": 17645605.8,
+        "volume": 17833601.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 637,
