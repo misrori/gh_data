@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PHBUSDT",
         "name": "PHB / USDT",
-        "collected_at": "2026-03-21T20:48:18.403Z",
+        "collected_at": "2026-03-21T21:48:09.657Z",
         "data_start_date": "2022-11-18",
         "price": 0.12,
         "change": 0.8403361344537823,
-        "volume": 4447796.5,
+        "volume": 4805131.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 141,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.1653165564878969,
+        "ml_value": 0.16544512791646832,
         "ml_last_change_date": "2025-10-10",
         "ml_last_change_price": 0.357,
         "ml_change_percent_from_last_change": -66.38655462184873
