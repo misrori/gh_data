@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALICEUSDT",
         "name": "MyNeighborAlice",
-        "collected_at": "2026-03-21T09:45:55.831Z",
+        "collected_at": "2026-03-21T10:45:56.246Z",
         "data_start_date": "2021-03-15",
         "price": 0.1171,
         "change": -5.564516129032261,
-        "volume": 3780832.7,
+        "volume": 3964714.53,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 149,
