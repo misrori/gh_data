@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DEGOUSDT",
         "name": "DEGO / USDT",
-        "collected_at": "2026-03-21T21:45:29.114Z",
+        "collected_at": "2026-03-21T22:45:36.287Z",
         "data_start_date": "2021-03-10",
         "price": 0.41,
         "change": 10.215053763440855,
-        "volume": 20638633.85,
+        "volume": 20880277.81,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 8,
