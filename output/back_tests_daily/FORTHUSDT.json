@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FORTHUSDT",
         "name": "FORTH / USDT",
-        "collected_at": "2026-03-21T07:47:08.466Z",
+        "collected_at": "2026-03-21T08:47:06.297Z",
         "data_start_date": "2021-04-23",
         "price": 0.492,
         "change": -2.1868787276341966,
-        "volume": 693678.56,
+        "volume": 930813.2,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 176,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.7708767627577569,
+        "ml_value": 0.7712624770434712,
         "ml_last_change_date": "2026-01-29",
         "ml_last_change_price": 1.592,
         "ml_change_percent_from_last_change": -69.09547738693466
