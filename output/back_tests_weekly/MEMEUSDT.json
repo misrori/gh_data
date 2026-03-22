@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MEMEUSDT",
         "name": "Memecoin",
-        "collected_at": "2026-03-22T19:46:44.549Z",
+        "collected_at": "2026-03-22T20:46:44.406Z",
         "data_start_date": "2023-10-30",
         "price": 0.000544,
         "change": -8.108108108108105,
-        "volume": 10408442222,
+        "volume": 10458847726,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 651,
