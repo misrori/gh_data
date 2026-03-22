@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TCBK",
         "name": "TriCo Bancshares",
-        "collected_at": "2026-03-21T02:07:53.535Z",
+        "collected_at": "2026-03-22T02:07:44.333Z",
         "data_start_date": "2016-03-21",
         "price": 46.08000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:TCBK",
-        "market_capitalization": 1481501054.9022298,
+        "market_capitalization": 1481501133,
         "commodity_name": null,
         "display_name": "TriCo Bancshares",
         "sma_50": 44.56220008850098,

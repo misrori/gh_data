@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LDI",
         "name": "loanDepot, Inc.",
-        "collected_at": "2026-03-21T02:09:44.233Z",
+        "collected_at": "2026-03-22T02:09:36.084Z",
         "data_start_date": "2021-02-11",
         "price": 1.4800000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:LDI",
-        "market_capitalization": 641377327.8451613,
+        "market_capitalization": 641377355.9999999,
         "commodity_name": null,
         "display_name": "loanDepot, Inc.",
         "sma_50": 2.1124000000953673,

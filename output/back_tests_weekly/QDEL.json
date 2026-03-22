@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QDEL",
         "name": "QuidelOrtho Corporation",
-        "collected_at": "2026-03-21T02:08:42.778Z",
+        "collected_at": "2026-03-22T02:08:32.136Z",
         "data_start_date": "2016-03-21",
         "price": 15.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:QDEL",
-        "market_capitalization": 1037566067.2830416,
+        "market_capitalization": 1037566071,
         "commodity_name": null,
         "display_name": "QuidelOrtho Corporation",
         "sma_50": 27.045400123596192,

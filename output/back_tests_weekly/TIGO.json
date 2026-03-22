@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TIGO",
         "name": "Millicom International Cellular S.A.",
-        "collected_at": "2026-03-21T02:03:10.153Z",
+        "collected_at": "2026-03-22T02:03:05.105Z",
         "data_start_date": "2019-01-07",
         "price": 71.9800033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Wireless Telecommunications",
         "tradingview_id": "NASDAQ:TIGO",
-        "market_capitalization": 12023539016.08807,
+        "market_capitalization": 12023539277,
         "commodity_name": null,
         "display_name": "Millicom International Cellular S.A.",
         "sma_50": 49.16640014648438,

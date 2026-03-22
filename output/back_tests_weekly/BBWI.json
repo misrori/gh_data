@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BBWI",
         "name": "Bath & Body Works, Inc.",
-        "collected_at": "2026-03-21T02:05:32.676Z",
+        "collected_at": "2026-03-22T02:05:24.617Z",
         "data_start_date": "2016-03-21",
         "price": 19.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:BBWI",
-        "market_capitalization": 3904016012.56911,
+        "market_capitalization": 3904015996,
         "commodity_name": null,
         "display_name": "Bath & Body Works, Inc.",
         "sma_50": 25.501599884033205,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DVA",
         "name": "DaVita Inc.",
-        "collected_at": "2026-03-21T02:03:29.501Z",
+        "collected_at": "2026-03-22T02:03:25.063Z",
         "data_start_date": "2016-03-21",
         "price": 149.30999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NYSE:DVA",
-        "market_capitalization": 9973908089.729567,
+        "market_capitalization": 9973908293.000002,
         "commodity_name": null,
         "display_name": "DaVita Inc.",
         "sma_50": 132.98579940795898,

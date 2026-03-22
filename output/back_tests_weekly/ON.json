@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ON",
         "name": "ON Semiconductor Corporation",
-        "collected_at": "2026-03-21T02:02:06.996Z",
+        "collected_at": "2026-03-22T02:02:09.087Z",
         "data_start_date": "2016-03-21",
         "price": 59.2599983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:ON",
-        "market_capitalization": 23349657461.667732,
+        "market_capitalization": 23349656440,
         "commodity_name": null,
         "display_name": "ON Semiconductor Corporation",
         "sma_50": 52.99499984741211,

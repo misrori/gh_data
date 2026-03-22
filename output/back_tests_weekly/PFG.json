@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PFG",
         "name": "Principal Financial Group Inc",
-        "collected_at": "2026-03-21T02:02:32.479Z",
+        "collected_at": "2026-03-22T02:02:28.026Z",
         "data_start_date": "2016-03-21",
         "price": 85.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:PFG",
-        "market_capitalization": 18446166031.24889,
+        "market_capitalization": 18446165637.999996,
         "commodity_name": null,
         "display_name": "Principal Financial Group Inc",
         "sma_50": 83.34740020751953,

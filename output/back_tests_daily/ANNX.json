@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANNX",
         "name": "Annexon, Inc.",
-        "collected_at": "2026-03-21T02:09:26.429Z",
+        "collected_at": "2026-03-22T02:09:18.467Z",
         "data_start_date": "2020-07-24",
         "price": 5.110000133514404,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ANNX",
-        "market_capitalization": 739564945.2040074,
+        "market_capitalization": 739564995,
         "commodity_name": null,
         "display_name": "Annexon, Inc.",
         "sma_50": 5.723399991989136,

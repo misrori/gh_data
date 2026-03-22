@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MCHP",
         "name": "Microchip Technology Incorporated",
-        "collected_at": "2026-03-21T02:01:39.667Z",
+        "collected_at": "2026-03-22T02:01:41.695Z",
         "data_start_date": "2016-03-21",
         "price": 62.970001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:MCHP",
-        "market_capitalization": 34075298961.650814,
+        "market_capitalization": 34075299129,
         "commodity_name": null,
         "display_name": "Microchip Technology Incorporated",
         "sma_50": 64.68759971618653,

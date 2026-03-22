@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PGR",
         "name": "Progressive Corporation (The)",
-        "collected_at": "2026-03-21T02:00:39.121Z",
+        "collected_at": "2026-03-22T02:00:38.577Z",
         "data_start_date": "2016-03-21",
         "price": 206,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:PGR",
-        "market_capitalization": 120696708284.98128,
+        "market_capitalization": 120696712645.99998,
         "commodity_name": null,
         "display_name": "Progressive Corporation (The)",
         "sma_50": 237.42100006103516,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PCG",
         "name": "Pacific Gas & Electric Co.",
-        "collected_at": "2026-03-21T02:01:35.589Z",
+        "collected_at": "2026-03-22T02:01:37.412Z",
         "data_start_date": "2016-03-21",
         "price": 17.31999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:PCG",
-        "market_capitalization": 38068807182.54425,
+        "market_capitalization": 38068805394,
         "commodity_name": null,
         "display_name": "Pacific Gas & Electric Co.",
         "sma_50": 15.90779993057251,

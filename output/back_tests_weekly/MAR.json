@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MAR",
         "name": "Marriott International",
-        "collected_at": "2026-03-21T02:00:51.273Z",
+        "collected_at": "2026-03-22T02:00:50.985Z",
         "data_start_date": "2016-03-21",
         "price": 319.760009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NASDAQ:MAR",
-        "market_capitalization": 84731466119.6363,
+        "market_capitalization": 84731464888,
         "commodity_name": null,
         "display_name": "Marriott International",
         "sma_50": 285.6802008056641,

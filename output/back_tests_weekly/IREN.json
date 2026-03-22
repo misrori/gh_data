@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IREN",
         "name": "IREN Limited",
-        "collected_at": "2026-03-21T02:02:55.223Z",
+        "collected_at": "2026-03-22T02:02:50.068Z",
         "data_start_date": "2021-11-15",
         "price": 41.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:IREN",
-        "market_capitalization": 13698336813.964716,
+        "market_capitalization": 13698337168,
         "commodity_name": null,
         "display_name": "IREN Limited",
         "sma_50": 32.95460015296936,

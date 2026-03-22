@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATEN",
         "name": "A10 Networks, Inc.",
-        "collected_at": "2026-03-21T02:07:45.116Z",
+        "collected_at": "2026-03-22T02:07:36.306Z",
         "data_start_date": "2016-03-21",
         "price": 21.459999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:ATEN",
-        "market_capitalization": 1539218140.057273,
+        "market_capitalization": 1539218074,
         "commodity_name": null,
         "display_name": "A10 Networks, Inc.",
         "sma_50": 18.12099987030029,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HNRG",
         "name": "Hallador Energy Company",
-        "collected_at": "2026-03-21T02:09:26.714Z",
+        "collected_at": "2026-03-22T02:09:18.802Z",
         "data_start_date": "2016-03-21",
         "price": 15.720000267028809,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Coal",
         "tradingview_id": "NASDAQ:HNRG",
-        "market_capitalization": 739209313.3920286,
+        "market_capitalization": 739209350,
         "commodity_name": null,
         "display_name": "Hallador Energy Company",
         "sma_50": 18.12720001220703,

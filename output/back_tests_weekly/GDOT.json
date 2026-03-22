@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GDOT",
         "name": "Green Dot Corporation",
-        "collected_at": "2026-03-21T02:09:50.391Z",
+        "collected_at": "2026-03-22T02:09:42.256Z",
         "data_start_date": "2016-03-21",
         "price": 11.039999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:GDOT",
-        "market_capitalization": 613466156.997319,
+        "market_capitalization": 613466178,
         "commodity_name": null,
         "display_name": "Green Dot Corporation",
         "sma_50": 11.527399997711182,

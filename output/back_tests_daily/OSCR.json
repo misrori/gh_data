@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OSCR",
         "name": "Oscar Health, Inc.",
-        "collected_at": "2026-03-21T02:05:56.294Z",
+        "collected_at": "2026-03-22T02:05:47.828Z",
         "data_start_date": "2021-03-03",
         "price": 12.630000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Managed Health Care",
         "tradingview_id": "NYSE:OSCR",
-        "market_capitalization": 3311043120.8165417,
+        "market_capitalization": 3311043103,
         "commodity_name": null,
         "display_name": "Oscar Health, Inc.",
         "sma_50": 14.175599975585937,

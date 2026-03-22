@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "REPL",
         "name": "Replimune Group, Inc.",
-        "collected_at": "2026-03-21T02:10:00.624Z",
+        "collected_at": "2026-03-22T02:09:52.539Z",
         "data_start_date": "2018-07-16",
         "price": 6.980000019073486,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:REPL",
-        "market_capitalization": 576356852.3454281,
+        "market_capitalization": 576356865,
         "commodity_name": null,
         "display_name": "Replimune Group, Inc.",
         "sma_50": 7.8511999988555905,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WKC",
         "name": "World Kinect Corporation",
-        "collected_at": "2026-03-21T02:08:28.959Z",
+        "collected_at": "2026-03-22T02:08:18.854Z",
         "data_start_date": "2016-03-21",
         "price": 22.639999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:WKC",
-        "market_capitalization": 1160956316.6775763,
+        "market_capitalization": 1160956254,
         "commodity_name": null,
         "display_name": "World Kinect Corporation",
         "sma_50": 25.9057999420166,

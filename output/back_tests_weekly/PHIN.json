@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PHIN",
         "name": "PHINIA Inc.",
-        "collected_at": "2026-03-21T02:06:42.716Z",
+        "collected_at": "2026-03-22T02:06:34.205Z",
         "data_start_date": "2023-06-26",
         "price": 62.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:PHIN",
-        "market_capitalization": 2378418120.7768145,
+        "market_capitalization": 2378418041,
         "commodity_name": null,
         "display_name": "PHINIA Inc.",
         "sma_50": 55.71719978332519,

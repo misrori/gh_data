@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NFLX",
         "name": "Netflix, Inc.",
-        "collected_at": "2026-03-21T02:00:13.156Z",
+        "collected_at": "2026-03-22T02:00:14.149Z",
         "data_start_date": "2016-03-21",
         "price": 91.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:NFLX",
-        "market_capitalization": 387678915855.8851,
+        "market_capitalization": 387678923594,
         "commodity_name": null,
         "display_name": "Netflix, Inc.",
         "sma_50": 108.5031199645996,

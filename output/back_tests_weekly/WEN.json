@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WEN",
         "name": "Wendy's Company (The)",
-        "collected_at": "2026-03-21T02:08:07.809Z",
+        "collected_at": "2026-03-22T02:07:58.257Z",
         "data_start_date": "2016-03-21",
         "price": 7.090000152587891,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NASDAQ:WEN",
-        "market_capitalization": 1349656395.907932,
+        "market_capitalization": 1349656436.0000002,
         "commodity_name": null,
         "display_name": "Wendy's Company (The)",
         "sma_50": 9.600400018692017,

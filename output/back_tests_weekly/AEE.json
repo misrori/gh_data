@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AEE",
         "name": "Ameren Corporation",
-        "collected_at": "2026-03-21T02:01:51.104Z",
+        "collected_at": "2026-03-22T02:01:52.824Z",
         "data_start_date": "2016-03-21",
         "price": 106.05999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:AEE",
-        "market_capitalization": 29317581765.25666,
+        "market_capitalization": 29317581742.999996,
         "commodity_name": null,
         "display_name": "Ameren Corporation",
         "sma_50": 101.73699905395507,

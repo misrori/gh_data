@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SHLS",
         "name": "Shoals Technologies Group, Inc.",
-        "collected_at": "2026-03-21T02:08:44.679Z",
+        "collected_at": "2026-03-22T02:08:34.091Z",
         "data_start_date": "2021-01-28",
         "price": 6.099999904632568,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:SHLS",
-        "market_capitalization": 1021447022.897351,
+        "market_capitalization": 1021447013,
         "commodity_name": null,
         "display_name": "Shoals Technologies Group, Inc.",
         "sma_50": 8.317299928665161,

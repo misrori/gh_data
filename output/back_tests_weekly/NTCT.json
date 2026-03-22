@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NTCT",
         "name": "NetScout Systems, Inc.",
-        "collected_at": "2026-03-21T02:06:56.089Z",
+        "collected_at": "2026-03-22T02:06:47.499Z",
         "data_start_date": "2016-03-21",
         "price": 30.049999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:NTCT",
-        "market_capitalization": 2170221522.8958535,
+        "market_capitalization": 2170221528,
         "commodity_name": null,
         "display_name": "NetScout Systems, Inc.",
         "sma_50": 25.572799911499022,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HAYW",
         "name": "Hayward Holdings, Inc.",
-        "collected_at": "2026-03-21T02:06:11.968Z",
+        "collected_at": "2026-03-22T02:06:03.953Z",
         "data_start_date": "2021-03-12",
         "price": 13.640000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Recreational Products",
         "tradingview_id": "NYSE:HAYW",
-        "market_capitalization": 2962712382.624093,
+        "market_capitalization": 2962712514,
         "commodity_name": null,
         "display_name": "Hayward Holdings, Inc.",
         "sma_50": 15.774599933624268,

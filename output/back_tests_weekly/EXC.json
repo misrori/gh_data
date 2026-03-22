@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXC",
         "name": "Exelon Corporation",
-        "collected_at": "2026-03-21T02:01:23.085Z",
+        "collected_at": "2026-03-22T02:01:23.753Z",
         "data_start_date": "2016-03-21",
         "price": 46.439998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:EXC",
-        "market_capitalization": 47503129667.4851,
+        "market_capitalization": 47503129923,
         "commodity_name": null,
         "display_name": "Exelon Corporation",
         "sma_50": 45.13139984130859,

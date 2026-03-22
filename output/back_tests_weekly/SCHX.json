@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCHX",
         "name": "Schwab U.S. Large-Cap ETF",
-        "collected_at": "2026-03-21T02:10:42.172Z",
+        "collected_at": "2026-03-22T02:10:32.521Z",
         "data_start_date": "2016-03-21",
         "price": 25.6200008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SCHX",
-        "market_capitalization": 62160376000,
+        "market_capitalization": 62091072000,
         "commodity_name": null,
         "display_name": "Schwab U.S. Large-Cap ETF",
         "sma_50": 25.550800018310547,

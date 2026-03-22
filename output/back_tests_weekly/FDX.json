@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FDX",
         "name": "FedEx Corporation",
-        "collected_at": "2026-03-21T02:00:51.549Z",
+        "collected_at": "2026-03-22T02:00:50.219Z",
         "data_start_date": "2016-03-21",
         "price": 358.8500061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Air Freight/Couriers",
         "tradingview_id": "NYSE:FDX",
-        "market_capitalization": 84373819765.79807,
+        "market_capitalization": 85624033869.00002,
         "commodity_name": null,
         "display_name": "FedEx Corporation",
         "sma_50": 266.8520001220703,

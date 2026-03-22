@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AAL",
         "name": "American Airlines Group, Inc.",
-        "collected_at": "2026-03-21T02:04:10.764Z",
+        "collected_at": "2026-03-22T02:04:06.519Z",
         "data_start_date": "2016-03-21",
         "price": 10.430000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NASDAQ:AAL",
-        "market_capitalization": 6886976739.462037,
+        "market_capitalization": 6886976819.000001,
         "commodity_name": null,
         "display_name": "American Airlines Group, Inc.",
         "sma_50": 12.577599964141847,

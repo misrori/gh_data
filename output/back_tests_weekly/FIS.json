@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FIS",
         "name": "Fidelity National Information Services, Inc.",
-        "collected_at": "2026-03-21T02:02:00.474Z",
+        "collected_at": "2026-03-22T02:02:02.178Z",
         "data_start_date": "2016-03-21",
         "price": 49.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:FIS",
-        "market_capitalization": 25612158679.57065,
+        "market_capitalization": 25612160023.000004,
         "commodity_name": null,
         "display_name": "Fidelity National Information Services, Inc.",
         "sma_50": 67.75160026550293,

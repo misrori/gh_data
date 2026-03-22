@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MANU",
         "name": "Manchester",
-        "collected_at": "2026-03-21T02:06:21.596Z",
+        "collected_at": "2026-03-22T02:06:13.475Z",
         "data_start_date": "2016-03-21",
         "price": 16.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NYSE:MANU",
-        "market_capitalization": 2795071805.4614916,
+        "market_capitalization": 2795071687.0000005,
         "commodity_name": null,
         "display_name": "Manchester",
         "sma_50": 16.35799997329712,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DBX",
         "name": "Dropbox, Inc.",
-        "collected_at": "2026-03-21T02:04:31.712Z",
+        "collected_at": "2026-03-22T02:04:26.055Z",
         "data_start_date": "2018-03-19",
         "price": 25.020000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:DBX",
-        "market_capitalization": 5827138603.287246,
+        "market_capitalization": 5827138692,
         "commodity_name": null,
         "display_name": "Dropbox, Inc.",
         "sma_50": 28.01310005187988,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRC",
         "name": "Tejon Ranch Co",
-        "collected_at": "2026-03-21T02:10:19.970Z",
+        "collected_at": "2026-03-22T02:10:11.813Z",
         "data_start_date": "2016-03-21",
         "price": 18.399999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:TRC",
-        "market_capitalization": 494848790.754414,
+        "market_capitalization": 495515610,
         "commodity_name": null,
         "display_name": "Tejon Ranch Co",
         "sma_50": 16.802399921417237,

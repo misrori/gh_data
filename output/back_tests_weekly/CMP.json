@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CMP",
         "name": "Compass Minerals Intl Inc",
-        "collected_at": "2026-03-21T02:09:01.710Z",
+        "collected_at": "2026-03-22T02:08:52.211Z",
         "data_start_date": "2016-03-21",
         "price": 21.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:CMP",
-        "market_capitalization": 900060373.1468849,
+        "market_capitalization": 900060383,
         "commodity_name": null,
         "display_name": "Compass Minerals Intl Inc",
         "sma_50": 19.80260009765625,

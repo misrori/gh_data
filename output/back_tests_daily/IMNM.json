@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IMNM",
         "name": "Immunome, Inc.",
-        "collected_at": "2026-03-21T02:06:50.247Z",
+        "collected_at": "2026-03-22T02:06:41.886Z",
         "data_start_date": "2020-10-02",
         "price": 20.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:IMNM",
-        "market_capitalization": 2263795203.2750845,
+        "market_capitalization": 2263795237,
         "commodity_name": null,
         "display_name": "Immunome, Inc.",
         "sma_50": 22.690400047302248,

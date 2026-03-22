@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GTES",
         "name": "Gates Industrial Corporation plc",
-        "collected_at": "2026-03-21T02:04:40.426Z",
+        "collected_at": "2026-03-22T02:04:34.703Z",
         "data_start_date": "2018-01-22",
         "price": 21.739999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:GTES",
-        "market_capitalization": 5518822714.739837,
+        "market_capitalization": 5518822807.999999,
         "commodity_name": null,
         "display_name": "Gates Industrial Corporation plc",
         "sma_50": 23.31139995574951,

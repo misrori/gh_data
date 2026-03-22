@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLBK",
         "name": "Columbia Financial, Inc.",
-        "collected_at": "2026-03-21T02:07:22.140Z",
+        "collected_at": "2026-03-22T02:07:13.166Z",
         "data_start_date": "2018-04-23",
         "price": 17.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:CLBK",
-        "market_capitalization": 1791877185.9444444,
+        "market_capitalization": 1791877185,
         "commodity_name": null,
         "display_name": "Columbia Financial, Inc.",
         "sma_50": 17.33219997406006,

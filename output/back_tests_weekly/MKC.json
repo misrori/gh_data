@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MKC",
         "name": "McCormick & Company, Incorporated",
-        "collected_at": "2026-03-21T02:02:51.645Z",
+        "collected_at": "2026-03-22T02:02:46.939Z",
         "data_start_date": "2016-03-21",
         "price": 53.22999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:MKC",
-        "market_capitalization": 14290399903.47789,
+        "market_capitalization": 14289263950.000004,
         "commodity_name": null,
         "display_name": "McCormick & Company, Incorporated",
         "sma_50": 68.6662004852295,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRIN",
         "name": "Trinity Capital Inc.",
-        "collected_at": "2026-03-21T02:08:23.904Z",
+        "collected_at": "2026-03-22T02:08:13.459Z",
         "data_start_date": "2021-01-25",
         "price": 14.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NASDAQ:TRIN",
-        "market_capitalization": 1192728258.9631147,
+        "market_capitalization": 1192728243.9999998,
         "commodity_name": null,
         "display_name": "Trinity Capital Inc.",
         "sma_50": 15.094000034332275,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VVV",
         "name": "Valvoline Inc.",
-        "collected_at": "2026-03-21T02:05:21.246Z",
+        "collected_at": "2026-03-22T02:05:14.020Z",
         "data_start_date": "2016-09-23",
         "price": 32.7400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:VVV",
-        "market_capitalization": 4168320117.981719,
+        "market_capitalization": 4168320371,
         "commodity_name": null,
         "display_name": "Valvoline Inc.",
         "sma_50": 35.06480018615723,

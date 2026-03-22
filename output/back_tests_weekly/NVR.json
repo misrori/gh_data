@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NVR",
         "name": "NVR, Inc.",
-        "collected_at": "2026-03-21T02:02:36.024Z",
+        "collected_at": "2026-03-22T02:02:31.981Z",
         "data_start_date": "2016-03-21",
         "price": 6369.3798828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:NVR",
-        "market_capitalization": 17794519187.89279,
+        "market_capitalization": 17794519132,
         "commodity_name": null,
         "display_name": "NVR, Inc.",
         "sma_50": 7486.2778125,

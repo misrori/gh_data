@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NBTB",
         "name": "NBT Bancorp Inc.",
-        "collected_at": "2026-03-21T02:06:59.147Z",
+        "collected_at": "2026-03-22T02:06:50.303Z",
         "data_start_date": "2016-03-21",
         "price": 40.709999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:NBTB",
-        "market_capitalization": 2125241616.8523314,
+        "market_capitalization": 2125241506,
         "commodity_name": null,
         "display_name": "NBT Bancorp Inc.",
         "sma_50": 42.39580009460449,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ICHR",
         "name": "Ichor Holdings",
-        "collected_at": "2026-03-21T02:07:37.267Z",
+        "collected_at": "2026-03-22T02:07:28.447Z",
         "data_start_date": "2016-12-05",
         "price": 46.83000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:ICHR",
-        "market_capitalization": 1622394075.0352116,
+        "market_capitalization": 1622394172,
         "commodity_name": null,
         "display_name": "Ichor Holdings",
         "sma_50": 23.512500171661376,

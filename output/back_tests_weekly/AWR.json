@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AWR",
         "name": "American States Water Company",
-        "collected_at": "2026-03-21T02:06:19.063Z",
+        "collected_at": "2026-03-22T02:06:11.238Z",
         "data_start_date": "2016-03-21",
         "price": 72.4000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NYSE:AWR",
-        "market_capitalization": 2829570894.5050125,
+        "market_capitalization": 2829570883,
         "commodity_name": null,
         "display_name": "American States Water Company",
         "sma_50": 74.96280044555664,

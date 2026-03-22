@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OTTR",
         "name": "Otter Tail Corporation",
-        "collected_at": "2026-03-21T02:05:48.253Z",
+        "collected_at": "2026-03-22T02:05:39.664Z",
         "data_start_date": "2016-03-21",
         "price": 84.19999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:OTTR",
-        "market_capitalization": 3532486640.5600324,
+        "market_capitalization": 3532486402,
         "commodity_name": null,
         "display_name": "Otter Tail Corporation",
         "sma_50": 81.7033999633789,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AXP",
         "name": "American Express Company",
-        "collected_at": "2026-03-21T02:00:25.411Z",
+        "collected_at": "2026-03-22T02:00:24.480Z",
         "data_start_date": "2016-03-21",
         "price": 295.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:AXP",
-        "market_capitalization": 202894436001.07312,
+        "market_capitalization": 202894441040,
         "commodity_name": null,
         "display_name": "American Express Company",
         "sma_50": 326.96099975585935,

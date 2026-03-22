@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNXC",
         "name": "Concentrix Corporation",
-        "collected_at": "2026-03-21T02:07:11.863Z",
+        "collected_at": "2026-03-22T02:07:03.410Z",
         "data_start_date": "2020-11-24",
         "price": 31.520000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:CNXC",
-        "market_capitalization": 1934286900.9172933,
+        "market_capitalization": 1934286924,
         "commodity_name": null,
         "display_name": "Concentrix Corporation",
         "sma_50": 35.783800010681155,

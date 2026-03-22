@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KR",
         "name": "Kroger Company (The)",
-        "collected_at": "2026-03-21T02:01:23.703Z",
+        "collected_at": "2026-03-22T02:01:24.331Z",
         "data_start_date": "2016-03-21",
         "price": 73.19999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NYSE:KR",
-        "market_capitalization": 46324561473.74186,
+        "market_capitalization": 46324558201,
         "commodity_name": null,
         "display_name": "Kroger Company (The)",
         "sma_50": 68.02919960021973,

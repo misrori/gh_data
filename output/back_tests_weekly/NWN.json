@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NWN",
         "name": "Northwest Natural Holding Company",
-        "collected_at": "2026-03-21T02:06:58.168Z",
+        "collected_at": "2026-03-22T02:06:49.184Z",
         "data_start_date": "2016-03-21",
         "price": 51.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:NWN",
-        "market_capitalization": 2137213046.8326426,
+        "market_capitalization": 2137212915,
         "commodity_name": null,
         "display_name": "Northwest Natural Holding Company",
         "sma_50": 44.867600173950194,

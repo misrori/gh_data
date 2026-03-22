@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BORR",
         "name": "Borr Drilling Limited",
-        "collected_at": "2026-03-21T02:07:58.106Z",
+        "collected_at": "2026-03-22T02:07:48.997Z",
         "data_start_date": "2019-07-29",
         "price": 4.699999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Contract Drilling",
         "tradingview_id": "NYSE:BORR",
-        "market_capitalization": 1442302218.2644627,
+        "market_capitalization": 1442302114,
         "commodity_name": null,
         "display_name": "Borr Drilling Limited",
         "sma_50": 3.2047999930381774,

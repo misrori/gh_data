@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GRAB",
         "name": "Grab Holdings Limited",
-        "collected_at": "2026-03-21T02:02:50.621Z",
+        "collected_at": "2026-03-22T02:02:46.047Z",
         "data_start_date": "2020-11-30",
         "price": 3.559999942779541,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Air Freight/Couriers",
         "tradingview_id": "NASDAQ:GRAB",
-        "market_capitalization": 14597715737.163044,
+        "market_capitalization": 14597715238,
         "commodity_name": null,
         "display_name": "Grab Holdings Limited",
         "sma_50": 4.9632000064849855,

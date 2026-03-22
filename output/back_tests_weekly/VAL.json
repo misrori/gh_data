@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VAL",
         "name": "Valaris Limited",
-        "collected_at": "2026-03-21T02:04:20.931Z",
+        "collected_at": "2026-03-22T02:04:15.772Z",
         "data_start_date": "2021-05-03",
         "price": 92.5199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Contract Drilling",
         "tradingview_id": "NYSE:VAL",
-        "market_capitalization": 6405245341.517558,
+        "market_capitalization": 6405245089,
         "commodity_name": null,
         "display_name": "Valaris Limited",
         "sma_50": 54.834199600219726,

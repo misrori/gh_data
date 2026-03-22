@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SON",
         "name": "Sonoco Products Company",
-        "collected_at": "2026-03-21T02:04:55.145Z",
+        "collected_at": "2026-03-22T02:04:48.920Z",
         "data_start_date": "2016-03-21",
         "price": 50.66999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:SON",
-        "market_capitalization": 4998292243.815287,
+        "market_capitalization": 4998291930.000001,
         "commodity_name": null,
         "display_name": "Sonoco Products Company",
         "sma_50": 45.9081999206543,

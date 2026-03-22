@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FFBC",
         "name": "First Financial Bancorp.",
-        "collected_at": "2026-03-21T02:06:21.867Z",
+        "collected_at": "2026-03-22T02:06:13.771Z",
         "data_start_date": "2016-03-21",
         "price": 26.700000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:FFBC",
-        "market_capitalization": 2792448533.2522454,
+        "market_capitalization": 2792448685,
         "commodity_name": null,
         "display_name": "First Financial Bancorp.",
         "sma_50": 25.5281999206543,

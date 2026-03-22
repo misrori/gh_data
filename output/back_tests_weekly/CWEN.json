@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CWEN",
         "name": "Clearway Energy, Inc.",
-        "collected_at": "2026-03-21T02:03:54.766Z",
+        "collected_at": "2026-03-22T02:03:50.557Z",
         "data_start_date": "2016-03-21",
         "price": 37.439998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Alternative Power Generation",
         "tradingview_id": "NYSE:CWEN",
-        "market_capitalization": 7675886025.50567,
+        "market_capitalization": 7677165362,
         "commodity_name": null,
         "display_name": "Clearway Energy, Inc.",
         "sma_50": 32.86219993591308,

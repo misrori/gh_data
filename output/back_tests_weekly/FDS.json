@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FDS",
         "name": "FactSet Research Systems Inc.",
-        "collected_at": "2026-03-21T02:03:53.744Z",
+        "collected_at": "2026-03-22T02:03:49.823Z",
         "data_start_date": "2016-03-21",
         "price": 209.27000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Financial Publishing/Services",
         "tradingview_id": "NYSE:FDS",
-        "market_capitalization": 7763761673.841744,
+        "market_capitalization": 7763761968.999999,
         "commodity_name": null,
         "display_name": "FactSet Research Systems Inc.",
         "sma_50": 330.9987991333008,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PTRN",
         "name": "Pattern Group Inc. - Series A",
-        "collected_at": "2026-03-21T02:07:08.862Z",
+        "collected_at": "2026-03-22T02:06:59.940Z",
         "data_start_date": "2025-09-19",
         "price": 11.170000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NASDAQ:PTRN",
-        "market_capitalization": 1968432259.639504,
+        "market_capitalization": 1968432279.0000002,
         "commodity_name": null,
         "display_name": "Pattern Group Inc. - Series A",
         "sma_50": 12.220000019073487,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMKR",
         "name": "Amkor Technology, Inc.",
-        "collected_at": "2026-03-21T02:03:17.957Z",
+        "collected_at": "2026-03-22T02:03:13.287Z",
         "data_start_date": "2016-03-21",
         "price": 45.810001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:AMKR",
-        "market_capitalization": 11329228600.350716,
+        "market_capitalization": 11329228688,
         "commodity_name": null,
         "display_name": "Amkor Technology, Inc.",
         "sma_50": 31.697799968719483,

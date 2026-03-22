@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MA",
         "name": "Mastercard Incorporated",
-        "collected_at": "2026-03-21T02:00:11.809Z",
+        "collected_at": "2026-03-22T02:00:12.915Z",
         "data_start_date": "2016-03-21",
         "price": 496.32000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:MA",
-        "market_capitalization": 442624291271.9619,
+        "market_capitalization": 442624284602,
         "commodity_name": null,
         "display_name": "Mastercard Incorporated",
         "sma_50": 555.1793957519532,

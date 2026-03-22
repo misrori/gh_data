@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCHD",
         "name": "Schwab US Dividend Equity ETF",
-        "collected_at": "2026-03-21T02:10:37.178Z",
+        "collected_at": "2026-03-22T02:10:27.929Z",
         "data_start_date": "2016-03-21",
         "price": 30.389999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SCHD",
-        "market_capitalization": 98837395500,
+        "market_capitalization": 98929358000,
         "commodity_name": null,
         "display_name": "Schwab US Dividend Equity ETF",
         "sma_50": 27.803599853515625,

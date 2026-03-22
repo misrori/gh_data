@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GOLF",
         "name": "Acushnet Holdings Corp.",
-        "collected_at": "2026-03-21T02:04:48.304Z",
+        "collected_at": "2026-03-22T02:04:42.201Z",
         "data_start_date": "2016-10-24",
         "price": 89.33000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Recreational Products",
         "tradingview_id": "NYSE:GOLF",
-        "market_capitalization": 5231197130.023987,
+        "market_capitalization": 5231197062,
         "commodity_name": null,
         "display_name": "Acushnet Holdings Corp.",
         "sma_50": 80.75279975891114,

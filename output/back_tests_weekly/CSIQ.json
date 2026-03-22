@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSIQ",
         "name": "Canadian Solar Inc.",
-        "collected_at": "2026-03-21T02:08:52.212Z",
+        "collected_at": "2026-03-22T02:08:41.965Z",
         "data_start_date": "2016-03-21",
         "price": 14.260000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:CSIQ",
-        "market_capitalization": 955024184.3473763,
+        "market_capitalization": 955024219,
         "commodity_name": null,
         "display_name": "Canadian Solar Inc.",
         "sma_50": 16.000999908447266,

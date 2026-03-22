@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QCRH",
         "name": "QCR Holdings, Inc.",
-        "collected_at": "2026-03-21T02:08:05.376Z",
+        "collected_at": "2026-03-22T02:07:56.139Z",
         "data_start_date": "2016-03-21",
         "price": 81.62000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:QCRH",
-        "market_capitalization": 1365561538.9708667,
+        "market_capitalization": 1365561610,
         "commodity_name": null,
         "display_name": "QCR Holdings, Inc.",
         "sma_50": 77.17120040893555,

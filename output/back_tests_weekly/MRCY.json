@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRCY",
         "name": "Mercury Systems Inc",
-        "collected_at": "2026-03-21T02:05:07.807Z",
+        "collected_at": "2026-03-22T02:05:00.904Z",
         "data_start_date": "2016-03-21",
         "price": 77.26000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:MRCY",
-        "market_capitalization": 4636730413.788202,
+        "market_capitalization": 4636730688,
         "commodity_name": null,
         "display_name": "Mercury Systems Inc",
         "sma_50": 68.81919990539551,

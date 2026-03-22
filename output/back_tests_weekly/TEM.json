@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TEM",
         "name": "Tempus AI, Inc.",
-        "collected_at": "2026-03-21T02:03:44.960Z",
+        "collected_at": "2026-03-22T02:03:40.432Z",
         "data_start_date": "2024-06-10",
         "price": 46.959999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:TEM",
-        "market_capitalization": 8395212920.20517,
+        "market_capitalization": 8395212468,
         "commodity_name": null,
         "display_name": "Tempus AI, Inc.",
         "sma_50": 66.82979988098144,

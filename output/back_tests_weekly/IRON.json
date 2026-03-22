@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IRON",
         "name": "Disc Medicine, Inc.",
-        "collected_at": "2026-03-21T02:06:52.819Z",
+        "collected_at": "2026-03-22T02:06:44.397Z",
         "data_start_date": "2020-08-10",
         "price": 58.16999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:IRON",
-        "market_capitalization": 2219770894.4880853,
+        "market_capitalization": 2219770894,
         "commodity_name": null,
         "display_name": "Disc Medicine, Inc.",
         "sma_50": 65.89720001220704,

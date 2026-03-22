@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EL",
         "name": "Estee Lauder Companies, Inc. (The)",
-        "collected_at": "2026-03-21T02:01:46.178Z",
+        "collected_at": "2026-03-22T02:01:48.406Z",
         "data_start_date": "2016-03-21",
         "price": 85.91999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NYSE:EL",
-        "market_capitalization": 31079586726.7514,
+        "market_capitalization": 31079586618,
         "commodity_name": null,
         "display_name": "Estee Lauder Companies, Inc. (The)",
         "sma_50": 89.87820053100586,

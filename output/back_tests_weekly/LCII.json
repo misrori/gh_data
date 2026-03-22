@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LCII",
         "name": "LCI Industries",
-        "collected_at": "2026-03-21T02:06:18.349Z",
+        "collected_at": "2026-03-22T02:06:10.250Z",
         "data_start_date": "2016-03-21",
         "price": 117.4800033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NYSE:LCII",
-        "market_capitalization": 2843141643.913755,
+        "market_capitalization": 2843141653,
         "commodity_name": null,
         "display_name": "LCI Industries",
         "sma_50": 107.99059997558594,

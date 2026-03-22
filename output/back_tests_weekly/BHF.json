@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BHF",
         "name": "Brighthouse Financial, Inc.",
-        "collected_at": "2026-03-21T02:05:54.154Z",
+        "collected_at": "2026-03-22T02:05:45.430Z",
         "data_start_date": "2017-07-17",
         "price": 59.349998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Life/Health Insurance",
         "tradingview_id": "NASDAQ:BHF",
-        "market_capitalization": 3393876252.292646,
+        "market_capitalization": 3393876087.0000005,
         "commodity_name": null,
         "display_name": "Brighthouse Financial, Inc.",
         "sma_50": 57.120200119018556,

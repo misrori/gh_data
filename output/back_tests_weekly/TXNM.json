@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TXNM",
         "name": "TXNM Energy, Inc.",
-        "collected_at": "2026-03-21T02:04:22.373Z",
+        "collected_at": "2026-03-22T02:04:17.121Z",
         "data_start_date": "2016-03-21",
         "price": 58.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:TXNM",
-        "market_capitalization": 6326152467.837364,
+        "market_capitalization": 6326152334.556226,
         "commodity_name": null,
         "display_name": "TXNM Energy, Inc.",
         "sma_50": 57.16919998168945,

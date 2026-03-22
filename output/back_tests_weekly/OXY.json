@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OXY",
         "name": "Occidental Petroleum Corporation",
-        "collected_at": "2026-03-21T02:01:12.042Z",
+        "collected_at": "2026-03-22T02:01:11.951Z",
         "data_start_date": "2016-03-21",
         "price": 60.709999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:OXY",
-        "market_capitalization": 59876247221.016624,
+        "market_capitalization": 59876244478,
         "commodity_name": null,
         "display_name": "Occidental Petroleum Corporation",
         "sma_50": 44.89819999694824,

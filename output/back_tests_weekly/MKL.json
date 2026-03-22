@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MKL",
         "name": "Markel Group Inc.",
-        "collected_at": "2026-03-21T02:02:05.752Z",
+        "collected_at": "2026-03-22T02:02:07.820Z",
         "data_start_date": "2016-03-21",
         "price": 1875.3499755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:MKL",
-        "market_capitalization": 23583887165.516468,
+        "market_capitalization": 23583886613,
         "commodity_name": null,
         "display_name": "Markel Group Inc.",
         "sma_50": 1982.92359375,

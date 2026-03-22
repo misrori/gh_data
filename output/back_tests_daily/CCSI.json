@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCSI",
         "name": "Consensus Cloud Solutions, Inc.",
-        "collected_at": "2026-03-21T02:10:16.494Z",
+        "collected_at": "2026-03-22T02:10:08.796Z",
         "data_start_date": "2021-09-30",
         "price": 26.700000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:CCSI",
-        "market_capitalization": 503800546.0829163,
+        "market_capitalization": 503800569,
         "commodity_name": null,
         "display_name": "Consensus Cloud Solutions, Inc.",
         "sma_50": 26.23390007019043,

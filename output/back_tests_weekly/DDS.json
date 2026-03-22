@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DDS",
         "name": "Dillard's, Inc.",
-        "collected_at": "2026-03-21T02:03:36.960Z",
+        "collected_at": "2026-03-22T02:03:32.665Z",
         "data_start_date": "2016-03-21",
         "price": 591,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Department Stores",
         "tradingview_id": "NYSE:DDS",
-        "market_capitalization": 9227263591.832464,
+        "market_capitalization": 9227263367,
         "commodity_name": null,
         "display_name": "Dillard's, Inc.",
         "sma_50": 546.4449987792968,

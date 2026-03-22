@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACI",
         "name": "Albertsons Companies, Inc.",
-        "collected_at": "2026-03-21T02:03:40.496Z",
+        "collected_at": "2026-03-22T02:03:35.883Z",
         "data_start_date": "2020-06-22",
         "price": 17.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NYSE:ACI",
-        "market_capitalization": 8885558389.425028,
+        "market_capitalization": 8885558782,
         "commodity_name": null,
         "display_name": "Albertsons Companies, Inc.",
         "sma_50": 19.084399909973143,

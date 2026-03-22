@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NGVC",
         "name": "Natural Grocers by Vitamin Cottage, Inc.",
-        "collected_at": "2026-03-21T02:09:58.830Z",
+        "collected_at": "2026-03-22T02:09:50.856Z",
         "data_start_date": "2016-03-21",
         "price": 25.31999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NYSE:NGVC",
-        "market_capitalization": 583197956.0203842,
+        "market_capitalization": 583197943,
         "commodity_name": null,
         "display_name": "Natural Grocers by Vitamin Cottage, Inc.",
         "sma_50": 35.529400215148925,

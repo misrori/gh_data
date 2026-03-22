@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PGNY",
         "name": "Progyny, Inc.",
-        "collected_at": "2026-03-21T02:07:52.832Z",
+        "collected_at": "2026-03-22T02:07:43.694Z",
         "data_start_date": "2019-10-25",
         "price": 18.1299991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:PGNY",
-        "market_capitalization": 1484887581.083058,
+        "market_capitalization": 1484887487,
         "commodity_name": null,
         "display_name": "Progyny, Inc.",
         "sma_50": 21.396800079345702,

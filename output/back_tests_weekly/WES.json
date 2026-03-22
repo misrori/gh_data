@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WES",
         "name": "Western Midstream Partners, LP",
-        "collected_at": "2026-03-21T02:02:43.150Z",
+        "collected_at": "2026-03-22T02:02:38.537Z",
         "data_start_date": "2016-03-21",
         "price": 41.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:WES",
-        "market_capitalization": 16400186691.236874,
+        "market_capitalization": 16400185905,
         "commodity_name": null,
         "display_name": "Western Midstream Partners, LP",
         "sma_50": 39.37680015563965,

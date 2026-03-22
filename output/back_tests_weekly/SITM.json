@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SITM",
         "name": "SiTime Corporation",
-        "collected_at": "2026-03-21T02:03:43.722Z",
+        "collected_at": "2026-03-22T02:03:39.017Z",
         "data_start_date": "2019-11-18",
         "price": 325.32000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:SITM",
-        "market_capitalization": 8555887653.723761,
+        "market_capitalization": 8555888021.999999,
         "commodity_name": null,
         "display_name": "SiTime Corporation",
         "sma_50": 278.1317999267578,

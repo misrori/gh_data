@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GTX",
         "name": "Garrett Motion Inc.",
-        "collected_at": "2026-03-21T02:06:00.016Z",
+        "collected_at": "2026-03-22T02:05:51.462Z",
         "data_start_date": "2018-09-17",
         "price": 16.959999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NASDAQ:GTX",
-        "market_capitalization": 3221909006.050575,
+        "market_capitalization": 3221908903,
         "commodity_name": null,
         "display_name": "Garrett Motion Inc.",
         "sma_50": 18.786399917602537,

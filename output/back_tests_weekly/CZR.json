@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CZR",
         "name": "Caesars Entertainment, Inc.",
-        "collected_at": "2026-03-21T02:04:42.658Z",
+        "collected_at": "2026-03-22T02:04:36.803Z",
         "data_start_date": "2016-03-21",
         "price": 26.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Casinos/Gaming",
         "tradingview_id": "NASDAQ:CZR",
-        "market_capitalization": 5446222369.591836,
+        "market_capitalization": 5446222310,
         "commodity_name": null,
         "display_name": "Caesars Entertainment, Inc.",
         "sma_50": 25.17450008392334,

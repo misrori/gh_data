@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NDSN",
         "name": "Nordson Corporation",
-        "collected_at": "2026-03-21T02:02:50.432Z",
+        "collected_at": "2026-03-22T02:02:45.883Z",
         "data_start_date": "2016-03-21",
         "price": 262.7300109863281,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:NDSN",
-        "market_capitalization": 14656023718.735567,
+        "market_capitalization": 14656024800,
         "commodity_name": null,
         "display_name": "Nordson Corporation",
         "sma_50": 234.00360076904298,

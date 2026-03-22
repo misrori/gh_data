@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IQV",
         "name": "IQVIA Holdings, Inc.",
-        "collected_at": "2026-03-21T02:01:54.086Z",
+        "collected_at": "2026-03-22T02:01:56.049Z",
         "data_start_date": "2016-03-21",
         "price": 166.07000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NYSE:IQV",
-        "market_capitalization": 28182078699.72325,
+        "market_capitalization": 28182079736,
         "commodity_name": null,
         "display_name": "IQVIA Holdings, Inc.",
         "sma_50": 187.42520050048827,

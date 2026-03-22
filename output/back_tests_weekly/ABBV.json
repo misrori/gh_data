@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABBV",
         "name": "AbbVie Inc.",
-        "collected_at": "2026-03-21T02:00:13.386Z",
+        "collected_at": "2026-03-22T02:00:14.378Z",
         "data_start_date": "2016-03-21",
         "price": 205.07000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:ABBV",
-        "market_capitalization": 362598398102.93164,
+        "market_capitalization": 362598418566,
         "commodity_name": null,
         "display_name": "AbbVie Inc.",
         "sma_50": 210.79420043945314,

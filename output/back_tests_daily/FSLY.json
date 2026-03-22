@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FSLY",
         "name": "Fastly, Inc.",
-        "collected_at": "2026-03-21T02:05:33.455Z",
+        "collected_at": "2026-03-22T02:05:25.373Z",
         "data_start_date": "2019-05-17",
         "price": 25.200000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:FSLY",
-        "market_capitalization": 3825360187.689981,
+        "market_capitalization": 3825360192.9999995,
         "commodity_name": null,
         "display_name": "Fastly, Inc.",
         "sma_50": 15.5682000541687,

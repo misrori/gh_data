@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRME",
         "name": "Prime Medicine, Inc.",
-        "collected_at": "2026-03-21T02:09:45.405Z",
+        "collected_at": "2026-03-22T02:09:37.462Z",
         "data_start_date": "2022-10-17",
         "price": 3.5199999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:PRME",
-        "market_capitalization": 635543649.3043479,
+        "market_capitalization": 635543634,
         "commodity_name": null,
         "display_name": "Prime Medicine, Inc.",
         "sma_50": 3.517499988079071,

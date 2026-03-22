@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTZ",
         "name": "MasTec, Inc.",
-        "collected_at": "2026-03-21T02:02:05.059Z",
+        "collected_at": "2026-03-22T02:02:07.133Z",
         "data_start_date": "2016-03-21",
         "price": 300.5799865722656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:MTZ",
-        "market_capitalization": 23714207732.65425,
+        "market_capitalization": 23714206579.999996,
         "commodity_name": null,
         "display_name": "MasTec, Inc.",
         "sma_50": 204.0673992919922,

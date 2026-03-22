@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMG",
         "name": "Scotts Miracle-Gro Company (The)",
-        "collected_at": "2026-03-21T02:05:43.507Z",
+        "collected_at": "2026-03-22T02:05:34.974Z",
         "data_start_date": "2016-03-21",
         "price": 62.27000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Agricultural",
         "tradingview_id": "NYSE:SMG",
-        "market_capitalization": 3614135399.986163,
+        "market_capitalization": 3614135443,
         "commodity_name": null,
         "display_name": "Scotts Miracle-Gro Company (The)",
         "sma_50": 60.68779998779297,

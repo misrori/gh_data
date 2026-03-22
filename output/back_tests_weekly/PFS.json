@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PFS",
         "name": "Provident Financial Services, Inc",
-        "collected_at": "2026-03-21T02:06:30.641Z",
+        "collected_at": "2026-03-22T02:06:22.332Z",
         "data_start_date": "2016-03-21",
         "price": 20.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NYSE:PFS",
-        "market_capitalization": 2651827764.840158,
+        "market_capitalization": 2651827824.9999995,
         "commodity_name": null,
         "display_name": "Provident Financial Services, Inc",
         "sma_50": 19.1948002243042,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SOLV",
         "name": "Solventum Corporation",
-        "collected_at": "2026-03-21T02:03:16.740Z",
+        "collected_at": "2026-03-22T02:03:12.136Z",
         "data_start_date": "2024-03-25",
         "price": 65.77999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NYSE:SOLV",
-        "market_capitalization": 11412369187.292225,
+        "market_capitalization": 11412369079.000002,
         "commodity_name": null,
         "display_name": "Solventum Corporation",
         "sma_50": 74.25180053710938,

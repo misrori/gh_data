@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTN",
         "name": "Vail Resorts, Inc.",
-        "collected_at": "2026-03-21T02:05:06.126Z",
+        "collected_at": "2026-03-22T02:04:59.427Z",
         "data_start_date": "2016-03-21",
         "price": 131.22000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NYSE:MTN",
-        "market_capitalization": 4675768544.019745,
+        "market_capitalization": 4675768735,
         "commodity_name": null,
         "display_name": "Vail Resorts, Inc.",
         "sma_50": 147.170400390625,

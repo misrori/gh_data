@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RYAN",
         "name": "Ryan Specialty Holdings, Inc.",
-        "collected_at": "2026-03-21T02:03:37.614Z",
+        "collected_at": "2026-03-22T02:03:33.211Z",
         "data_start_date": "2021-07-22",
         "price": 34.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NYSE:RYAN",
-        "market_capitalization": 9162098852.88518,
+        "market_capitalization": 9162098934,
         "commodity_name": null,
         "display_name": "Ryan Specialty Holdings, Inc.",
         "sma_50": 42.97259994506836,

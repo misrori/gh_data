@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLD",
         "name": "TopBuild Corp.",
-        "collected_at": "2026-03-21T02:03:35.171Z",
+        "collected_at": "2026-03-22T02:03:30.559Z",
         "data_start_date": "2016-03-21",
         "price": 335.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:BLD",
-        "market_capitalization": 9439124303.407919,
+        "market_capitalization": 9439124073.000002,
         "commodity_name": null,
         "display_name": "TopBuild Corp.",
         "sma_50": 397.6756018066406,

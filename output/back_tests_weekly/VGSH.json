@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VGSH",
         "name": "Vanguard Short-Term Treasury ETF",
-        "collected_at": "2026-03-21T02:10:55.282Z",
+        "collected_at": "2026-03-22T02:10:45.332Z",
         "data_start_date": "2016-03-21",
         "price": 58.380001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:VGSH",
-        "market_capitalization": 28818380687.85,
+        "market_capitalization": 28857686781.087,
         "commodity_name": null,
         "display_name": "Vanguard Short-Term Treasury ETF",
         "sma_50": 58.69560012817383,

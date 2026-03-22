@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BALL",
         "name": "Ball Corporation",
-        "collected_at": "2026-03-21T02:02:48.106Z",
+        "collected_at": "2026-03-22T02:02:43.366Z",
         "data_start_date": "2016-03-21",
         "price": 57.060001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:BALL",
-        "market_capitalization": 15182364263.010342,
+        "market_capitalization": 15182364197.000002,
         "commodity_name": null,
         "display_name": "Ball Corporation",
         "sma_50": 54.31739974975586,

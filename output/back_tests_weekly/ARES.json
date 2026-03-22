@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARES",
         "name": "Ares Management Corporation",
-        "collected_at": "2026-03-21T02:02:06.490Z",
+        "collected_at": "2026-03-22T02:02:08.543Z",
         "data_start_date": "2016-03-21",
         "price": 105.87000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:ARES",
-        "market_capitalization": 23386958132.59135,
+        "market_capitalization": 23386959202,
         "commodity_name": null,
         "display_name": "Ares Management Corporation",
         "sma_50": 157.89020004272462,

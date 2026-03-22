@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WABC",
         "name": "Westamerica Bancorporation",
-        "collected_at": "2026-03-21T02:08:22.412Z",
+        "collected_at": "2026-03-22T02:08:12.241Z",
         "data_start_date": "2016-03-21",
         "price": 49.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:WABC",
-        "market_capitalization": 1208004207.0262005,
+        "market_capitalization": 1208004196,
         "commodity_name": null,
         "display_name": "Westamerica Bancorporation",
         "sma_50": 49.03820007324219,

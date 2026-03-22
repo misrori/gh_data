@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ENPH",
         "name": "Enphase Energy, Inc.",
-        "collected_at": "2026-03-21T02:04:32.468Z",
+        "collected_at": "2026-03-22T02:04:26.872Z",
         "data_start_date": "2016-03-21",
         "price": 44.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:ENPH",
-        "market_capitalization": 5782768691.508287,
+        "market_capitalization": 5782768850,
         "commodity_name": null,
         "display_name": "Enphase Energy, Inc.",
         "sma_50": 38.612400169372556,

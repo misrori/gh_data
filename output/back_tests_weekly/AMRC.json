@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMRC",
         "name": "Ameresco, Inc.",
-        "collected_at": "2026-03-21T02:08:02.074Z",
+        "collected_at": "2026-03-22T02:07:52.515Z",
         "data_start_date": "2016-03-21",
         "price": 26.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:AMRC",
-        "market_capitalization": 1407580244.0521805,
+        "market_capitalization": 1407580240,
         "commodity_name": null,
         "display_name": "Ameresco, Inc.",
         "sma_50": 25.815600032806397,

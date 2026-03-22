@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BCAL",
         "name": "California BanCorp",
-        "collected_at": "2026-03-21T02:10:04.018Z",
+        "collected_at": "2026-03-22T02:09:55.736Z",
         "data_start_date": "2016-03-21",
         "price": 17.31999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:BCAL",
-        "market_capitalization": 559901334.275,
+        "market_capitalization": 559901311.9999999,
         "commodity_name": null,
         "display_name": "California BanCorp",
         "sma_50": 16.989600048065185,

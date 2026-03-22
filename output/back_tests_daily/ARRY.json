@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARRY",
         "name": "Array Technologies, Inc.",
-        "collected_at": "2026-03-21T02:08:44.274Z",
+        "collected_at": "2026-03-22T02:08:33.594Z",
         "data_start_date": "2020-10-15",
         "price": 6.699999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:ARRY",
-        "market_capitalization": 1024088160.6169299,
+        "market_capitalization": 1024088162,
         "commodity_name": null,
         "display_name": "Array Technologies, Inc.",
         "sma_50": 9.49229995727539,

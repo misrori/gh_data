@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TXT",
         "name": "Textron Inc.",
-        "collected_at": "2026-03-21T02:02:46.225Z",
+        "collected_at": "2026-03-22T02:02:41.529Z",
         "data_start_date": "2016-03-21",
         "price": 88.7699966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:TXT",
-        "market_capitalization": 15454759086.760061,
+        "market_capitalization": 15454758077.000002,
         "commodity_name": null,
         "display_name": "Textron Inc.",
         "sma_50": 83.4431999206543,

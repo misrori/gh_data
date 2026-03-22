@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RGEN",
         "name": "Repligen Corporation",
-        "collected_at": "2026-03-21T02:04:20.323Z",
+        "collected_at": "2026-03-22T02:04:15.104Z",
         "data_start_date": "2016-03-21",
         "price": 113.87999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:RGEN",
-        "market_capitalization": 6414986622.729019,
+        "market_capitalization": 6414986435,
         "commodity_name": null,
         "display_name": "Repligen Corporation",
         "sma_50": 136.7083999633789,

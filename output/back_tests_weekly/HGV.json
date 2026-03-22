@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HGV",
         "name": "Hilton Grand Vacations Inc.",
-        "collected_at": "2026-03-21T02:05:58.202Z",
+        "collected_at": "2026-03-22T02:05:49.549Z",
         "data_start_date": "2017-01-02",
         "price": 40.2400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:HGV",
-        "market_capitalization": 3276501550.2958694,
+        "market_capitalization": 3276501735,
         "commodity_name": null,
         "display_name": "Hilton Grand Vacations Inc.",
         "sma_50": 43.16880027770996,

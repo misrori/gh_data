@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NCNO",
         "name": "nCino, Inc.",
-        "collected_at": "2026-03-21T02:07:26.462Z",
+        "collected_at": "2026-03-22T02:07:17.790Z",
         "data_start_date": "2020-07-14",
         "price": 15.199999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:NCNO",
-        "market_capitalization": 1743211498.8903227,
+        "market_capitalization": 1743211477,
         "commodity_name": null,
         "display_name": "nCino, Inc.",
         "sma_50": 18.683999919891356,

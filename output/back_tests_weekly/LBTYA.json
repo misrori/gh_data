@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LBTYA",
         "name": "Liberty Global Ltd.",
-        "collected_at": "2026-03-21T02:05:32.876Z",
+        "collected_at": "2026-03-22T02:05:24.821Z",
         "data_start_date": "2016-03-21",
         "price": 11.6899995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Major Telecommunications",
         "tradingview_id": "NASDAQ:LBTYA",
-        "market_capitalization": 3878985080.2882347,
+        "market_capitalization": 3901463132,
         "commodity_name": null,
         "display_name": "Liberty Global Ltd.",
         "sma_50": 10.91659999847412,

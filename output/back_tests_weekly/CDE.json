@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CDE",
         "name": "Coeur Mining, Inc.",
-        "collected_at": "2026-03-21T02:03:17.670Z",
+        "collected_at": "2026-03-22T02:03:13.003Z",
         "data_start_date": "2016-03-21",
         "price": 17.670000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Precious Metals",
         "tradingview_id": "NYSE:CDE",
-        "market_capitalization": 11345863712.852219,
+        "market_capitalization": 11345863478,
         "commodity_name": null,
         "display_name": "Coeur Mining, Inc.",
         "sma_50": 15.043399934768678,

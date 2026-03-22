@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TATT",
         "name": "TAT Technologies Ltd.",
-        "collected_at": "2026-03-21T02:10:05.147Z",
+        "collected_at": "2026-03-22T02:09:56.577Z",
         "data_start_date": "2016-03-21",
         "price": 43.0099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:TATT",
-        "market_capitalization": 557006887.5173287,
+        "market_capitalization": 557006870,
         "commodity_name": null,
         "display_name": "TAT Technologies Ltd.",
         "sma_50": 39.31540012359619,

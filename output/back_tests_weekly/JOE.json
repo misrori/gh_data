@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JOE",
         "name": "St. Joe Company (The)",
-        "collected_at": "2026-03-21T02:05:40.926Z",
+        "collected_at": "2026-03-22T02:05:32.569Z",
         "data_start_date": "2016-03-21",
         "price": 63.619998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:JOE",
-        "market_capitalization": 3660974358.116279,
+        "market_capitalization": 3660974134,
         "commodity_name": null,
         "display_name": "St. Joe Company (The)",
         "sma_50": 55.00859977722168,

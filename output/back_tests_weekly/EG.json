@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EG",
         "name": "Everest Group, Ltd.",
-        "collected_at": "2026-03-21T02:03:03.242Z",
+        "collected_at": "2026-03-22T02:02:58.547Z",
         "data_start_date": "2016-03-21",
         "price": 316.0199890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:EG",
-        "market_capitalization": 12764095483.053173,
+        "market_capitalization": 12764095383.999998,
         "commodity_name": null,
         "display_name": "Everest Group, Ltd.",
         "sma_50": 335.14659912109374,

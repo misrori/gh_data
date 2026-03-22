@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RDN",
         "name": "Radian Group Inc.",
-        "collected_at": "2026-03-21T02:05:15.253Z",
+        "collected_at": "2026-03-22T02:05:07.699Z",
         "data_start_date": "2016-03-21",
         "price": 32.470001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Specialty Insurance",
         "tradingview_id": "NYSE:RDN",
-        "market_capitalization": 4424764680.813204,
+        "market_capitalization": 4424764991,
         "commodity_name": null,
         "display_name": "Radian Group Inc.",
         "sma_50": 34.336800003051756,

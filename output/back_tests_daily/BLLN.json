@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLLN",
         "name": "BillionToOne, Inc.",
-        "collected_at": "2026-03-21T02:05:50.360Z",
+        "collected_at": "2026-03-22T02:05:41.811Z",
         "data_start_date": "2025-11-06",
         "price": 76,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:BLLN",
-        "market_capitalization": 3493401439.8378377,
+        "market_capitalization": 3493401440,
         "commodity_name": null,
         "display_name": "BillionToOne, Inc.",
         "sma_50": 81.83880035400391,

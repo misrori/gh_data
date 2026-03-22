@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CENX",
         "name": "Century Aluminum Company",
-        "collected_at": "2026-03-21T02:04:59.996Z",
+        "collected_at": "2026-03-22T02:04:53.591Z",
         "data_start_date": "2016-03-21",
         "price": 48.970001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Aluminum",
         "tradingview_id": "NASDAQ:CENX",
-        "market_capitalization": 4846759122.472306,
+        "market_capitalization": 4846759095.000001,
         "commodity_name": null,
         "display_name": "Century Aluminum Company",
         "sma_50": 30.651400012969972,

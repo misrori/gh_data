@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TT",
         "name": "Trane Technologies plc",
-        "collected_at": "2026-03-21T02:00:49.712Z",
+        "collected_at": "2026-03-22T02:00:49.016Z",
         "data_start_date": "2016-03-21",
         "price": 410.3599853515625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:TT",
-        "market_capitalization": 90825761988.78851,
+        "market_capitalization": 90825759009,
         "commodity_name": null,
         "display_name": "Trane Technologies plc",
         "sma_50": 418.26399963378907,

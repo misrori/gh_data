@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTDR",
         "name": "Matador Resources Company",
-        "collected_at": "2026-03-21T02:04:04.466Z",
+        "collected_at": "2026-03-22T02:04:00.299Z",
         "data_start_date": "2016-03-21",
         "price": 58.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:MTDR",
-        "market_capitalization": 7268621390.7744875,
+        "market_capitalization": 7268621429,
         "commodity_name": null,
         "display_name": "Matador Resources Company",
         "sma_50": 46.42040023803711,

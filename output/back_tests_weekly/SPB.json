@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPB",
         "name": "Spectrum Brands Holdings, Inc.",
-        "collected_at": "2026-03-21T02:07:37.808Z",
+        "collected_at": "2026-03-22T02:07:29.084Z",
         "data_start_date": "2016-03-21",
         "price": 69.73999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Electronics/Appliances",
         "tradingview_id": "NYSE:SPB",
-        "market_capitalization": 1617883508.351682,
+        "market_capitalization": 1617883404,
         "commodity_name": null,
         "display_name": "Spectrum Brands Holdings, Inc.",
         "sma_50": 60.39239990234375,

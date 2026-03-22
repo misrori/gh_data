@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRVG",
         "name": "trivago N.V.",
-        "collected_at": "2026-03-21T02:08:02.499Z",
+        "collected_at": "2026-03-22T02:07:57.539Z",
         "data_start_date": "2016-12-12",
         "price": 2.7200000286102295,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:TRVG",
-        "market_capitalization": 1399599390,
+        "market_capitalization": 1354772405,
         "commodity_name": null,
         "display_name": "trivago N.V.",
         "sma_50": 3.359299998283386,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NOMD",
         "name": "Nomad Foods Limited",
-        "collected_at": "2026-03-21T02:08:04.008Z",
+        "collected_at": "2026-03-22T02:07:54.593Z",
         "data_start_date": "2016-03-21",
         "price": 9.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:NOMD",
-        "market_capitalization": 1385339432.4365482,
+        "market_capitalization": 1385339378,
         "commodity_name": null,
         "display_name": "Nomad Foods Limited",
         "sma_50": 14.262999954223632,

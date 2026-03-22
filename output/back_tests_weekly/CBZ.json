@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CBZ",
         "name": "CBIZ, Inc.",
-        "collected_at": "2026-03-21T02:07:52.403Z",
+        "collected_at": "2026-03-22T02:07:43.310Z",
         "data_start_date": "2016-03-21",
         "price": 27.020000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:CBZ",
-        "market_capitalization": 1488079656.1946638,
+        "market_capitalization": 1488079648,
         "commodity_name": null,
         "display_name": "CBIZ, Inc.",
         "sma_50": 55.62099975585937,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLXY",
         "name": "Galaxy Digital Inc.",
-        "collected_at": "2026-03-21T02:03:49.180Z",
+        "collected_at": "2026-03-22T02:03:44.916Z",
         "data_start_date": "2025-05-16",
         "price": 20.719999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:GLXY",
-        "market_capitalization": 8062076853.826126,
+        "market_capitalization": 8062076879,
         "commodity_name": null,
         "display_name": "Galaxy Digital Inc.",
         "sma_50": 24.09979995727539,

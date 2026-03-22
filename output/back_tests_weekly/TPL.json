@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TPL",
         "name": "Texas Pacific Land Corporation",
-        "collected_at": "2026-03-21T02:01:38.147Z",
+        "collected_at": "2026-03-22T02:01:40.098Z",
         "data_start_date": "2016-03-21",
         "price": 519.4099731445312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NYSE:TPL",
-        "market_capitalization": 35808932426.5086,
+        "market_capitalization": 35808929262,
         "commodity_name": null,
         "display_name": "Texas Pacific Land Corporation",
         "sma_50": 362.4420654296875,

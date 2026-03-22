@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "POR",
         "name": "Portland General Electric Co",
-        "collected_at": "2026-03-21T02:04:19.069Z",
+        "collected_at": "2026-03-22T02:04:13.884Z",
         "data_start_date": "2016-03-21",
         "price": 50.970001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:POR",
-        "market_capitalization": 6443146067.05798,
+        "market_capitalization": 6443146428,
         "commodity_name": null,
         "display_name": "Portland General Electric Co",
         "sma_50": 45.69980003356934,

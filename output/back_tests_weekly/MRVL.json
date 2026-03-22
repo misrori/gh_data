@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRVL",
         "name": "Marvell Technology, Inc.",
-        "collected_at": "2026-03-21T02:00:56.859Z",
+        "collected_at": "2026-03-22T02:00:56.096Z",
         "data_start_date": "2016-03-21",
         "price": 87.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:MRVL",
-        "market_capitalization": 76859710879.08409,
+        "market_capitalization": 76859715129.00002,
         "commodity_name": null,
         "display_name": "Marvell Technology, Inc.",
         "sma_50": 77.46659996032714,

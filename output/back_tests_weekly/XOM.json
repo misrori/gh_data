@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XOM",
         "name": "Exxon Mobil Corporation",
-        "collected_at": "2026-03-21T02:00:10.587Z",
+        "collected_at": "2026-03-22T02:00:11.613Z",
         "data_start_date": "2016-03-21",
         "price": 159.6699981689453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:XOM",
-        "market_capitalization": 665307170893.2158,
+        "market_capitalization": 665307147859,
         "commodity_name": null,
         "display_name": "Exxon Mobil Corporation",
         "sma_50": 120.25699996948242,

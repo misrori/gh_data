@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NXPI",
         "name": "NXP Semiconductors N.V.",
-        "collected_at": "2026-03-21T02:01:20.819Z",
+        "collected_at": "2026-03-22T02:01:21.096Z",
         "data_start_date": "2016-03-21",
         "price": 191.3699951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:NXPI",
-        "market_capitalization": 48357830435.378174,
+        "market_capitalization": 48357827667,
         "commodity_name": null,
         "display_name": "NXP Semiconductors N.V.",
         "sma_50": 214.75579986572265,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TALK",
         "name": "Talkspace, Inc.",
-        "collected_at": "2026-03-21T02:09:08.298Z",
+        "collected_at": "2026-03-22T02:08:58.667Z",
         "data_start_date": "2020-07-27",
         "price": 5.139999866485596,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:TALK",
-        "market_capitalization": 858770758.2300195,
+        "market_capitalization": 858770717,
         "commodity_name": null,
         "display_name": "Talkspace, Inc.",
         "sma_50": 3.303899998664856,

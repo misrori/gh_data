@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SLS",
         "name": "SELLAS Life Sciences Group, Inc.",
-        "collected_at": "2026-03-21T02:09:36.974Z",
+        "collected_at": "2026-03-22T02:08:59.508Z",
         "data_start_date": "2016-03-21",
         "price": 4.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:SLS",
-        "market_capitalization": 678024991,
+        "market_capitalization": 854813125,
         "commodity_name": null,
         "display_name": "SELLAS Life Sciences Group, Inc.",
         "sma_50": 2.4568000054359436,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.2459,
         "number_of_employees": 13,
         "ml_direction": 1,
-        "ml_value": 3.1287822447087272,
+        "ml_value": 3.1287822447087557,
         "ml_last_change_date": "2024-04-01",
         "ml_last_change_price": 1.3799999952316284,
         "ml_change_percent_from_last_change": 244.9275540093669

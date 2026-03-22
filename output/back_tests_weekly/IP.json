@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IP",
         "name": "International Paper Company",
-        "collected_at": "2026-03-21T02:02:35.623Z",
+        "collected_at": "2026-03-22T02:02:31.562Z",
         "data_start_date": "2016-03-21",
         "price": 33.7599983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Pulp & Paper",
         "tradingview_id": "NYSE:IP",
-        "market_capitalization": 17874887665.868233,
+        "market_capitalization": 17874886777,
         "commodity_name": null,
         "display_name": "International Paper Company",
         "sma_50": 44.524199600219724,

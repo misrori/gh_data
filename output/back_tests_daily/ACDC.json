@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACDC",
         "name": "ProFrac Holding Corp.",
-        "collected_at": "2026-03-21T02:08:28.546Z",
+        "collected_at": "2026-03-22T02:08:18.512Z",
         "data_start_date": "2022-05-13",
         "price": 6.420000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NASDAQ:ACDC",
-        "market_capitalization": 1161511218.4200914,
+        "market_capitalization": 1161511202,
         "commodity_name": null,
         "display_name": "ProFrac Holding Corp.",
         "sma_50": 5.349800004959106,

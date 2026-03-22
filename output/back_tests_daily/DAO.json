@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DAO",
         "name": "Youdao, Inc.",
-        "collected_at": "2026-03-21T02:08:19.775Z",
+        "collected_at": "2026-03-22T02:08:10.399Z",
         "data_start_date": "2019-10-25",
         "price": 10.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:DAO",
-        "market_capitalization": 1233954613,
+        "market_capitalization": 1225584802,
         "commodity_name": null,
         "display_name": "Youdao, Inc.",
         "sma_50": 10.447800006866455,

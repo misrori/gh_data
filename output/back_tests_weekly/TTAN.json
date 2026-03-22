@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTAN",
         "name": "ServiceTitan, Inc.",
-        "collected_at": "2026-03-21T02:04:22.507Z",
+        "collected_at": "2026-03-22T02:04:17.258Z",
         "data_start_date": "2024-12-09",
         "price": 67.73999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:TTAN",
-        "market_capitalization": 6324420520.098671,
+        "market_capitalization": 6324420124.000001,
         "commodity_name": null,
         "display_name": "ServiceTitan, Inc.",
         "sma_50": 99.89979949951172,

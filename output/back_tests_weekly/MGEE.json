@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MGEE",
         "name": "MGE Energy Inc.",
-        "collected_at": "2026-03-21T02:06:27.678Z",
+        "collected_at": "2026-03-22T02:06:19.311Z",
         "data_start_date": "2016-03-21",
         "price": 74.12999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:MGEE",
-        "market_capitalization": 2710481995.629366,
+        "market_capitalization": 2710481806,
         "commodity_name": null,
         "display_name": "MGE Energy Inc.",
         "sma_50": 83.7965998840332,

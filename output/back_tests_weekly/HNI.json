@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HNI",
         "name": "HNI Corporation",
-        "collected_at": "2026-03-21T02:06:40.620Z",
+        "collected_at": "2026-03-22T02:06:31.900Z",
         "data_start_date": "2016-03-21",
         "price": 33.9900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Office Equipment/Supplies",
         "tradingview_id": "NYSE:HNI",
-        "market_capitalization": 2422501298.864387,
+        "market_capitalization": 2422501536.0000005,
         "commodity_name": null,
         "display_name": "HNI Corporation",
         "sma_50": 44.94759979248047,

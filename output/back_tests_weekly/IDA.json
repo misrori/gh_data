@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IDA",
         "name": "IDACORP, Inc.",
-        "collected_at": "2026-03-21T02:04:01.105Z",
+        "collected_at": "2026-03-22T02:03:56.871Z",
         "data_start_date": "2016-03-21",
         "price": 135.47999572753906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:IDA",
-        "market_capitalization": 7437721809.838951,
+        "market_capitalization": 7437721217.999999,
         "commodity_name": null,
         "display_name": "IDACORP, Inc.",
         "sma_50": 127.00299957275391,

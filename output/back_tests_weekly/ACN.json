@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACN",
         "name": "Accenture plc",
-        "collected_at": "2026-03-21T02:00:38.775Z",
+        "collected_at": "2026-03-22T02:00:38.300Z",
         "data_start_date": "2016-03-21",
         "price": 199.99000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:ACN",
-        "market_capitalization": 123055201315.97032,
+        "market_capitalization": 122781717984,
         "commodity_name": null,
         "display_name": "Accenture plc",
         "sma_50": 261.9281997680664,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ECVT",
         "name": "Ecovyst Inc.",
-        "collected_at": "2026-03-21T02:08:14.723Z",
+        "collected_at": "2026-03-22T02:08:04.426Z",
         "data_start_date": "2017-09-29",
         "price": 11.649999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:ECVT",
-        "market_capitalization": 1288328152.1768708,
+        "market_capitalization": 1288328085,
         "commodity_name": null,
         "display_name": "Ecovyst Inc.",
         "sma_50": 11.218799934387206,

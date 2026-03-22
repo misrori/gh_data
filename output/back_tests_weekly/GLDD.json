@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLDD",
         "name": "Great Lakes Dredge & Dock Corporation",
-        "collected_at": "2026-03-21T02:08:31.026Z",
+        "collected_at": "2026-03-22T02:08:20.646Z",
         "data_start_date": "2016-03-21",
         "price": 16.940000534057617,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:GLDD",
-        "market_capitalization": 1131266800.9710915,
+        "market_capitalization": 1131266785,
         "commodity_name": null,
         "display_name": "Great Lakes Dredge & Dock Corporation",
         "sma_50": 12.688800010681152,

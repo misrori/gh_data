@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VIRT",
         "name": "Virtu Financial, Inc.",
-        "collected_at": "2026-03-21T02:04:19.275Z",
+        "collected_at": "2026-03-22T02:04:14.130Z",
         "data_start_date": "2016-03-21",
         "price": 41.630001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:VIRT",
-        "market_capitalization": 6438686382.939364,
+        "market_capitalization": 6438686251,
         "commodity_name": null,
         "display_name": "Virtu Financial, Inc.",
         "sma_50": 38.740399551391604,

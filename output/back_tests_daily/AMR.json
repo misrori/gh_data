@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMR",
         "name": "Alpha Metallurgical Resources, Inc.",
-        "collected_at": "2026-03-21T02:06:37.773Z",
+        "collected_at": "2026-03-22T02:06:29.055Z",
         "data_start_date": "2021-02-08",
         "price": 193.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Coal",
         "tradingview_id": "NYSE:AMR",
-        "market_capitalization": 2477815048.39996,
+        "market_capitalization": 2477815103,
         "commodity_name": null,
         "display_name": "Alpha Metallurgical Resources, Inc.",
         "sma_50": 199.82080017089845,

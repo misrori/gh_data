@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SFM",
         "name": "Sprouts Farmers Market, Inc.",
-        "collected_at": "2026-03-21T02:03:54.008Z",
+        "collected_at": "2026-03-22T02:03:50.016Z",
         "data_start_date": "2016-03-21",
         "price": 81.80000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NASDAQ:SFM",
-        "market_capitalization": 7736348650.899195,
+        "market_capitalization": 7736349246,
         "commodity_name": null,
         "display_name": "Sprouts Farmers Market, Inc.",
         "sma_50": 117.0777995300293,

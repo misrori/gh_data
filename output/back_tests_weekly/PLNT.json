@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLNT",
         "name": "Planet Fitness, Inc.",
-        "collected_at": "2026-03-21T02:04:29.228Z",
+        "collected_at": "2026-03-22T02:04:23.761Z",
         "data_start_date": "2016-03-21",
         "price": 74.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:PLNT",
-        "market_capitalization": 5948242261.660178,
+        "market_capitalization": 5948241897,
         "commodity_name": null,
         "display_name": "Planet Fitness, Inc.",
         "sma_50": 100.17560043334962,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTBK",
         "name": "Heritage Commerce Corp",
-        "collected_at": "2026-03-21T02:09:26.081Z",
+        "collected_at": "2026-03-22T02:09:18.060Z",
         "data_start_date": "2016-03-21",
         "price": 12.050000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:HTBK",
-        "market_capitalization": 742199079.0857142,
+        "market_capitalization": 742199090.9999999,
         "commodity_name": null,
         "display_name": "Heritage Commerce Corp",
         "sma_50": 10.746399993896484,

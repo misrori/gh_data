@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMAL",
         "name": "Amalgamated Financial Corp.",
-        "collected_at": "2026-03-21T02:08:34.476Z",
+        "collected_at": "2026-03-22T02:08:23.890Z",
         "data_start_date": "2018-08-06",
         "price": 37.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:AMAL",
-        "market_capitalization": 1116512717.206568,
+        "market_capitalization": 1116512776,
         "commodity_name": null,
         "display_name": "Amalgamated Financial Corp.",
         "sma_50": 31.605800018310546,

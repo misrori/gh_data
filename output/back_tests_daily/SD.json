@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SD",
         "name": "SandRidge Energy, Inc.",
-        "collected_at": "2026-03-21T02:09:49.141Z",
+        "collected_at": "2026-03-22T02:09:41.151Z",
         "data_start_date": "2016-10-04",
         "price": 16.809999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:SD",
-        "market_capitalization": 619031003.1572438,
+        "market_capitalization": 619031001,
         "commodity_name": null,
         "display_name": "SandRidge Energy, Inc.",
         "sma_50": 16.36000003814697,

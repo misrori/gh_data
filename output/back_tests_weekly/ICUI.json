@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ICUI",
         "name": "ICU Medical, Inc.",
-        "collected_at": "2026-03-21T02:06:07.296Z",
+        "collected_at": "2026-03-22T02:05:59.009Z",
         "data_start_date": "2016-03-21",
         "price": 125.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:ICUI",
-        "market_capitalization": 3095172831.183764,
+        "market_capitalization": 3095172913,
         "commodity_name": null,
         "display_name": "ICU Medical, Inc.",
         "sma_50": 134.96899993896486,

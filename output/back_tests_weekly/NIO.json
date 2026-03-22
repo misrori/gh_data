@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NIO",
         "name": "NIO Inc.",
-        "collected_at": "2026-03-21T02:03:04.239Z",
+        "collected_at": "2026-03-22T02:03:01.292Z",
         "data_start_date": "2018-09-10",
         "price": 5.429999828338623,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NYSE:NIO",
-        "market_capitalization": 12610550309.40972,
+        "market_capitalization": 12444692697.553682,
         "commodity_name": null,
         "display_name": "NIO Inc.",
         "sma_50": 5.130599989891052,

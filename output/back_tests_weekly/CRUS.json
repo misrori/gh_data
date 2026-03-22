@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRUS",
         "name": "Cirrus Logic, Inc.",
-        "collected_at": "2026-03-21T02:04:09.827Z",
+        "collected_at": "2026-03-22T02:04:05.541Z",
         "data_start_date": "2016-03-21",
         "price": 136.07000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:CRUS",
-        "market_capitalization": 6940575708.953268,
+        "market_capitalization": 6940575804,
         "commodity_name": null,
         "display_name": "Cirrus Logic, Inc.",
         "sma_50": 117.3436003112793,

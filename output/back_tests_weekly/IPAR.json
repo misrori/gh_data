@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IPAR",
         "name": "Interparfums, Inc.",
-        "collected_at": "2026-03-21T02:06:16.229Z",
+        "collected_at": "2026-03-22T02:06:08.208Z",
         "data_start_date": "2016-03-21",
         "price": 89.95999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NASDAQ:IPAR",
-        "market_capitalization": 2885177697.614965,
+        "market_capitalization": 2885177747,
         "commodity_name": null,
         "display_name": "Interparfums, Inc.",
         "sma_50": 105.60119995117188,

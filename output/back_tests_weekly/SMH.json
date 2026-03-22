@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMH",
         "name": "VanEck Semiconductor ETF",
-        "collected_at": "2026-03-21T02:10:44.582Z",
+        "collected_at": "2026-03-22T02:10:34.608Z",
         "data_start_date": "2016-03-21",
         "price": 384.739990234375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:SMH",
-        "market_capitalization": 47364106632.1704,
+        "market_capitalization": 47479800568.6934,
         "commodity_name": null,
         "display_name": "VanEck Semiconductor ETF",
         "sma_50": 322.51599853515626,

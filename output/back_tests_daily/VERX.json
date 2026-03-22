@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VERX",
         "name": "Vertex, Inc.",
-        "collected_at": "2026-03-21T02:07:01.897Z",
+        "collected_at": "2026-03-22T02:06:52.996Z",
         "data_start_date": "2020-07-29",
         "price": 12.859999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:VERX",
-        "market_capitalization": 2057050119.0816638,
+        "market_capitalization": 2057050137,
         "commodity_name": null,
         "display_name": "Vertex, Inc.",
         "sma_50": 15.618799953460693,

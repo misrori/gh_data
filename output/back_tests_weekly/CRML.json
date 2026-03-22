@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRML",
         "name": "Critical Metals Corp.",
-        "collected_at": "2026-03-21T02:08:54.503Z",
+        "collected_at": "2026-03-22T02:08:44.521Z",
         "data_start_date": "2022-02-07",
         "price": 7.71999979019165,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Precious Metals",
         "tradingview_id": "NASDAQ:CRML",
-        "market_capitalization": 942417487.2104638,
+        "market_capitalization": 942417478,
         "commodity_name": null,
         "display_name": "Critical Metals Corp.",
         "sma_50": 7.553699998855591,

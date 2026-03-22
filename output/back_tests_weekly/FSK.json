@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FSK",
         "name": "FS KKR Capital Corp.",
-        "collected_at": "2026-03-21T02:06:22.093Z",
+        "collected_at": "2026-03-22T02:06:14.004Z",
         "data_start_date": "2016-03-21",
         "price": 9.970000267028809,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NYSE:FSK",
-        "market_capitalization": 2792262332.810039,
+        "market_capitalization": 2792262449,
         "commodity_name": null,
         "display_name": "FS KKR Capital Corp.",
         "sma_50": 16.66679992675781,

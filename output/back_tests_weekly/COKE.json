@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COKE",
         "name": "Coca-Cola Consolidated, Inc.",
-        "collected_at": "2026-03-21T02:02:57.687Z",
+        "collected_at": "2026-03-22T02:02:53.102Z",
         "data_start_date": "2016-03-21",
         "price": 201.4499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Non-Alcoholic",
         "tradingview_id": "NASDAQ:COKE",
-        "market_capitalization": 13409377324.58347,
+        "market_capitalization": 13409377588,
         "commodity_name": null,
         "display_name": "Coca-Cola Consolidated, Inc.",
         "sma_50": 140.03370010375977,

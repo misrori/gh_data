@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FTK",
         "name": "Flotek Industries, Inc.",
-        "collected_at": "2026-03-21T02:09:59.332Z",
+        "collected_at": "2026-03-22T02:09:51.354Z",
         "data_start_date": "2016-03-21",
         "price": 16.059999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:FTK",
-        "market_capitalization": 580930222.3029599,
+        "market_capitalization": 580930218,
         "commodity_name": null,
         "display_name": "Flotek Industries, Inc.",
         "sma_50": 14.534399967193604,

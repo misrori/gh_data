@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KE",
         "name": "Kimball Electronics, Inc.",
-        "collected_at": "2026-03-21T02:10:02.344Z",
+        "collected_at": "2026-03-22T02:09:54.153Z",
         "data_start_date": "2016-03-21",
         "price": 23.440000534057617,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:KE",
-        "market_capitalization": 567579317.2047796,
+        "market_capitalization": 567579319.0000001,
         "commodity_name": null,
         "display_name": "Kimball Electronics, Inc.",
         "sma_50": 24.471500053405762,

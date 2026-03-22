@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMWD",
         "name": "American Woodmark Corporation",
-        "collected_at": "2026-03-21T02:10:09.073Z",
+        "collected_at": "2026-03-22T02:10:00.614Z",
         "data_start_date": "2016-03-21",
         "price": 37.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NASDAQ:AMWD",
-        "market_capitalization": 542717374.7016544,
+        "market_capitalization": 542717391,
         "commodity_name": null,
         "display_name": "American Woodmark Corporation",
         "sma_50": 57.436400146484374,

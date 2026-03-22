@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WWW",
         "name": "Wolverine World Wide, Inc.",
-        "collected_at": "2026-03-21T02:08:13.946Z",
+        "collected_at": "2026-03-22T02:08:03.621Z",
         "data_start_date": "2016-03-21",
         "price": 15.890000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:WWW",
-        "market_capitalization": 1292099995.6581821,
+        "market_capitalization": 1292100023,
         "commodity_name": null,
         "display_name": "Wolverine World Wide, Inc.",
         "sma_50": 20.137200012207032,

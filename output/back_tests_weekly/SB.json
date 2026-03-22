@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SB",
         "name": "Safe Bulkers, Inc",
-        "collected_at": "2026-03-21T02:09:49.618Z",
+        "collected_at": "2026-03-22T02:09:41.719Z",
         "data_start_date": "2016-03-21",
         "price": 6.050000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:SB",
-        "market_capitalization": 618580948.4792993,
+        "market_capitalization": 618580948,
         "commodity_name": null,
         "display_name": "Safe Bulkers, Inc",
         "sma_50": 4.629000000953674,

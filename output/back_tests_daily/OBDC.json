@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OBDC",
         "name": "Blue Owl Capital Corporation",
-        "collected_at": "2026-03-21T02:04:38.378Z",
+        "collected_at": "2026-03-22T02:04:32.591Z",
         "data_start_date": "2019-07-18",
         "price": 11.149999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:OBDC",
-        "market_capitalization": 5568850418.277973,
+        "market_capitalization": 5568850432,
         "commodity_name": null,
         "display_name": "Blue Owl Capital Corporation",
         "sma_50": 11.738599948883056,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EMN",
         "name": "Eastman Chemical Company",
-        "collected_at": "2026-03-21T02:03:59.811Z",
+        "collected_at": "2026-03-22T02:03:55.772Z",
         "data_start_date": "2016-03-21",
         "price": 65.33000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:EMN",
-        "market_capitalization": 7453977685.48182,
+        "market_capitalization": 7453977662.000001,
         "commodity_name": null,
         "display_name": "Eastman Chemical Company",
         "sma_50": 69.70920028686524,

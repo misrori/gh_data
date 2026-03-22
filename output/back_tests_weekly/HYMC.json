@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HYMC",
         "name": "Hycroft Mining Holding Corporation",
-        "collected_at": "2026-03-21T02:06:26.783Z",
+        "collected_at": "2026-03-22T02:06:18.464Z",
         "data_start_date": "2018-03-12",
         "price": 30,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Precious Metals",
         "tradingview_id": "NASDAQ:HYMC",
-        "market_capitalization": 2731081257.241813,
+        "market_capitalization": 2731081238,
         "commodity_name": null,
         "display_name": "Hycroft Mining Holding Corporation",
         "sma_50": 14.157499990463258,

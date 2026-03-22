@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OVV",
         "name": "Ovintiv Inc. (DE)",
-        "collected_at": "2026-03-21T02:02:44.135Z",
+        "collected_at": "2026-03-22T02:02:39.561Z",
         "data_start_date": "2016-03-21",
         "price": 56.970001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:OVV",
-        "market_capitalization": 16141622151.225346,
+        "market_capitalization": 16141622626,
         "commodity_name": null,
         "display_name": "Ovintiv Inc. (DE)",
         "sma_50": 41.303600006103515,

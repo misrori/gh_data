@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UMAC",
         "name": "Unusual Machines, Inc.",
-        "collected_at": "2026-03-21T02:10:00.282Z",
+        "collected_at": "2026-03-22T02:09:52.166Z",
         "data_start_date": "2024-02-12",
         "price": 14.869999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "AMEX:UMAC",
-        "market_capitalization": 578292998.4752687,
+        "market_capitalization": 578292982,
         "commodity_name": null,
         "display_name": "Unusual Machines, Inc.",
         "sma_50": 11.07120005607605,

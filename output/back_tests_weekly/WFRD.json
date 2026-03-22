@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WFRD",
         "name": "Weatherford International plc",
-        "collected_at": "2026-03-21T02:04:25.399Z",
+        "collected_at": "2026-03-22T02:04:20.160Z",
         "data_start_date": "2021-01-04",
         "price": 86.13999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NASDAQ:WFRD",
-        "market_capitalization": 6177753381.84916,
+        "market_capitalization": 6177753187,
         "commodity_name": null,
         "display_name": "Weatherford International plc",
         "sma_50": 68.71610031127929,

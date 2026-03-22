@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RPC",
         "name": "Ridgepost Capital, Inc.",
-        "collected_at": "2026-03-21T02:09:12.321Z",
+        "collected_at": "2026-03-22T02:09:04.155Z",
         "data_start_date": "2021-10-21",
         "price": 7.570000171661377,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:RPC",
-        "market_capitalization": 828957160.0809019,
+        "market_capitalization": 828957183,
         "commodity_name": null,
         "display_name": "Ridgepost Capital, Inc.",
         "sma_50": 9.176799955368041,

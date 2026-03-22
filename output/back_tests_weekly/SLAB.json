@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SLAB",
         "name": "Silicon Laboratories, Inc.",
-        "collected_at": "2026-03-21T02:04:12.551Z",
+        "collected_at": "2026-03-22T02:04:07.918Z",
         "data_start_date": "2016-03-21",
         "price": 206.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:SLAB",
-        "market_capitalization": 6797160275.445865,
+        "market_capitalization": 6797160316.000001,
         "commodity_name": null,
         "display_name": "Silicon Laboratories, Inc.",
         "sma_50": 143.68879989624023,

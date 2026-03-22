@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CEG",
         "name": "Constellation Energy Corporation",
-        "collected_at": "2026-03-21T02:00:45.297Z",
+        "collected_at": "2026-03-22T02:00:44.767Z",
         "data_start_date": "2022-01-17",
         "price": 281.989990234375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:CEG",
-        "market_capitalization": 102077661007.63591,
+        "market_capitalization": 102077657078.99998,
         "commodity_name": null,
         "display_name": "Constellation Energy Corporation",
         "sma_50": 318.0794995117187,

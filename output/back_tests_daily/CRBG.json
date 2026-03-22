@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRBG",
         "name": "Corebridge Financial Inc.",
-        "collected_at": "2026-03-21T02:03:19.420Z",
+        "collected_at": "2026-03-22T02:03:14.649Z",
         "data_start_date": "2022-09-16",
         "price": 23.18000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Life/Health Insurance",
         "tradingview_id": "NYSE:CRBG",
-        "market_capitalization": 11165479757.376713,
+        "market_capitalization": 11165479612,
         "commodity_name": null,
         "display_name": "Corebridge Financial Inc.",
         "sma_50": 28.25100009918213,

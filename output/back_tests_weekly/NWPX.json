@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NWPX",
         "name": "NWPX Infrastructure, Inc.",
-        "collected_at": "2026-03-21T02:09:37.406Z",
+        "collected_at": "2026-03-22T02:09:29.270Z",
         "data_start_date": "2016-03-21",
         "price": 70.73999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Construction Materials",
         "tradingview_id": "NASDAQ:NWPX",
-        "market_capitalization": 677280642.0222204,
+        "market_capitalization": 677280619,
         "commodity_name": null,
         "display_name": "NWPX Infrastructure, Inc.",
         "sma_50": 54.67720001220703,

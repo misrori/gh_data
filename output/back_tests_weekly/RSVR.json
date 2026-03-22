@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RSVR",
         "name": "Reservoir Media, Inc..",
-        "collected_at": "2026-03-21T02:09:50.212Z",
+        "collected_at": "2026-03-22T02:09:42.030Z",
         "data_start_date": "2021-01-04",
         "price": 9.369999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:RSVR",
-        "market_capitalization": 614674078.6892895,
+        "market_capitalization": 614674051,
         "commodity_name": null,
         "display_name": "Reservoir Media, Inc..",
         "sma_50": 7.755799999237061,

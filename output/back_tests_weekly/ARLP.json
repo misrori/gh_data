@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARLP",
         "name": "Alliance Resource Partners, L.P.",
-        "collected_at": "2026-03-21T02:05:44.714Z",
+        "collected_at": "2026-03-22T02:05:35.987Z",
         "data_start_date": "2016-03-21",
         "price": 27.950000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Coal",
         "tradingview_id": "NASDAQ:ARLP",
-        "market_capitalization": 3596013449.185719,
+        "market_capitalization": 3596013508,
         "commodity_name": null,
         "display_name": "Alliance Resource Partners, L.P.",
         "sma_50": 25.24,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRSP",
         "name": "CRISPR Therapeutics AG",
-        "collected_at": "2026-03-21T02:05:14.896Z",
+        "collected_at": "2026-03-22T02:05:07.436Z",
         "data_start_date": "2016-10-17",
         "price": 46.2400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:CRSP",
-        "market_capitalization": 4438360964.368903,
+        "market_capitalization": 4438361052.999999,
         "commodity_name": null,
         "display_name": "CRISPR Therapeutics AG",
         "sma_50": 52.89760009765625,

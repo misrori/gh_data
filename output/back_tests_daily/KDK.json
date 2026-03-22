@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KDK",
         "name": "Kodiak AI, Inc.",
-        "collected_at": "2026-03-21T02:08:05.579Z",
+        "collected_at": "2026-03-22T02:07:56.343Z",
         "data_start_date": "2025-09-25",
         "price": 7.46999979019165,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NASDAQ:KDK",
-        "market_capitalization": 1363688769.0312092,
+        "market_capitalization": 1363688721,
         "commodity_name": null,
         "display_name": "Kodiak AI, Inc.",
         "sma_50": 8.803599910736084,

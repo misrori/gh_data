@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLBE",
         "name": "Global-E Online Ltd.",
-        "collected_at": "2026-03-21T02:04:42.118Z",
+        "collected_at": "2026-03-22T02:04:36.240Z",
         "data_start_date": "2021-05-10",
         "price": 32.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:GLBE",
-        "market_capitalization": 5479538454.504855,
+        "market_capitalization": 5479538210.000001,
         "commodity_name": null,
         "display_name": "Global-E Online Ltd.",
         "sma_50": 35.121500129699704,

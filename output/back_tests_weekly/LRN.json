@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LRN",
         "name": "Stride, Inc.",
-        "collected_at": "2026-03-21T02:05:42.908Z",
+        "collected_at": "2026-03-22T02:05:34.521Z",
         "data_start_date": "2016-03-21",
         "price": 85.05999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:LRN",
-        "market_capitalization": 3621879443.169432,
+        "market_capitalization": 3621879188.0000005,
         "commodity_name": null,
         "display_name": "Stride, Inc.",
         "sma_50": 115.31900024414062,

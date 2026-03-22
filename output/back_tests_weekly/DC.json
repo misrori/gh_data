@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DC",
         "name": "Dakota Gold Corp.",
-        "collected_at": "2026-03-21T02:09:58.579Z",
+        "collected_at": "2026-03-22T02:09:50.562Z",
         "data_start_date": "2022-04-04",
         "price": 4.539999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Precious Metals",
         "tradingview_id": "AMEX:DC",
-        "market_capitalization": 583368940.1347368,
+        "market_capitalization": 583368935.9999999,
         "commodity_name": null,
         "display_name": "Dakota Gold Corp.",
         "sma_50": 4.563199996948242,

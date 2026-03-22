@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GSHD",
         "name": "Goosehead Insurance, Inc.",
-        "collected_at": "2026-03-21T02:07:43.897Z",
+        "collected_at": "2026-03-22T02:07:34.874Z",
         "data_start_date": "2018-04-27",
         "price": 42.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NASDAQ:GSHD",
-        "market_capitalization": 1552079507.9203982,
+        "market_capitalization": 1552079474,
         "commodity_name": null,
         "display_name": "Goosehead Insurance, Inc.",
         "sma_50": 55.863099594116214,

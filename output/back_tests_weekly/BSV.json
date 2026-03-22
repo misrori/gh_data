@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BSV",
         "name": "Vanguard Short-Term Bond ETF",
-        "collected_at": "2026-03-21T02:10:46.577Z",
+        "collected_at": "2026-03-22T02:10:36.741Z",
         "data_start_date": "2016-03-21",
         "price": 78.12999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:BSV",
-        "market_capitalization": 44324430540.35,
+        "market_capitalization": 44440641168.7,
         "commodity_name": null,
         "display_name": "Vanguard Short-Term Bond ETF",
         "sma_50": 78.64219955444337,

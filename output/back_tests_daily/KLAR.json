@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KLAR",
         "name": "Klarna Group plc",
-        "collected_at": "2026-03-21T02:05:03.357Z",
+        "collected_at": "2026-03-22T02:04:56.867Z",
         "data_start_date": "2025-09-11",
         "price": 12.609999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:KLAR",
-        "market_capitalization": 4760374616.17897,
+        "market_capitalization": 4760374540,
         "commodity_name": null,
         "display_name": "Klarna Group plc",
         "sma_50": 19.609400100708008,

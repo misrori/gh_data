@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "collected_at": "2026-03-21T02:00:08.328Z",
+        "collected_at": "2026-03-22T02:00:09.168Z",
         "data_start_date": "2016-03-21",
         "price": 205.3699951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:AMZN",
-        "market_capitalization": 2204630646900.8765,
+        "market_capitalization": 2204630652495.9995,
         "commodity_name": null,
         "display_name": "Amazon.com, Inc.",
         "sma_50": 219.54380065917968,

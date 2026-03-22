@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NMRK",
         "name": "Newmark Group, Inc.",
-        "collected_at": "2026-03-21T02:06:31.925Z",
+        "collected_at": "2026-03-22T02:06:23.463Z",
         "data_start_date": "2017-12-11",
         "price": 14.260000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NASDAQ:NMRK",
-        "market_capitalization": 2630072795.039563,
+        "market_capitalization": 2630072865.0000005,
         "commodity_name": null,
         "display_name": "Newmark Group, Inc.",
         "sma_50": 15.367099952697753,

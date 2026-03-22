@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CMRE",
         "name": "Costamare Inc.",
-        "collected_at": "2026-03-21T02:07:04.584Z",
+        "collected_at": "2026-03-22T02:06:55.568Z",
         "data_start_date": "2016-03-21",
         "price": 16.770000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:CMRE",
-        "market_capitalization": 2022273566.0922441,
+        "market_capitalization": 2022273567,
         "commodity_name": null,
         "display_name": "Costamare Inc.",
         "sma_50": 12.659400033950806,

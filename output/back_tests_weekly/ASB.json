@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ASB",
         "name": "Associated Banc-Corp",
-        "collected_at": "2026-03-21T02:05:24.863Z",
+        "collected_at": "2026-03-22T02:05:16.979Z",
         "data_start_date": "2016-03-21",
         "price": 24.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:ASB",
-        "market_capitalization": 4054771636.1628566,
+        "market_capitalization": 4054771685.9999995,
         "commodity_name": null,
         "display_name": "Associated Banc-Corp",
         "sma_50": 25.297800140380858,

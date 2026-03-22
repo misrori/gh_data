@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LH",
         "name": "Labcorp Holdings Inc.",
-        "collected_at": "2026-03-21T02:02:19.581Z",
+        "collected_at": "2026-03-22T02:02:15.156Z",
         "data_start_date": "2016-03-21",
         "price": 263,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NYSE:LH",
-        "market_capitalization": 21671200100.583134,
+        "market_capitalization": 21671200401,
         "commodity_name": null,
         "display_name": "Labcorp Holdings Inc.",
         "sma_50": 263.32660095214845,

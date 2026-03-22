@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INTA",
         "name": "Intapp, Inc.",
-        "collected_at": "2026-03-21T02:07:01.100Z",
+        "collected_at": "2026-03-22T02:06:52.344Z",
         "data_start_date": "2021-06-30",
         "price": 25.729999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:INTA",
-        "market_capitalization": 2068583734.4488835,
+        "market_capitalization": 2068583642.0000002,
         "commodity_name": null,
         "display_name": "Intapp, Inc.",
         "sma_50": 28.97419990539551,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SGI",
         "name": "Somnigroup International Inc.",
-        "collected_at": "2026-03-21T02:02:48.675Z",
+        "collected_at": "2026-03-22T02:02:44.155Z",
         "data_start_date": "2016-03-21",
         "price": 71.87000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Home Furnishings",
         "tradingview_id": "NYSE:SGI",
-        "market_capitalization": 15117181245.951729,
+        "market_capitalization": 15117181077,
         "commodity_name": null,
         "display_name": "Somnigroup International Inc.",
         "sma_50": 79.95360023498534,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WFC",
         "name": "Wells Fargo & Company",
-        "collected_at": "2026-03-21T02:00:21.394Z",
+        "collected_at": "2026-03-22T02:00:21.468Z",
         "data_start_date": "2016-03-21",
         "price": 77.5999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:WFC",
-        "market_capitalization": 239445331680.2094,
+        "market_capitalization": 239445328884.99997,
         "commodity_name": null,
         "display_name": "Wells Fargo & Company",
         "sma_50": 82.1383999633789,

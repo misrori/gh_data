@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARHS",
         "name": "Arhaus, Inc.",
-        "collected_at": "2026-03-21T02:08:51.790Z",
+        "collected_at": "2026-03-22T02:08:41.518Z",
         "data_start_date": "2021-11-04",
         "price": 6.78000020980835,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Home Furnishings",
         "tradingview_id": "NASDAQ:ARHS",
-        "market_capitalization": 956809334.5726374,
+        "market_capitalization": 956809343,
         "commodity_name": null,
         "display_name": "Arhaus, Inc.",
         "sma_50": 9.177199983596802,

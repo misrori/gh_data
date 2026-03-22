@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNH",
         "name": "CNH Industrial N.V.",
-        "collected_at": "2026-03-21T02:03:07.124Z",
+        "collected_at": "2026-03-22T02:03:02.323Z",
         "data_start_date": "2016-03-21",
         "price": 9.9399995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:CNH",
-        "market_capitalization": 12335009659.583334,
+        "market_capitalization": 12335009233,
         "commodity_name": null,
         "display_name": "CNH Industrial N.V.",
         "sma_50": 11.415799942016601,

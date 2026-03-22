@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HUBS",
         "name": "HubSpot, Inc.",
-        "collected_at": "2026-03-21T02:02:56.315Z",
+        "collected_at": "2026-03-22T02:02:51.269Z",
         "data_start_date": "2016-03-21",
         "price": 258.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:HUBS",
-        "market_capitalization": 13649778435.391926,
+        "market_capitalization": 13649777925,
         "commodity_name": null,
         "display_name": "HubSpot, Inc.",
         "sma_50": 442.5762014770508,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROST",
         "name": "Ross Stores, Inc.",
-        "collected_at": "2026-03-21T02:01:05.207Z",
+        "collected_at": "2026-03-22T02:01:05.290Z",
         "data_start_date": "2016-03-21",
         "price": 211.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NASDAQ:ROST",
-        "market_capitalization": 68308339394.513916,
+        "market_capitalization": 68308338996.00001,
         "commodity_name": null,
         "display_name": "Ross Stores, Inc.",
         "sma_50": 162.42200027465822,

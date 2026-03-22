@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMP",
         "name": "Standard Motor Products, Inc.",
-        "collected_at": "2026-03-21T02:09:19.651Z",
+        "collected_at": "2026-03-22T02:09:11.634Z",
         "data_start_date": "2016-03-21",
         "price": 34.70000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Automotive Aftermarket",
         "tradingview_id": "NYSE:SMP",
-        "market_capitalization": 768464038.7027491,
+        "market_capitalization": 768464096,
         "commodity_name": null,
         "display_name": "Standard Motor Products, Inc.",
         "sma_50": 35.96199996948242,

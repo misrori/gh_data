@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YUM",
         "name": "Yum! Brands, Inc.",
-        "collected_at": "2026-03-21T02:01:27.601Z",
+        "collected_at": "2026-03-22T02:01:28.192Z",
         "data_start_date": "2016-03-21",
         "price": 156.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NYSE:YUM",
-        "market_capitalization": 43236434247.35929,
+        "market_capitalization": 43236435260,
         "commodity_name": null,
         "display_name": "Yum! Brands, Inc.",
         "sma_50": 150.15200073242187,

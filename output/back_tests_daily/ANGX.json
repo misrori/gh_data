@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANGX",
         "name": "Angel Studios, Inc.",
-        "collected_at": "2026-03-21T02:10:10.757Z",
+        "collected_at": "2026-03-22T02:10:02.425Z",
         "data_start_date": "2025-09-11",
         "price": 3.1600000858306885,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NYSE:ANGX",
-        "market_capitalization": 535646116.77631587,
+        "market_capitalization": 535646138.99999994,
         "commodity_name": null,
         "display_name": "Angel Studios, Inc.",
         "sma_50": 3.8457999897003172,

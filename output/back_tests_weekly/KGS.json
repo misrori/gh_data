@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KGS",
         "name": "Kodiak Gas Services, Inc.",
-        "collected_at": "2026-03-21T02:05:02.434Z",
+        "collected_at": "2026-03-22T02:04:55.872Z",
         "data_start_date": "2023-06-26",
         "price": 55.900001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:KGS",
-        "market_capitalization": 4800099149.823766,
+        "market_capitalization": 4800099166,
         "commodity_name": null,
         "display_name": "Kodiak Gas Services, Inc.",
         "sma_50": 38.078400115966794,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DDOG",
         "name": "Datadog, Inc.",
-        "collected_at": "2026-03-21T02:01:26.353Z",
+        "collected_at": "2026-03-22T02:01:27.225Z",
         "data_start_date": "2019-09-19",
         "price": 125.08000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:DDOG",
-        "market_capitalization": 44126323728.308754,
+        "market_capitalization": 44126323545,
         "commodity_name": null,
         "display_name": "Datadog, Inc.",
         "sma_50": 122.66210006713867,

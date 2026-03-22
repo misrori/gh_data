@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CC",
         "name": "Chemours Company (The)",
-        "collected_at": "2026-03-21T02:06:30.184Z",
+        "collected_at": "2026-03-22T02:06:21.728Z",
         "data_start_date": "2016-03-21",
         "price": 17.700000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:CC",
-        "market_capitalization": 2656510095.031678,
+        "market_capitalization": 2656510135,
         "commodity_name": null,
         "display_name": "Chemours Company (The)",
         "sma_50": 13.906000003814697,

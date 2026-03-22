@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADM",
         "name": "Archer-Daniels-Midland Company",
-        "collected_at": "2026-03-21T02:01:44.510Z",
+        "collected_at": "2026-03-22T02:01:46.593Z",
         "data_start_date": "2016-03-21",
         "price": 66.16999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Agricultural Commodities/Milling",
         "tradingview_id": "NYSE:ADM",
-        "market_capitalization": 31841125685.704544,
+        "market_capitalization": 31841125088,
         "commodity_name": null,
         "display_name": "Archer-Daniels-Midland Company",
         "sma_50": 59.04519989013672,

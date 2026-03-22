@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTS",
         "name": "CTS Corporation",
-        "collected_at": "2026-03-21T02:08:11.114Z",
+        "collected_at": "2026-03-22T02:08:01.084Z",
         "data_start_date": "2016-03-21",
         "price": 46.16999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NYSE:CTS",
-        "market_capitalization": 1324881005.0415254,
+        "market_capitalization": 1324880930.9999998,
         "commodity_name": null,
         "display_name": "CTS Corporation",
         "sma_50": 43.54039978027344,

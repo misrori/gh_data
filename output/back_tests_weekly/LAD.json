@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LAD",
         "name": "Lithia Motors, Inc.",
-        "collected_at": "2026-03-21T02:04:36.316Z",
+        "collected_at": "2026-03-22T02:04:30.582Z",
         "data_start_date": "2016-03-21",
         "price": 243,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:LAD",
-        "market_capitalization": 5680103160.239217,
+        "market_capitalization": 5680103216,
         "commodity_name": null,
         "display_name": "Lithia Motors, Inc.",
         "sma_50": 313.09520050048826,

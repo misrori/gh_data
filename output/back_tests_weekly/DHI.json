@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DHI",
         "name": "D.R. Horton, Inc.",
-        "collected_at": "2026-03-21T02:01:34.513Z",
+        "collected_at": "2026-03-22T02:01:36.356Z",
         "data_start_date": "2016-03-21",
         "price": 133.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:DHI",
-        "market_capitalization": 38565315368.2609,
+        "market_capitalization": 38565315148,
         "commodity_name": null,
         "display_name": "D.R. Horton, Inc.",
         "sma_50": 147.15019927978517,

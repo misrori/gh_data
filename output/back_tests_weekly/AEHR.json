@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AEHR",
         "name": "Aehr Test Systems",
-        "collected_at": "2026-03-21T02:08:41.148Z",
+        "collected_at": "2026-03-22T02:08:30.513Z",
         "data_start_date": "2016-03-21",
         "price": 34.52000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:AEHR",
-        "market_capitalization": 1057255806.6027545,
+        "market_capitalization": 1057255867.9999999,
         "commodity_name": null,
         "display_name": "Aehr Test Systems",
         "sma_50": 21.82879991531372,

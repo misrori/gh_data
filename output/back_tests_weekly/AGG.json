@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AGG",
         "name": "iShares Core U.S. Aggregate Bond ETF",
-        "collected_at": "2026-03-21T02:10:34.320Z",
+        "collected_at": "2026-03-22T02:10:25.328Z",
         "data_start_date": "2016-03-21",
         "price": 98.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:AGG",
-        "market_capitalization": 139272673540,
+        "market_capitalization": 139385065820,
         "commodity_name": null,
         "display_name": "iShares Core U.S. Aggregate Bond ETF",
         "sma_50": 99.44400024414062,

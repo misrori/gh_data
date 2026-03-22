@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADPT",
         "name": "Adaptive Biotechnologies Corporation",
-        "collected_at": "2026-03-21T02:07:00.200Z",
+        "collected_at": "2026-03-22T02:06:51.478Z",
         "data_start_date": "2019-06-24",
         "price": 13.579999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:ADPT",
-        "market_capitalization": 2091069685.3925924,
+        "market_capitalization": 2091069673,
         "commodity_name": null,
         "display_name": "Adaptive Biotechnologies Corporation",
         "sma_50": 13.573400049209594,

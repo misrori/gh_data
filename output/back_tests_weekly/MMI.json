@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MMI",
         "name": "Marcus & Millichap, Inc.",
-        "collected_at": "2026-03-21T02:08:49.886Z",
+        "collected_at": "2026-03-22T02:08:39.842Z",
         "data_start_date": "2016-03-21",
         "price": 25.520000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Development",
         "tradingview_id": "NYSE:MMI",
-        "market_capitalization": 975743571.4245614,
+        "market_capitalization": 975743604,
         "commodity_name": null,
         "display_name": "Marcus & Millichap, Inc.",
         "sma_50": 29.126200065612792,

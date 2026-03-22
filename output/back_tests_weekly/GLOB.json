@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLOB",
         "name": "Globant S.A.",
-        "collected_at": "2026-03-21T02:07:12.138Z",
+        "collected_at": "2026-03-22T02:07:03.733Z",
         "data_start_date": "2016-03-21",
         "price": 44.709999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:GLOB",
-        "market_capitalization": 1930557897.895426,
+        "market_capitalization": 1930557819.0000002,
         "commodity_name": null,
         "display_name": "Globant S.A.",
         "sma_50": 72.8181997680664,

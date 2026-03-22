@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WOR",
         "name": "Worthington Enterprises, Inc.",
-        "collected_at": "2026-03-21T02:06:44.152Z",
+        "collected_at": "2026-03-22T02:06:35.785Z",
         "data_start_date": "2016-03-21",
         "price": 47.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:WOR",
-        "market_capitalization": 2360399213.9512396,
+        "market_capitalization": 2360399101,
         "commodity_name": null,
         "display_name": "Worthington Enterprises, Inc.",
         "sma_50": 57.138600006103516,

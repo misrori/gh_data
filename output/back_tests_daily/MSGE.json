@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSGE",
         "name": "Madison Square Garden Entertainment Corp.",
-        "collected_at": "2026-03-21T02:06:30.283Z",
+        "collected_at": "2026-03-22T02:06:21.981Z",
         "data_start_date": "2023-04-17",
         "price": 56.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NYSE:MSGE",
-        "market_capitalization": 2654871125.571279,
+        "market_capitalization": 2654871069,
         "commodity_name": null,
         "display_name": "Madison Square Garden Entertainment Corp.",
         "sma_50": 59.84699981689453,

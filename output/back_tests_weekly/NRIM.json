@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NRIM",
         "name": "Northrim BanCorp Inc",
-        "collected_at": "2026-03-21T02:10:20.987Z",
+        "collected_at": "2026-03-22T02:10:12.510Z",
         "data_start_date": "2016-03-21",
         "price": 22.229999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:NRIM",
-        "market_capitalization": 491904811.44111156,
+        "market_capitalization": 491904800,
         "commodity_name": null,
         "display_name": "Northrim BanCorp Inc",
         "sma_50": 23.193699989318848,

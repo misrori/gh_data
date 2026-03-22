@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TWLO",
         "name": "Twilio Inc.",
-        "collected_at": "2026-03-21T02:02:31.062Z",
+        "collected_at": "2026-03-22T02:02:26.446Z",
         "data_start_date": "2016-06-20",
         "price": 124.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:TWLO",
-        "market_capitalization": 18804403254.351242,
+        "market_capitalization": 18804403572,
         "commodity_name": null,
         "display_name": "Twilio Inc.",
         "sma_50": 117.41780014038086,

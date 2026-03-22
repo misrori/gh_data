@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NTAP",
         "name": "NetApp, Inc.",
-        "collected_at": "2026-03-21T02:02:25.735Z",
+        "collected_at": "2026-03-22T02:02:21.494Z",
         "data_start_date": "2016-03-21",
         "price": 101.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Peripherals",
         "tradingview_id": "NASDAQ:NTAP",
-        "market_capitalization": 19952077432.51702,
+        "market_capitalization": 19952078262,
         "commodity_name": null,
         "display_name": "NetApp, Inc.",
         "sma_50": 106.48320007324219,

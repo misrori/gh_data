@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTRG",
         "name": "Essential Utilities, Inc.",
-        "collected_at": "2026-03-21T02:03:18.470Z",
+        "collected_at": "2026-03-22T02:03:13.788Z",
         "data_start_date": "2016-03-21",
         "price": 39.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NYSE:WTRG",
-        "market_capitalization": 11304894009.54411,
+        "market_capitalization": 11304893755,
         "commodity_name": null,
         "display_name": "Essential Utilities, Inc.",
         "sma_50": 39.0205997467041,

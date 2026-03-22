@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PENG",
         "name": "Penguin Solutions, Inc.",
-        "collected_at": "2026-03-21T02:08:58.698Z",
+        "collected_at": "2026-03-22T02:08:49.251Z",
         "data_start_date": "2017-05-24",
         "price": 17.520000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:PENG",
-        "market_capitalization": 920853968.2988114,
+        "market_capitalization": 920853988,
         "commodity_name": null,
         "display_name": "Penguin Solutions, Inc.",
         "sma_50": 19.096000061035156,

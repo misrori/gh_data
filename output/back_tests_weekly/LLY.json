@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LLY",
         "name": "Eli Lilly and Company",
-        "collected_at": "2026-03-21T02:00:09.843Z",
+        "collected_at": "2026-03-22T02:00:10.817Z",
         "data_start_date": "2016-03-21",
         "price": 906.7000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:LLY",
-        "market_capitalization": 856667249170.3079,
+        "market_capitalization": 856667260703,
         "commodity_name": null,
         "display_name": "Eli Lilly and Company",
         "sma_50": 878.7630041503907,

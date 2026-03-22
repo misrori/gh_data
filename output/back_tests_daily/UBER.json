@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UBER",
         "name": "Uber Technologies, Inc.",
-        "collected_at": "2026-03-21T02:00:32.556Z",
+        "collected_at": "2026-03-22T02:00:31.575Z",
         "data_start_date": "2019-05-10",
         "price": 73.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Other Transportation",
         "tradingview_id": "NYSE:UBER",
-        "market_capitalization": 152074181394.21143,
+        "market_capitalization": 152074187530,
         "commodity_name": null,
         "display_name": "Uber Technologies, Inc.",
         "sma_50": 76.87559997558594,

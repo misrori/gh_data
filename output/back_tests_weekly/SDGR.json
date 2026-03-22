@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SDGR",
         "name": "Schrodinger, Inc.",
-        "collected_at": "2026-03-21T02:09:03.682Z",
+        "collected_at": "2026-03-22T02:08:54.169Z",
         "data_start_date": "2020-02-03",
         "price": 12.020000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:SDGR",
-        "market_capitalization": 887377650.7672131,
+        "market_capitalization": 887377698.9999999,
         "commodity_name": null,
         "display_name": "Schrodinger, Inc.",
         "sma_50": 18.80580003738403,

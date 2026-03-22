@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EVRG",
         "name": "Evergy, Inc.",
-        "collected_at": "2026-03-21T02:02:34.161Z",
+        "collected_at": "2026-03-22T02:02:29.808Z",
         "data_start_date": "2016-03-21",
         "price": 78.69999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:EVRG",
-        "market_capitalization": 18123161449.120403,
+        "market_capitalization": 18123161292,
         "commodity_name": null,
         "display_name": "Evergy, Inc.",
         "sma_50": 73.47980026245118,

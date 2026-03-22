@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATRC",
         "name": "AtriCure, Inc.",
-        "collected_at": "2026-03-21T02:07:57.093Z",
+        "collected_at": "2026-03-22T02:07:48.259Z",
         "data_start_date": "2016-03-21",
         "price": 29.174999237060547,
         "change": -0.017138684245823377,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:ATRC",
-        "market_capitalization": 1453203930.9894936,
+        "market_capitalization": 1453203858,
         "commodity_name": null,
         "display_name": "AtriCure, Inc.",
         "sma_50": 34.608100204467775,

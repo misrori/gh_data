@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMC",
         "name": "Summit Midstream Corporation",
-        "collected_at": "2026-03-21T02:09:55.481Z",
+        "collected_at": "2026-03-22T02:09:47.130Z",
         "data_start_date": "2016-03-21",
         "price": 31.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:SMC",
-        "market_capitalization": 594353272.4073956,
+        "market_capitalization": 594353260,
         "commodity_name": null,
         "display_name": "Summit Midstream Corporation",
         "sma_50": 25.81160026550293,

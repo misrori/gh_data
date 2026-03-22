@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMCI",
         "name": "Super Micro Computer, Inc.",
-        "collected_at": "2026-03-21T02:03:07.818Z",
+        "collected_at": "2026-03-22T02:03:03.033Z",
         "data_start_date": "2016-03-21",
         "price": 20.530000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Processing Hardware",
         "tradingview_id": "NASDAQ:SMCI",
-        "market_capitalization": 12297253587.52907,
+        "market_capitalization": 12297253632.999998,
         "commodity_name": null,
         "display_name": "Super Micro Computer, Inc.",
         "sma_50": 39.29440006256104,

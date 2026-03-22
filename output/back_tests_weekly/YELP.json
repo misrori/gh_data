@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YELP",
         "name": "Yelp Inc.",
-        "collected_at": "2026-03-21T02:07:55.485Z",
+        "collected_at": "2026-03-22T02:07:46.382Z",
         "data_start_date": "2016-03-21",
         "price": 24.559999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:YELP",
-        "market_capitalization": 1461737843.978697,
+        "market_capitalization": 1461737821,
         "commodity_name": null,
         "display_name": "Yelp Inc.",
         "sma_50": 31.024599990844727,

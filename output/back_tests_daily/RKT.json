@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RKT",
         "name": "Rocket Companies, Inc.",
-        "collected_at": "2026-03-21T02:01:34.639Z",
+        "collected_at": "2026-03-22T02:01:36.453Z",
         "data_start_date": "2020-08-06",
         "price": 13.649999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:RKT",
-        "market_capitalization": 38490478772.32424,
+        "market_capitalization": 38490478699,
         "commodity_name": null,
         "display_name": "Rocket Companies, Inc.",
         "sma_50": 18.412800064086912,

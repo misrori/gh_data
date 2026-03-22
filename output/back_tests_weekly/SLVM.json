@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SLVM",
         "name": "Sylvamo Corporation",
-        "collected_at": "2026-03-21T02:07:55.271Z",
+        "collected_at": "2026-03-22T02:07:46.200Z",
         "data_start_date": "2021-09-20",
         "price": 37.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Pulp & Paper",
         "tradingview_id": "NYSE:SLVM",
-        "market_capitalization": 1466152493.2494195,
+        "market_capitalization": 1466152500,
         "commodity_name": null,
         "display_name": "Sylvamo Corporation",
         "sma_50": 47.92699989318848,

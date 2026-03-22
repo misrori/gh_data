@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPDW",
         "name": "State Street SPDR Portfolio Developed World ex-US ETF",
-        "collected_at": "2026-03-21T02:10:51.935Z",
+        "collected_at": "2026-03-22T02:10:42.013Z",
         "data_start_date": "2016-03-21",
         "price": 44.22999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SPDW",
-        "market_capitalization": 37079297899.2,
+        "market_capitalization": 36255722922.9,
         "commodity_name": null,
         "display_name": "State Street SPDR Portfolio Developed World ex-US ETF",
         "sma_50": 42.87160018920898,

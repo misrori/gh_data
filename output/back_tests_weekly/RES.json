@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RES",
         "name": "RPC, Inc.",
-        "collected_at": "2026-03-21T02:07:49.160Z",
+        "collected_at": "2026-03-22T02:07:39.987Z",
         "data_start_date": "2016-03-21",
         "price": 6.829999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:RES",
-        "market_capitalization": 1513796172.7211678,
+        "market_capitalization": 1513796176.0000002,
         "commodity_name": null,
         "display_name": "RPC, Inc.",
         "sma_50": 5.248800001144409,

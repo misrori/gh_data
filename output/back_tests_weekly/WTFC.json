@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTFC",
         "name": "Wintrust Financial Corporation",
-        "collected_at": "2026-03-21T02:03:39.646Z",
+        "collected_at": "2026-03-22T02:03:35.239Z",
         "data_start_date": "2016-03-21",
         "price": 132.52999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:WTFC",
-        "market_capitalization": 8915357448.97553,
+        "market_capitalization": 8915357285,
         "commodity_name": null,
         "display_name": "Wintrust Financial Corporation",
         "sma_50": 132.23439987182618,

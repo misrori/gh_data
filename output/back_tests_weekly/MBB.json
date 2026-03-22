@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MBB",
         "name": "iShares MBS ETF",
-        "collected_at": "2026-03-21T02:10:50.101Z",
+        "collected_at": "2026-03-22T02:10:39.872Z",
         "data_start_date": "2016-03-21",
         "price": 94.1500015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:MBB",
-        "market_capitalization": 38885776650,
+        "market_capitalization": 38822220000,
         "commodity_name": null,
         "display_name": "iShares MBS ETF",
         "sma_50": 94.44280014038085,

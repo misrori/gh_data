@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HBNC",
         "name": "Horizon Bancorp, Inc.",
-        "collected_at": "2026-03-21T02:09:14.343Z",
+        "collected_at": "2026-03-22T02:09:06.319Z",
         "data_start_date": "2016-03-21",
         "price": 15.8100004196167,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:HBNC",
-        "market_capitalization": 809882187.0734925,
+        "market_capitalization": 809882204,
         "commodity_name": null,
         "display_name": "Horizon Bancorp, Inc.",
         "sma_50": 16.16160011291504,

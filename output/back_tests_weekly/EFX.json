@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EFX",
         "name": "Equifax, Inc.",
-        "collected_at": "2026-03-21T02:02:21.224Z",
+        "collected_at": "2026-03-22T02:02:16.912Z",
         "data_start_date": "2016-03-21",
         "price": 178.02000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Financial Publishing/Services",
         "tradingview_id": "NYSE:EFX",
-        "market_capitalization": 21410464802.676693,
+        "market_capitalization": 21410465316,
         "commodity_name": null,
         "display_name": "Equifax, Inc.",
         "sma_50": 232.11500061035156,

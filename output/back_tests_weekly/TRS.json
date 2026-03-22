@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRS",
         "name": "TriMas Corporation",
-        "collected_at": "2026-03-21T02:08:15.307Z",
+        "collected_at": "2026-03-22T02:08:05.224Z",
         "data_start_date": "2016-03-21",
         "price": 34.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NASDAQ:TRS",
-        "market_capitalization": 1281694633.733216,
+        "market_capitalization": 1281694646,
         "commodity_name": null,
         "display_name": "TriMas Corporation",
         "sma_50": 33.10800003051758,

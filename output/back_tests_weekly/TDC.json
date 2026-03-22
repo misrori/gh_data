@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TDC",
         "name": "Teradata Corporation",
-        "collected_at": "2026-03-21T02:06:38.360Z",
+        "collected_at": "2026-03-22T02:06:29.525Z",
         "data_start_date": "2016-03-21",
         "price": 26.829999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:TDC",
-        "market_capitalization": 2473725960.281273,
+        "market_capitalization": 2473725911,
         "commodity_name": null,
         "display_name": "Teradata Corporation",
         "sma_50": 24.76740005493164,

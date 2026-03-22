@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BFST",
         "name": "Business First Bancshares, Inc.",
-        "collected_at": "2026-03-21T02:09:10.543Z",
+        "collected_at": "2026-03-22T02:09:01.330Z",
         "data_start_date": "2018-04-23",
         "price": 25.809999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:BFST",
-        "market_capitalization": 844256618.2526636,
+        "market_capitalization": 844256577.9999999,
         "commodity_name": null,
         "display_name": "Business First Bancshares, Inc.",
         "sma_50": 25.302599830627443,

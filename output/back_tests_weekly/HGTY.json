@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HGTY",
         "name": "Hagerty, Inc.",
-        "collected_at": "2026-03-21T02:05:44.964Z",
+        "collected_at": "2026-03-22T02:05:36.166Z",
         "data_start_date": "2021-05-31",
         "price": 10.489999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:HGTY",
-        "market_capitalization": 3594069918.165039,
+        "market_capitalization": 3594069920,
         "commodity_name": null,
         "display_name": "Hagerty, Inc.",
         "sma_50": 11.296200008392335,

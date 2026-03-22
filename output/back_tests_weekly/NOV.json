@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NOV",
         "name": "NOV Inc.",
-        "collected_at": "2026-03-21T02:04:13.339Z",
+        "collected_at": "2026-03-22T02:04:08.690Z",
         "data_start_date": "2016-03-21",
         "price": 18.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:NOV",
-        "market_capitalization": 6732356880.955352,
+        "market_capitalization": 6732356936,
         "commodity_name": null,
         "display_name": "NOV Inc.",
         "sma_50": 14.837200012207031,

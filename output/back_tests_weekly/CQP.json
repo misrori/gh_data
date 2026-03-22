@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CQP",
         "name": "Cheniere Energy Partners, LP",
-        "collected_at": "2026-03-21T02:01:43.305Z",
+        "collected_at": "2026-03-22T02:01:45.416Z",
         "data_start_date": "2016-03-21",
         "price": 67.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:CQP",
-        "market_capitalization": 32446150514.760677,
+        "market_capitalization": 32446148292,
         "commodity_name": null,
         "display_name": "Cheniere Energy Partners, LP",
         "sma_50": 56.31699981689453,

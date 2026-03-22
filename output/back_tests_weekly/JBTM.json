@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JBTM",
         "name": "JBT Marel Corporation",
-        "collected_at": "2026-03-21T02:04:15.837Z",
+        "collected_at": "2026-03-22T02:04:10.570Z",
         "data_start_date": "2016-03-21",
         "price": 127,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:JBTM",
-        "market_capitalization": 6601740025.149748,
+        "market_capitalization": 6601739964,
         "commodity_name": null,
         "display_name": "JBT Marel Corporation",
         "sma_50": 136.27060012817384,

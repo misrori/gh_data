@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPAY",
         "name": "Corpay, Inc.",
-        "collected_at": "2026-03-21T02:02:27.015Z",
+        "collected_at": "2026-03-22T02:02:22.849Z",
         "data_start_date": "2016-03-21",
         "price": 287.4599914550781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:CPAY",
-        "market_capitalization": 19561739745.43695,
+        "market_capitalization": 19561738828,
         "commodity_name": null,
         "display_name": "Corpay, Inc.",
         "sma_50": 313.73419921875,

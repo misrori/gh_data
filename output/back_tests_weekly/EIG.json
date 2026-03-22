@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EIG",
         "name": "Employers Holdings Inc",
-        "collected_at": "2026-03-21T02:09:21.389Z",
+        "collected_at": "2026-03-22T02:09:13.550Z",
         "data_start_date": "2016-03-21",
         "price": 39.09000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:EIG",
-        "market_capitalization": 761551224.1227169,
+        "market_capitalization": 761551248,
         "commodity_name": null,
         "display_name": "Employers Holdings Inc",
         "sma_50": 43.40959983825684,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AIN",
         "name": "Albany International Corporation",
-        "collected_at": "2026-03-21T02:08:03.780Z",
+        "collected_at": "2026-03-22T02:07:54.390Z",
         "data_start_date": "2016-03-21",
         "price": 49.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Textiles",
         "tradingview_id": "NYSE:AIN",
-        "market_capitalization": 1387831937.754345,
+        "market_capitalization": 1387831988,
         "commodity_name": null,
         "display_name": "Albany International Corporation",
         "sma_50": 58.989399948120116,

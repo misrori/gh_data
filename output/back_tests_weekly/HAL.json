@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HAL",
         "name": "Halliburton Company",
-        "collected_at": "2026-03-21T02:01:47.402Z",
+        "collected_at": "2026-03-22T02:01:49.331Z",
         "data_start_date": "2016-03-21",
         "price": 36.529998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:HAL",
-        "market_capitalization": 30595643336.88059,
+        "market_capitalization": 30595642061.999996,
         "commodity_name": null,
         "display_name": "Halliburton Company",
         "sma_50": 26.104199981689455,

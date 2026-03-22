@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AEP",
         "name": "American Electric Power Company, Inc.",
-        "collected_at": "2026-03-21T02:01:06.489Z",
+        "collected_at": "2026-03-22T02:01:06.509Z",
         "data_start_date": "2016-03-21",
         "price": 125.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NASDAQ:AEP",
-        "market_capitalization": 67964658145.93506,
+        "market_capitalization": 67964659482,
         "commodity_name": null,
         "display_name": "American Electric Power Company, Inc.",
         "sma_50": 114.44519973754883,

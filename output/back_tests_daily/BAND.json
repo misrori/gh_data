@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BAND",
         "name": "Bandwidth Inc.",
-        "collected_at": "2026-03-21T02:10:23.067Z",
+        "collected_at": "2026-03-22T02:10:14.407Z",
         "data_start_date": "2017-11-09",
         "price": 15.460000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:BAND",
-        "market_capitalization": 485241810.08695656,
+        "market_capitalization": 485241816,
         "commodity_name": null,
         "display_name": "Bandwidth Inc.",
         "sma_50": 14.370999927520751,

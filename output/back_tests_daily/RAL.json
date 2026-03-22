@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RAL",
         "name": "Ralliant Corporation",
-        "collected_at": "2026-03-21T02:05:09.653Z",
+        "collected_at": "2026-03-22T02:05:02.623Z",
         "data_start_date": "2025-06-25",
         "price": 40.79999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:RAL",
-        "market_capitalization": 4559729251.685076,
+        "market_capitalization": 4559729248,
         "commodity_name": null,
         "display_name": "Ralliant Corporation",
         "sma_50": 47.21659980773926,

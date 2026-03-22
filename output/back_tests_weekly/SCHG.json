@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCHG",
         "name": "Schwab U.S. Large-Cap Growth ETF",
-        "collected_at": "2026-03-21T02:10:43.441Z",
+        "collected_at": "2026-03-22T02:10:33.687Z",
         "data_start_date": "2016-03-21",
         "price": 29.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SCHG",
-        "market_capitalization": 49377017500,
+        "market_capitalization": 49243139000,
         "commodity_name": null,
         "display_name": "Schwab U.S. Large-Cap Growth ETF",
         "sma_50": 30.36060005187988,

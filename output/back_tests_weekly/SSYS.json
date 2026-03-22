@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SSYS",
         "name": "Stratasys, Ltd.",
-        "collected_at": "2026-03-21T02:09:42.050Z",
+        "collected_at": "2026-03-22T02:09:33.913Z",
         "data_start_date": "2016-03-21",
         "price": 7.599999904632568,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Peripherals",
         "tradingview_id": "NASDAQ:SSYS",
-        "market_capitalization": 654911293.4362934,
+        "market_capitalization": 654911286,
         "commodity_name": null,
         "display_name": "Stratasys, Ltd.",
         "sma_50": 10.139599952697754,

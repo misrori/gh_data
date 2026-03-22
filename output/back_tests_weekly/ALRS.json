@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALRS",
         "name": "Alerus Financial Corporation",
-        "collected_at": "2026-03-21T02:09:55.946Z",
+        "collected_at": "2026-03-22T02:09:47.649Z",
         "data_start_date": "2016-03-21",
         "price": 23.3700008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:ALRS",
-        "market_capitalization": 593625100.4225353,
+        "market_capitalization": 593625114.0000001,
         "commodity_name": null,
         "display_name": "Alerus Financial Corporation",
         "sma_50": 22.18580005645752,

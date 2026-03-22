@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WGS",
         "name": "GeneDx Holdings Corp.",
-        "collected_at": "2026-03-21T02:07:02.957Z",
+        "collected_at": "2026-03-22T02:06:54.044Z",
         "data_start_date": "2020-11-02",
         "price": 69.83999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:WGS",
-        "market_capitalization": 2045525479.1408217,
+        "market_capitalization": 2045525372,
         "commodity_name": null,
         "display_name": "GeneDx Holdings Corp.",
         "sma_50": 105.459599609375,

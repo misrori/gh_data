@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTZ",
         "name": "Hertz Global Holdings, Inc",
-        "collected_at": "2026-03-21T02:08:19.931Z",
+        "collected_at": "2026-03-22T02:08:09.831Z",
         "data_start_date": "2021-07-01",
         "price": 3.950000047683716,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:HTZ",
-        "market_capitalization": 1233824720.3391962,
+        "market_capitalization": 1233824730,
         "commodity_name": null,
         "display_name": "Hertz Global Holdings, Inc",
         "sma_50": 4.810000004768372,

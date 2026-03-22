@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FERG",
         "name": "Ferguson Enterprises Inc.",
-        "collected_at": "2026-03-21T02:01:28.370Z",
+        "collected_at": "2026-03-22T02:01:28.980Z",
         "data_start_date": "2016-03-21",
         "price": 217.55999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:FERG",
-        "market_capitalization": 42316005572.26843,
+        "market_capitalization": 42316003793,
         "commodity_name": null,
         "display_name": "Ferguson Enterprises Inc.",
         "sma_50": 225.46020080566407,

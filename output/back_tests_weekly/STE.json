@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STE",
         "name": "STERIS plc (Ireland)",
-        "collected_at": "2026-03-21T02:02:19.922Z",
+        "collected_at": "2026-03-22T02:02:15.401Z",
         "data_start_date": "2016-03-21",
         "price": 220.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:STE",
-        "market_capitalization": 21579446433.114403,
+        "market_capitalization": 21579446495.000004,
         "commodity_name": null,
         "display_name": "STERIS plc (Ireland)",
         "sma_50": 243.65039947509766,

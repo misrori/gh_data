@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLMR",
         "name": "Palomar Holdings, Inc.",
-        "collected_at": "2026-03-21T02:06:05.906Z",
+        "collected_at": "2026-03-22T02:05:57.530Z",
         "data_start_date": "2019-04-17",
         "price": 116.9000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:PLMR",
-        "market_capitalization": 3120031225.977615,
+        "market_capitalization": 3120031225.0000005,
         "commodity_name": null,
         "display_name": "Palomar Holdings, Inc.",
         "sma_50": 124.61050064086913,

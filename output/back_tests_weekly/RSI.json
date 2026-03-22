@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RSI",
         "name": "Rush Street Interactive, Inc.",
-        "collected_at": "2026-03-21T02:05:01.408Z",
+        "collected_at": "2026-03-22T02:04:54.785Z",
         "data_start_date": "2020-04-27",
         "price": 20.700000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Casinos/Gaming",
         "tradingview_id": "NYSE:RSI",
-        "market_capitalization": 4809670420.847458,
+        "market_capitalization": 4809670650,
         "commodity_name": null,
         "display_name": "Rush Street Interactive, Inc.",
         "sma_50": 17.423599967956545,

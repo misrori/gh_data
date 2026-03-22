@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMPL",
         "name": "Amplitude, Inc.",
-        "collected_at": "2026-03-21T02:08:55.186Z",
+        "collected_at": "2026-03-22T02:08:45.298Z",
         "data_start_date": "2021-09-27",
         "price": 7.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:AMPL",
-        "market_capitalization": 937424083.3855757,
+        "market_capitalization": 937424109,
         "commodity_name": null,
         "display_name": "Amplitude, Inc.",
         "sma_50": 10.416200017929077,

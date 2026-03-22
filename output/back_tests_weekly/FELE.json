@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FELE",
         "name": "Franklin Electric Co., Inc.",
-        "collected_at": "2026-03-21T02:05:29.117Z",
+        "collected_at": "2026-03-22T02:05:21.093Z",
         "data_start_date": "2016-03-21",
         "price": 89.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:FELE",
-        "market_capitalization": 3973331149.366462,
+        "market_capitalization": 3973331095.9999995,
         "commodity_name": null,
         "display_name": "Franklin Electric Co., Inc.",
         "sma_50": 94.11040008544921,

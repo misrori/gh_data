@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SKYT",
         "name": "SkyWater Technology, Inc.",
-        "collected_at": "2026-03-21T02:08:11.195Z",
+        "collected_at": "2026-03-22T02:08:01.170Z",
         "data_start_date": "2021-04-21",
         "price": 27.540000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:SKYT",
-        "market_capitalization": 1321784502.0065005,
+        "market_capitalization": 1321784521,
         "commodity_name": null,
         "display_name": "SkyWater Technology, Inc.",
         "sma_50": 29.877799911499025,

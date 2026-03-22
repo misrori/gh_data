@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RRBI",
         "name": "Red River Bancshares, Inc.",
-        "collected_at": "2026-03-21T02:10:01.616Z",
+        "collected_at": "2026-03-22T02:09:53.542Z",
         "data_start_date": "2019-05-03",
         "price": 87.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:RRBI",
-        "market_capitalization": 573464872.0049472,
+        "market_capitalization": 573464873,
         "commodity_name": null,
         "display_name": "Red River Bancshares, Inc.",
         "sma_50": 85.09100021362305,

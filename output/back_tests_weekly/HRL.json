@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HRL",
         "name": "Hormel Foods Corporation",
-        "collected_at": "2026-03-21T02:03:09.197Z",
+        "collected_at": "2026-03-22T02:03:04.259Z",
         "data_start_date": "2016-03-21",
         "price": 22.139999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Meat/Fish/Dairy",
         "tradingview_id": "NYSE:HRL",
-        "market_capitalization": 12183292194.92803,
+        "market_capitalization": 12183291402.000002,
         "commodity_name": null,
         "display_name": "Hormel Foods Corporation",
         "sma_50": 26.127599906921386,

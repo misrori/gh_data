@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BJ",
         "name": "BJ's Wholesale Club Holdings, Inc.",
-        "collected_at": "2026-03-21T02:03:04.421Z",
+        "collected_at": "2026-03-22T02:02:59.499Z",
         "data_start_date": "2018-06-25",
         "price": 97.04000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:BJ",
-        "market_capitalization": 12583815893.197107,
+        "market_capitalization": 12583816409,
         "commodity_name": null,
         "display_name": "BJ's Wholesale Club Holdings, Inc.",
         "sma_50": 100.58340026855468,

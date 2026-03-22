@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STEL",
         "name": "Stellar Bancorp, Inc.",
-        "collected_at": "2026-03-21T02:07:20.494Z",
+        "collected_at": "2026-03-22T02:07:11.622Z",
         "data_start_date": "2017-11-08",
         "price": 35.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:STEL",
-        "market_capitalization": 1805967577.237975,
+        "market_capitalization": 1805967600,
         "commodity_name": null,
         "display_name": "Stellar Bancorp, Inc.",
         "sma_50": 36.247199859619144,

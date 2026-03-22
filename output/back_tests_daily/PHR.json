@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PHR",
         "name": "Phreesia, Inc.",
-        "collected_at": "2026-03-21T02:09:30.967Z",
+        "collected_at": "2026-03-22T02:09:22.498Z",
         "data_start_date": "2019-07-18",
         "price": 11.859999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:PHR",
-        "market_capitalization": 715003878.4435004,
+        "market_capitalization": 715003830,
         "commodity_name": null,
         "display_name": "Phreesia, Inc.",
         "sma_50": 13.136999969482423,

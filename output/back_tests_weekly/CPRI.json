@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPRI",
         "name": "Capri Holdings Limited",
-        "collected_at": "2026-03-21T02:06:57.176Z",
+        "collected_at": "2026-03-22T02:06:48.405Z",
         "data_start_date": "2016-03-21",
         "price": 18.09000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NYSE:CPRI",
-        "market_capitalization": 2155638248.985437,
+        "market_capitalization": 2155638160,
         "commodity_name": null,
         "display_name": "Capri Holdings Limited",
         "sma_50": 20.412200145721435,

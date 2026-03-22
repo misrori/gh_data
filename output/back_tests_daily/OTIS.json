@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OTIS",
         "name": "Otis Worldwide Corporation",
-        "collected_at": "2026-03-21T02:01:46.316Z",
+        "collected_at": "2026-03-22T02:01:48.526Z",
         "data_start_date": "2020-03-19",
         "price": 79.54000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:OTIS",
-        "market_capitalization": 30918853302.44896,
+        "market_capitalization": 30918852365,
         "commodity_name": null,
         "display_name": "Otis Worldwide Corporation",
         "sma_50": 88.55660018920898,

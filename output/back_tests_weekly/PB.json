@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PB",
         "name": "Prosperity Bancshares, Inc.",
-        "collected_at": "2026-03-21T02:04:17.338Z",
+        "collected_at": "2026-03-22T02:04:12.077Z",
         "data_start_date": "2016-03-21",
         "price": 64.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:PB",
-        "market_capitalization": 6571308752.084188,
+        "market_capitalization": 6571308782,
         "commodity_name": null,
         "display_name": "Prosperity Bancshares, Inc.",
         "sma_50": 68.86139968872071,

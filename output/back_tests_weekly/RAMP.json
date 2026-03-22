@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RAMP",
         "name": "LiveRamp Holdings, Inc.",
-        "collected_at": "2026-03-21T02:07:31.931Z",
+        "collected_at": "2026-03-22T02:07:23.298Z",
         "data_start_date": "2016-03-21",
         "price": 26.579999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:RAMP",
-        "market_capitalization": 1677859642.5527089,
+        "market_capitalization": 1677859656.0000002,
         "commodity_name": null,
         "display_name": "LiveRamp Holdings, Inc.",
         "sma_50": 28.515599899291992,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VO",
         "name": "Vanguard Mid-Cap ETF",
-        "collected_at": "2026-03-21T02:10:37.434Z",
+        "collected_at": "2026-03-22T02:10:28.232Z",
         "data_start_date": "2016-03-21",
         "price": 285.1400146484375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VO",
-        "market_capitalization": 96530913736.838,
+        "market_capitalization": 95740135059.462,
         "commodity_name": null,
         "display_name": "Vanguard Mid-Cap ETF",
         "sma_50": 286.1185998535156,

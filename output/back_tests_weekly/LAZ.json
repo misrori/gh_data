@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LAZ",
         "name": "Lazard, Inc.",
-        "collected_at": "2026-03-21T02:05:39.289Z",
+        "collected_at": "2026-03-22T02:05:31.038Z",
         "data_start_date": "2016-03-21",
         "price": 39.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:LAZ",
-        "market_capitalization": 3685884409.9962344,
+        "market_capitalization": 3685884396.0000005,
         "commodity_name": null,
         "display_name": "Lazard, Inc.",
         "sma_50": 49.164199905395506,

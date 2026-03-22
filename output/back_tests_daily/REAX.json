@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "REAX",
         "name": "The Real Brokerage, Inc.",
-        "collected_at": "2026-03-21T02:10:17.585Z",
+        "collected_at": "2026-03-22T02:10:09.865Z",
         "data_start_date": "2021-01-08",
         "price": 2.359999895095825,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:REAX",
-        "market_capitalization": 501089605.8333334,
+        "market_capitalization": 501089563.00000006,
         "commodity_name": null,
         "display_name": "The Real Brokerage, Inc.",
         "sma_50": 3.0208000135421753,

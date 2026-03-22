@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GSM",
         "name": "Ferroglobe PLC",
-        "collected_at": "2026-03-21T02:09:32.702Z",
+        "collected_at": "2026-03-22T02:09:24.662Z",
         "data_start_date": "2016-03-21",
         "price": 3.740000009536743,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "NASDAQ:GSM",
-        "market_capitalization": 697980757.6624684,
+        "market_capitalization": 697980755,
         "commodity_name": null,
         "display_name": "Ferroglobe PLC",
         "sma_50": 4.357400016784668,

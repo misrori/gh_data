@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UNP",
         "name": "Union Pacific Corporation",
-        "collected_at": "2026-03-21T02:00:34.626Z",
+        "collected_at": "2026-03-22T02:00:33.996Z",
         "data_start_date": "2016-03-21",
         "price": 234.9199981689453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Railroads",
         "tradingview_id": "NYSE:UNP",
-        "market_capitalization": 139399507663.92413,
+        "market_capitalization": 139399510937,
         "commodity_name": null,
         "display_name": "Union Pacific Corporation",
         "sma_50": 230.12079986572266,

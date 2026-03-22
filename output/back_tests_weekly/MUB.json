@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MUB",
         "name": "iShares National Muni Bond ETF",
-        "collected_at": "2026-03-21T02:10:47.334Z",
+        "collected_at": "2026-03-22T02:10:37.463Z",
         "data_start_date": "2016-03-21",
         "price": 105.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:MUB",
-        "market_capitalization": 43195626646.4,
+        "market_capitalization": 43085947430.6,
         "commodity_name": null,
         "display_name": "iShares National Muni Bond ETF",
         "sma_50": 105.87720001220703,

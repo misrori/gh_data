@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NAT",
         "name": "Nordic American Tankers Limited",
-        "collected_at": "2026-03-21T02:08:34.909Z",
+        "collected_at": "2026-03-22T02:08:24.303Z",
         "data_start_date": "2016-03-21",
         "price": 5.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:NAT",
-        "market_capitalization": 1111690898.6338797,
+        "market_capitalization": 1111690945,
         "commodity_name": null,
         "display_name": "Nordic American Tankers Limited",
         "sma_50": 3.4793999910354616,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALV",
         "name": "Autoliv, Inc.",
-        "collected_at": "2026-03-21T02:03:58.714Z",
+        "collected_at": "2026-03-22T02:03:54.751Z",
         "data_start_date": "2016-03-21",
         "price": 100.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:ALV",
-        "market_capitalization": 7496051301.767055,
+        "market_capitalization": 7496051185.999999,
         "commodity_name": null,
         "display_name": "Autoliv, Inc.",
         "sma_50": 114.95419998168946,

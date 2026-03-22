@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SYNA",
         "name": "Synaptics Incorporated",
-        "collected_at": "2026-03-21T02:06:24.722Z",
+        "collected_at": "2026-03-22T02:06:16.503Z",
         "data_start_date": "2016-03-21",
         "price": 71.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:SYNA",
-        "market_capitalization": 2750973713.3808274,
+        "market_capitalization": 2750973665.9999995,
         "commodity_name": null,
         "display_name": "Synaptics Incorporated",
         "sma_50": 70.02039978027344,

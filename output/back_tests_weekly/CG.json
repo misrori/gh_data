@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CG",
         "name": "The Carlyle Group Inc.",
-        "collected_at": "2026-03-21T02:02:39.973Z",
+        "collected_at": "2026-03-22T02:02:35.566Z",
         "data_start_date": "2016-03-21",
         "price": 47.130001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:CG",
-        "market_capitalization": 17021992070.441746,
+        "market_capitalization": 17021992020.999996,
         "commodity_name": null,
         "display_name": "The Carlyle Group Inc.",
         "sma_50": 55.10259994506836,

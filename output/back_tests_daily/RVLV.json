@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RVLV",
         "name": "Revolve Group, Inc.",
-        "collected_at": "2026-03-21T02:07:41.447Z",
+        "collected_at": "2026-03-22T02:07:32.379Z",
         "data_start_date": "2019-06-07",
         "price": 22.110000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NYSE:RVLV",
-        "market_capitalization": 1579314322.0170605,
+        "market_capitalization": 1579314324,
         "commodity_name": null,
         "display_name": "Revolve Group, Inc.",
         "sma_50": 26.266999969482423,

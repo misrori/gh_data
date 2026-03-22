@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPYM",
         "name": "State Street SPDR Portfolio S&P 500 ETF",
-        "collected_at": "2026-03-21T02:10:35.594Z",
+        "collected_at": "2026-03-22T02:10:26.354Z",
         "data_start_date": "2016-03-21",
         "price": 76.33000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SPYM",
-        "market_capitalization": 114445824654.35,
+        "market_capitalization": 114346948186.25,
         "commodity_name": null,
         "display_name": "State Street SPDR Portfolio S&P 500 ETF",
         "sma_50": 76.03740005493164,

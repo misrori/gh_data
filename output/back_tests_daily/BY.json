@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BY",
         "name": "Byline Bancorp, Inc.",
-        "collected_at": "2026-03-21T02:08:04.383Z",
+        "collected_at": "2026-03-22T02:07:55.180Z",
         "data_start_date": "2017-06-30",
         "price": 30.260000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:BY",
-        "market_capitalization": 1379574270.3389273,
+        "market_capitalization": 1379574308,
         "commodity_name": null,
         "display_name": "Byline Bancorp, Inc.",
         "sma_50": 31.559399909973145,

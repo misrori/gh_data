@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LGND",
         "name": "Ligand Pharmaceuticals Incorporated",
-        "collected_at": "2026-03-21T02:05:23.625Z",
+        "collected_at": "2026-03-22T02:05:16.104Z",
         "data_start_date": "2016-03-21",
         "price": 204.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:LGND",
-        "market_capitalization": 4084145221.425531,
+        "market_capitalization": 4084145066,
         "commodity_name": null,
         "display_name": "Ligand Pharmaceuticals Incorporated",
         "sma_50": 163.30999954223634,

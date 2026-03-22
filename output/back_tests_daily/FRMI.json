@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FRMI",
         "name": "Fermi Inc.",
-        "collected_at": "2026-03-21T02:05:15.328Z",
+        "collected_at": "2026-03-22T02:05:07.766Z",
         "data_start_date": "2025-10-01",
         "price": 7.199999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Real Estate Investment Trusts",
         "tradingview_id": "NASDAQ:FRMI",
-        "market_capitalization": 4420982748.259212,
+        "market_capitalization": 4420982694.999999,
         "commodity_name": null,
         "display_name": "Fermi Inc.",
         "sma_50": 9.039400043487548,

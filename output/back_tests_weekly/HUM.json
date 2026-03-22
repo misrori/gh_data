@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HUM",
         "name": "Humana Inc.",
-        "collected_at": "2026-03-21T02:02:23.847Z",
+        "collected_at": "2026-03-22T02:02:19.624Z",
         "data_start_date": "2016-03-21",
         "price": 169.89999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Managed Health Care",
         "tradingview_id": "NYSE:HUM",
-        "market_capitalization": 20397252145.646744,
+        "market_capitalization": 20397251786,
         "commodity_name": null,
         "display_name": "Humana Inc.",
         "sma_50": 244.7606005859375,

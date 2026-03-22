@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HLI",
         "name": "Houlihan Lokey, Inc.",
-        "collected_at": "2026-03-21T02:03:30.940Z",
+        "collected_at": "2026-03-22T02:03:26.256Z",
         "data_start_date": "2016-03-21",
         "price": 139.50999450683594,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:HLI",
-        "market_capitalization": 9735746742.150126,
+        "market_capitalization": 9735746571.999998,
         "commodity_name": null,
         "display_name": "Houlihan Lokey, Inc.",
         "sma_50": 179.19519927978516,

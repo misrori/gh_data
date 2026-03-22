@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BCRX",
         "name": "BioCryst Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-21T02:06:39.831Z",
+        "collected_at": "2026-03-22T02:06:30.878Z",
         "data_start_date": "2016-03-21",
         "price": 9.699999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:BCRX",
-        "market_capitalization": 2432766201.6717634,
+        "market_capitalization": 2432766050,
         "commodity_name": null,
         "display_name": "BioCryst Pharmaceuticals, Inc.",
         "sma_50": 8.188200016021728,

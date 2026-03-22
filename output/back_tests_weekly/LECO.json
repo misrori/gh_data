@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LECO",
         "name": "Lincoln Electric Holdings, Inc.",
-        "collected_at": "2026-03-21T02:02:55.800Z",
+        "collected_at": "2026-03-22T02:02:50.698Z",
         "data_start_date": "2016-03-21",
         "price": 249.72000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:LECO",
-        "market_capitalization": 13685994588.479498,
+        "market_capitalization": 13685995241,
         "commodity_name": null,
         "display_name": "Lincoln Electric Holdings, Inc.",
         "sma_50": 234.6470004272461,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WERN",
         "name": "Werner Enterprises, Inc.",
-        "collected_at": "2026-03-21T02:07:36.588Z",
+        "collected_at": "2026-03-22T02:07:27.737Z",
         "data_start_date": "2016-03-21",
         "price": 27.170000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NASDAQ:WERN",
-        "market_capitalization": 1626651797.0732696,
+        "market_capitalization": 1626651811,
         "commodity_name": null,
         "display_name": "Werner Enterprises, Inc.",
         "sma_50": 28.720200119018553,

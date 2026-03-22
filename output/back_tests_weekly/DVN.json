@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DVN",
         "name": "Devon Energy Corporation",
-        "collected_at": "2026-03-21T02:01:48.891Z",
+        "collected_at": "2026-03-22T02:01:50.640Z",
         "data_start_date": "2016-03-21",
         "price": 48.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:DVN",
-        "market_capitalization": 30169200566.486572,
+        "market_capitalization": 30169199905.000004,
         "commodity_name": null,
         "display_name": "Devon Energy Corporation",
         "sma_50": 36.08439990997314,

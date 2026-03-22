@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHRD",
         "name": "Chord Energy Corporation",
-        "collected_at": "2026-03-21T02:03:58.428Z",
+        "collected_at": "2026-03-22T02:03:54.467Z",
         "data_start_date": "2016-03-21",
         "price": 131.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NASDAQ:CHRD",
-        "market_capitalization": 7498098297.69298,
+        "market_capitalization": 7498098751.000001,
         "commodity_name": null,
         "display_name": "Chord Energy Corporation",
         "sma_50": 100.54840026855469,

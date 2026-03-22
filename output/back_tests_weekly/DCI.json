@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DCI",
         "name": "Donaldson Company, Inc.",
-        "collected_at": "2026-03-21T02:03:31.501Z",
+        "collected_at": "2026-03-22T02:03:26.947Z",
         "data_start_date": "2016-03-21",
         "price": 83.6500015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:DCI",
-        "market_capitalization": 9687860958.17182,
+        "market_capitalization": 9687861311.000002,
         "commodity_name": null,
         "display_name": "Donaldson Company, Inc.",
         "sma_50": 82.2012003326416,

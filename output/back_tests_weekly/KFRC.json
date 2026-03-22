@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KFRC",
         "name": "Kforce, Inc.",
-        "collected_at": "2026-03-21T02:10:24.568Z",
+        "collected_at": "2026-03-22T02:10:16.023Z",
         "data_start_date": "2016-03-21",
         "price": 26.3799991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Personnel Services",
         "tradingview_id": "NYSE:KFRC",
-        "market_capitalization": 482173641.00456965,
+        "market_capitalization": 482173621.00000006,
         "commodity_name": null,
         "display_name": "Kforce, Inc.",
         "sma_50": 33.83240001678467,

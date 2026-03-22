@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALK",
         "name": "Alaska Air Group, Inc.",
-        "collected_at": "2026-03-21T02:05:20.464Z",
+        "collected_at": "2026-03-22T02:05:12.873Z",
         "data_start_date": "2016-03-21",
         "price": 36.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NYSE:ALK",
-        "market_capitalization": 4231416197.322435,
+        "market_capitalization": 4231416145.9999995,
         "commodity_name": null,
         "display_name": "Alaska Air Group, Inc.",
         "sma_50": 49.83120010375976,

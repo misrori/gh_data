@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VTEB",
         "name": "Vanguard Tax-Exempt Bond ETF",
-        "collected_at": "2026-03-21T02:10:47.971Z",
+        "collected_at": "2026-03-22T02:10:38.143Z",
         "data_start_date": "2016-03-21",
         "price": 49.79999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VTEB",
-        "market_capitalization": 41693792944.5174,
+        "market_capitalization": 41560345899.521,
         "commodity_name": null,
         "display_name": "Vanguard Tax-Exempt Bond ETF",
         "sma_50": 49.7384001159668,

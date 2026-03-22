@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JXN",
         "name": "Jackson Financial Inc.",
-        "collected_at": "2026-03-21T02:04:03.945Z",
+        "collected_at": "2026-03-22T02:03:59.704Z",
         "data_start_date": "2021-09-01",
         "price": 103.05000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Life/Health Insurance",
         "tradingview_id": "NYSE:JXN",
-        "market_capitalization": 7283767986.699669,
+        "market_capitalization": 7283768441.000001,
         "commodity_name": null,
         "display_name": "Jackson Financial Inc.",
         "sma_50": 112.57220031738281,

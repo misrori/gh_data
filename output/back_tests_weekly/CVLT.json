@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CVLT",
         "name": "Commvault Systems, Inc.",
-        "collected_at": "2026-03-21T02:05:50.655Z",
+        "collected_at": "2026-03-22T02:05:42.116Z",
         "data_start_date": "2016-03-21",
         "price": 79.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:CVLT",
-        "market_capitalization": 3492006293.978195,
+        "market_capitalization": 3492006322,
         "commodity_name": null,
         "display_name": "Commvault Systems, Inc.",
         "sma_50": 146.38559982299805,

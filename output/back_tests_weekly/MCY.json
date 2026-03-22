@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MCY",
         "name": "Mercury General Corporation",
-        "collected_at": "2026-03-21T02:05:01.722Z",
+        "collected_at": "2026-03-22T02:04:55.051Z",
         "data_start_date": "2016-03-21",
         "price": 86.83000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:MCY",
-        "market_capitalization": 4809394684.855389,
+        "market_capitalization": 4809394837,
         "commodity_name": null,
         "display_name": "Mercury General Corporation",
         "sma_50": 78.47900047302247,

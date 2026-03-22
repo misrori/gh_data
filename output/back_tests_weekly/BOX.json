@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BOX",
         "name": "Box, Inc.",
-        "collected_at": "2026-03-21T02:05:53.048Z",
+        "collected_at": "2026-03-22T02:05:44.377Z",
         "data_start_date": "2016-03-21",
         "price": 24.6200008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:BOX",
-        "market_capitalization": 3408628869.272423,
+        "market_capitalization": 3408628897.9999995,
         "commodity_name": null,
         "display_name": "Box, Inc.",
         "sma_50": 30.493200035095214,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLOW",
         "name": "Douglas Dynamics, Inc.",
-        "collected_at": "2026-03-21T02:08:56.144Z",
+        "collected_at": "2026-03-22T02:08:46.211Z",
         "data_start_date": "2016-03-21",
         "price": 40.4900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:PLOW",
-        "market_capitalization": 934704090.020518,
+        "market_capitalization": 934704161,
         "commodity_name": null,
         "display_name": "Douglas Dynamics, Inc.",
         "sma_50": 32.64819995880127,

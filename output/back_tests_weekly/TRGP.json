@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRGP",
         "name": "Targa Resources, Inc.",
-        "collected_at": "2026-03-21T02:01:17.906Z",
+        "collected_at": "2026-03-22T02:01:17.929Z",
         "data_start_date": "2016-03-21",
         "price": 237.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:TRGP",
-        "market_capitalization": 51031705980.65583,
+        "market_capitalization": 51031707027.99999,
         "commodity_name": null,
         "display_name": "Targa Resources, Inc.",
         "sma_50": 180.00640045166017,

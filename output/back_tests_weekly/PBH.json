@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PBH",
         "name": "Prestige Consumer Healthcare Inc.",
-        "collected_at": "2026-03-21T02:06:15.984Z",
+        "collected_at": "2026-03-22T02:06:07.946Z",
         "data_start_date": "2016-03-21",
         "price": 60.9900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:PBH",
-        "market_capitalization": 2885969372.352148,
+        "market_capitalization": 2885969386,
         "commodity_name": null,
         "display_name": "Prestige Consumer Healthcare Inc.",
         "sma_50": 69.355400390625,

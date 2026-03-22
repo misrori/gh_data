@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MIR",
         "name": "Mirion Technologies, Inc.",
-        "collected_at": "2026-03-21T02:05:08.252Z",
+        "collected_at": "2026-03-22T02:05:01.352Z",
         "data_start_date": "2020-08-20",
         "price": 18.450000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:MIR",
-        "market_capitalization": 4622414342.224479,
+        "market_capitalization": 4622414408,
         "commodity_name": null,
         "display_name": "Mirion Technologies, Inc.",
         "sma_50": 22.852600173950194,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FBK",
         "name": "FB Financial Corporation",
-        "collected_at": "2026-03-21T02:06:31.399Z",
+        "collected_at": "2026-03-22T02:06:23.004Z",
         "data_start_date": "2016-09-12",
         "price": 50.91999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:FBK",
-        "market_capitalization": 2635494742.834116,
+        "market_capitalization": 2635494703,
         "commodity_name": null,
         "display_name": "FB Financial Corporation",
         "sma_50": 51.91679985046387,

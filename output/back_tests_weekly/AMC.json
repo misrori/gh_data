@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMC",
         "name": "AMC Entertainment Holdings, Inc.",
-        "collected_at": "2026-03-21T02:10:07.771Z",
+        "collected_at": "2026-03-22T02:09:59.106Z",
         "data_start_date": "2016-03-21",
         "price": 0.9807000160217285,
         "change": 0.0714282586345233,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NYSE:AMC",
-        "market_capitalization": 547187188.3147572,
+        "market_capitalization": 547187212,
         "commodity_name": null,
         "display_name": "AMC Entertainment Holdings, Inc.",
         "sma_50": 2.413014004230499,

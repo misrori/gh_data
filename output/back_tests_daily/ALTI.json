@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALTI",
         "name": "AlTi Global, Inc.",
-        "collected_at": "2026-03-21T02:10:24.674Z",
+        "collected_at": "2026-03-22T02:10:16.137Z",
         "data_start_date": "2021-04-27",
         "price": 3.2799999713897705,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:ALTI",
-        "market_capitalization": 481023075.81297123,
+        "market_capitalization": 481023063,
         "commodity_name": null,
         "display_name": "AlTi Global, Inc.",
         "sma_50": 4.278100004196167,

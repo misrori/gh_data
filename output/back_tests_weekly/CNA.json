@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNA",
         "name": "CNA Financial Corporation",
-        "collected_at": "2026-03-21T02:03:08.099Z",
+        "collected_at": "2026-03-22T02:03:03.293Z",
         "data_start_date": "2016-03-21",
         "price": 45.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:CNA",
-        "market_capitalization": 12277743789.351065,
+        "market_capitalization": 12277744244.999998,
         "commodity_name": null,
         "display_name": "CNA Financial Corporation",
         "sma_50": 46.77679985046387,

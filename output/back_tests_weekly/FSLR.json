@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FSLR",
         "name": "First Solar, Inc.",
-        "collected_at": "2026-03-21T02:02:23.276Z",
+        "collected_at": "2026-03-22T02:02:18.941Z",
         "data_start_date": "2016-03-21",
         "price": 192.82000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:FSLR",
-        "market_capitalization": 20691704339.93238,
+        "market_capitalization": 20691705758,
         "commodity_name": null,
         "display_name": "First Solar, Inc.",
         "sma_50": 207.1270018005371,

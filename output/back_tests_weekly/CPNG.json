@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPNG",
         "name": "Coupang, Inc.",
-        "collected_at": "2026-03-21T02:01:39.206Z",
+        "collected_at": "2026-03-22T02:01:41.246Z",
         "data_start_date": "2021-03-08",
         "price": 18.829999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NYSE:CPNG",
-        "market_capitalization": 34424850218.86307,
+        "market_capitalization": 34424848854,
         "commodity_name": null,
         "display_name": "Coupang, Inc.",
         "sma_50": 26.184999885559083,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FHN",
         "name": "First Horizon Corporation",
-        "collected_at": "2026-03-21T02:03:23.934Z",
+        "collected_at": "2026-03-22T02:03:19.066Z",
         "data_start_date": "2016-03-21",
         "price": 21.850000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:FHN",
-        "market_capitalization": 10557671990.936493,
+        "market_capitalization": 10557672398,
         "commodity_name": null,
         "display_name": "First Horizon Corporation",
         "sma_50": 22.03600009918213,

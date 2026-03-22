@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TXO",
         "name": "TXO Partners, L.P.",
-        "collected_at": "2026-03-21T02:09:31.603Z",
+        "collected_at": "2026-03-22T02:09:23.401Z",
         "data_start_date": "2023-01-27",
         "price": 12.770000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:TXO",
-        "market_capitalization": 705446850.0565284,
+        "market_capitalization": 705446852,
         "commodity_name": null,
         "display_name": "TXO Partners, L.P.",
         "sma_50": 12.088399982452392,

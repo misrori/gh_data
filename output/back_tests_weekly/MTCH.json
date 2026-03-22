@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTCH",
         "name": "Match Group, Inc.",
-        "collected_at": "2026-03-21T02:04:05.750Z",
+        "collected_at": "2026-03-22T02:04:01.496Z",
         "data_start_date": "2016-03-21",
         "price": 31.059999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:MTCH",
-        "market_capitalization": 7225937561.038449,
+        "market_capitalization": 7225937595,
         "commodity_name": null,
         "display_name": "Match Group, Inc.",
         "sma_50": 32.55569999694824,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "THR",
         "name": "Thermon Group Holdings, Inc.",
-        "collected_at": "2026-03-21T02:07:44.525Z",
+        "collected_at": "2026-03-22T02:07:35.678Z",
         "data_start_date": "2016-03-21",
         "price": 46.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:THR",
-        "market_capitalization": 1542417932.1549237,
+        "market_capitalization": 1542417913,
         "commodity_name": null,
         "display_name": "Thermon Group Holdings, Inc.",
         "sma_50": 33.468999977111814,

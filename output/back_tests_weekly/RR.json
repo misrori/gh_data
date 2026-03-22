@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RR",
         "name": "Richtech Robotics Inc.",
-        "collected_at": "2026-03-21T02:10:24.151Z",
+        "collected_at": "2026-03-22T02:10:15.596Z",
         "data_start_date": "2023-11-13",
         "price": 2.1600000858306885,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Electronics/Appliances",
         "tradingview_id": "NASDAQ:RR",
-        "market_capitalization": 482967282.85714287,
+        "market_capitalization": 482967300.00000006,
         "commodity_name": null,
         "display_name": "Richtech Robotics Inc.",
         "sma_50": 3.0699999928474426,

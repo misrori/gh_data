@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KOD",
         "name": "Kodiak Sciences Inc",
-        "collected_at": "2026-03-21T02:08:06.458Z",
+        "collected_at": "2026-03-22T02:07:57.043Z",
         "data_start_date": "2018-10-04",
         "price": 22.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:KOD",
-        "market_capitalization": 1358327652.9560997,
+        "market_capitalization": 1358327599,
         "commodity_name": null,
         "display_name": "Kodiak Sciences Inc",
         "sma_50": 25.063400077819825,

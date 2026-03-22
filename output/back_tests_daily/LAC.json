@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LAC",
         "name": "Lithium Americas Corp.",
-        "collected_at": "2026-03-21T02:08:14.528Z",
+        "collected_at": "2026-03-22T02:08:04.228Z",
         "data_start_date": "2023-10-02",
         "price": 3.7100000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "NYSE:LAC",
-        "market_capitalization": 1288741372.3164556,
+        "market_capitalization": 1288741356.849315,
         "commodity_name": null,
         "display_name": "Lithium Americas Corp.",
         "sma_50": 4.987200031280517,

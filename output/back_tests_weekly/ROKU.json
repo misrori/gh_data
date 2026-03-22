@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROKU",
         "name": "Roku, Inc.",
-        "collected_at": "2026-03-21T02:02:54.831Z",
+        "collected_at": "2026-03-22T02:02:49.891Z",
         "data_start_date": "2017-09-25",
         "price": 93.2699966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ROKU",
-        "market_capitalization": 13750588792.68433,
+        "market_capitalization": 13750588210,
         "commodity_name": null,
         "display_name": "Roku, Inc.",
         "sma_50": 91.13319969177246,

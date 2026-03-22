@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MNDY",
         "name": "monday.com Ltd.",
-        "collected_at": "2026-03-21T02:05:36.496Z",
+        "collected_at": "2026-03-22T02:05:28.299Z",
         "data_start_date": "2021-06-10",
         "price": 73.8499984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:MNDY",
-        "market_capitalization": 3749610921.628529,
+        "market_capitalization": 3749610676,
         "commodity_name": null,
         "display_name": "monday.com Ltd.",
         "sma_50": 94.13849960327148,

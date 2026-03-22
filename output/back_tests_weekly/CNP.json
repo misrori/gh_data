@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNP",
         "name": "CenterPoint Energy, Inc (Holding Co)",
-        "collected_at": "2026-03-21T02:01:55.870Z",
+        "collected_at": "2026-03-22T02:01:57.906Z",
         "data_start_date": "2016-03-21",
         "price": 42.02000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:CNP",
-        "market_capitalization": 27433663877.09734,
+        "market_capitalization": 27433664176,
         "commodity_name": null,
         "display_name": "CenterPoint Energy, Inc (Holding Co)",
         "sma_50": 38.86480010986328,

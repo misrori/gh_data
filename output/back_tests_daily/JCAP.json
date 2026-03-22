@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JCAP",
         "name": "Jefferson Capital, Inc.",
-        "collected_at": "2026-03-21T02:08:39.047Z",
+        "collected_at": "2026-03-22T02:08:28.083Z",
         "data_start_date": "2025-06-26",
         "price": 19.389999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NASDAQ:JCAP",
-        "market_capitalization": 1072831722.9777778,
+        "market_capitalization": 1072831689.0000001,
         "commodity_name": null,
         "display_name": "Jefferson Capital, Inc.",
         "sma_50": 21.34419994354248,

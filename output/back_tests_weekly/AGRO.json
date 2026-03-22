@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AGRO",
         "name": "Adecoagro S.A.",
-        "collected_at": "2026-03-21T02:07:06.141Z",
+        "collected_at": "2026-03-22T02:06:57.151Z",
         "data_start_date": "2016-03-21",
         "price": 14.109999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Agricultural Commodities/Milling",
         "tradingview_id": "NYSE:AGRO",
-        "market_capitalization": 1996081601.6372344,
+        "market_capitalization": 1996081599.9999998,
         "commodity_name": null,
         "display_name": "Adecoagro S.A.",
         "sma_50": 8.916999979019165,

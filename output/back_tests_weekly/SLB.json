@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SLB",
         "name": "SLB Limited",
-        "collected_at": "2026-03-21T02:01:04.040Z",
+        "collected_at": "2026-03-22T02:01:04.216Z",
         "data_start_date": "2016-03-21",
         "price": 46.630001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Contract Drilling",
         "tradingview_id": "NYSE:SLB",
-        "market_capitalization": 69727309403.23381,
+        "market_capitalization": 69727311446,
         "commodity_name": null,
         "display_name": "SLB Limited",
         "sma_50": 38.4798002243042,

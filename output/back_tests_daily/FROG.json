@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FROG",
         "name": "JFrog Ltd.",
-        "collected_at": "2026-03-21T02:04:53.664Z",
+        "collected_at": "2026-03-22T02:04:47.390Z",
         "data_start_date": "2020-09-16",
         "price": 42.27000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:FROG",
-        "market_capitalization": 5056714728.319605,
+        "market_capitalization": 5056714888.999999,
         "commodity_name": null,
         "display_name": "JFrog Ltd.",
         "sma_50": 48.49990005493164,

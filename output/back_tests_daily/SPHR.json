@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPHR",
         "name": "Sphere Entertainment Co.",
-        "collected_at": "2026-03-21T02:05:33.965Z",
+        "collected_at": "2026-03-22T02:05:25.995Z",
         "data_start_date": "2020-04-09",
         "price": 107.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Media Conglomerates",
         "tradingview_id": "NYSE:SPHR",
-        "market_capitalization": 3813992500.7269673,
+        "market_capitalization": 3813992605,
         "commodity_name": null,
         "display_name": "Sphere Entertainment Co.",
         "sma_50": 104.92580017089844,

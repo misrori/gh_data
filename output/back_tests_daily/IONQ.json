@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IONQ",
         "name": "IonQ, Inc.",
-        "collected_at": "2026-03-21T02:03:16.467Z",
+        "collected_at": "2026-03-22T02:03:11.924Z",
         "data_start_date": "2021-01-04",
         "price": 31.200000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Processing Hardware",
         "tradingview_id": "NYSE:IONQ",
-        "market_capitalization": 11439191172.112852,
+        "market_capitalization": 11439191588,
         "commodity_name": null,
         "display_name": "IonQ, Inc.",
         "sma_50": 38.308400268554685,

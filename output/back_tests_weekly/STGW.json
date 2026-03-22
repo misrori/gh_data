@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STGW",
         "name": "Stagwell Inc.",
-        "collected_at": "2026-03-21T02:07:44.907Z",
+        "collected_at": "2026-03-22T02:07:36.071Z",
         "data_start_date": "2016-03-21",
         "price": 6.079999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:STGW",
-        "market_capitalization": 1540991483.9291468,
+        "market_capitalization": 1540991455,
         "commodity_name": null,
         "display_name": "Stagwell Inc.",
         "sma_50": 5.2429999732971195,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APLS",
         "name": "Apellis Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-21T02:06:53.856Z",
+        "collected_at": "2026-03-22T02:06:45.589Z",
         "data_start_date": "2017-11-06",
         "price": 17.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:APLS",
-        "market_capitalization": 2199952540.691709,
+        "market_capitalization": 2199952508,
         "commodity_name": null,
         "display_name": "Apellis Pharmaceuticals, Inc.",
         "sma_50": 21.709200019836427,

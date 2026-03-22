@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INOD",
         "name": "Innodata Inc.",
-        "collected_at": "2026-03-21T02:07:58.937Z",
+        "collected_at": "2026-03-22T02:07:49.843Z",
         "data_start_date": "2016-03-21",
         "price": 43.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:INOD",
-        "market_capitalization": 1423420702.4384422,
+        "market_capitalization": 1423420688,
         "commodity_name": null,
         "display_name": "Innodata Inc.",
         "sma_50": 51.855599822998045,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SNDX",
         "name": "Syndax Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-21T02:06:58.389Z",
+        "collected_at": "2026-03-22T02:06:49.394Z",
         "data_start_date": "2016-03-21",
         "price": 24.229999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:SNDX",
-        "market_capitalization": 2137100345.1695836,
+        "market_capitalization": 2137100305,
         "commodity_name": null,
         "display_name": "Syndax Pharmaceuticals, Inc.",
         "sma_50": 15.91259994506836,

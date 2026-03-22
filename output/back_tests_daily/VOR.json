@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VOR",
         "name": "Vor Biopharma Inc.",
-        "collected_at": "2026-03-21T02:10:18.013Z",
+        "collected_at": "2026-03-22T02:10:10.311Z",
         "data_start_date": "2021-02-05",
         "price": 12.039999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:VOR",
-        "market_capitalization": 499898879.2680334,
+        "market_capitalization": 499898875,
         "commodity_name": null,
         "display_name": "Vor Biopharma Inc.",
         "sma_50": 14.275,

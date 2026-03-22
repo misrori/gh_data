@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPS",
         "name": "Cooper-Standard Holdings Inc.",
-        "collected_at": "2026-03-21T02:10:19.184Z",
+        "collected_at": "2026-03-22T02:10:11.148Z",
         "data_start_date": "2016-03-21",
         "price": 28.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:CPS",
-        "market_capitalization": 498069186.2523462,
+        "market_capitalization": 498069175,
         "commodity_name": null,
         "display_name": "Cooper-Standard Holdings Inc.",
         "sma_50": 29.668800010681153,

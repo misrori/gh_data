@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OMER",
         "name": "Omeros Corporation",
-        "collected_at": "2026-03-21T02:09:17.991Z",
+        "collected_at": "2026-03-22T02:09:10.029Z",
         "data_start_date": "2016-03-21",
         "price": 11,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:OMER",
-        "market_capitalization": 779905043.9748203,
+        "market_capitalization": 779905052.0000001,
         "commodity_name": null,
         "display_name": "Omeros Corporation",
         "sma_50": 7.389199948310852,

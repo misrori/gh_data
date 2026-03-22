@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BHVN",
         "name": "Biohaven Ltd.",
-        "collected_at": "2026-03-21T02:08:08.480Z",
+        "collected_at": "2026-03-22T02:07:58.906Z",
         "data_start_date": "2022-09-23",
         "price": 8.930000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NYSE:BHVN",
-        "market_capitalization": 1343224563.4687498,
+        "market_capitalization": 1343224604,
         "commodity_name": null,
         "display_name": "Biohaven Ltd.",
         "sma_50": 11.264400043487548,

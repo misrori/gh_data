@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STLD",
         "name": "Steel Dynamics, Inc.",
-        "collected_at": "2026-03-21T02:02:04.856Z",
+        "collected_at": "2026-03-22T02:02:06.866Z",
         "data_start_date": "2016-03-21",
         "price": 163.9499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NASDAQ:STLD",
-        "market_capitalization": 23753469217.77393,
+        "market_capitalization": 23753469122,
         "commodity_name": null,
         "display_name": "Steel Dynamics, Inc.",
         "sma_50": 150.5670007324219,

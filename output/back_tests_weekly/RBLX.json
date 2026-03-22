@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RBLX",
         "name": "Roblox Corporation",
-        "collected_at": "2026-03-21T02:01:30.561Z",
+        "collected_at": "2026-03-22T02:01:31.674Z",
         "data_start_date": "2021-03-08",
         "price": 56.959999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:RBLX",
-        "market_capitalization": 40367868966.75382,
+        "market_capitalization": 40367867996,
         "commodity_name": null,
         "display_name": "Roblox Corporation",
         "sma_50": 95.2427993774414,

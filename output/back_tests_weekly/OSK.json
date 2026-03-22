@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OSK",
         "name": "Oshkosh Corporation (Holding Company)",
-        "collected_at": "2026-03-21T02:03:41.434Z",
+        "collected_at": "2026-03-22T02:03:36.844Z",
         "data_start_date": "2016-03-21",
         "price": 140.4600067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NYSE:OSK",
-        "market_capitalization": 8785581146.755375,
+        "market_capitalization": 8785581492,
         "commodity_name": null,
         "display_name": "Oshkosh Corporation (Holding Company)",
         "sma_50": 129.9552015686035,

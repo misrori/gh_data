@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FSS",
         "name": "Federal Signal Corporation",
-        "collected_at": "2026-03-21T02:04:19.621Z",
+        "collected_at": "2026-03-22T02:04:14.424Z",
         "data_start_date": "2016-03-21",
         "price": 105.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NYSE:FSS",
-        "market_capitalization": 6427961824.643948,
+        "market_capitalization": 6427961899,
         "commodity_name": null,
         "display_name": "Federal Signal Corporation",
         "sma_50": 110.42699996948242,

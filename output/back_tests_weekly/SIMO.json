@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SIMO",
         "name": "Silicon Motion Technology Corporation",
-        "collected_at": "2026-03-21T02:05:18.063Z",
+        "collected_at": "2026-03-22T02:05:13.529Z",
         "data_start_date": "2016-03-21",
         "price": 123.76000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:SIMO",
-        "market_capitalization": 4332917925,
+        "market_capitalization": 4205819072,
         "commodity_name": null,
         "display_name": "Silicon Motion Technology Corporation",
         "sma_50": 88.89760002136231,

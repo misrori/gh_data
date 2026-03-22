@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UPBD",
         "name": "Upbound Group, Inc.",
-        "collected_at": "2026-03-21T02:08:46.859Z",
+        "collected_at": "2026-03-22T02:08:36.629Z",
         "data_start_date": "2016-03-21",
         "price": 17.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:UPBD",
-        "market_capitalization": 1000203978.9518003,
+        "market_capitalization": 1000203965,
         "commodity_name": null,
         "display_name": "Upbound Group, Inc.",
         "sma_50": 21.625999908447266,

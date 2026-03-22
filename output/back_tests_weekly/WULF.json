@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WULF",
         "name": "TeraWulf Inc.",
-        "collected_at": "2026-03-21T02:04:21.203Z",
+        "collected_at": "2026-03-22T02:04:15.996Z",
         "data_start_date": "2016-03-21",
         "price": 15.100000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:WULF",
-        "market_capitalization": 6403428447.185514,
+        "market_capitalization": 6403428702,
         "commodity_name": null,
         "display_name": "TeraWulf Inc.",
         "sma_50": 9.9950000333786,

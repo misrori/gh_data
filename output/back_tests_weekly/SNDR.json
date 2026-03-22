@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SNDR",
         "name": "Schneider National, Inc.",
-        "collected_at": "2026-03-21T02:05:21.581Z",
+        "collected_at": "2026-03-22T02:05:14.318Z",
         "data_start_date": "2017-04-03",
         "price": 23.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NYSE:SNDR",
-        "market_capitalization": 4164242326.6624317,
+        "market_capitalization": 4164242219,
         "commodity_name": null,
         "display_name": "Schneider National, Inc.",
         "sma_50": 24.74799991607666,

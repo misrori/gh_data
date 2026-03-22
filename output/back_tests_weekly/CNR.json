@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNR",
         "name": "Core Natural Resources, Inc.",
-        "collected_at": "2026-03-21T02:04:42.441Z",
+        "collected_at": "2026-03-22T02:04:36.586Z",
         "data_start_date": "2017-11-13",
         "price": 107.16999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Coal",
         "tradingview_id": "NYSE:CNR",
-        "market_capitalization": 5463477414.873857,
+        "market_capitalization": 5463477399,
         "commodity_name": null,
         "display_name": "Core Natural Resources, Inc.",
         "sma_50": 82.08720016479492,

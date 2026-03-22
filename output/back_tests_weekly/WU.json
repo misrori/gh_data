@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WU",
         "name": "Western Union Company (The)",
-        "collected_at": "2026-03-21T02:06:19.327Z",
+        "collected_at": "2026-03-22T02:06:11.506Z",
         "data_start_date": "2016-03-21",
         "price": 9.020000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:WU",
-        "market_capitalization": 2827362420.786493,
+        "market_capitalization": 2827362471,
         "commodity_name": null,
         "display_name": "Western Union Company (The)",
         "sma_50": 9.003600034713745,

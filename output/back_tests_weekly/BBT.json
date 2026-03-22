@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BBT",
         "name": "Beacon Financial Corporation",
-        "collected_at": "2026-03-21T02:06:41.338Z",
+        "collected_at": "2026-03-22T02:06:32.736Z",
         "data_start_date": "2016-03-21",
         "price": 28.799999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:BBT",
-        "market_capitalization": 2413903220.4361377,
+        "market_capitalization": 2413903208,
         "commodity_name": null,
         "display_name": "Beacon Financial Corporation",
         "sma_50": 26.275799980163573,

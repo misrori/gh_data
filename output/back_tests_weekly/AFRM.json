@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AFRM",
         "name": "Affirm Holdings, Inc.",
-        "collected_at": "2026-03-21T02:02:51.031Z",
+        "collected_at": "2026-03-22T02:02:46.409Z",
         "data_start_date": "2021-01-11",
         "price": 43.810001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:AFRM",
-        "market_capitalization": 14593578228.769075,
+        "market_capitalization": 14593578586,
         "commodity_name": null,
         "display_name": "Affirm Holdings, Inc.",
         "sma_50": 65.34220008850097,

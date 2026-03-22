@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BILI",
         "name": "Bilibili Inc.",
-        "collected_at": "2026-03-21T02:03:24.540Z",
+        "collected_at": "2026-03-22T02:03:21.852Z",
         "data_start_date": "2018-03-28",
         "price": 24.079999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:BILI",
-        "market_capitalization": 10478645614.08144,
+        "market_capitalization": 10361921622.335281,
         "commodity_name": null,
         "display_name": "Bilibili Inc.",
         "sma_50": 29.69319995880127,

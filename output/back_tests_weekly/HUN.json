@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HUN",
         "name": "Huntsman Corporation",
-        "collected_at": "2026-03-21T02:07:20.845Z",
+        "collected_at": "2026-03-22T02:07:12.000Z",
         "data_start_date": "2016-03-21",
         "price": 10.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Major Diversified",
         "tradingview_id": "NYSE:HUN",
-        "market_capitalization": 1805346921.9700258,
+        "market_capitalization": 1805346859.2459176,
         "commodity_name": null,
         "display_name": "Huntsman Corporation",
         "sma_50": 10.759399948120118,

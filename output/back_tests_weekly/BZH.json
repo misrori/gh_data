@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BZH",
         "name": "Beazer Homes USA, Inc.",
-        "collected_at": "2026-03-21T02:10:06.555Z",
+        "collected_at": "2026-03-22T02:09:58.367Z",
         "data_start_date": "2016-03-21",
         "price": 18.649999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:BZH",
-        "market_capitalization": 550301964.9923781,
+        "market_capitalization": 550301945,
         "commodity_name": null,
         "display_name": "Beazer Homes USA, Inc.",
         "sma_50": 22.804000091552734,

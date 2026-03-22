@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SEB",
         "name": "Seaboard Corporation",
-        "collected_at": "2026-03-21T02:05:04.750Z",
+        "collected_at": "2026-03-22T02:04:58.177Z",
         "data_start_date": "2016-03-21",
         "price": 4922.2900390625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Agricultural Commodities/Milling",
         "tradingview_id": "AMEX:SEB",
-        "market_capitalization": 4714539825.962612,
+        "market_capitalization": 4714539918,
         "commodity_name": null,
         "display_name": "Seaboard Corporation",
         "sma_50": 3801.499619140625,

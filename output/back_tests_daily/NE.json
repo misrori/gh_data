@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NE",
         "name": "Noble Corporation plc A",
-        "collected_at": "2026-03-21T02:04:01.219Z",
+        "collected_at": "2026-03-22T02:03:56.956Z",
         "data_start_date": "2021-06-09",
         "price": 46.709999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Contract Drilling",
         "tradingview_id": "NYSE:NE",
-        "market_capitalization": 7436109978.806702,
+        "market_capitalization": 7436109833.000001,
         "commodity_name": null,
         "display_name": "Noble Corporation plc A",
         "sma_50": 40.93900012969971,

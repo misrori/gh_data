@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SN",
         "name": "SharkNinja, Inc.",
-        "collected_at": "2026-03-21T02:02:53.747Z",
+        "collected_at": "2026-03-22T02:02:48.914Z",
         "data_start_date": "2023-07-31",
         "price": 98.05000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Electronics/Appliances",
         "tradingview_id": "NYSE:SN",
-        "market_capitalization": 13848862354.895023,
+        "market_capitalization": 13848862745.000002,
         "commodity_name": null,
         "display_name": "SharkNinja, Inc.",
         "sma_50": 105.04359970092773,

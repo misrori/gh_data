@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLMT",
         "name": "Calumet, Inc",
-        "collected_at": "2026-03-21T02:06:39.647Z",
+        "collected_at": "2026-03-22T02:06:30.698Z",
         "data_start_date": "2016-03-21",
         "price": 28.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NASDAQ:CLMT",
-        "market_capitalization": 2433214626.022284,
+        "market_capitalization": 2433214764,
         "commodity_name": null,
         "display_name": "Calumet, Inc",
         "sma_50": 18.76299997329712,

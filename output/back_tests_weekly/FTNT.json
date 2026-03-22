@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FTNT",
         "name": "Fortinet, Inc.",
-        "collected_at": "2026-03-21T02:01:11.354Z",
+        "collected_at": "2026-03-22T02:01:11.330Z",
         "data_start_date": "2016-03-21",
         "price": 81.4000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:FTNT",
-        "market_capitalization": 60229781726.494225,
+        "market_capitalization": 60229780865,
         "commodity_name": null,
         "display_name": "Fortinet, Inc.",
         "sma_50": 88.06739974975586,

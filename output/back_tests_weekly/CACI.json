@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CACI",
         "name": "CACI International, Inc.",
-        "collected_at": "2026-03-21T02:02:57.877Z",
+        "collected_at": "2026-03-22T02:02:53.334Z",
         "data_start_date": "2016-03-21",
         "price": 606.3800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:CACI",
-        "market_capitalization": 13392371155.51303,
+        "market_capitalization": 13392371423,
         "commodity_name": null,
         "display_name": "CACI International, Inc.",
         "sma_50": 530.6353997802735,

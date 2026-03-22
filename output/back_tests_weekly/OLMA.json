@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OLMA",
         "name": "Olema Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-21T02:08:20.357Z",
+        "collected_at": "2026-03-22T02:08:10.311Z",
         "data_start_date": "2020-11-16",
         "price": 14.079999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:OLMA",
-        "market_capitalization": 1227169993.4117646,
+        "market_capitalization": 1227169984,
         "commodity_name": null,
         "display_name": "Olema Pharmaceuticals, Inc.",
         "sma_50": 13.070999965667724,

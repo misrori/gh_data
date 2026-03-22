@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ORA",
         "name": "Ormat Technologies, Inc.",
-        "collected_at": "2026-03-21T02:04:18.630Z",
+        "collected_at": "2026-03-22T02:04:13.500Z",
         "data_start_date": "2016-03-21",
         "price": 106.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:ORA",
-        "market_capitalization": 6475168271.060803,
+        "market_capitalization": 6475168356,
         "commodity_name": null,
         "display_name": "Ormat Technologies, Inc.",
         "sma_50": 98.45400009155273,

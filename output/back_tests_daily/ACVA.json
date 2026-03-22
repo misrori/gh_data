@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACVA",
         "name": "ACV Auctions Inc.",
-        "collected_at": "2026-03-21T02:09:12.658Z",
+        "collected_at": "2026-03-22T02:09:04.540Z",
         "data_start_date": "2021-03-24",
         "price": 4.710000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:ACVA",
-        "market_capitalization": 819877140.4059196,
+        "market_capitalization": 819877144.0000001,
         "commodity_name": null,
         "display_name": "ACV Auctions Inc.",
         "sma_50": 6.612800006866455,

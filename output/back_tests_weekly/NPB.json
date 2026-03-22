@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NPB",
         "name": "Northpointe Bancshares, Inc.",
-        "collected_at": "2026-03-21T02:10:02.969Z",
+        "collected_at": "2026-03-22T02:09:54.740Z",
         "data_start_date": "2025-02-17",
         "price": 16.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:NPB",
-        "market_capitalization": 564611329.0555556,
+        "market_capitalization": 564611347,
         "commodity_name": null,
         "display_name": "Northpointe Bancshares, Inc.",
         "sma_50": 16.135600032806398,

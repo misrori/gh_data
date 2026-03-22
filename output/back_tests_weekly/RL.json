@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RL",
         "name": "Ralph Lauren Corporation",
-        "collected_at": "2026-03-21T02:02:25.477Z",
+        "collected_at": "2026-03-22T02:02:21.256Z",
         "data_start_date": "2016-03-21",
         "price": 329.8699951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:RL",
-        "market_capitalization": 19975322246.365658,
+        "market_capitalization": 19975322452,
         "commodity_name": null,
         "display_name": "Ralph Lauren Corporation",
         "sma_50": 314.23819946289063,

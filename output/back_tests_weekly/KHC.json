@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KHC",
         "name": "The Kraft Heinz Company",
-        "collected_at": "2026-03-21T02:02:01.011Z",
+        "collected_at": "2026-03-22T02:02:02.747Z",
         "data_start_date": "2016-03-21",
         "price": 21.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Major Diversified",
         "tradingview_id": "NASDAQ:KHC",
-        "market_capitalization": 25533374546.95037,
+        "market_capitalization": 25533373917,
         "commodity_name": null,
         "display_name": "The Kraft Heinz Company",
         "sma_50": 25.735399894714355,

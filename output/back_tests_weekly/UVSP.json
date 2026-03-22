@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UVSP",
         "name": "Univest Financial Corporation",
-        "collected_at": "2026-03-21T02:08:58.082Z",
+        "collected_at": "2026-03-22T02:08:48.368Z",
         "data_start_date": "2016-03-21",
         "price": 32.95000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:UVSP",
-        "market_capitalization": 925352416.019976,
+        "market_capitalization": 925352412,
         "commodity_name": null,
         "display_name": "Univest Financial Corporation",
         "sma_50": 31.33780002593994,

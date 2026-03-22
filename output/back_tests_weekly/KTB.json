@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KTB",
         "name": "Kontoor Brands, Inc.",
-        "collected_at": "2026-03-21T02:05:38.799Z",
+        "collected_at": "2026-03-22T02:05:30.545Z",
         "data_start_date": "2019-05-27",
         "price": 66.98999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:KTB",
-        "market_capitalization": 3701474767.726521,
+        "market_capitalization": 3701474650,
         "commodity_name": null,
         "display_name": "Kontoor Brands, Inc.",
         "sma_50": 69.38999977111817,

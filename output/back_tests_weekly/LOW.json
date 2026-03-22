@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LOW",
         "name": "Lowe's Companies, Inc.",
-        "collected_at": "2026-03-21T02:00:37.580Z",
+        "collected_at": "2026-03-22T02:00:37.076Z",
         "data_start_date": "2016-03-21",
         "price": 224.6300048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Home Improvement Chains",
         "tradingview_id": "NYSE:LOW",
-        "market_capitalization": 126006520262.35501,
+        "market_capitalization": 126006519319,
         "commodity_name": null,
         "display_name": "Lowe's Companies, Inc.",
         "sma_50": 243.2138006591797,

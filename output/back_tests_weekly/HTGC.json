@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTGC",
         "name": "Hercules Capital, Inc.",
-        "collected_at": "2026-03-21T02:06:33.443Z",
+        "collected_at": "2026-03-22T02:06:24.892Z",
         "data_start_date": "2016-03-21",
         "price": 14.170000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:HTGC",
-        "market_capitalization": 2602964322.1061025,
+        "market_capitalization": 2602964322,
         "commodity_name": null,
         "display_name": "Hercules Capital, Inc.",
         "sma_50": 17.842800045013426,

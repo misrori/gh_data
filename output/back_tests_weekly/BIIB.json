@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BIIB",
         "name": "Biogen Inc.",
-        "collected_at": "2026-03-21T02:01:57.521Z",
+        "collected_at": "2026-03-22T02:01:59.496Z",
         "data_start_date": "2016-03-21",
         "price": 181.4600067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:BIIB",
-        "market_capitalization": 26630803324.442398,
+        "market_capitalization": 26630803778.000004,
         "commodity_name": null,
         "display_name": "Biogen Inc.",
         "sma_50": 153.45100036621093,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTKB",
         "name": "Cytek Biosciences, Inc.",
-        "collected_at": "2026-03-21T02:10:00.705Z",
+        "collected_at": "2026-03-22T02:09:52.640Z",
         "data_start_date": "2021-07-23",
         "price": 4.480000019073486,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:CTKB",
-        "market_capitalization": 575904658.5898005,
+        "market_capitalization": 575904631,
         "commodity_name": null,
         "display_name": "Cytek Biosciences, Inc.",
         "sma_50": 4.687199983596802,

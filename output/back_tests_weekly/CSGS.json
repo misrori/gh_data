@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSGS",
         "name": "CSG Systems International, Inc.",
-        "collected_at": "2026-03-21T02:06:49.727Z",
+        "collected_at": "2026-03-22T02:06:41.350Z",
         "data_start_date": "2016-03-21",
         "price": 79.87000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:CSGS",
-        "market_capitalization": 2276449721.2028093,
+        "market_capitalization": 2276449703,
         "commodity_name": null,
         "display_name": "CSG Systems International, Inc.",
         "sma_50": 70.30060005187988,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TIC",
         "name": "TIC Solutions, Inc.",
-        "collected_at": "2026-03-21T02:07:31.063Z",
+        "collected_at": "2026-03-22T02:07:22.426Z",
         "data_start_date": "2025-02-17",
         "price": 7.599999904632568,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:TIC",
-        "market_capitalization": 1680765827.1521456,
+        "market_capitalization": 1680765793,
         "commodity_name": null,
         "display_name": "TIC Solutions, Inc.",
         "sma_50": 10.616599979400634,

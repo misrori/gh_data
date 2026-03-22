@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FHI",
         "name": "Federated Hermes, Inc.",
-        "collected_at": "2026-03-21T02:05:20.727Z",
+        "collected_at": "2026-03-22T02:05:13.115Z",
         "data_start_date": "2016-03-21",
         "price": 55.66999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:FHI",
-        "market_capitalization": 4229509694.331004,
+        "market_capitalization": 4229509613.0000005,
         "commodity_name": null,
         "display_name": "Federated Hermes, Inc.",
         "sma_50": 49.78239990234375,

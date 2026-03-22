@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SMPL",
         "name": "The Simply Good Foods Company",
-        "collected_at": "2026-03-21T02:08:11.727Z",
+        "collected_at": "2026-03-22T02:08:01.667Z",
         "data_start_date": "2017-07-10",
         "price": 14.130000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Major Diversified",
         "tradingview_id": "NASDAQ:SMPL",
-        "market_capitalization": 1308088364.8765433,
+        "market_capitalization": 1308088383,
         "commodity_name": null,
         "display_name": "The Simply Good Foods Company",
         "sma_50": 25.2282999420166,

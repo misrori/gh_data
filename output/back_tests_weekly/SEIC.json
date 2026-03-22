@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SEIC",
         "name": "SEI Investments Company",
-        "collected_at": "2026-03-21T02:03:33.632Z",
+        "collected_at": "2026-03-22T02:03:29.339Z",
         "data_start_date": "2016-03-21",
         "price": 77.79000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:SEIC",
-        "market_capitalization": 9509682430.191216,
+        "market_capitalization": 9509682207,
         "commodity_name": null,
         "display_name": "SEI Investments Company",
         "sma_50": 84.04239974975586,

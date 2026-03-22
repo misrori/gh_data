@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SRE",
         "name": "DBA Sempra",
-        "collected_at": "2026-03-21T02:01:11.717Z",
+        "collected_at": "2026-03-22T02:01:11.617Z",
         "data_start_date": "2016-03-21",
         "price": 91.72000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:SRE",
-        "market_capitalization": 59919219363.14373,
+        "market_capitalization": 59919220160,
         "commodity_name": null,
         "display_name": "DBA Sempra",
         "sma_50": 85.1670002746582,

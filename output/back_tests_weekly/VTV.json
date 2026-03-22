@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VTV",
         "name": "Vanguard Value ETF",
-        "collected_at": "2026-03-21T02:10:33.532Z",
+        "collected_at": "2026-03-22T02:10:24.528Z",
         "data_start_date": "2016-03-21",
         "price": 194.52000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VTV",
-        "market_capitalization": 167107757514.353,
+        "market_capitalization": 166584964762.221,
         "commodity_name": null,
         "display_name": "Vanguard Value ETF",
         "sma_50": 185.4770001220703,

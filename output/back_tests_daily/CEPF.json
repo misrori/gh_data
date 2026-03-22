@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CEPF",
         "name": "Cantor Equity Partners IV, Inc.",
-        "collected_at": "2026-03-21T02:09:58.181Z",
+        "collected_at": "2026-03-22T02:09:50.086Z",
         "data_start_date": "2025-08-21",
         "price": 10.229999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NASDAQ:CEPF",
-        "market_capitalization": 584644531.0303327,
+        "market_capitalization": 584644489.0000001,
         "commodity_name": null,
         "display_name": "Cantor Equity Partners IV, Inc.",
         "sma_50": 10.387999954223632,

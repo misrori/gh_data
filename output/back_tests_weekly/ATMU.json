@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATMU",
         "name": "Atmus Filtration Technologies Inc.",
-        "collected_at": "2026-03-21T02:05:10.392Z",
+        "collected_at": "2026-03-22T02:05:03.406Z",
         "data_start_date": "2023-05-22",
         "price": 55.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:ATMU",
-        "market_capitalization": 4542473759.168495,
+        "market_capitalization": 4542473721.999999,
         "commodity_name": null,
         "display_name": "Atmus Filtration Technologies Inc.",
         "sma_50": 46.54540000915527,

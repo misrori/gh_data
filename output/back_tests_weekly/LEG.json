@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LEG",
         "name": "Leggett & Platt, Incorporated",
-        "collected_at": "2026-03-21T02:08:13.427Z",
+        "collected_at": "2026-03-22T02:08:03.189Z",
         "data_start_date": "2016-03-21",
         "price": 9.550000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Home Furnishings",
         "tradingview_id": "NYSE:LEG",
-        "market_capitalization": 1297631012.9654121,
+        "market_capitalization": 1297631049,
         "commodity_name": null,
         "display_name": "Leggett & Platt, Incorporated",
         "sma_50": 9.909200077056886,

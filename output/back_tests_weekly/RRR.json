@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RRR",
         "name": "Red Rock Resorts, Inc.",
-        "collected_at": "2026-03-21T02:04:27.474Z",
+        "collected_at": "2026-03-22T02:04:21.957Z",
         "data_start_date": "2016-04-25",
         "price": 57.52000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Hotels/Resorts/Cruise lines",
         "tradingview_id": "NASDAQ:RRR",
-        "market_capitalization": 6041143297.345807,
+        "market_capitalization": 6041143283,
         "commodity_name": null,
         "display_name": "Red Rock Resorts, Inc.",
         "sma_50": 56.67560005187988,

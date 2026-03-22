@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMRX",
         "name": "Amneal Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-21T02:05:38.340Z",
+        "collected_at": "2026-03-22T02:05:30.339Z",
         "data_start_date": "2018-05-07",
         "price": 11.829999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:AMRX",
-        "market_capitalization": 3722062173.430308,
+        "market_capitalization": 3722062103,
         "commodity_name": null,
         "display_name": "Amneal Pharmaceuticals, Inc.",
         "sma_50": 10.4414000415802,

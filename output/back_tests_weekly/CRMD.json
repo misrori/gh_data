@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRMD",
         "name": "CorMedix Inc.",
-        "collected_at": "2026-03-21T02:10:20.415Z",
+        "collected_at": "2026-03-22T02:10:12.267Z",
         "data_start_date": "2016-03-21",
         "price": 6.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:CRMD",
-        "market_capitalization": 494065013.888889,
+        "market_capitalization": 494064999,
         "commodity_name": null,
         "display_name": "CorMedix Inc.",
         "sma_50": 10.49060001373291,

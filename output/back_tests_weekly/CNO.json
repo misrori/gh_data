@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNO",
         "name": "CNO Financial Group, Inc.",
-        "collected_at": "2026-03-21T02:05:36.858Z",
+        "collected_at": "2026-03-22T02:05:28.707Z",
         "data_start_date": "2016-03-21",
         "price": 39.7400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:CNO",
-        "market_capitalization": 3746596179.3685803,
+        "market_capitalization": 3746596352,
         "commodity_name": null,
         "display_name": "CNO Financial Group, Inc.",
         "sma_50": 39.80180015563965,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UTZ",
         "name": "Utz Brands Inc",
-        "collected_at": "2026-03-21T02:08:38.107Z",
+        "collected_at": "2026-03-22T02:08:27.061Z",
         "data_start_date": "2018-11-26",
         "price": 7.539999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:UTZ",
-        "market_capitalization": 1084115552.438961,
+        "market_capitalization": 1084115574,
         "commodity_name": null,
         "display_name": "Utz Brands Inc",
         "sma_50": 11.547399969100953,

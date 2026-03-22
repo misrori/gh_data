@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UWMC",
         "name": "UWM Holdings Corporation",
-        "collected_at": "2026-03-21T02:04:35.581Z",
+        "collected_at": "2026-03-22T02:04:29.953Z",
         "data_start_date": "2020-04-27",
         "price": 3.559999942779541,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:UWMC",
-        "market_capitalization": 5695810538.536585,
+        "market_capitalization": 5695810359,
         "commodity_name": null,
         "display_name": "UWM Holdings Corporation",
         "sma_50": 4.912599983215332,

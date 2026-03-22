@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WAB",
         "name": "Westinghouse Air Brake Technologies Corporation",
-        "collected_at": "2026-03-21T02:01:30.909Z",
+        "collected_at": "2026-03-22T02:01:31.991Z",
         "data_start_date": "2016-03-21",
         "price": 236.05999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:WAB",
-        "market_capitalization": 40252285736.56709,
+        "market_capitalization": 40252285424.00001,
         "commodity_name": null,
         "display_name": "Westinghouse Air Brake Technologies Corporation",
         "sma_50": 210.18980010986328,

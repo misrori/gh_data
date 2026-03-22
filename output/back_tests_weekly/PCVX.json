@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PCVX",
         "name": "Vaxcyte, Inc.",
-        "collected_at": "2026-03-21T02:03:52.685Z",
+        "collected_at": "2026-03-22T02:03:48.201Z",
         "data_start_date": "2020-06-08",
         "price": 54.720001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:PCVX",
-        "market_capitalization": 7875322271.733234,
+        "market_capitalization": 7875322515,
         "commodity_name": null,
         "display_name": "Vaxcyte, Inc.",
         "sma_50": 41.66420009613037,

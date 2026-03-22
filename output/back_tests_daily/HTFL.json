@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTFL",
         "name": "Heartflow, Inc.",
-        "collected_at": "2026-03-21T02:06:52.316Z",
+        "collected_at": "2026-03-22T02:06:43.931Z",
         "data_start_date": "2025-08-11",
         "price": 26.020000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:HTFL",
-        "market_capitalization": 2231416839.421398,
+        "market_capitalization": 2231416931.0000005,
         "commodity_name": null,
         "display_name": "Heartflow, Inc.",
         "sma_50": 26.889899978637697,

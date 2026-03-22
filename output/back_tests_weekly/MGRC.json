@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MGRC",
         "name": "McGrath RentCorp",
-        "collected_at": "2026-03-21T02:06:34.330Z",
+        "collected_at": "2026-03-22T02:06:25.662Z",
         "data_start_date": "2016-03-21",
         "price": 105.37999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:MGRC",
-        "market_capitalization": 2593576239.544407,
+        "market_capitalization": 2593576262,
         "commodity_name": null,
         "display_name": "McGrath RentCorp",
         "sma_50": 112.67319976806641,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GPRK",
         "name": "Geopark Ltd",
-        "collected_at": "2026-03-21T02:10:16.766Z",
+        "collected_at": "2026-03-22T02:10:09.080Z",
         "data_start_date": "2016-03-21",
         "price": 9.800000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:GPRK",
-        "market_capitalization": 502835787.0657508,
+        "market_capitalization": 502835818,
         "commodity_name": null,
         "display_name": "Geopark Ltd",
         "sma_50": 7.314800004959107,

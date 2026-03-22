@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNXN",
         "name": "PC Connection, Inc.",
-        "collected_at": "2026-03-21T02:07:59.995Z",
+        "collected_at": "2026-03-22T02:07:50.656Z",
         "data_start_date": "2016-03-21",
         "price": 56.2599983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:CNXN",
-        "market_capitalization": 1417666078.5984554,
+        "market_capitalization": 1417666047,
         "commodity_name": null,
         "display_name": "PC Connection, Inc.",
         "sma_50": 62.047999954223634,

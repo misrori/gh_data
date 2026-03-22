@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "THG",
         "name": "Hanover Insurance Group Inc",
-        "collected_at": "2026-03-21T02:04:29.870Z",
+        "collected_at": "2026-03-22T02:04:24.255Z",
         "data_start_date": "2016-03-21",
         "price": 168.83999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:THG",
-        "market_capitalization": 5934610388.706687,
+        "market_capitalization": 5934610196.000001,
         "commodity_name": null,
         "display_name": "Hanover Insurance Group Inc",
         "sma_50": 173.61599975585938,

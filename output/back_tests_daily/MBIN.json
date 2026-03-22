@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MBIN",
         "name": "Merchants Bancorp",
-        "collected_at": "2026-03-21T02:07:14.307Z",
+        "collected_at": "2026-03-22T02:07:05.750Z",
         "data_start_date": "2017-10-27",
         "price": 41.189998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:MBIN",
-        "market_capitalization": 1893177449.064655,
+        "market_capitalization": 1893177462,
         "commodity_name": null,
         "display_name": "Merchants Bancorp",
         "sma_50": 41.11959991455078,

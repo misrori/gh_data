@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MUSA",
         "name": "Murphy USA Inc.",
-        "collected_at": "2026-03-21T02:03:41.669Z",
+        "collected_at": "2026-03-22T02:03:37.042Z",
         "data_start_date": "2016-03-21",
         "price": 473.1700134277344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:MUSA",
-        "market_capitalization": 8770369932.414703,
+        "market_capitalization": 8770370382,
         "commodity_name": null,
         "display_name": "Murphy USA Inc.",
         "sma_50": 411.7554010009766,

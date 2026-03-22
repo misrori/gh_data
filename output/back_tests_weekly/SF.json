@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SF",
         "name": "Stifel Financial Corporation",
-        "collected_at": "2026-03-21T02:03:20.672Z",
+        "collected_at": "2026-03-22T02:03:15.825Z",
         "data_start_date": "2016-03-21",
         "price": 70.7699966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:SF",
-        "market_capitalization": 10954340582.848953,
+        "market_capitalization": 10954340444,
         "commodity_name": null,
         "display_name": "Stifel Financial Corporation",
         "sma_50": 74.6878002166748,

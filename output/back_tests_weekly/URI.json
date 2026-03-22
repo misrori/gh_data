@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "URI",
         "name": "United Rentals, Inc.",
-        "collected_at": "2026-03-21T02:01:25.657Z",
+        "collected_at": "2026-03-22T02:01:26.577Z",
         "data_start_date": "2016-03-21",
         "price": 710.469970703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:URI",
-        "market_capitalization": 44758296298.09213,
+        "market_capitalization": 44758293694,
         "commodity_name": null,
         "display_name": "United Rentals, Inc.",
         "sma_50": 826.3617993164063,

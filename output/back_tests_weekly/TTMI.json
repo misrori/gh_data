@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTMI",
         "name": "TTM Technologies, Inc.",
-        "collected_at": "2026-03-21T02:03:34.179Z",
+        "collected_at": "2026-03-22T02:03:29.877Z",
         "data_start_date": "2016-03-21",
         "price": 91.54000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NASDAQ:TTMI",
-        "market_capitalization": 9465686782.638649,
+        "market_capitalization": 9465686699,
         "commodity_name": null,
         "display_name": "TTM Technologies, Inc.",
         "sma_50": 59.52559997558594,

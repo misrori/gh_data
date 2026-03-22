@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NXDR",
         "name": "Nextdoor Holdings, Inc.",
-        "collected_at": "2026-03-21T02:10:05.590Z",
+        "collected_at": "2026-03-22T02:09:57.302Z",
         "data_start_date": "2021-11-08",
         "price": 1.4299999475479126,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:NXDR",
-        "market_capitalization": 554447350.4041096,
+        "market_capitalization": 554447315,
         "commodity_name": null,
         "display_name": "Nextdoor Holdings, Inc.",
         "sma_50": 1.7457999968528748,

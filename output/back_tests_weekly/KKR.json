@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KKR",
         "name": "KKR & Co. Inc.",
-        "collected_at": "2026-03-21T02:00:54.091Z",
+        "collected_at": "2026-03-22T02:00:53.480Z",
         "data_start_date": "2016-03-21",
         "price": 90,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:KKR",
-        "market_capitalization": 80239579947.01987,
+        "market_capitalization": 80239581299,
         "commodity_name": null,
         "display_name": "KKR & Co. Inc.",
         "sma_50": 123.19899993896485,

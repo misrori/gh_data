@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KBH",
         "name": "KB Home",
-        "collected_at": "2026-03-21T02:05:59.922Z",
+        "collected_at": "2026-03-22T02:05:51.335Z",
         "data_start_date": "2016-03-21",
         "price": 51.150001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:KBH",
-        "market_capitalization": 3231330186.5742855,
+        "market_capitalization": 3231330282.9999995,
         "commodity_name": null,
         "display_name": "KB Home",
         "sma_50": 58.74740028381348,

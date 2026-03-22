@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DECK",
         "name": "Deckers Outdoor Corporation",
-        "collected_at": "2026-03-21T02:02:51.891Z",
+        "collected_at": "2026-03-22T02:02:47.124Z",
         "data_start_date": "2016-03-21",
         "price": 100.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:DECK",
-        "market_capitalization": 14256035626.195217,
+        "market_capitalization": 14256035172,
         "commodity_name": null,
         "display_name": "Deckers Outdoor Corporation",
         "sma_50": 104.73940002441407,

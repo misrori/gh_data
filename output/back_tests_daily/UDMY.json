@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UDMY",
         "name": "Udemy, Inc.",
-        "collected_at": "2026-03-21T02:09:36.685Z",
+        "collected_at": "2026-03-22T02:09:28.739Z",
         "data_start_date": "2021-10-29",
         "price": 4.650000095367432,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:UDMY",
-        "market_capitalization": 678084320.4947369,
+        "market_capitalization": 678084334,
         "commodity_name": null,
         "display_name": "Udemy, Inc.",
         "sma_50": 4.899200010299682,

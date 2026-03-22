@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AWK",
         "name": "American Water Works Company, Inc.",
-        "collected_at": "2026-03-21T02:01:57.844Z",
+        "collected_at": "2026-03-22T02:01:59.742Z",
         "data_start_date": "2016-03-21",
         "price": 135.7899932861328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NYSE:AWK",
-        "market_capitalization": 26507387728.861416,
+        "market_capitalization": 26507385238,
         "commodity_name": null,
         "display_name": "American Water Works Company, Inc.",
         "sma_50": 137.69900009155273,

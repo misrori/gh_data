@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INGM",
         "name": "Ingram Micro Holding Corporation",
-        "collected_at": "2026-03-21T02:04:49.983Z",
+        "collected_at": "2026-03-22T02:04:43.446Z",
         "data_start_date": "2024-10-24",
         "price": 22.1299991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:INGM",
-        "market_capitalization": 5202203000.250225,
+        "market_capitalization": 5202202732,
         "commodity_name": null,
         "display_name": "Ingram Micro Holding Corporation",
         "sma_50": 21.662599945068358,

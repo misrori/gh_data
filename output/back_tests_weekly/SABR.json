@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SABR",
         "name": "Sabre Corporation",
-        "collected_at": "2026-03-21T02:10:13.355Z",
+        "collected_at": "2026-03-22T02:10:05.256Z",
         "data_start_date": "2016-03-21",
         "price": 1.3200000524520874,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:SABR",
-        "market_capitalization": 521617841.3380783,
+        "market_capitalization": 521617872.00000006,
         "commodity_name": null,
         "display_name": "Sabre Corporation",
         "sma_50": 1.9562800133228302,

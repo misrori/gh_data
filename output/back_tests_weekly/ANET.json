@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANET",
         "name": "Arista Networks, Inc.",
-        "collected_at": "2026-03-21T02:00:30.386Z",
+        "collected_at": "2026-03-22T02:00:29.148Z",
         "data_start_date": "2016-03-21",
         "price": 131.22000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Peripherals",
         "tradingview_id": "NYSE:ANET",
-        "market_capitalization": 164882888953.64468,
+        "market_capitalization": 164882897134,
         "commodity_name": null,
         "display_name": "Arista Networks, Inc.",
         "sma_50": 123.49639984130859,

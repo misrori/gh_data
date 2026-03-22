@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VIR",
         "name": "Vir Biotechnology, Inc.",
-        "collected_at": "2026-03-21T02:07:56.795Z",
+        "collected_at": "2026-03-22T02:07:47.956Z",
         "data_start_date": "2019-10-11",
         "price": 9.100000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:VIR",
-        "market_capitalization": 1454283631.3432834,
+        "market_capitalization": 1454283675,
         "commodity_name": null,
         "display_name": "Vir Biotechnology, Inc.",
         "sma_50": 8.083500022888183,

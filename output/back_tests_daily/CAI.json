@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CAI",
         "name": "Caris Life Sciences, Inc.",
-        "collected_at": "2026-03-21T02:04:49.786Z",
+        "collected_at": "2026-03-22T02:04:43.225Z",
         "data_start_date": "2025-06-18",
         "price": 18.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:CAI",
-        "market_capitalization": 5202295719.209995,
+        "market_capitalization": 5202295824,
         "commodity_name": null,
         "display_name": "Caris Life Sciences, Inc.",
         "sma_50": 21.71620002746582,

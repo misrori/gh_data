@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMBQ",
         "name": "Ambiq Micro, Inc.",
-        "collected_at": "2026-03-21T02:10:14.404Z",
+        "collected_at": "2026-03-22T02:10:06.545Z",
         "data_start_date": "2025-07-30",
         "price": 24.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NYSE:AMBQ",
-        "market_capitalization": 515407638.4376688,
+        "market_capitalization": 515407636.99999994,
         "commodity_name": null,
         "display_name": "Ambiq Micro, Inc.",
         "sma_50": 30.248599967956544,

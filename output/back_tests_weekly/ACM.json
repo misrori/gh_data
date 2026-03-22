@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACM",
         "name": "AECOM",
-        "collected_at": "2026-03-21T02:03:16.359Z",
+        "collected_at": "2026-03-22T02:03:11.803Z",
         "data_start_date": "2016-03-21",
         "price": 88.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NYSE:ACM",
-        "market_capitalization": 11452385920.959036,
+        "market_capitalization": 11452386196,
         "commodity_name": null,
         "display_name": "AECOM",
         "sma_50": 109.98560012817383,

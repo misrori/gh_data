@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSGP",
         "name": "CoStar Group, Inc.",
-        "collected_at": "2026-03-21T02:02:35.216Z",
+        "collected_at": "2026-03-22T02:02:30.920Z",
         "data_start_date": "2016-03-21",
         "price": 42.900001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:CSGP",
-        "market_capitalization": 18009132632.115833,
+        "market_capitalization": 18009133401,
         "commodity_name": null,
         "display_name": "CoStar Group, Inc.",
         "sma_50": 72.34180023193359,

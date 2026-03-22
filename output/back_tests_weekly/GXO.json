@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GXO",
         "name": "GXO Logistics, Inc.",
-        "collected_at": "2026-03-21T02:04:34.459Z",
+        "collected_at": "2026-03-22T02:04:29.008Z",
         "data_start_date": "2021-07-19",
         "price": 49.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Air Freight/Couriers",
         "tradingview_id": "NYSE:GXO",
-        "market_capitalization": 5727648964.089526,
+        "market_capitalization": 5727648948,
         "commodity_name": null,
         "display_name": "GXO Logistics, Inc.",
         "sma_50": 50.96460006713867,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MGM",
         "name": "MGM Resorts International",
-        "collected_at": "2026-03-21T02:03:38.474Z",
+        "collected_at": "2026-03-22T02:03:34.155Z",
         "data_start_date": "2016-03-21",
         "price": 35.369998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Casinos/Gaming",
         "tradingview_id": "NYSE:MGM",
-        "market_capitalization": 9048654664.974958,
+        "market_capitalization": 9048654539.999998,
         "commodity_name": null,
         "display_name": "MGM Resorts International",
         "sma_50": 34.720200004577634,

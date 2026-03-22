@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSV",
         "name": "Carriage Services, Inc.",
-        "collected_at": "2026-03-21T02:09:41.682Z",
+        "collected_at": "2026-03-22T02:09:33.481Z",
         "data_start_date": "2016-03-21",
         "price": 41.650001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:CSV",
-        "market_capitalization": 656038596.932304,
+        "market_capitalization": 656038644,
         "commodity_name": null,
         "display_name": "Carriage Services, Inc.",
         "sma_50": 43.71800010681152,

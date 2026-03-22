@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARW",
         "name": "Arrow Electronics, Inc.",
-        "collected_at": "2026-03-21T02:04:09.604Z",
+        "collected_at": "2026-03-22T02:04:05.261Z",
         "data_start_date": "2016-03-21",
         "price": 136.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Electronics Distributors",
         "tradingview_id": "NYSE:ARW",
-        "market_capitalization": 6980413616.6567545,
+        "market_capitalization": 6980413221.999999,
         "commodity_name": null,
         "display_name": "Arrow Electronics, Inc.",
         "sma_50": 123.59420059204102,

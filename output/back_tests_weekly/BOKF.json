@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BOKF",
         "name": "BOK Financial Corporation",
-        "collected_at": "2026-03-21T02:03:56.380Z",
+        "collected_at": "2026-03-22T02:03:52.194Z",
         "data_start_date": "2016-03-21",
         "price": 125.06999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:BOKF",
-        "market_capitalization": 7591335593.349352,
+        "market_capitalization": 7591335428,
         "commodity_name": null,
         "display_name": "BOK Financial Corporation",
         "sma_50": 110.96620025634766,

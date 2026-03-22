@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHEF",
         "name": "The Chefs' Warehouse, Inc.",
-        "collected_at": "2026-03-21T02:06:43.838Z",
+        "collected_at": "2026-03-22T02:06:35.501Z",
         "data_start_date": "2016-03-21",
         "price": 58.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Food Distributors",
         "tradingview_id": "NASDAQ:CHEF",
-        "market_capitalization": 2361893213.364439,
+        "market_capitalization": 2361893317,
         "commodity_name": null,
         "display_name": "The Chefs' Warehouse, Inc.",
         "sma_50": 62.236199951171876,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WSFS",
         "name": "WSFS Financial Corporation",
-        "collected_at": "2026-03-21T02:05:54.888Z",
+        "collected_at": "2026-03-22T02:05:46.289Z",
         "data_start_date": "2016-03-21",
         "price": 63.619998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Savings Banks",
         "tradingview_id": "NASDAQ:WSFS",
-        "market_capitalization": 3354820614.0961237,
+        "market_capitalization": 3354820606.0000005,
         "commodity_name": null,
         "display_name": "WSFS Financial Corporation",
         "sma_50": 56.71659996032715,

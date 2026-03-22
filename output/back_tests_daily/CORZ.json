@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CORZ",
         "name": "Core Scientific, Inc.",
-        "collected_at": "2026-03-21T02:04:55.216Z",
+        "collected_at": "2026-03-22T02:04:48.994Z",
         "data_start_date": "2024-01-24",
         "price": 15.8100004196167,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:CORZ",
-        "market_capitalization": 4985408925.005462,
+        "market_capitalization": 4985409196,
         "commodity_name": null,
         "display_name": "Core Scientific, Inc.",
         "sma_50": 17.270899925231934,

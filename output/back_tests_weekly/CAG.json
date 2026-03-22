@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CAG",
         "name": "ConAgra Brands, Inc.",
-        "collected_at": "2026-03-21T02:04:04.811Z",
+        "collected_at": "2026-03-22T02:04:00.625Z",
         "data_start_date": "2016-03-21",
         "price": 15.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Major Diversified",
         "tradingview_id": "NYSE:CAG",
-        "market_capitalization": 7252081081.524675,
+        "market_capitalization": 7252081188,
         "commodity_name": null,
         "display_name": "ConAgra Brands, Inc.",
         "sma_50": 19.23059997558594,

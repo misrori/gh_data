@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DAKT",
         "name": "Daktronics, Inc.",
-        "collected_at": "2026-03-21T02:08:50.479Z",
+        "collected_at": "2026-03-22T02:08:40.476Z",
         "data_start_date": "2016-03-21",
         "price": 20.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NASDAQ:DAKT",
-        "market_capitalization": 973689894.8437501,
+        "market_capitalization": 973689910,
         "commodity_name": null,
         "display_name": "Daktronics, Inc.",
         "sma_50": 18.612199954986572,

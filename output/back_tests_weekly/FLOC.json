@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLOC",
         "name": "Flowco Holdings Inc.",
-        "collected_at": "2026-03-21T02:07:10.708Z",
+        "collected_at": "2026-03-22T02:07:02.099Z",
         "data_start_date": "2025-01-13",
         "price": 21.690000534057617,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:FLOC",
-        "market_capitalization": 1944785240.4478526,
+        "market_capitalization": 1944785228,
         "commodity_name": null,
         "display_name": "Flowco Holdings Inc.",
         "sma_50": 18.505000019073485,

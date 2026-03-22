@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TERN",
         "name": "Terns Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-21T02:04:50.801Z",
+        "collected_at": "2026-03-22T02:04:44.223Z",
         "data_start_date": "2021-02-01",
         "price": 48.439998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:TERN",
-        "market_capitalization": 5150614715.198532,
+        "market_capitalization": 5150614425,
         "commodity_name": null,
         "display_name": "Terns Pharmaceuticals, Inc.",
         "sma_50": 18.710099964141847,

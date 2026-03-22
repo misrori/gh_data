@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SOC",
         "name": "Sable Offshore Corp.",
-        "collected_at": "2026-03-21T02:06:41.929Z",
+        "collected_at": "2026-03-22T02:06:33.320Z",
         "data_start_date": "2021-04-19",
         "price": 16.280000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:SOC",
-        "market_capitalization": 2397133778.931155,
+        "market_capitalization": 2397133965,
         "commodity_name": null,
         "display_name": "Sable Offshore Corp.",
         "sma_50": 11.153000059127807,

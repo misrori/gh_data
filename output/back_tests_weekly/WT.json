@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WT",
         "name": "WisdomTree, Inc.",
-        "collected_at": "2026-03-21T02:07:15.108Z",
+        "collected_at": "2026-03-22T02:07:06.578Z",
         "data_start_date": "2016-03-21",
         "price": 13.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NYSE:WT",
-        "market_capitalization": 1875005051.63925,
+        "market_capitalization": 1875005064.9999998,
         "commodity_name": null,
         "display_name": "WisdomTree, Inc.",
         "sma_50": 12.67339994430542,

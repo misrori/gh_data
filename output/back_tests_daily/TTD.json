@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTD",
         "name": "The Trade Desk, Inc.",
-        "collected_at": "2026-03-21T02:03:15.577Z",
+        "collected_at": "2026-03-22T02:03:11.117Z",
         "data_start_date": "2016-09-21",
         "price": 24.110000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:TTD",
-        "market_capitalization": 11475815423.70736,
+        "market_capitalization": 11475815602,
         "commodity_name": null,
         "display_name": "The Trade Desk, Inc.",
         "sma_50": 28.71590015411377,

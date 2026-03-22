@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OKTA",
         "name": "Okta, Inc.",
-        "collected_at": "2026-03-21T02:02:53.579Z",
+        "collected_at": "2026-03-22T02:02:48.765Z",
         "data_start_date": "2017-04-03",
         "price": 78.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:OKTA",
-        "market_capitalization": 13869783818.713594,
+        "market_capitalization": 13869784099,
         "commodity_name": null,
         "display_name": "Okta, Inc.",
         "sma_50": 92.34420059204102,

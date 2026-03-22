@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GBCI",
         "name": "Glacier Bancorp, Inc.",
-        "collected_at": "2026-03-21T02:04:37.604Z",
+        "collected_at": "2026-03-22T02:04:31.751Z",
         "data_start_date": "2016-03-21",
         "price": 43.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:GBCI",
-        "market_capitalization": 5634681418.417152,
+        "market_capitalization": 5634681458,
         "commodity_name": null,
         "display_name": "Glacier Bancorp, Inc.",
         "sma_50": 45.013600006103516,

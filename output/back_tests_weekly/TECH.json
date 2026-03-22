@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TECH",
         "name": "Bio-Techne Corp",
-        "collected_at": "2026-03-21T02:03:49.535Z",
+        "collected_at": "2026-03-22T02:03:45.226Z",
         "data_start_date": "2016-03-21",
         "price": 51.47999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:TECH",
-        "market_capitalization": 8054215539.735606,
+        "market_capitalization": 8054215444,
         "commodity_name": null,
         "display_name": "Bio-Techne Corp",
         "sma_50": 56.2615998840332,

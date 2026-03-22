@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APP",
         "name": "Applovin Corporation",
-        "collected_at": "2026-03-21T02:00:33.365Z",
+        "collected_at": "2026-03-22T02:00:32.460Z",
         "data_start_date": "2021-04-15",
         "price": 442.3900146484375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:APP",
-        "market_capitalization": 149208422214.51917,
+        "market_capitalization": 149208422601,
         "commodity_name": null,
         "display_name": "Applovin Corporation",
         "sma_50": 478.68060119628905,

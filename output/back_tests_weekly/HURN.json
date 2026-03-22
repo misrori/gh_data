@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HURN",
         "name": "Huron Consulting Group Inc.",
-        "collected_at": "2026-03-21T02:06:54.246Z",
+        "collected_at": "2026-03-22T02:06:45.912Z",
         "data_start_date": "2016-03-21",
         "price": 129.8699951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:HURN",
-        "market_capitalization": 2197780144.982947,
+        "market_capitalization": 2197780063.0000005,
         "commodity_name": null,
         "display_name": "Huron Consulting Group Inc.",
         "sma_50": 148.80940017700195,

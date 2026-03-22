@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BHB",
         "name": "Bar Harbor Bankshares, Inc.",
-        "collected_at": "2026-03-21T02:10:13.159Z",
+        "collected_at": "2026-03-22T02:10:04.946Z",
         "data_start_date": "2016-03-21",
         "price": 31.329999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "AMEX:BHB",
-        "market_capitalization": 524530105.3901588,
+        "market_capitalization": 524530104.00000006,
         "commodity_name": null,
         "display_name": "Bar Harbor Bankshares, Inc.",
         "sma_50": 30.99979995727539,

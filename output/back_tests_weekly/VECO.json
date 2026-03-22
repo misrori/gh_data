@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VECO",
         "name": "Veeco Instruments Inc.",
-        "collected_at": "2026-03-21T02:07:16.661Z",
+        "collected_at": "2026-03-22T02:07:07.710Z",
         "data_start_date": "2016-03-21",
         "price": 30.649999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:VECO",
-        "market_capitalization": 1851016609.1404011,
+        "market_capitalization": 1851016595.0000002,
         "commodity_name": null,
         "display_name": "Veeco Instruments Inc.",
         "sma_50": 26.365600090026856,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AN",
         "name": "AutoNation, Inc.",
-        "collected_at": "2026-03-21T02:04:23.163Z",
+        "collected_at": "2026-03-22T02:04:18.062Z",
         "data_start_date": "2016-03-21",
         "price": 181.4600067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:AN",
-        "market_capitalization": 6298574582.3097515,
+        "market_capitalization": 6298574960.999999,
         "commodity_name": null,
         "display_name": "AutoNation, Inc.",
         "sma_50": 201.69900024414062,

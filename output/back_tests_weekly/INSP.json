@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INSP",
         "name": "Inspire Medical Systems, Inc.",
-        "collected_at": "2026-03-21T02:07:45.816Z",
+        "collected_at": "2026-03-22T02:07:36.837Z",
         "data_start_date": "2018-04-30",
         "price": 53.720001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:INSP",
-        "market_capitalization": 1535816700.8485734,
+        "market_capitalization": 1535816727,
         "commodity_name": null,
         "display_name": "Inspire Medical Systems, Inc.",
         "sma_50": 100.79139991760253,

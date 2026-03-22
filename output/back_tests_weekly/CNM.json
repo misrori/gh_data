@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNM",
         "name": "Core & Main, Inc.",
-        "collected_at": "2026-03-21T02:03:36.422Z",
+        "collected_at": "2026-03-22T02:03:32.012Z",
         "data_start_date": "2021-07-19",
         "price": 47.400001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:CNM",
-        "market_capitalization": 9267283463.065262,
+        "market_capitalization": 9267283761,
         "commodity_name": null,
         "display_name": "Core & Main, Inc.",
         "sma_50": 55.230000228881835,

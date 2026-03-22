@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TBBB",
         "name": "BBB Foods Inc.",
-        "collected_at": "2026-03-21T02:05:37.886Z",
+        "collected_at": "2026-03-22T02:05:29.874Z",
         "data_start_date": "2024-02-09",
         "price": 32.4900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NYSE:TBBB",
-        "market_capitalization": 3728773555.727605,
+        "market_capitalization": 3728773783,
         "commodity_name": null,
         "display_name": "BBB Foods Inc.",
         "sma_50": 35.07760009765625,

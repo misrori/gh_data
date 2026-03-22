@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COLM",
         "name": "Columbia Sportswear Company",
-        "collected_at": "2026-03-21T02:06:15.559Z",
+        "collected_at": "2026-03-22T02:06:07.441Z",
         "data_start_date": "2016-03-21",
         "price": 55.22999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NASDAQ:COLM",
-        "market_capitalization": 2891376148.43167,
+        "market_capitalization": 2891376141.0000005,
         "commodity_name": null,
         "display_name": "Columbia Sportswear Company",
         "sma_50": 57.31259994506836,

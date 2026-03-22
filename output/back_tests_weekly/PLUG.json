@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLUG",
         "name": "Plug Power, Inc.",
-        "collected_at": "2026-03-21T02:06:06.679Z",
+        "collected_at": "2026-03-22T02:05:58.373Z",
         "data_start_date": "2016-03-21",
         "price": 2.2300000190734863,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:PLUG",
-        "market_capitalization": 3108519947.3333335,
+        "market_capitalization": 3108519851,
         "commodity_name": null,
         "display_name": "Plug Power, Inc.",
         "sma_50": 1.88400000333786,

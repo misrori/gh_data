@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EEX",
         "name": "Emerald Holding, Inc.",
-        "collected_at": "2026-03-21T02:09:04.878Z",
+        "collected_at": "2026-03-22T02:08:55.270Z",
         "data_start_date": "2017-04-24",
         "price": 4.46999979019165,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:EEX",
-        "market_capitalization": 884652304.2838138,
+        "market_capitalization": 884652218,
         "commodity_name": null,
         "display_name": "Emerald Holding, Inc.",
         "sma_50": 4.62360002040863,

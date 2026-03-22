@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PNR",
         "name": "Pentair plc.",
-        "collected_at": "2026-03-21T02:02:52.826Z",
+        "collected_at": "2026-03-22T02:02:47.931Z",
         "data_start_date": "2016-03-21",
         "price": 86.48999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:PNR",
-        "market_capitalization": 14118255569.84778,
+        "market_capitalization": 14118255562.000002,
         "commodity_name": null,
         "display_name": "Pentair plc.",
         "sma_50": 102.16700073242187,

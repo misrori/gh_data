@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CR",
         "name": "Crane Company",
-        "collected_at": "2026-03-21T02:03:31.659Z",
+        "collected_at": "2026-03-22T02:03:27.160Z",
         "data_start_date": "2023-03-27",
         "price": 167.92999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:CR",
-        "market_capitalization": 9685244683.493055,
+        "market_capitalization": 9685244328.999998,
         "commodity_name": null,
         "display_name": "Crane Company",
         "sma_50": 184.26299926757812,

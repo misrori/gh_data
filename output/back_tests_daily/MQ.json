@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MQ",
         "name": "Marqeta, Inc.",
-        "collected_at": "2026-03-21T02:07:26.615Z",
+        "collected_at": "2026-03-22T02:07:17.950Z",
         "data_start_date": "2021-06-09",
         "price": 4.079999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:MQ",
-        "market_capitalization": 1743024546.8091602,
+        "market_capitalization": 1743024485,
         "commodity_name": null,
         "display_name": "Marqeta, Inc.",
         "sma_50": 4.160999984741211,

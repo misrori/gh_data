@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PCTY",
         "name": "Paylocity Holding Corporation",
-        "collected_at": "2026-03-21T02:04:27.160Z",
+        "collected_at": "2026-03-22T02:04:21.721Z",
         "data_start_date": "2016-03-21",
         "price": 112.5199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:PCTY",
-        "market_capitalization": 6062205231.851757,
+        "market_capitalization": 6062204968,
         "commodity_name": null,
         "display_name": "Paylocity Holding Corporation",
         "sma_50": 158.39999938964843,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NDAQ",
         "name": "Nasdaq, Inc.",
-        "collected_at": "2026-03-21T02:01:19.745Z",
+        "collected_at": "2026-03-22T02:01:19.843Z",
         "data_start_date": "2016-03-21",
         "price": 86.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:NDAQ",
-        "market_capitalization": 49079439896.78754,
+        "market_capitalization": 49079439725,
         "commodity_name": null,
         "display_name": "Nasdaq, Inc.",
         "sma_50": 88.89120010375977,

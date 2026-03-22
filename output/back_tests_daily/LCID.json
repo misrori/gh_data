@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LCID",
         "name": "Lucid Group, Inc.",
-        "collected_at": "2026-03-21T02:05:56.862Z",
+        "collected_at": "2026-03-22T02:05:48.179Z",
         "data_start_date": "2020-09-18",
         "price": 10.0600004196167,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NASDAQ:LCID",
-        "market_capitalization": 3296503767.9203887,
+        "market_capitalization": 3296503845,
         "commodity_name": null,
         "display_name": "Lucid Group, Inc.",
         "sma_50": 10.35900001525879,

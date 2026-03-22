@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ET",
         "name": "Energy Transfer LP",
-        "collected_at": "2026-03-21T02:01:08.773Z",
+        "collected_at": "2026-03-22T02:01:08.788Z",
         "data_start_date": "2016-03-21",
         "price": 19.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NYSE:ET",
-        "market_capitalization": 65400374596.351265,
+        "market_capitalization": 65400378541,
         "commodity_name": null,
         "display_name": "Energy Transfer LP",
         "sma_50": 17.501599960327148,

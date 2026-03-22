@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SXT",
         "name": "Sensient Technologies Corporation",
-        "collected_at": "2026-03-21T02:05:49.094Z",
+        "collected_at": "2026-03-22T02:05:40.498Z",
         "data_start_date": "2016-03-21",
         "price": 82.95999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:SXT",
-        "market_capitalization": 3526355716.24186,
+        "market_capitalization": 3526355678.0000005,
         "commodity_name": null,
         "display_name": "Sensient Technologies Corporation",
         "sma_50": 97.91040008544923,

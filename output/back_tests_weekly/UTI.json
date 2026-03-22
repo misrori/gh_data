@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UTI",
         "name": "Universal Technical Institute Inc",
-        "collected_at": "2026-03-21T02:07:10.951Z",
+        "collected_at": "2026-03-22T02:07:02.397Z",
         "data_start_date": "2016-03-21",
         "price": 35.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:UTI",
-        "market_capitalization": 1944424730.409968,
+        "market_capitalization": 1944424754,
         "commodity_name": null,
         "display_name": "Universal Technical Institute Inc",
         "sma_50": 30.102400245666505,

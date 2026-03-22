@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DRVN",
         "name": "Driven Brands Holdings Inc.",
-        "collected_at": "2026-03-21T02:07:24.661Z",
+        "collected_at": "2026-03-22T02:07:15.635Z",
         "data_start_date": "2021-01-18",
         "price": 10.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:DRVN",
-        "market_capitalization": 1767882948.7822351,
+        "market_capitalization": 1767882904,
         "commodity_name": null,
         "display_name": "Driven Brands Holdings Inc.",
         "sma_50": 15.808199977874756,

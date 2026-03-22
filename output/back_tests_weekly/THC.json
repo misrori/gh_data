@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "THC",
         "name": "Tenet Healthcare Corporation",
-        "collected_at": "2026-03-21T02:02:37.346Z",
+        "collected_at": "2026-03-22T02:02:33.166Z",
         "data_start_date": "2016-03-21",
         "price": 200.35000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Hospital/Nursing Management",
         "tradingview_id": "NYSE:THC",
-        "market_capitalization": 17423036587.97694,
+        "market_capitalization": 17423037067,
         "commodity_name": null,
         "display_name": "Tenet Healthcare Corporation",
         "sma_50": 187.9338005065918,

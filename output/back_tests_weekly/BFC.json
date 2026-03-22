@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BFC",
         "name": "Bank First Corporation",
-        "collected_at": "2026-03-21T02:07:55.726Z",
+        "collected_at": "2026-03-22T02:07:46.626Z",
         "data_start_date": "2016-03-21",
         "price": 130.32000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:BFC",
-        "market_capitalization": 1459802417.795724,
+        "market_capitalization": 1459802545.9999998,
         "commodity_name": null,
         "display_name": "Bank First Corporation",
         "sma_50": 125.390400390625,

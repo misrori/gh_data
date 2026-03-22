@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NVGS",
         "name": "Navigator Holdings Ltd.",
-        "collected_at": "2026-03-21T02:08:25.740Z",
+        "collected_at": "2026-03-22T02:08:15.191Z",
         "data_start_date": "2016-03-21",
         "price": 18.18000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:NVGS",
-        "market_capitalization": 1186253049.652582,
+        "market_capitalization": 1186253065.0000002,
         "commodity_name": null,
         "display_name": "Navigator Holdings Ltd.",
         "sma_50": 16.42680004119873,

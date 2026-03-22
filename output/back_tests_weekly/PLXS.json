@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLXS",
         "name": "Plexus Corp.",
-        "collected_at": "2026-03-21T02:04:49.253Z",
+        "collected_at": "2026-03-22T02:04:42.730Z",
         "data_start_date": "2016-03-21",
         "price": 195,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:PLXS",
-        "market_capitalization": 5223360876.116736,
+        "market_capitalization": 5223360987,
         "commodity_name": null,
         "display_name": "Plexus Corp.",
         "sma_50": 150.12919998168945,

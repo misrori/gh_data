@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WLFC",
         "name": "Willis Lease Finance Corporation",
-        "collected_at": "2026-03-21T02:08:28.440Z",
+        "collected_at": "2026-03-22T02:08:18.427Z",
         "data_start_date": "2016-03-21",
         "price": 170.5399932861328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:WLFC",
-        "market_capitalization": 1162085758.5362105,
+        "market_capitalization": 1162085720.9999998,
         "commodity_name": null,
         "display_name": "Willis Lease Finance Corporation",
         "sma_50": 149.43939987182617,

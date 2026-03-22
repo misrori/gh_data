@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RCAT",
         "name": "Red Cat Holdings, Inc.",
-        "collected_at": "2026-03-21T02:07:41.355Z",
+        "collected_at": "2026-03-22T02:07:30.204Z",
         "data_start_date": "2016-03-21",
         "price": 13.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:RCAT",
-        "market_capitalization": 1581667622.5966303,
+        "market_capitalization": 1605088615,
         "commodity_name": null,
         "display_name": "Red Cat Holdings, Inc.",
         "sma_50": 9.725699968338013,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.7413,
         "number_of_employees": 244,
         "ml_direction": 1,
-        "ml_value": 7.692535943325636,
+        "ml_value": 7.6925359433256375,
         "ml_last_change_date": "2025-07-14",
         "ml_last_change_price": 11.5,
         "ml_change_percent_from_last_change": 15.217391304347828

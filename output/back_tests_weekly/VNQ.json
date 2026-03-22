@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VNQ",
         "name": "Vanguard Real Estate ETF",
-        "collected_at": "2026-03-21T02:10:52.662Z",
+        "collected_at": "2026-03-22T02:10:42.676Z",
         "data_start_date": "2016-03-21",
         "price": 88.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VNQ",
-        "market_capitalization": 35513414077.702,
+        "market_capitalization": 35421413557.068,
         "commodity_name": null,
         "display_name": "Vanguard Real Estate ETF",
         "sma_50": 90.42659973144531,

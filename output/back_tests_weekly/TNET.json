@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TNET",
         "name": "TriNet Group, Inc.",
-        "collected_at": "2026-03-21T02:07:22.444Z",
+        "collected_at": "2026-03-22T02:07:13.445Z",
         "data_start_date": "2016-03-21",
         "price": 37.83000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:TNET",
-        "market_capitalization": 1789328322.0578334,
+        "market_capitalization": 1789328320,
         "commodity_name": null,
         "display_name": "TriNet Group, Inc.",
         "sma_50": 63.21200019836426,

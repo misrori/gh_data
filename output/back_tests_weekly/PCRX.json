@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PCRX",
         "name": "Pacira BioSciences, Inc.",
-        "collected_at": "2026-03-21T02:09:01.923Z",
+        "collected_at": "2026-03-22T02:08:52.392Z",
         "data_start_date": "2016-03-21",
         "price": 22.110000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:PCRX",
-        "market_capitalization": 895231563.6087726,
+        "market_capitalization": 895231600,
         "commodity_name": null,
         "display_name": "Pacira BioSciences, Inc.",
         "sma_50": 23.84180004119873,

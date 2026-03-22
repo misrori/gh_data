@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BR",
         "name": "Broadridge Financial Solutions, Inc.",
-        "collected_at": "2026-03-21T02:02:24.148Z",
+        "collected_at": "2026-03-22T02:02:19.879Z",
         "data_start_date": "2016-03-21",
         "price": 174.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:BR",
-        "market_capitalization": 20367981958.722675,
+        "market_capitalization": 20367981458.866825,
         "commodity_name": null,
         "display_name": "Broadridge Financial Solutions, Inc.",
         "sma_50": 226.83640075683593,

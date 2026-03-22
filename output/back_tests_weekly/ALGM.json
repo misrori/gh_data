@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALGM",
         "name": "Allegro MicroSystems, Inc.",
-        "collected_at": "2026-03-21T02:04:39.322Z",
+        "collected_at": "2026-03-22T02:04:33.532Z",
         "data_start_date": "2020-10-26",
         "price": 29.950000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:ALGM",
-        "market_capitalization": 5549461777.709478,
+        "market_capitalization": 5549461946.000001,
         "commodity_name": null,
         "display_name": "Allegro MicroSystems, Inc.",
         "sma_50": 30.008700065612793,

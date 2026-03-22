@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BALY",
         "name": "Bally's Corporation",
-        "collected_at": "2026-03-21T02:09:57.272Z",
+        "collected_at": "2026-03-22T02:09:49.069Z",
         "data_start_date": "2024-12-06",
         "price": 12.039999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Casinos/Gaming",
         "tradingview_id": "NYSE:BALY",
-        "market_capitalization": 591912119.8460277,
+        "market_capitalization": 591912117,
         "commodity_name": null,
         "display_name": "Bally's Corporation",
         "sma_50": 14.441399993896484,

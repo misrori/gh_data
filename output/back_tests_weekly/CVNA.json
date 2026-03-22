@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CVNA",
         "name": "Carvana Co.",
-        "collected_at": "2026-03-21T02:01:11.146Z",
+        "collected_at": "2026-03-22T02:01:11.137Z",
         "data_start_date": "2017-04-24",
         "price": 281.2799987792969,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:CVNA",
-        "market_capitalization": 61629222561.24658,
+        "market_capitalization": 61629223828,
         "commodity_name": null,
         "display_name": "Carvana Co.",
         "sma_50": 347.3409997558594,

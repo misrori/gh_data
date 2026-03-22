@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CGNX",
         "name": "Cognex Corporation",
-        "collected_at": "2026-03-21T02:03:49.089Z",
+        "collected_at": "2026-03-22T02:03:44.844Z",
         "data_start_date": "2016-03-21",
         "price": 49.2400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NASDAQ:CGNX",
-        "market_capitalization": 8159457796.578708,
+        "market_capitalization": 8159458075,
         "commodity_name": null,
         "display_name": "Cognex Corporation",
         "sma_50": 39.47119983673096,

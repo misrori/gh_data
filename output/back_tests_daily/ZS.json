@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZS",
         "name": "Zscaler, Inc.",
-        "collected_at": "2026-03-21T02:02:03.722Z",
+        "collected_at": "2026-03-22T02:02:05.803Z",
         "data_start_date": "2018-03-16",
         "price": 151.47000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ZS",
-        "market_capitalization": 24354967954.76409,
+        "market_capitalization": 24354969108,
         "commodity_name": null,
         "display_name": "Zscaler, Inc.",
         "sma_50": 177.4025,

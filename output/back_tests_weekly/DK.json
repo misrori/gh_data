@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DK",
         "name": "Delek US Holdings, Inc.",
-        "collected_at": "2026-03-21T02:06:30.886Z",
+        "collected_at": "2026-03-22T02:06:22.598Z",
         "data_start_date": "2016-03-21",
         "price": 44.2400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NYSE:DK",
-        "market_capitalization": 2645924502.783857,
+        "market_capitalization": 2645924694,
         "commodity_name": null,
         "display_name": "Delek US Holdings, Inc.",
         "sma_50": 29.10420009613037,

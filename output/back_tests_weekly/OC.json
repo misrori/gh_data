@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OC",
         "name": "Owens Corning Inc",
-        "collected_at": "2026-03-21T02:03:50.403Z",
+        "collected_at": "2026-03-22T02:03:46.075Z",
         "data_start_date": "2016-03-21",
         "price": 99.95999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:OC",
-        "market_capitalization": 8035100734.152506,
+        "market_capitalization": 8035100945,
         "commodity_name": null,
         "display_name": "Owens Corning Inc",
         "sma_50": 130.1032000732422,

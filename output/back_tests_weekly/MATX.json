@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MATX",
         "name": "Matson, Inc.",
-        "collected_at": "2026-03-21T02:05:04.189Z",
+        "collected_at": "2026-03-22T02:04:57.647Z",
         "data_start_date": "2016-03-21",
         "price": 155.07000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:MATX",
-        "market_capitalization": 4717122451.115327,
+        "market_capitalization": 4717122564.999999,
         "commodity_name": null,
         "display_name": "Matson, Inc.",
         "sma_50": 119.43200057983398,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BCO",
         "name": "Brinks Company (The)",
-        "collected_at": "2026-03-21T02:05:26.816Z",
+        "collected_at": "2026-03-22T02:05:19.020Z",
         "data_start_date": "2016-03-21",
         "price": 97.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:BCO",
-        "market_capitalization": 4018693468.076013,
+        "market_capitalization": 4018693394.9999995,
         "commodity_name": null,
         "display_name": "Brinks Company (The)",
         "sma_50": 107.04959991455078,

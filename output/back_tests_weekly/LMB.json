@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LMB",
         "name": "Limbach Holdings, Inc.",
-        "collected_at": "2026-03-21T02:09:12.577Z",
+        "collected_at": "2026-03-22T02:09:04.458Z",
         "data_start_date": "2016-03-21",
         "price": 70.4800033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Miscellaneous",
         "tradingview_id": "NASDAQ:LMB",
-        "market_capitalization": 823163481.8871851,
+        "market_capitalization": 823163510,
         "commodity_name": null,
         "display_name": "Limbach Holdings, Inc.",
         "sma_50": 101.0516000366211,

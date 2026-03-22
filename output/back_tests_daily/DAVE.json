@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DAVE",
         "name": "Dave Inc.",
-        "collected_at": "2026-03-21T02:06:18.013Z",
+        "collected_at": "2026-03-22T02:06:09.900Z",
         "data_start_date": "2021-04-26",
         "price": 209.82000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:DAVE",
-        "market_capitalization": 2845074906.116031,
+        "market_capitalization": 2845074915.0000005,
         "commodity_name": null,
         "display_name": "Dave Inc.",
         "sma_50": 191.96489990234375,

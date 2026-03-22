@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RDWR",
         "name": "Radware Ltd.",
-        "collected_at": "2026-03-21T02:08:37.598Z",
+        "collected_at": "2026-03-22T02:08:26.483Z",
         "data_start_date": "2016-03-21",
         "price": 25.219999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Communications",
         "tradingview_id": "NASDAQ:RDWR",
-        "market_capitalization": 1095414658.7344058,
+        "market_capitalization": 1095414638,
         "commodity_name": null,
         "display_name": "Radware Ltd.",
         "sma_50": 25.070799980163574,

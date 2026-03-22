@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GHM",
         "name": "Graham Corporation",
-        "collected_at": "2026-03-21T02:09:04.484Z",
+        "collected_at": "2026-03-22T02:08:54.789Z",
         "data_start_date": "2016-03-21",
         "price": 79.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:GHM",
-        "market_capitalization": 885047357.2172232,
+        "market_capitalization": 885047357,
         "commodity_name": null,
         "display_name": "Graham Corporation",
         "sma_50": 57.66559989929199,

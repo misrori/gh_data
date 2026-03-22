@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZETA",
         "name": "Zeta Global Holdings Corp.",
-        "collected_at": "2026-03-21T02:05:23.093Z",
+        "collected_at": "2026-03-22T02:05:15.602Z",
         "data_start_date": "2021-06-10",
         "price": 16.950000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:ZETA",
-        "market_capitalization": 4137894816.3639,
+        "market_capitalization": 4137895112,
         "commodity_name": null,
         "display_name": "Zeta Global Holdings Corp.",
         "sma_50": 18.452000007629394,

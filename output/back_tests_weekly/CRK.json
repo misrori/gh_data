@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRK",
         "name": "Comstock Resources, Inc.",
-        "collected_at": "2026-03-21T02:04:21.427Z",
+        "collected_at": "2026-03-22T02:04:16.209Z",
         "data_start_date": "2016-03-21",
         "price": 21.690000534057617,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:CRK",
-        "market_capitalization": 6377331839.597665,
+        "market_capitalization": 6377332110,
         "commodity_name": null,
         "display_name": "Comstock Resources, Inc.",
         "sma_50": 21.358799896240235,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DT",
         "name": "Dynatrace, Inc.",
-        "collected_at": "2026-03-21T02:03:17.337Z",
+        "collected_at": "2026-03-22T02:03:12.701Z",
         "data_start_date": "2019-08-01",
         "price": 38.04999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:DT",
-        "market_capitalization": 11348455862.97235,
+        "market_capitalization": 11348455237,
         "commodity_name": null,
         "display_name": "Dynatrace, Inc.",
         "sma_50": 37.93199996948242,

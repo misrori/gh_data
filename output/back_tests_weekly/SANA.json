@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SANA",
         "name": "Sana Biotechnology, Inc.",
-        "collected_at": "2026-03-21T02:09:12.214Z",
+        "collected_at": "2026-03-22T02:09:04.071Z",
         "data_start_date": "2021-02-01",
         "price": 3.109999895095825,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:SANA",
-        "market_capitalization": 829956118.8454258,
+        "market_capitalization": 829956071,
         "commodity_name": null,
         "display_name": "Sana Biotechnology, Inc.",
         "sma_50": 3.6040999937057494,

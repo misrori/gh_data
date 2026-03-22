@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BBOT",
         "name": "BridgeBio Oncology Therapeutics, Inc.",
-        "collected_at": "2026-03-21T02:09:33.781Z",
+        "collected_at": "2026-03-22T02:09:25.848Z",
         "data_start_date": "2024-02-09",
         "price": 8.680000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:BBOT",
-        "market_capitalization": 694684906.3734806,
+        "market_capitalization": 694684916,
         "commodity_name": null,
         "display_name": "BridgeBio Oncology Therapeutics, Inc.",
         "sma_50": 10.809799957275391,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DKNG",
         "name": "DraftKings Inc.",
-        "collected_at": "2026-03-21T02:03:14.022Z",
+        "collected_at": "2026-03-22T02:03:09.614Z",
         "data_start_date": "2019-07-22",
         "price": 23.670000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NASDAQ:DKNG",
-        "market_capitalization": 11669105502.982738,
+        "market_capitalization": 11669105612,
         "commodity_name": null,
         "display_name": "DraftKings Inc.",
         "sma_50": 35.16220001220703,

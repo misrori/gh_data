@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CBT",
         "name": "Cabot Corporation",
-        "collected_at": "2026-03-21T02:05:47.491Z",
+        "collected_at": "2026-03-22T02:05:38.914Z",
         "data_start_date": "2016-03-21",
         "price": 67.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:CBT",
-        "market_capitalization": 3541669211.5984836,
+        "market_capitalization": 3541669385,
         "commodity_name": null,
         "display_name": "Cabot Corporation",
         "sma_50": 72.99060005187988,

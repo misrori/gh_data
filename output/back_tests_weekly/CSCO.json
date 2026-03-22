@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSCO",
         "name": "Cisco Systems, Inc.",
-        "collected_at": "2026-03-21T02:00:15.975Z",
+        "collected_at": "2026-03-22T02:00:17.380Z",
         "data_start_date": "2016-03-21",
         "price": 77.6500015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:CSCO",
-        "market_capitalization": 306709204951.4667,
+        "market_capitalization": 306709202634,
         "commodity_name": null,
         "display_name": "Cisco Systems, Inc.",
         "sma_50": 70.91399986267089,

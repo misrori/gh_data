@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MC",
         "name": "Moelis & Company",
-        "collected_at": "2026-03-21T02:05:18.291Z",
+        "collected_at": "2026-03-22T02:05:10.573Z",
         "data_start_date": "2016-03-21",
         "price": 53.97999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:MC",
-        "market_capitalization": 4321442636.616754,
+        "market_capitalization": 4321442673.292887,
         "commodity_name": null,
         "display_name": "Moelis & Company",
         "sma_50": 65.27540016174316,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STZ",
         "name": "Constellation Brands, Inc.",
-        "collected_at": "2026-03-21T02:01:59.125Z",
+        "collected_at": "2026-03-22T02:02:00.886Z",
         "data_start_date": "2016-03-21",
         "price": 149.6199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Alcoholic",
         "tradingview_id": "NYSE:STZ",
-        "market_capitalization": 25945336346.61405,
+        "market_capitalization": 25945334875,
         "commodity_name": null,
         "display_name": "Constellation Brands, Inc.",
         "sma_50": 156.3286003112793,

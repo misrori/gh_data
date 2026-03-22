@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LKQ",
         "name": "LKQ Corporation",
-        "collected_at": "2026-03-21T02:04:05.945Z",
+        "collected_at": "2026-03-22T02:04:01.690Z",
         "data_start_date": "2016-03-21",
         "price": 28.260000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Automotive Aftermarket",
         "tradingview_id": "NASDAQ:LKQ",
-        "market_capitalization": 7210037622.478992,
+        "market_capitalization": 7210037816,
         "commodity_name": null,
         "display_name": "LKQ Corporation",
         "sma_50": 33.423199844360354,

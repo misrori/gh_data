@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WMG",
         "name": "Warner Music Group Corp.",
-        "collected_at": "2026-03-21T02:03:05.726Z",
+        "collected_at": "2026-03-22T02:03:00.893Z",
         "data_start_date": "2020-06-01",
         "price": 23.889999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Commercial Printing/Forms",
         "tradingview_id": "NASDAQ:WMG",
-        "market_capitalization": 12478850019.292469,
+        "market_capitalization": 12478849900,
         "commodity_name": null,
         "display_name": "Warner Music Group Corp.",
         "sma_50": 29.780799865722656,

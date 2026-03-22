@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KLIC",
         "name": "Kulicke and Soffa Industries, Inc.",
-        "collected_at": "2026-03-21T02:05:55.999Z",
+        "collected_at": "2026-03-22T02:05:47.496Z",
         "data_start_date": "2016-03-21",
         "price": 63.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:KLIC",
-        "market_capitalization": 3343141162.5934696,
+        "market_capitalization": 3343141024,
         "commodity_name": null,
         "display_name": "Kulicke and Soffa Industries, Inc.",
         "sma_50": 44.04400005340576,

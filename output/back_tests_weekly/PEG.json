@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PEG",
         "name": "Public Service Enterprise Group Incorporated",
-        "collected_at": "2026-03-21T02:01:33.123Z",
+        "collected_at": "2026-03-22T02:01:34.531Z",
         "data_start_date": "2016-03-21",
         "price": 79.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:PEG",
-        "market_capitalization": 39619896966.969795,
+        "market_capitalization": 39619898768.99999,
         "commodity_name": null,
         "display_name": "Public Service Enterprise Group Incorporated",
         "sma_50": 82.10899993896484,

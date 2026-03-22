@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WM",
         "name": "Waste Management, Inc.",
-        "collected_at": "2026-03-21T02:00:48.648Z",
+        "collected_at": "2026-03-22T02:00:47.626Z",
         "data_start_date": "2016-03-21",
         "price": 231.24000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Environmental Services",
         "tradingview_id": "NYSE:WM",
-        "market_capitalization": 93267367633.89214,
+        "market_capitalization": 93267369118.99998,
         "commodity_name": null,
         "display_name": "Waste Management, Inc.",
         "sma_50": 225.33699981689452,

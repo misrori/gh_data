@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EH",
         "name": "EHang Holdings Limited",
-        "collected_at": "2026-03-21T02:09:17.802Z",
+        "collected_at": "2026-03-22T02:09:22.903Z",
         "data_start_date": "2019-12-09",
         "price": 9.949999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:EH",
-        "market_capitalization": 780219216,
+        "market_capitalization": 714184096,
         "commodity_name": null,
         "display_name": "EHang Holdings Limited",
         "sma_50": 15.642399997711182,

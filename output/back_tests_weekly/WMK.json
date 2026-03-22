@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WMK",
         "name": "Weis Markets, Inc.",
-        "collected_at": "2026-03-21T02:07:34.338Z",
+        "collected_at": "2026-03-22T02:07:25.679Z",
         "data_start_date": "2016-03-21",
         "price": 66.20999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Food Retail",
         "tradingview_id": "NYSE:WMK",
-        "market_capitalization": 1638339874.2079566,
+        "market_capitalization": 1638339837,
         "commodity_name": null,
         "display_name": "Weis Markets, Inc.",
         "sma_50": 71.31480003356934,

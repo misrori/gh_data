@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KRMN",
         "name": "Karman Holdings Inc.",
-        "collected_at": "2026-03-21T02:03:00.411Z",
+        "collected_at": "2026-03-22T02:02:55.376Z",
         "data_start_date": "2025-02-13",
         "price": 99.37999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:KRMN",
-        "market_capitalization": 13150203060.101364,
+        "market_capitalization": 13150203075,
         "commodity_name": null,
         "display_name": "Karman Holdings Inc.",
         "sma_50": 98.18359985351563,

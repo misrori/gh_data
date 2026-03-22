@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRVI",
         "name": "Trevi Therapeutics, Inc.",
-        "collected_at": "2026-03-21T02:08:05.992Z",
+        "collected_at": "2026-03-22T02:07:56.699Z",
         "data_start_date": "2019-05-06",
         "price": 10.609999656677246,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:TRVI",
-        "market_capitalization": 1362295093.2037382,
+        "market_capitalization": 1362295074,
         "commodity_name": null,
         "display_name": "Trevi Therapeutics, Inc.",
         "sma_50": 9.233300018310548,

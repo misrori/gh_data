@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VEL",
         "name": "Velocity Financial, Inc.",
-        "collected_at": "2026-03-21T02:09:37.777Z",
+        "collected_at": "2026-03-22T02:09:29.706Z",
         "data_start_date": "2020-01-13",
         "price": 17.260000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:VEL",
-        "market_capitalization": 677200985.7095292,
+        "market_capitalization": 677200992,
         "commodity_name": null,
         "display_name": "Velocity Financial, Inc.",
         "sma_50": 18.378800048828126,

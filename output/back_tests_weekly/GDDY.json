@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GDDY",
         "name": "GoDaddy Inc.",
-        "collected_at": "2026-03-21T02:03:18.169Z",
+        "collected_at": "2026-03-22T02:03:13.493Z",
         "data_start_date": "2016-03-21",
         "price": 84.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NYSE:GDDY",
-        "market_capitalization": 11320430954.36278,
+        "market_capitalization": 11320430377,
         "commodity_name": null,
         "display_name": "GoDaddy Inc.",
         "sma_50": 138.05820037841798,

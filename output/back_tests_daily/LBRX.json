@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LBRX",
         "name": "LB Pharmaceuticals Inc",
-        "collected_at": "2026-03-21T02:09:54.995Z",
+        "collected_at": "2026-03-22T02:09:46.677Z",
         "data_start_date": "2025-09-11",
         "price": 23.530000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:LBRX",
-        "market_capitalization": 595287837.7123803,
+        "market_capitalization": 595287861,
         "commodity_name": null,
         "display_name": "LB Pharmaceuticals Inc",
         "sma_50": 23.206800079345705,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "USAR",
         "name": "USA Rare Earth, Inc.",
-        "collected_at": "2026-03-21T02:05:47.689Z",
+        "collected_at": "2026-03-22T02:05:39.086Z",
         "data_start_date": "2023-07-17",
         "price": 16.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Metal Fabrication",
         "tradingview_id": "NASDAQ:USAR",
-        "market_capitalization": 3539355941.259967,
+        "market_capitalization": 3539355997,
         "commodity_name": null,
         "display_name": "USA Rare Earth, Inc.",
         "sma_50": 16.016100101470947,

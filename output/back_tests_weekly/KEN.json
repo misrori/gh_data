@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KEN",
         "name": "Kenon Holdings Ltd.",
-        "collected_at": "2026-03-21T02:05:16.516Z",
+        "collected_at": "2026-03-22T02:05:08.958Z",
         "data_start_date": "2016-03-21",
         "price": 84.0199966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Electric Utilities",
         "tradingview_id": "NYSE:KEN",
-        "market_capitalization": 4381663489.172453,
+        "market_capitalization": 4381663145,
         "commodity_name": null,
         "display_name": "Kenon Holdings Ltd.",
         "sma_50": 53.40700019836426,

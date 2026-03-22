@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRLB",
         "name": "Proto Labs, Inc.",
-        "collected_at": "2026-03-21T02:08:10.787Z",
+        "collected_at": "2026-03-22T02:08:00.824Z",
         "data_start_date": "2016-03-21",
         "price": 55.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:PRLB",
-        "market_capitalization": 1325465196.5710504,
+        "market_capitalization": 1325465161.0000002,
         "commodity_name": null,
         "display_name": "Proto Labs, Inc.",
         "sma_50": 48.57699989318848,

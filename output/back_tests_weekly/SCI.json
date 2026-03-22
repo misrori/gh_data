@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCI",
         "name": "Service Corporation International",
-        "collected_at": "2026-03-21T02:03:24.431Z",
+        "collected_at": "2026-03-22T02:03:19.625Z",
         "data_start_date": "2016-03-21",
         "price": 75.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:SCI",
-        "market_capitalization": 10501641865.166386,
+        "market_capitalization": 10501642118,
         "commodity_name": null,
         "display_name": "Service Corporation International",
         "sma_50": 79.66200012207031,

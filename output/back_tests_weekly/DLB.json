@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DLB",
         "name": "Dolby Laboratories",
-        "collected_at": "2026-03-21T02:04:33.330Z",
+        "collected_at": "2026-03-22T02:04:27.828Z",
         "data_start_date": "2016-03-21",
         "price": 60.33000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:DLB",
-        "market_capitalization": 5763916848.034141,
+        "market_capitalization": 5763917180.000001,
         "commodity_name": null,
         "display_name": "Dolby Laboratories",
         "sma_50": 69.42799980163574,

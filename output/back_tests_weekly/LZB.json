@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LZB",
         "name": "La-Z-Boy Incorporated",
-        "collected_at": "2026-03-21T02:08:14.251Z",
+        "collected_at": "2026-03-22T02:08:03.949Z",
         "data_start_date": "2016-03-21",
         "price": 31.540000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Home Furnishings",
         "tradingview_id": "NYSE:LZB",
-        "market_capitalization": 1290733845.9674246,
+        "market_capitalization": 1290733847,
         "commodity_name": null,
         "display_name": "La-Z-Boy Incorporated",
         "sma_50": 36.98240013122559,

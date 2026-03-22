@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DOW",
         "name": "Dow Inc.",
-        "collected_at": "2026-03-21T02:01:58.292Z",
+        "collected_at": "2026-03-22T02:02:00.119Z",
         "data_start_date": "2019-03-18",
         "price": 36.650001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:DOW",
-        "market_capitalization": 26297624388.6263,
+        "market_capitalization": 26297624307,
         "commodity_name": null,
         "display_name": "Dow Inc.",
         "sma_50": 26.87900001525879,

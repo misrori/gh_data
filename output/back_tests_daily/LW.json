@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LW",
         "name": "Lamb Weston Holdings, Inc.",
-        "collected_at": "2026-03-21T02:04:38.781Z",
+        "collected_at": "2026-03-22T02:04:33.035Z",
         "data_start_date": "2016-11-10",
         "price": 40,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NYSE:LW",
-        "market_capitalization": 5555195839.566928,
+        "market_capitalization": 5555195923,
         "commodity_name": null,
         "display_name": "Lamb Weston Holdings, Inc.",
         "sma_50": 45.32139991760254,

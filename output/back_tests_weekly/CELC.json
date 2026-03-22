@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CELC",
         "name": "Celcuity Inc.",
-        "collected_at": "2026-03-21T02:04:58.353Z",
+        "collected_at": "2026-03-22T02:04:52.044Z",
         "data_start_date": "2017-09-18",
         "price": 106.04000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:CELC",
-        "market_capitalization": 4906604243.911851,
+        "market_capitalization": 4906604379,
         "commodity_name": null,
         "display_name": "Celcuity Inc.",
         "sma_50": 62.250100193023684,

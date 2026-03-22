@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DASH",
         "name": "DoorDash, Inc.",
-        "collected_at": "2026-03-21T02:01:05.688Z",
+        "collected_at": "2026-03-22T02:01:05.793Z",
         "data_start_date": "2020-12-09",
         "price": 156.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Air Freight/Couriers",
         "tradingview_id": "NASDAQ:DASH",
-        "market_capitalization": 68048541416.25116,
+        "market_capitalization": 68048543498,
         "commodity_name": null,
         "display_name": "DoorDash, Inc.",
         "sma_50": 184.66979949951173,

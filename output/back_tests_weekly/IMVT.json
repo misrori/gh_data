@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IMVT",
         "name": "Immunovant, Inc.",
-        "collected_at": "2026-03-21T02:05:05.873Z",
+        "collected_at": "2026-03-22T02:04:59.197Z",
         "data_start_date": "2019-06-17",
         "price": 22.979999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:IMVT",
-        "market_capitalization": 4677169439.07146,
+        "market_capitalization": 4677169421,
         "commodity_name": null,
         "display_name": "Immunovant, Inc.",
         "sma_50": 20.0746000289917,

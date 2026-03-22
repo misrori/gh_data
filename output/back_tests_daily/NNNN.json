@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NNNN",
         "name": "Anbio Biotechnology",
-        "collected_at": "2026-03-21T02:05:54.223Z",
+        "collected_at": "2026-03-22T02:05:45.750Z",
         "data_start_date": "2025-02-19",
         "price": 23.540000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:NNNN",
-        "market_capitalization": 3387198775.788055,
+        "market_capitalization": 3387199004,
         "commodity_name": null,
         "display_name": "Anbio Biotechnology",
         "sma_50": 25.7175,

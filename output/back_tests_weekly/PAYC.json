@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PAYC",
         "name": "Paycom Software, Inc.",
-        "collected_at": "2026-03-21T02:04:12.774Z",
+        "collected_at": "2026-03-22T02:04:08.176Z",
         "data_start_date": "2016-03-21",
         "price": 124.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:PAYC",
-        "market_capitalization": 6774617677.3648,
+        "market_capitalization": 6774617578,
         "commodity_name": null,
         "display_name": "Paycom Software, Inc.",
         "sma_50": 193.2075988769531,

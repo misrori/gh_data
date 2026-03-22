@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "REZI",
         "name": "Resideo Technologies, Inc.",
-        "collected_at": "2026-03-21T02:04:56.624Z",
+        "collected_at": "2026-03-22T02:04:50.346Z",
         "data_start_date": "2018-10-29",
         "price": 32.790000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Electronics Distributors",
         "tradingview_id": "NYSE:REZI",
-        "market_capitalization": 4959392346.617123,
+        "market_capitalization": 4959392575,
         "commodity_name": null,
         "display_name": "Resideo Technologies, Inc.",
         "sma_50": 31.260800132751466,

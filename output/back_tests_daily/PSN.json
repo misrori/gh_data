@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PSN",
         "name": "Parsons Corporation",
-        "collected_at": "2026-03-21T02:04:46.440Z",
+        "collected_at": "2026-03-22T02:04:40.539Z",
         "data_start_date": "2019-05-08",
         "price": 50.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:PSN",
-        "market_capitalization": 5295784052.052632,
+        "market_capitalization": 5295784165,
         "commodity_name": null,
         "display_name": "Parsons Corporation",
         "sma_50": 64.99620010375976,

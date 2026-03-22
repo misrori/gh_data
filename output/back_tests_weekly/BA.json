@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BA",
         "name": "Boeing Company (The)",
-        "collected_at": "2026-03-21T02:00:32.196Z",
+        "collected_at": "2026-03-22T02:00:31.203Z",
         "data_start_date": "2016-03-21",
         "price": 195.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:BA",
-        "market_capitalization": 153236921926.24274,
+        "market_capitalization": 153236923670,
         "commodity_name": null,
         "display_name": "Boeing Company (The)",
         "sma_50": 214.56759979248048,

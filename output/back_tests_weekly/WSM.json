@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WSM",
         "name": "Williams-Sonoma, Inc.",
-        "collected_at": "2026-03-21T02:02:21.712Z",
+        "collected_at": "2026-03-22T02:02:17.414Z",
         "data_start_date": "2016-03-21",
         "price": 178.4199981689453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:WSM",
-        "market_capitalization": 21299907280.041294,
+        "market_capitalization": 21299906848,
         "commodity_name": null,
         "display_name": "Williams-Sonoma, Inc.",
         "sma_50": 184.80839965820311,

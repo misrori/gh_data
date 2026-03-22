@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FOX",
         "name": "Fox Corporation",
-        "collected_at": "2026-03-21T02:02:07.134Z",
+        "collected_at": "2026-03-22T02:02:09.210Z",
         "data_start_date": "2019-03-13",
         "price": 52.18000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Broadcasting",
         "tradingview_id": "NASDAQ:FOX",
-        "market_capitalization": 23336589099.566322,
+        "market_capitalization": 23329081247.999996,
         "commodity_name": null,
         "display_name": "Fox Corporation",
         "sma_50": 57.37539978027344,

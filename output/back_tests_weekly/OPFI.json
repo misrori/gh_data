@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OPFI",
         "name": "OppFi Inc.",
-        "collected_at": "2026-03-21T02:09:37.222Z",
+        "collected_at": "2026-03-22T02:09:28.996Z",
         "data_start_date": "2020-11-16",
         "price": 7.960000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:OPFI",
-        "market_capitalization": 677593840.3950617,
+        "market_capitalization": 677593810.9999999,
         "commodity_name": null,
         "display_name": "OppFi Inc.",
         "sma_50": 10.529800052642821,

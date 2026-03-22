@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARVN",
         "name": "Arvinas, Inc.",
-        "collected_at": "2026-03-21T02:09:32.380Z",
+        "collected_at": "2026-03-22T02:09:24.371Z",
         "data_start_date": "2018-09-27",
         "price": 10.9399995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:ARVN",
-        "market_capitalization": 699733287.1119069,
+        "market_capitalization": 699733255,
         "commodity_name": null,
         "display_name": "Arvinas, Inc.",
         "sma_50": 12.681199951171875,

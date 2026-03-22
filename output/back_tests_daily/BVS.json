@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BVS",
         "name": "Bioventus Inc.",
-        "collected_at": "2026-03-21T02:09:30.464Z",
+        "collected_at": "2026-03-22T02:09:22.044Z",
         "data_start_date": "2021-02-11",
         "price": 8.640000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:BVS",
-        "market_capitalization": 718457422.08,
+        "market_capitalization": 718457451.0000001,
         "commodity_name": null,
         "display_name": "Bioventus Inc.",
         "sma_50": 8.371800003051758,

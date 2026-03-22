@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VERA",
         "name": "Vera Therapeutics, Inc.",
-        "collected_at": "2026-03-21T02:06:15.217Z",
+        "collected_at": "2026-03-22T02:06:07.200Z",
         "data_start_date": "2021-05-10",
         "price": 40.529998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:VERA",
-        "market_capitalization": 2892045113.1776648,
+        "market_capitalization": 2892045101,
         "commodity_name": null,
         "display_name": "Vera Therapeutics, Inc.",
         "sma_50": 31.351599922180174,

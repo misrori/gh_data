@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OTF",
         "name": "Blue Owl Technology Finance Corp.",
-        "collected_at": "2026-03-21T02:04:31.934Z",
+        "collected_at": "2026-03-22T02:04:26.289Z",
         "data_start_date": "2025-06-12",
         "price": 12.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:OTF",
-        "market_capitalization": 5816624657.114624,
+        "market_capitalization": 5816624832,
         "commodity_name": null,
         "display_name": "Blue Owl Technology Finance Corp.",
         "sma_50": 12.630199947357177,

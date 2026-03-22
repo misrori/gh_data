@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IESC",
         "name": "IES Holdings, Inc.",
-        "collected_at": "2026-03-21T02:03:42.960Z",
+        "collected_at": "2026-03-22T02:03:38.201Z",
         "data_start_date": "2016-03-21",
         "price": 436.95001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:IESC",
-        "market_capitalization": 8707538639.849876,
+        "market_capitalization": 8707538790,
         "commodity_name": null,
         "display_name": "IES Holdings, Inc.",
         "sma_50": 366.3734020996094,

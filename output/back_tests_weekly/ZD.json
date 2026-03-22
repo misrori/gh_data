@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZD",
         "name": "Ziff Davis, Inc.",
-        "collected_at": "2026-03-21T02:07:40.515Z",
+        "collected_at": "2026-03-22T02:07:31.811Z",
         "data_start_date": "2016-03-21",
         "price": 42.2599983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:ZD",
-        "market_capitalization": 1591276493.6996455,
+        "market_capitalization": 1591276487,
         "commodity_name": null,
         "display_name": "Ziff Davis, Inc.",
         "sma_50": 34.55779987335205,

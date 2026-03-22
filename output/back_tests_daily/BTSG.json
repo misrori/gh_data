@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BTSG",
         "name": "BrightSpring Health Services, Inc.",
-        "collected_at": "2026-03-21T02:03:51.005Z",
+        "collected_at": "2026-03-22T02:03:46.757Z",
         "data_start_date": "2024-01-26",
         "price": 41.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:BTSG",
-        "market_capitalization": 7976161345.069562,
+        "market_capitalization": 7976160864,
         "commodity_name": null,
         "display_name": "BrightSpring Health Services, Inc.",
         "sma_50": 40.041800079345705,

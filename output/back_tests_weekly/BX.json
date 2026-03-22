@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BX",
         "name": "Blackstone Inc.",
-        "collected_at": "2026-03-21T02:00:36.201Z",
+        "collected_at": "2026-03-22T02:00:35.276Z",
         "data_start_date": "2016-03-21",
         "price": 110.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:BX",
-        "market_capitalization": 134974391803.57628,
+        "market_capitalization": 134974390724.99998,
         "commodity_name": null,
         "display_name": "Blackstone Inc.",
         "sma_50": 148.59959976196288,

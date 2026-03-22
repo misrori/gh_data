@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "Q",
         "name": "Qnity Electronics, Inc.",
-        "collected_at": "2026-03-21T02:02:15.952Z",
+        "collected_at": "2026-03-22T02:02:11.688Z",
         "data_start_date": "2025-10-27",
         "price": 107.58999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:Q",
-        "market_capitalization": 22557202084.22539,
+        "market_capitalization": 22557200824,
         "commodity_name": null,
         "display_name": "Qnity Electronics, Inc.",
         "sma_50": 106.83800003051758,

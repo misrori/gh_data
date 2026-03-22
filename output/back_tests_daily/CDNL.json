@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CDNL",
         "name": "Cardinal Infrastructure Group Inc.",
-        "collected_at": "2026-03-21T02:08:16.842Z",
+        "collected_at": "2026-03-22T02:08:06.846Z",
         "data_start_date": "2025-12-10",
         "price": 33.029998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:CDNL",
-        "market_capitalization": 1266091550.4385173,
+        "market_capitalization": 1266091492,
         "commodity_name": null,
         "display_name": "Cardinal Infrastructure Group Inc.",
         "sma_50": 28.626599884033205,

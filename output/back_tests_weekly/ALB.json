@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALB",
         "name": "Albemarle Corporation",
-        "collected_at": "2026-03-21T02:02:32.223Z",
+        "collected_at": "2026-03-22T02:02:27.745Z",
         "data_start_date": "2016-03-21",
         "price": 156.6999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:ALB",
-        "market_capitalization": 18466658967.804726,
+        "market_capitalization": 18466659230,
         "commodity_name": null,
         "display_name": "Albemarle Corporation",
         "sma_50": 105.79319953918457,

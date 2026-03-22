@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PUMP",
         "name": "ProPetro Holding Corp.",
-        "collected_at": "2026-03-21T02:07:23.828Z",
+        "collected_at": "2026-03-22T02:07:14.800Z",
         "data_start_date": "2017-03-17",
         "price": 14.59000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:PUMP",
-        "market_capitalization": 1780330834.9115648,
+        "market_capitalization": 1780330877,
         "commodity_name": null,
         "display_name": "ProPetro Holding Corp.",
         "sma_50": 11.875999965667724,

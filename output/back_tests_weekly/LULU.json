@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LULU",
         "name": "lululemon athletica inc.",
-        "collected_at": "2026-03-21T02:02:26.822Z",
+        "collected_at": "2026-03-22T02:02:22.569Z",
         "data_start_date": "2016-03-21",
         "price": 162.82000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NASDAQ:LULU",
-        "market_capitalization": 19654764032.78372,
+        "market_capitalization": 19654764047,
         "commodity_name": null,
         "display_name": "lululemon athletica inc.",
         "sma_50": 206.18139892578125,

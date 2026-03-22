@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MGTX",
         "name": "MeiraGTx Holdings plc",
-        "collected_at": "2026-03-21T02:09:59.880Z",
+        "collected_at": "2026-03-22T02:09:51.750Z",
         "data_start_date": "2018-06-08",
         "price": 7.199999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:MGTX",
-        "market_capitalization": 579534404.5714285,
+        "market_capitalization": 579534396,
         "commodity_name": null,
         "display_name": "MeiraGTx Holdings plc",
         "sma_50": 7.560999984741211,

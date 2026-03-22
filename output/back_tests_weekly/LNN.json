@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LNN",
         "name": "Lindsay Corporation",
-        "collected_at": "2026-03-21T02:08:23.522Z",
+        "collected_at": "2026-03-22T02:08:13.075Z",
         "data_start_date": "2016-03-21",
         "price": 114.97000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:LNN",
-        "market_capitalization": 1201973326.1404164,
+        "market_capitalization": 1201973308,
         "commodity_name": null,
         "display_name": "Lindsay Corporation",
         "sma_50": 130.0315983581543,

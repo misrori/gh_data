@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COTY",
         "name": "Coty Inc.",
-        "collected_at": "2026-03-21T02:07:14.895Z",
+        "collected_at": "2026-03-22T02:07:06.320Z",
         "data_start_date": "2016-03-21",
         "price": 2.140000104904175,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NYSE:COTY",
-        "market_capitalization": 1883213667.1348839,
+        "market_capitalization": 1883213676,
         "commodity_name": null,
         "display_name": "Coty Inc.",
         "sma_50": 3.907000026702881,

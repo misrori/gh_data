@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SFBS",
         "name": "ServisFirst Bancshares, Inc.",
-        "collected_at": "2026-03-21T02:05:30.929Z",
+        "collected_at": "2026-03-22T02:05:22.783Z",
         "data_start_date": "2016-03-21",
         "price": 72.30999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:SFBS",
-        "market_capitalization": 3951056313.243154,
+        "market_capitalization": 3951056013,
         "commodity_name": null,
         "display_name": "ServisFirst Bancshares, Inc.",
         "sma_50": 77.35619934082031,

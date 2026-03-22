@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AGCO",
         "name": "AGCO Corporation",
-        "collected_at": "2026-03-21T02:03:51.756Z",
+        "collected_at": "2026-03-22T02:03:47.549Z",
         "data_start_date": "2016-03-21",
         "price": 109.26000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:AGCO",
-        "market_capitalization": 7910485874.273868,
+        "market_capitalization": 7910486007,
         "commodity_name": null,
         "display_name": "AGCO Corporation",
         "sma_50": 109.1256004333496,

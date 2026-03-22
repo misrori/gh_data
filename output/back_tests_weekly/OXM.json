@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OXM",
         "name": "Oxford Industries, Inc.",
-        "collected_at": "2026-03-21T02:10:15.773Z",
+        "collected_at": "2026-03-22T02:10:08.043Z",
         "data_start_date": "2016-03-21",
         "price": 34.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:OXM",
-        "market_capitalization": 508955525.1348183,
+        "market_capitalization": 508955528,
         "commodity_name": null,
         "display_name": "Oxford Industries, Inc.",
         "sma_50": 41.42439994812012,

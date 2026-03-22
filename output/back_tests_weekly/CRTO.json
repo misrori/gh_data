@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRTO",
         "name": "Criteo S.A.",
-        "collected_at": "2026-03-21T02:09:02.451Z",
+        "collected_at": "2026-03-22T02:08:56.871Z",
         "data_start_date": "2016-03-21",
         "price": 17,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NASDAQ:CRTO",
-        "market_capitalization": 893111534,
+        "market_capitalization": 869581722,
         "commodity_name": null,
         "display_name": "Criteo S.A.",
         "sma_50": 22.335000076293944,

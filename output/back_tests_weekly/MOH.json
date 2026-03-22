@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MOH",
         "name": "Molina Healthcare Inc",
-        "collected_at": "2026-03-21T02:04:06.319Z",
+        "collected_at": "2026-03-22T02:04:02.091Z",
         "data_start_date": "2016-03-21",
         "price": 139.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Managed Health Care",
         "tradingview_id": "NYSE:MOH",
-        "market_capitalization": 7179615339.187539,
+        "market_capitalization": 7179615189,
         "commodity_name": null,
         "display_name": "Molina Healthcare Inc",
         "sma_50": 199.52080139160157,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CALY",
         "name": "Callaway Golf Company",
-        "collected_at": "2026-03-21T02:06:41.093Z",
+        "collected_at": "2026-03-22T02:06:32.447Z",
         "data_start_date": "2016-03-21",
         "price": 13.140000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Recreational Products",
         "tradingview_id": "NYSE:CALY",
-        "market_capitalization": 2418998858.3824816,
+        "market_capitalization": 2418998956,
         "commodity_name": null,
         "display_name": "Callaway Golf Company",
         "sma_50": 10.317200078964234,

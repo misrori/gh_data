@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PHVS",
         "name": "Pharvaris N.V.",
-        "collected_at": "2026-03-21T02:07:33.227Z",
+        "collected_at": "2026-03-22T02:07:24.498Z",
         "data_start_date": "2021-02-01",
         "price": 26,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:PHVS",
-        "market_capitalization": 1665446616.915423,
+        "market_capitalization": 1665446671,
         "commodity_name": null,
         "display_name": "Pharvaris N.V.",
         "sma_50": 22.63060005187988,

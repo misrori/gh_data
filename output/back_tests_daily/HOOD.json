@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HOOD",
         "name": "Robinhood Markets, Inc.",
-        "collected_at": "2026-03-21T02:01:09.759Z",
+        "collected_at": "2026-03-22T02:01:09.821Z",
         "data_start_date": "2021-07-29",
         "price": 70.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:HOOD",
-        "market_capitalization": 63822862966.37985,
+        "market_capitalization": 63822859265.99999,
         "commodity_name": null,
         "display_name": "Robinhood Markets, Inc.",
         "sma_50": 86.96219955444336,

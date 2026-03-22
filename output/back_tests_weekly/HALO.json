@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HALO",
         "name": "Halozyme Therapeutics, Inc.",
-        "collected_at": "2026-03-21T02:03:59.279Z",
+        "collected_at": "2026-03-22T02:03:55.261Z",
         "data_start_date": "2016-03-21",
         "price": 63.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:HALO",
-        "market_capitalization": 7485818255.863442,
+        "market_capitalization": 7485818238,
         "commodity_name": null,
         "display_name": "Halozyme Therapeutics, Inc.",
         "sma_50": 65.45640037536621,

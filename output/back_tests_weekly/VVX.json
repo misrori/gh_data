@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VVX",
         "name": "V2X, Inc.",
-        "collected_at": "2026-03-21T02:06:59.327Z",
+        "collected_at": "2026-03-22T02:06:50.539Z",
         "data_start_date": "2016-03-21",
         "price": 68.05000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:VVX",
-        "market_capitalization": 2121352981.8291426,
+        "market_capitalization": 2121353009.9999998,
         "commodity_name": null,
         "display_name": "V2X, Inc.",
         "sma_50": 56.17280014038086,

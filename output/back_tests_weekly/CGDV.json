@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CGDV",
         "name": "Capital Group Dividend Value ETF",
-        "collected_at": "2026-03-21T02:10:55.021Z",
+        "collected_at": "2026-03-22T02:10:45.096Z",
         "data_start_date": "2022-02-21",
         "price": 42.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:CGDV",
-        "market_capitalization": 29284159142.868,
+        "market_capitalization": 29272912039.392,
         "commodity_name": null,
         "display_name": "Capital Group Dividend Value ETF",
         "sma_50": 41.4676000213623,

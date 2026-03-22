@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GERN",
         "name": "Geron Corporation",
-        "collected_at": "2026-03-21T02:08:55.850Z",
+        "collected_at": "2026-03-22T02:08:45.892Z",
         "data_start_date": "2016-03-21",
         "price": 1.4600000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:GERN",
-        "market_capitalization": 935195200.7741934,
+        "market_capitalization": 935195254,
         "commodity_name": null,
         "display_name": "Geron Corporation",
         "sma_50": 1.3719999980926514,

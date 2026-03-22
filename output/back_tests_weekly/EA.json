@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EA",
         "name": "Electronic Arts Inc.",
-        "collected_at": "2026-03-21T02:01:18.855Z",
+        "collected_at": "2026-03-22T02:01:18.858Z",
         "data_start_date": "2016-03-21",
         "price": 200.50999450683594,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:EA",
-        "market_capitalization": 50178374638.285866,
+        "market_capitalization": 50178372653,
         "commodity_name": null,
         "display_name": "Electronic Arts Inc.",
         "sma_50": 180.88759979248047,

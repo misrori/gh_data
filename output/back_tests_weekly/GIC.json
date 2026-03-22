@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GIC",
         "name": "Global Industrial Company",
-        "collected_at": "2026-03-21T02:08:29.434Z",
+        "collected_at": "2026-03-22T02:08:19.284Z",
         "data_start_date": "2016-03-21",
         "price": 30.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NYSE:GIC",
-        "market_capitalization": 1156979339.8622162,
+        "market_capitalization": 1156979381,
         "commodity_name": null,
         "display_name": "Global Industrial Company",
         "sma_50": 30.377000122070314,

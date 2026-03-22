@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IRDM",
         "name": "Iridium Communications Inc",
-        "collected_at": "2026-03-21T02:06:29.951Z",
+        "collected_at": "2026-03-22T02:06:21.275Z",
         "data_start_date": "2016-03-21",
         "price": 25.399999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Specialty Telecommunications",
         "tradingview_id": "NASDAQ:IRDM",
-        "market_capitalization": 2665901586.0714283,
+        "market_capitalization": 2665901577,
         "commodity_name": null,
         "display_name": "Iridium Communications Inc",
         "sma_50": 22.5814001083374,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VLO",
         "name": "Valero Energy Corporation",
-        "collected_at": "2026-03-21T02:01:01.877Z",
+        "collected_at": "2026-03-22T02:01:01.443Z",
         "data_start_date": "2016-03-21",
         "price": 239.86000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil Refining/Marketing",
         "tradingview_id": "NYSE:VLO",
-        "market_capitalization": 71724430003.74223,
+        "market_capitalization": 71724428016,
         "commodity_name": null,
         "display_name": "Valero Energy Corporation",
         "sma_50": 163.49499954223631,

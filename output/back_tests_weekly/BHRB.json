@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BHRB",
         "name": "Burke & Herbert Financial Services Corp.",
-        "collected_at": "2026-03-21T02:09:00.373Z",
+        "collected_at": "2026-03-22T02:08:50.902Z",
         "data_start_date": "2016-03-21",
         "price": 60.380001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:BHRB",
-        "market_capitalization": 907422311.9471968,
+        "market_capitalization": 907422319,
         "commodity_name": null,
         "display_name": "Burke & Herbert Financial Services Corp.",
         "sma_50": 61.38959976196289,

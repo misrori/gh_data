@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BE",
         "name": "Bloom Energy Corporation",
-        "collected_at": "2026-03-21T02:01:28.486Z",
+        "collected_at": "2026-03-22T02:01:29.116Z",
         "data_start_date": "2018-07-25",
         "price": 150.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NYSE:BE",
-        "market_capitalization": 42115899069.36661,
+        "market_capitalization": 42115897082,
         "commodity_name": null,
         "display_name": "Bloom Energy Corporation",
         "sma_50": 152.1622006225586,

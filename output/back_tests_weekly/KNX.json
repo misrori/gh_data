@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KNX",
         "name": "Knight-Swift Transportation Holdings Inc.",
-        "collected_at": "2026-03-21T02:03:43.244Z",
+        "collected_at": "2026-03-22T02:03:38.442Z",
         "data_start_date": "2016-03-21",
         "price": 53.279998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NYSE:KNX",
-        "market_capitalization": 8654047890.860033,
+        "market_capitalization": 8654047866,
         "commodity_name": null,
         "display_name": "Knight-Swift Transportation Holdings Inc.",
         "sma_50": 47.61800003051758,

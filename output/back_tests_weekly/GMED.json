@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GMED",
         "name": "Globus Medical, Inc.",
-        "collected_at": "2026-03-21T02:03:14.591Z",
+        "collected_at": "2026-03-22T02:03:10.187Z",
         "data_start_date": "2016-03-21",
         "price": 86.26000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:GMED",
-        "market_capitalization": 11649863609.046122,
+        "market_capitalization": 11649863486,
         "commodity_name": null,
         "display_name": "Globus Medical, Inc.",
         "sma_50": 72.05379974365235,

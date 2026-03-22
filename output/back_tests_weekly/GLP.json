@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLP",
         "name": "Global Partners LP",
-        "collected_at": "2026-03-21T02:07:40.944Z",
+        "collected_at": "2026-03-22T02:07:32.246Z",
         "data_start_date": "2016-03-21",
         "price": 46.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:GLP",
-        "market_capitalization": 1585573419.8011963,
+        "market_capitalization": 1585573344,
         "commodity_name": null,
         "display_name": "Global Partners LP",
         "sma_50": 48.16559989929199,

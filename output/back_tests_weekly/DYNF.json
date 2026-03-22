@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DYNF",
         "name": "iShares U.S. Equity Factor Rotation Active ETF",
-        "collected_at": "2026-03-21T02:10:54.264Z",
+        "collected_at": "2026-03-22T02:10:44.341Z",
         "data_start_date": "2019-03-18",
         "price": 58.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:DYNF",
-        "market_capitalization": 30190805250,
+        "market_capitalization": 30132349042.5,
         "commodity_name": null,
         "display_name": "iShares U.S. Equity Factor Rotation Active ETF",
         "sma_50": 57.288799896240235,

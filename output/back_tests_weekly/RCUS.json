@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RCUS",
         "name": "Arcus Biosciences, Inc.",
-        "collected_at": "2026-03-21T02:06:27.184Z",
+        "collected_at": "2026-03-22T02:06:18.826Z",
         "data_start_date": "2018-03-12",
         "price": 21.639999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NYSE:RCUS",
-        "market_capitalization": 2712562776.722247,
+        "market_capitalization": 2712562664,
         "commodity_name": null,
         "display_name": "Arcus Biosciences, Inc.",
         "sma_50": 15.373800010681153,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BTU",
         "name": "Peabody Energy Corporation",
-        "collected_at": "2026-03-21T02:05:10.598Z",
+        "collected_at": "2026-03-22T02:05:03.514Z",
         "data_start_date": "2017-04-03",
         "price": 37.310001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Coal",
         "tradingview_id": "NYSE:BTU",
-        "market_capitalization": 4542413174.656075,
+        "market_capitalization": 4542413249,
         "commodity_name": null,
         "display_name": "Peabody Energy Corporation",
         "sma_50": 35.059200286865234,

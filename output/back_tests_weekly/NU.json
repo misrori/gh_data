@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NU",
         "name": "Nu Holdings Ltd.",
-        "collected_at": "2026-03-21T02:01:06.930Z",
+        "collected_at": "2026-03-22T02:01:06.964Z",
         "data_start_date": "2021-12-06",
         "price": 13.9399995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:NU",
-        "market_capitalization": 67688090593.38277,
+        "market_capitalization": 67688089284.999985,
         "commodity_name": null,
         "display_name": "Nu Holdings Ltd.",
         "sma_50": 14.686600017547608,

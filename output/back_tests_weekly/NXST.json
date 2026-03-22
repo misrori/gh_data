@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NXST",
         "name": "Nexstar Media Group, Inc.",
-        "collected_at": "2026-03-21T02:04:11.228Z",
+        "collected_at": "2026-03-22T02:04:06.791Z",
         "data_start_date": "2016-03-21",
         "price": 226.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Broadcasting",
         "tradingview_id": "NASDAQ:NXST",
-        "market_capitalization": 6878692707.88451,
+        "market_capitalization": 6878692540,
         "commodity_name": null,
         "display_name": "Nexstar Media Group, Inc.",
         "sma_50": 196.30539978027343,

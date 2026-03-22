@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BCC",
         "name": "Boise Cascade, L.L.C.",
-        "collected_at": "2026-03-21T02:06:39.166Z",
+        "collected_at": "2026-03-22T02:06:30.233Z",
         "data_start_date": "2016-03-21",
         "price": 68.30000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:BCC",
-        "market_capitalization": 2439817059.1511593,
+        "market_capitalization": 2439817147,
         "commodity_name": null,
         "display_name": "Boise Cascade, L.L.C.",
         "sma_50": 81.77800003051757,

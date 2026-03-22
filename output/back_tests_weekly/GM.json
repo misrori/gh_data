@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GM",
         "name": "General Motors Company",
-        "collected_at": "2026-03-21T02:01:08.450Z",
+        "collected_at": "2026-03-22T02:01:08.546Z",
         "data_start_date": "2016-03-21",
         "price": 72.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NYSE:GM",
-        "market_capitalization": 65817903288.41265,
+        "market_capitalization": 65817900265.00001,
         "commodity_name": null,
         "display_name": "General Motors Company",
         "sma_50": 64.07119995117188,

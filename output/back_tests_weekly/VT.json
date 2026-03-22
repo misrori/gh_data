@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VT",
         "name": "Vanguard Total World Stock Index ETF",
-        "collected_at": "2026-03-21T02:10:41.847Z",
+        "collected_at": "2026-03-22T02:10:32.268Z",
         "data_start_date": "2016-03-21",
         "price": 136.32000732421875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VT",
-        "market_capitalization": 62773263555.7466,
+        "market_capitalization": 62691309834.0762,
         "commodity_name": null,
         "display_name": "Vanguard Total World Stock Index ETF",
         "sma_50": 134.85780029296876,

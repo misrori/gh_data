@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "STNE",
         "name": "StoneCo Ltd.",
-        "collected_at": "2026-03-21T02:05:43.081Z",
+        "collected_at": "2026-03-22T02:05:34.695Z",
         "data_start_date": "2018-10-22",
         "price": 13.350000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:STNE",
-        "market_capitalization": 3615956588.020231,
+        "market_capitalization": 3615956650.9999995,
         "commodity_name": null,
         "display_name": "StoneCo Ltd.",
         "sma_50": 15.448599987030029,

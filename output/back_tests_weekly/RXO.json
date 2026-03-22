@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RXO",
         "name": "RXO, Inc.",
-        "collected_at": "2026-03-21T02:06:55.693Z",
+        "collected_at": "2026-03-22T02:06:47.139Z",
         "data_start_date": "2022-10-24",
         "price": 13.229999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:RXO",
-        "market_capitalization": 2172286201.3414097,
+        "market_capitalization": 2172286144,
         "commodity_name": null,
         "display_name": "RXO, Inc.",
         "sma_50": 15.056199951171875,

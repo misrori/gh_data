@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LNC",
         "name": "Lincoln National Corporation",
-        "collected_at": "2026-03-21T02:04:19.943Z",
+        "collected_at": "2026-03-22T02:04:14.725Z",
         "data_start_date": "2016-03-21",
         "price": 33.810001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:LNC",
-        "market_capitalization": 6426956413.937501,
+        "market_capitalization": 6426956967,
         "commodity_name": null,
         "display_name": "Lincoln National Corporation",
         "sma_50": 38.213600158691406,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VXF",
         "name": "Vanguard Extended Market ETF",
-        "collected_at": "2026-03-21T02:10:56.890Z",
+        "collected_at": "2026-03-22T02:10:46.824Z",
         "data_start_date": "2016-03-21",
         "price": 202.22999572753906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VXF",
-        "market_capitalization": 27642917527.44,
+        "market_capitalization": 27770479092.013,
         "commodity_name": null,
         "display_name": "Vanguard Extended Market ETF",
         "sma_50": 202.38899993896484,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ROK",
         "name": "Rockwell Automation, Inc.",
-        "collected_at": "2026-03-21T02:01:32.001Z",
+        "collected_at": "2026-03-22T02:01:32.915Z",
         "data_start_date": "2016-03-21",
         "price": 355.1099853515625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:ROK",
-        "market_capitalization": 39899415998.2824,
+        "market_capitalization": 39899413120,
         "commodity_name": null,
         "display_name": "Rockwell Automation, Inc.",
         "sma_50": 355.09699798583983,

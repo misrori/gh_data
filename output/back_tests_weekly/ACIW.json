@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACIW",
         "name": "ACI Worldwide, Inc.",
-        "collected_at": "2026-03-21T02:05:27.954Z",
+        "collected_at": "2026-03-22T02:05:20.077Z",
         "data_start_date": "2016-03-21",
         "price": 39.439998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ACIW",
-        "market_capitalization": 4011836277.181451,
+        "market_capitalization": 4011836107.0000005,
         "commodity_name": null,
         "display_name": "ACI Worldwide, Inc.",
         "sma_50": 46.40899993896485,

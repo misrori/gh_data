@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LAES",
         "name": "SEALSQ Corp",
-        "collected_at": "2026-03-21T02:09:41.061Z",
+        "collected_at": "2026-03-22T02:09:32.839Z",
         "data_start_date": "2023-05-23",
         "price": 2.9600000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:LAES",
-        "market_capitalization": 658963367.4788274,
+        "market_capitalization": 658963390,
         "commodity_name": null,
         "display_name": "SEALSQ Corp",
         "sma_50": 4.026300015449524,

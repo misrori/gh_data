@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GTLB",
         "name": "GitLab Inc.",
-        "collected_at": "2026-03-21T02:05:38.573Z",
+        "collected_at": "2026-03-22T02:05:27.163Z",
         "data_start_date": "2021-10-11",
         "price": 22.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:GTLB",
-        "market_capitalization": 3705336968.8947144,
+        "market_capitalization": 3785436864,
         "commodity_name": null,
         "display_name": "GitLab Inc.",
         "sma_50": 40.88079990386963,

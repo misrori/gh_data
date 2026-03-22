@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NOC",
         "name": "Northrop Grumman Corporation",
-        "collected_at": "2026-03-21T02:00:46.361Z",
+        "collected_at": "2026-03-22T02:00:45.636Z",
         "data_start_date": "2016-03-21",
         "price": 706.9500122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:NOC",
-        "market_capitalization": 100331500365.8809,
+        "market_capitalization": 100331498668,
         "commodity_name": null,
         "display_name": "Northrop Grumman Corporation",
         "sma_50": 586.5474017333985,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PBI",
         "name": "Pitney Bowes Inc.",
-        "collected_at": "2026-03-21T02:07:46.564Z",
+        "collected_at": "2026-03-22T02:07:37.618Z",
         "data_start_date": "2016-03-21",
         "price": 10.1899995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:PBI",
-        "market_capitalization": 1527916192.077603,
+        "market_capitalization": 1527916083,
         "commodity_name": null,
         "display_name": "Pitney Bowes Inc.",
         "sma_50": 10.551999969482422,

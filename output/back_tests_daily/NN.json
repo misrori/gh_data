@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NN",
         "name": "NextNav Inc.",
-        "collected_at": "2026-03-21T02:06:39.343Z",
+        "collected_at": "2026-03-22T02:06:30.317Z",
         "data_start_date": "2020-11-02",
         "price": 17.950000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:NN",
-        "market_capitalization": 2433942443.220065,
+        "market_capitalization": 2433942427,
         "commodity_name": null,
         "display_name": "NextNav Inc.",
         "sma_50": 16.09140007019043,

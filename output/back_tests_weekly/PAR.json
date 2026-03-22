@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PAR",
         "name": "PAR Technology Corporation",
-        "collected_at": "2026-03-21T02:10:01.473Z",
+        "collected_at": "2026-03-22T02:09:53.447Z",
         "data_start_date": "2016-03-21",
         "price": 13.9399995803833,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:PAR",
-        "market_capitalization": 573667728.4397163,
+        "market_capitalization": 573667696,
         "commodity_name": null,
         "display_name": "PAR Technology Corporation",
         "sma_50": 44.024399757385254,

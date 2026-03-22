@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LII",
         "name": "Lennox International, Inc.",
-        "collected_at": "2026-03-21T02:02:43.689Z",
+        "collected_at": "2026-03-22T02:02:39.097Z",
         "data_start_date": "2016-03-21",
         "price": 467.8800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:LII",
-        "market_capitalization": 16283585169.896772,
+        "market_capitalization": 16283585631,
         "commodity_name": null,
         "display_name": "Lennox International, Inc.",
         "sma_50": 540.6035986328125,

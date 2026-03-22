@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SHAK",
         "name": "Shake Shack, Inc.",
-        "collected_at": "2026-03-21T02:05:37.039Z",
+        "collected_at": "2026-03-22T02:05:28.978Z",
         "data_start_date": "2016-03-21",
         "price": 87.62999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NYSE:SHAK",
-        "market_capitalization": 3741144801.789814,
+        "market_capitalization": 3741144529,
         "commodity_name": null,
         "display_name": "Shake Shack, Inc.",
         "sma_50": 101.72580001831055,

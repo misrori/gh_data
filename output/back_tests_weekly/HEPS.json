@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HEPS",
         "name": "D-Market Electronic Services & Trading",
-        "collected_at": "2026-03-21T02:09:09.179Z",
+        "collected_at": "2026-03-22T02:09:01.693Z",
         "data_start_date": "2021-06-28",
         "price": 2.619999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:HEPS",
-        "market_capitalization": 851664732,
+        "market_capitalization": 842023177,
         "commodity_name": null,
         "display_name": "D-Market Electronic Services & Trading",
         "sma_50": 2.690899987220764,

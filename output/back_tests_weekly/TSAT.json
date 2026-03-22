@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TSAT",
         "name": "Telesat Corporation",
-        "collected_at": "2026-03-21T02:10:07.160Z",
+        "collected_at": "2026-03-22T02:09:58.727Z",
         "data_start_date": "2016-03-21",
         "price": 37.060001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Specialty Telecommunications",
         "tradingview_id": "NASDAQ:TSAT",
-        "market_capitalization": 548790838.9102659,
+        "market_capitalization": 548790822.3999212,
         "commodity_name": null,
         "display_name": "Telesat Corporation",
         "sma_50": 25.685600109100342,

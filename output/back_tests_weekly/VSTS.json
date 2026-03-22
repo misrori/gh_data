@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VSTS",
         "name": "Vestis Corporation",
-        "collected_at": "2026-03-21T02:08:52.012Z",
+        "collected_at": "2026-03-22T02:08:41.735Z",
         "data_start_date": "2023-09-25",
         "price": 7.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Apparel/Footwear",
         "tradingview_id": "NYSE:VSTS",
-        "market_capitalization": 956629859.0108402,
+        "market_capitalization": 956629845.0000001,
         "commodity_name": null,
         "display_name": "Vestis Corporation",
         "sma_50": 6.223999996185302,

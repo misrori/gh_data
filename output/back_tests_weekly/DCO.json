@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DCO",
         "name": "Ducommun Incorporated",
-        "collected_at": "2026-03-21T02:07:20.369Z",
+        "collected_at": "2026-03-22T02:07:11.468Z",
         "data_start_date": "2016-03-21",
         "price": 120.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:DCO",
-        "market_capitalization": 1806976237.9160063,
+        "market_capitalization": 1806976202,
         "commodity_name": null,
         "display_name": "Ducommun Incorporated",
         "sma_50": 93.54720001220703,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CWCO",
         "name": "Consolidated Water Co. Ltd.",
-        "collected_at": "2026-03-21T02:10:22.551Z",
+        "collected_at": "2026-03-22T02:10:13.809Z",
         "data_start_date": "2016-03-21",
         "price": 30.520000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NASDAQ:CWCO",
-        "market_capitalization": 487227655.487781,
+        "market_capitalization": 487227653.99999994,
         "commodity_name": null,
         "display_name": "Consolidated Water Co. Ltd.",
         "sma_50": 32.37939994812012,

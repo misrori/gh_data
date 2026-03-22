@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SYM",
         "name": "Symbotic Inc.",
-        "collected_at": "2026-03-21T02:01:48.339Z",
+        "collected_at": "2026-03-22T02:01:50.276Z",
         "data_start_date": "2021-03-09",
         "price": 50.119998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:SYM",
-        "market_capitalization": 30180849469.534317,
+        "market_capitalization": 30180849543.999996,
         "commodity_name": null,
         "display_name": "Symbotic Inc.",
         "sma_50": 56.746999969482424,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PJT",
         "name": "PJT Partners Inc.",
-        "collected_at": "2026-03-21T02:06:03.970Z",
+        "collected_at": "2026-03-22T02:05:55.652Z",
         "data_start_date": "2016-03-21",
         "price": 131.25999450683594,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:PJT",
-        "market_capitalization": 3173144699.193203,
+        "market_capitalization": 3173144581,
         "commodity_name": null,
         "display_name": "PJT Partners Inc.",
         "sma_50": 164.73319946289064,

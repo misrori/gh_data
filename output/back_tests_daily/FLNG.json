@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FLNG",
         "name": "FLEX LNG Ltd.",
-        "collected_at": "2026-03-21T02:07:39.242Z",
+        "collected_at": "2026-03-22T02:07:30.743Z",
         "data_start_date": "2019-06-17",
         "price": 30.079999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:FLNG",
-        "market_capitalization": 1597620175.4475768,
+        "market_capitalization": 1597620186,
         "commodity_name": null,
         "display_name": "FLEX LNG Ltd.",
         "sma_50": 27.589799995422364,

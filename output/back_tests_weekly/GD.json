@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GD",
         "name": "General Dynamics Corporation",
-        "collected_at": "2026-03-21T02:00:48.286Z",
+        "collected_at": "2026-03-22T02:00:47.369Z",
         "data_start_date": "2016-03-21",
         "price": 345.7799987792969,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:GD",
-        "market_capitalization": 93495365599.49986,
+        "market_capitalization": 93495363964,
         "commodity_name": null,
         "display_name": "General Dynamics Corporation",
         "sma_50": 323.7159979248047,

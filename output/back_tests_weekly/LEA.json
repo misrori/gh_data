@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LEA",
         "name": "Lear Corporation",
-        "collected_at": "2026-03-21T02:04:33.809Z",
+        "collected_at": "2026-03-22T02:04:28.374Z",
         "data_start_date": "2016-03-21",
         "price": 113.4800033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:LEA",
-        "market_capitalization": 5756551267.530369,
+        "market_capitalization": 5756551347,
         "commodity_name": null,
         "display_name": "Lear Corporation",
         "sma_50": 106.51339981079101,

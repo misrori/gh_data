@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PFBC",
         "name": "Preferred Bank",
-        "collected_at": "2026-03-21T02:08:26.234Z",
+        "collected_at": "2026-03-22T02:08:15.890Z",
         "data_start_date": "2016-03-21",
         "price": 87.58999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:PFBC",
-        "market_capitalization": 1173069864.0654135,
+        "market_capitalization": 1173069819,
         "commodity_name": null,
         "display_name": "Preferred Bank",
         "sma_50": 90.00319961547852,

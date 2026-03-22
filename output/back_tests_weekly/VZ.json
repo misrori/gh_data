@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VZ",
         "name": "Verizon Communications Inc.",
-        "collected_at": "2026-03-21T02:00:24.118Z",
+        "collected_at": "2026-03-22T02:00:23.680Z",
         "data_start_date": "2016-03-21",
         "price": 49.97999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Wireless Telecommunications",
         "tradingview_id": "NYSE:VZ",
-        "market_capitalization": 210842025309.93375,
+        "market_capitalization": 210842025329.434,
         "commodity_name": null,
         "display_name": "Verizon Communications Inc.",
         "sma_50": 43.378000030517576,

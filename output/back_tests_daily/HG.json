@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HG",
         "name": "Hamilton Insurance Group, Ltd.",
-        "collected_at": "2026-03-21T02:06:18.653Z",
+        "collected_at": "2026-03-22T02:06:10.875Z",
         "data_start_date": "2023-11-10",
         "price": 28.549999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:HG",
-        "market_capitalization": 2830475282.8181496,
+        "market_capitalization": 2830475299,
         "commodity_name": null,
         "display_name": "Hamilton Insurance Group, Ltd.",
         "sma_50": 28.92020004272461,

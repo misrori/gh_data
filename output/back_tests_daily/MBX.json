@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MBX",
         "name": "MBX Biosciences, Inc.",
-        "collected_at": "2026-03-21T02:08:05.719Z",
+        "collected_at": "2026-03-22T02:07:56.473Z",
         "data_start_date": "2024-09-13",
         "price": 28.68000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:MBX",
-        "market_capitalization": 1362593768.745691,
+        "market_capitalization": 1362593768,
         "commodity_name": null,
         "display_name": "MBX Biosciences, Inc.",
         "sma_50": 35.056699981689455,

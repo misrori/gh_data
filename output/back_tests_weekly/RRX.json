@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RRX",
         "name": "Regal Rexnord Corporation",
-        "collected_at": "2026-03-21T02:03:14.325Z",
+        "collected_at": "2026-03-22T02:03:09.939Z",
         "data_start_date": "2016-03-21",
         "price": 175.39999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:RRX",
-        "market_capitalization": 11664026629.236828,
+        "market_capitalization": 11664025993,
         "commodity_name": null,
         "display_name": "Regal Rexnord Corporation",
         "sma_50": 151.2758004760742,

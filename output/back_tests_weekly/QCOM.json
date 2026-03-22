@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QCOM",
         "name": "QUALCOMM Incorporated",
-        "collected_at": "2026-03-21T02:00:34.927Z",
+        "collected_at": "2026-03-22T02:00:34.319Z",
         "data_start_date": "2016-03-21",
         "price": 129.89999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:QCOM",
-        "market_capitalization": 138603298711.68646,
+        "market_capitalization": 138603293488,
         "commodity_name": null,
         "display_name": "QUALCOMM Incorporated",
         "sma_50": 156.2339993286133,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OMF",
         "name": "OneMain Holdings, Inc.",
-        "collected_at": "2026-03-21T02:04:28.122Z",
+        "collected_at": "2026-03-22T02:04:22.697Z",
         "data_start_date": "2016-03-21",
         "price": 51.47999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:OMF",
-        "market_capitalization": 6030988124.505882,
+        "market_capitalization": 6030988070,
         "commodity_name": null,
         "display_name": "OneMain Holdings, Inc.",
         "sma_50": 57.9118000793457,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ENTG",
         "name": "Entegris, Inc.",
-        "collected_at": "2026-03-21T02:02:37.068Z",
+        "collected_at": "2026-03-22T02:02:32.900Z",
         "data_start_date": "2016-03-21",
         "price": 114.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:ENTG",
-        "market_capitalization": 17428320092.03677,
+        "market_capitalization": 17428320557,
         "commodity_name": null,
         "display_name": "Entegris, Inc.",
         "sma_50": 91.64019989013671,

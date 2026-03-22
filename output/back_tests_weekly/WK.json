@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WK",
         "name": "Workiva Inc.",
-        "collected_at": "2026-03-21T02:05:51.606Z",
+        "collected_at": "2026-03-22T02:05:42.826Z",
         "data_start_date": "2016-03-21",
         "price": 60.7400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:WK",
-        "market_capitalization": 3452136221.7973366,
+        "market_capitalization": 3452136215,
         "commodity_name": null,
         "display_name": "Workiva Inc.",
         "sma_50": 76.22400077819825,

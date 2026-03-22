@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRTN",
         "name": "Marten Transport, Ltd.",
-        "collected_at": "2026-03-21T02:08:47.289Z",
+        "collected_at": "2026-03-22T02:08:37.192Z",
         "data_start_date": "2016-03-21",
         "price": 12.180000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Trucking",
         "tradingview_id": "NASDAQ:MRTN",
-        "market_capitalization": 993183541.0115703,
+        "market_capitalization": 993183534.0000001,
         "commodity_name": null,
         "display_name": "Marten Transport, Ltd.",
         "sma_50": 12.086200008392334,

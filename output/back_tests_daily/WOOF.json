@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WOOF",
         "name": "Petco Health and Wellness Company, Inc.",
-        "collected_at": "2026-03-21T02:09:11.978Z",
+        "collected_at": "2026-03-22T02:09:03.597Z",
         "data_start_date": "2021-01-14",
         "price": 2.9200000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:WOOF",
-        "market_capitalization": 830319096.0384613,
+        "market_capitalization": 830319148,
         "commodity_name": null,
         "display_name": "Petco Health and Wellness Company, Inc.",
         "sma_50": 2.748600010871887,

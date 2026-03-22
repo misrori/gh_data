@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QS",
         "name": "QuantumScape Corporation",
-        "collected_at": "2026-03-21T02:05:25.330Z",
+        "collected_at": "2026-03-22T02:05:17.437Z",
         "data_start_date": "2020-08-17",
         "price": 6.590000152587891,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:QS",
-        "market_capitalization": 4036914608.137881,
+        "market_capitalization": 4036914779.9999995,
         "commodity_name": null,
         "display_name": "QuantumScape Corporation",
         "sma_50": 8.2406999874115,

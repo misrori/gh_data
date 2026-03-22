@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RGLD",
         "name": "Royal Gold, Inc.",
-        "collected_at": "2026-03-21T02:02:33.601Z",
+        "collected_at": "2026-03-22T02:02:29.204Z",
         "data_start_date": "2016-03-21",
         "price": 215.2100067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Precious Metals",
         "tradingview_id": "NASDAQ:RGLD",
-        "market_capitalization": 18251983155.687214,
+        "market_capitalization": 18251983131,
         "commodity_name": null,
         "display_name": "Royal Gold, Inc.",
         "sma_50": 204.02919982910157,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PIPR",
         "name": "Piper Sandler Companies",
-        "collected_at": "2026-03-21T02:04:48.032Z",
+        "collected_at": "2026-03-22T02:04:41.965Z",
         "data_start_date": "2016-03-21",
         "price": 294.2699890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NYSE:PIPR",
-        "market_capitalization": 5244607798.777003,
+        "market_capitalization": 5244607863.000001,
         "commodity_name": null,
         "display_name": "Piper Sandler Companies",
         "sma_50": 313.661799621582,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CBC",
         "name": "Central Bancompany, Inc.",
-        "collected_at": "2026-03-21T02:04:37.028Z",
+        "collected_at": "2026-03-22T02:04:31.407Z",
         "data_start_date": "2025-11-21",
         "price": 23.40999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CBC",
-        "market_capitalization": 5644375415.517693,
+        "market_capitalization": 5644375433,
         "commodity_name": null,
         "display_name": "Central Bancompany, Inc.",
         "sma_50": 24.270899963378906,

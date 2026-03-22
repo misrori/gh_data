@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OCS",
         "name": "Oculis Holding AG",
-        "collected_at": "2026-03-21T02:07:59.303Z",
+        "collected_at": "2026-03-22T02:07:50.189Z",
         "data_start_date": "2021-05-18",
         "price": 24.860000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:OCS",
-        "market_capitalization": 1421233209.4986203,
+        "market_capitalization": 1421233197,
         "commodity_name": null,
         "display_name": "Oculis Holding AG",
         "sma_50": 27.2203999710083,

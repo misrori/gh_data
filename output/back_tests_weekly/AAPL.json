@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AAPL",
         "name": "Apple Inc.",
-        "collected_at": "2026-03-21T02:00:07.499Z",
+        "collected_at": "2026-03-22T02:00:08.378Z",
         "data_start_date": "2016-03-21",
         "price": 247.99000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:AAPL",
-        "market_capitalization": 3640775919598.978,
+        "market_capitalization": 3640775902061.9995,
         "commodity_name": null,
         "display_name": "Apple Inc.",
         "sma_50": 240.22899993896485,

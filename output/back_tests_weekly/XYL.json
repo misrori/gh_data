@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XYL",
         "name": "Xylem Inc.",
-        "collected_at": "2026-03-21T02:01:51.540Z",
+        "collected_at": "2026-03-22T02:01:53.430Z",
         "data_start_date": "2016-03-21",
         "price": 120.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:XYL",
-        "market_capitalization": 29279087772.7444,
+        "market_capitalization": 29279088366.837433,
         "commodity_name": null,
         "display_name": "Xylem Inc.",
         "sma_50": 134.91440017700197,

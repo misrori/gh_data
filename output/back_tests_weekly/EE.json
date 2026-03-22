@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EE",
         "name": "Excelerate Energy, Inc.",
-        "collected_at": "2026-03-21T02:05:35.800Z",
+        "collected_at": "2026-03-22T02:05:27.735Z",
         "data_start_date": "2022-04-11",
         "price": 32.9900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NYSE:EE",
-        "market_capitalization": 3763067085.810084,
+        "market_capitalization": 3763067293,
         "commodity_name": null,
         "display_name": "Excelerate Energy, Inc.",
         "sma_50": 29.125600204467773,

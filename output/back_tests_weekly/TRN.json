@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRN",
         "name": "Trinity Industries, Inc.",
-        "collected_at": "2026-03-21T02:06:43.581Z",
+        "collected_at": "2026-03-22T02:06:35.303Z",
         "data_start_date": "2016-03-21",
         "price": 29.600000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:TRN",
-        "market_capitalization": 2363255725.341406,
+        "market_capitalization": 2363255792,
         "commodity_name": null,
         "display_name": "Trinity Industries, Inc.",
         "sma_50": 27.792000122070313,

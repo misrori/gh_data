@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BBY",
         "name": "Best Buy Co., Inc.",
-        "collected_at": "2026-03-21T02:03:00.948Z",
+        "collected_at": "2026-03-22T02:02:55.868Z",
         "data_start_date": "2016-03-21",
         "price": 62.79999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Electronics/Appliance Stores",
         "tradingview_id": "NYSE:BBY",
-        "market_capitalization": 13132270482.648388,
+        "market_capitalization": 13132269823,
         "commodity_name": null,
         "display_name": "Best Buy Co., Inc.",
         "sma_50": 70.74380027770997,

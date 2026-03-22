@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AAON",
         "name": "AAON, Inc.",
-        "collected_at": "2026-03-21T02:04:17.770Z",
+        "collected_at": "2026-03-22T02:04:12.616Z",
         "data_start_date": "2016-03-21",
         "price": 80.01000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:AAON",
-        "market_capitalization": 6520803650.673954,
+        "market_capitalization": 6520803576,
         "commodity_name": null,
         "display_name": "AAON, Inc.",
         "sma_50": 88.68920013427734,

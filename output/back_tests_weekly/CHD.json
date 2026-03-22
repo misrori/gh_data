@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CHD",
         "name": "Church & Dwight Company, Inc.",
-        "collected_at": "2026-03-21T02:02:16.649Z",
+        "collected_at": "2026-03-22T02:02:12.456Z",
         "data_start_date": "2016-03-21",
         "price": 94.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Household/Personal Care",
         "tradingview_id": "NYSE:CHD",
-        "market_capitalization": 22412576989.70776,
+        "market_capitalization": 22412577134,
         "commodity_name": null,
         "display_name": "Church & Dwight Company, Inc.",
         "sma_50": 93.02320022583008,

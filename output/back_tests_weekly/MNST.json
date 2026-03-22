@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MNST",
         "name": "Monster Beverage Corporation",
-        "collected_at": "2026-03-21T02:01:00.605Z",
+        "collected_at": "2026-03-22T02:01:00.483Z",
         "data_start_date": "2016-03-21",
         "price": 73.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Non-Alcoholic",
         "tradingview_id": "NASDAQ:MNST",
-        "market_capitalization": 72088769622.8195,
+        "market_capitalization": 72088774100,
         "commodity_name": null,
         "display_name": "Monster Beverage Corporation",
         "sma_50": 69.0370004272461,

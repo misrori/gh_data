@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PTON",
         "name": "Peloton Interactive, Inc.",
-        "collected_at": "2026-03-21T02:07:35.235Z",
+        "collected_at": "2026-03-22T02:07:26.435Z",
         "data_start_date": "2019-09-26",
         "price": 3.8399999141693115,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:PTON",
-        "market_capitalization": 1633878114.6798031,
+        "market_capitalization": 1633878101,
         "commodity_name": null,
         "display_name": "Peloton Interactive, Inc.",
         "sma_50": 4.801500010490417,

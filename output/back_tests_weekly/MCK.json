@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MCK",
         "name": "McKesson Corporation",
-        "collected_at": "2026-03-21T02:00:42.222Z",
+        "collected_at": "2026-03-22T02:00:41.637Z",
         "data_start_date": "2016-03-21",
         "price": 885.8400268554688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Medical Distributors",
         "tradingview_id": "NYSE:MCK",
-        "market_capitalization": 108504283867.34229,
+        "market_capitalization": 108504285684,
         "commodity_name": null,
         "display_name": "McKesson Corporation",
         "sma_50": 783.2108032226563,

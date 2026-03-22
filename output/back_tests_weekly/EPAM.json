@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EPAM",
         "name": "EPAM Systems, Inc.",
-        "collected_at": "2026-03-21T02:04:00.227Z",
+        "collected_at": "2026-03-22T02:03:56.185Z",
         "data_start_date": "2016-03-21",
         "price": 137.42999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:EPAM",
-        "market_capitalization": 7440455821.932189,
+        "market_capitalization": 7440455525.999999,
         "commodity_name": null,
         "display_name": "EPAM Systems, Inc.",
         "sma_50": 171.34300018310546,

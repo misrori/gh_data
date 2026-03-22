@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADT",
         "name": "ADT Inc.",
-        "collected_at": "2026-03-21T02:04:55.627Z",
+        "collected_at": "2026-03-22T02:04:49.468Z",
         "data_start_date": "2018-01-19",
         "price": 6.510000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:ADT",
-        "market_capitalization": 4982606464.037935,
+        "market_capitalization": 4982606524,
         "commodity_name": null,
         "display_name": "ADT Inc.",
         "sma_50": 7.557199974060058,

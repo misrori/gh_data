@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXPE",
         "name": "Expedia Group, Inc.",
-        "collected_at": "2026-03-21T02:01:52.167Z",
+        "collected_at": "2026-03-22T02:01:54.088Z",
         "data_start_date": "2016-03-21",
         "price": 235.17999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:EXPE",
-        "market_capitalization": 28817645619.381897,
+        "market_capitalization": 28817644281,
         "commodity_name": null,
         "display_name": "Expedia Group, Inc.",
         "sma_50": 217.3245983886719,

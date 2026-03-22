@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRC",
         "name": "California Resources Corporation",
-        "collected_at": "2026-03-21T02:04:37.799Z",
+        "collected_at": "2026-03-22T02:04:31.950Z",
         "data_start_date": "2020-10-26",
         "price": 63.560001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:CRC",
-        "market_capitalization": 5631255379.404228,
+        "market_capitalization": 5631255515,
         "commodity_name": null,
         "display_name": "California Resources Corporation",
         "sma_50": 49.099399642944334,
