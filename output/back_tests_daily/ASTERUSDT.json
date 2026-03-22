@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASTERUSDT",
         "name": "Aster",
-        "collected_at": "2026-03-22T15:45:24.292Z",
+        "collected_at": "2026-03-22T16:45:22.387Z",
         "data_start_date": "2025-10-06",
         "price": 0.669,
         "change": 0.14970059880239533,
-        "volume": 22985709.25,
+        "volume": 23368134.43,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 19,
