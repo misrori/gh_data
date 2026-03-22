@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OPUSDT",
         "name": "Optimism",
-        "collected_at": "2026-03-22T14:46:24.744Z",
+        "collected_at": "2026-03-22T15:46:27.034Z",
         "data_start_date": "2022-06-01",
         "price": 0.1159,
         "change": -1.6129032258064506,
-        "volume": 13220682.5,
+        "volume": 13587857.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 163,
