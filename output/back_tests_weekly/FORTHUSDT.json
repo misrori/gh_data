@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FORTHUSDT",
         "name": "FORTH / USDT",
-        "collected_at": "2026-03-22T00:47:01.234Z",
+        "collected_at": "2026-03-22T01:46:59.361Z",
         "data_start_date": "2021-04-19",
         "price": 0.491,
         "change": -46.57236126224157,
-        "volume": 11913094.04,
+        "volume": 11938148.66,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 357,
