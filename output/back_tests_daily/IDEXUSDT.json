@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IDEXUSDT",
         "name": "IDEX / USDT",
-        "collected_at": "2026-03-22T05:47:03.950Z",
+        "collected_at": "2026-03-22T06:47:14.752Z",
         "data_start_date": "2021-09-09",
         "price": 0.00457,
         "change": -2.3504273504273474,
-        "volume": 14535160.9,
+        "volume": 19349771.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 163,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.007306581931096152,
+        "ml_value": 0.007314296216810438,
         "ml_last_change_date": "2025-10-10",
         "ml_last_change_price": 0.01845,
         "ml_change_percent_from_last_change": -75.23035230352303
