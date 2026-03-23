@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENSOUSDT",
         "name": "Enso",
-        "collected_at": "2026-03-23T21:47:05.098Z",
+        "collected_at": "2026-03-23T22:46:57.149Z",
         "data_start_date": "2025-10-14",
         "price": 1.135,
         "change": -0.17590149516270903,
-        "volume": 1352115.84,
+        "volume": 1412362.72,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 3,
