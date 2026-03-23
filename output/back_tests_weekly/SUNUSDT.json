@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SUNUSDT",
         "name": "Sun (New)",
-        "collected_at": "2026-03-23T16:46:21.560Z",
+        "collected_at": "2026-03-23T17:46:25.613Z",
         "data_start_date": "2020-09-21",
         "price": 0.01852,
         "change": 1.3683634373289366,
-        "volume": 118596999,
+        "volume": 119379799,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 42,
