@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VSTM",
         "name": "Verastem, Inc.",
-        "collected_at": "2026-03-22T02:10:14.306Z",
+        "collected_at": "2026-03-23T02:10:12.075Z",
         "data_start_date": "2016-03-21",
         "price": 5.53000020980835,
         "change": 0,
-        "volume": 3828393,
+        "volume": 3828419,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

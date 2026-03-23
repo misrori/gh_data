@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CART",
         "name": "Maplebear Inc.",
-        "collected_at": "2026-03-22T02:03:35.684Z",
+        "collected_at": "2026-03-23T02:03:33.780Z",
         "data_start_date": "2023-09-18",
         "price": 36.93000030517578,
         "change": 0,
-        "volume": 5651111,
+        "volume": 5651782,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

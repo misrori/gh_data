@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MYRG",
         "name": "MYR Group, Inc.",
-        "collected_at": "2026-03-22T02:05:17.703Z",
+        "collected_at": "2026-03-23T02:05:17.880Z",
         "data_start_date": "2016-03-21",
         "price": 259.67999267578125,
         "change": 0,
-        "volume": 352014,
+        "volume": 373492,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 305,

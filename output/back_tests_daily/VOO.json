@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "VOO",
         "name": "Vanguard S&P 500 ETF",
-        "collected_at": "2026-03-22T02:10:22.133Z",
-        "data_start_date": "2016-03-24",
+        "collected_at": "2026-03-23T02:10:20.906Z",
+        "data_start_date": "2016-03-28",
         "price": 597.9400024414062,
         "change": 0,
         "volume": 17651800,

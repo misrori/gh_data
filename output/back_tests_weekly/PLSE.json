@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PLSE",
         "name": "Pulse Biosciences, Inc",
-        "collected_at": "2026-03-22T02:07:40.620Z",
+        "collected_at": "2026-03-23T02:07:40.228Z",
         "data_start_date": "2016-05-16",
         "price": 22.100000381469727,
         "change": 0,
-        "volume": 304573,
+        "volume": 335742,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 32,

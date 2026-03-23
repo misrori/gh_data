@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SIFY",
         "name": "Sify Technologies Limited - American Depository Shares",
-        "collected_at": "2026-03-22T02:08:36.230Z",
+        "collected_at": "2026-03-23T02:08:35.580Z",
         "data_start_date": "2016-03-21",
         "price": 13.890000343322754,
         "change": 0,
-        "volume": 62242,
+        "volume": 62560,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,

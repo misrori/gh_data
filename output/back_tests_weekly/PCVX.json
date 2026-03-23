@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PCVX",
         "name": "Vaxcyte, Inc.",
-        "collected_at": "2026-03-22T02:03:48.201Z",
+        "collected_at": "2026-03-23T02:03:46.186Z",
         "data_start_date": "2020-06-08",
         "price": 54.720001220703125,
         "change": 0,
-        "volume": 2961923,
+        "volume": 3914888,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

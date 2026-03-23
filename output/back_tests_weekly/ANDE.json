@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ANDE",
         "name": "The Andersons, Inc.",
-        "collected_at": "2026-03-22T02:06:43.145Z",
+        "collected_at": "2026-03-23T02:06:42.929Z",
         "data_start_date": "2016-03-21",
         "price": 66.44000244140625,
         "change": 0,
-        "volume": 1051101,
+        "volume": 1157593,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 95,

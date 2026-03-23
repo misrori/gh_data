@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HURN",
         "name": "Huron Consulting Group Inc.",
-        "collected_at": "2026-03-22T02:06:45.912Z",
+        "collected_at": "2026-03-23T02:06:45.681Z",
         "data_start_date": "2016-03-21",
         "price": 129.8699951171875,
         "change": 0,
-        "volume": 236981,
+        "volume": 251259,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1397,

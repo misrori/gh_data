@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TREE",
         "name": "LendingTree, Inc.",
-        "collected_at": "2026-03-22T02:09:55.562Z",
+        "collected_at": "2026-03-23T02:09:53.596Z",
         "data_start_date": "2016-03-21",
         "price": 40.41999816894531,
         "change": 0,
-        "volume": 288853,
+        "volume": 303873,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

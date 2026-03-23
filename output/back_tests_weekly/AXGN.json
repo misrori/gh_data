@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AXGN",
         "name": "Axogen, Inc.",
-        "collected_at": "2026-03-22T02:07:31.112Z",
+        "collected_at": "2026-03-23T02:07:31.326Z",
         "data_start_date": "2016-03-21",
         "price": 30.780000686645508,
         "change": 0,
-        "volume": 1641942,
+        "volume": 1641966,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 207,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LGND",
         "name": "Ligand Pharmaceuticals Incorporated",
-        "collected_at": "2026-03-22T02:05:16.104Z",
+        "collected_at": "2026-03-23T02:05:16.270Z",
         "data_start_date": "2016-03-21",
         "price": 204.80999755859375,
         "change": 0,
-        "volume": 468267,
+        "volume": 468277,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 753,

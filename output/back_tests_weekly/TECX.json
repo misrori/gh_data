@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TECX",
         "name": "Tectonic Therapeutic, Inc.",
-        "collected_at": "2026-03-22T02:09:55.074Z",
+        "collected_at": "2026-03-23T02:09:53.086Z",
         "data_start_date": "2018-06-18",
         "price": 29.8799991607666,
         "change": 0,
-        "volume": 274671,
+        "volume": 290715,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

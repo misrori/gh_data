@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UPWK",
         "name": "Upwork Inc.",
-        "collected_at": "2026-03-22T02:07:45.668Z",
+        "collected_at": "2026-03-23T02:07:45.095Z",
         "data_start_date": "2018-10-01",
         "price": 11.274999618530273,
         "change": -0.04432725673124569,
-        "volume": 5147135,
+        "volume": 5367150,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

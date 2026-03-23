@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FSBC",
         "name": "Five Star Bancorp",
-        "collected_at": "2026-03-22T02:09:10.190Z",
+        "collected_at": "2026-03-23T02:09:08.191Z",
         "data_start_date": "2021-05-03",
         "price": 36.36000061035156,
         "change": 0,
-        "volume": 118673,
+        "volume": 131620,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 599,

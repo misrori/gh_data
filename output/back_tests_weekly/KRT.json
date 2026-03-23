@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KRT",
         "name": "Karat Packaging Inc.",
-        "collected_at": "2026-03-22T02:10:01.869Z",
+        "collected_at": "2026-03-23T02:09:59.760Z",
         "data_start_date": "2021-04-12",
         "price": 27.010000228881836,
         "change": 0,
-        "volume": 113747,
+        "volume": 121286,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 144,

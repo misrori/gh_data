@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TMC",
         "name": "TMC the metals company Inc.",
-        "collected_at": "2026-03-22T02:06:52.050Z",
+        "collected_at": "2026-03-23T02:06:52.289Z",
         "data_start_date": "2021-09-06",
         "price": 5.03000020980835,
         "change": 0,
-        "volume": 9759843,
+        "volume": 9843373,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 396,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SBGI",
         "name": "Sinclair, Inc.",
-        "collected_at": "2026-03-22T02:08:43.290Z",
+        "collected_at": "2026-03-23T02:08:42.569Z",
         "data_start_date": "2016-03-21",
         "price": 13.239999771118164,
         "change": 0,
-        "volume": 1319275,
+        "volume": 1505898,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

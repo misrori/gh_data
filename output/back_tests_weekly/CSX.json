@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSX",
         "name": "CSX Corporation",
-        "collected_at": "2026-03-22T02:01:02.940Z",
+        "collected_at": "2026-03-23T02:01:04.046Z",
         "data_start_date": "2016-03-21",
         "price": 38.16999816894531,
         "change": 0,
-        "volume": 19000099,
+        "volume": 20249117,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MNST",
         "name": "Monster Beverage Corporation",
-        "collected_at": "2026-03-22T02:01:00.483Z",
+        "collected_at": "2026-03-23T02:01:01.530Z",
         "data_start_date": "2016-03-21",
         "price": 73.69000244140625,
         "change": 0,
-        "volume": 10526536,
+        "volume": 10528766,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 354,

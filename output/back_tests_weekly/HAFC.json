@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HAFC",
         "name": "Hanmi Financial Corporation",
-        "collected_at": "2026-03-22T02:09:14.217Z",
+        "collected_at": "2026-03-23T02:09:12.023Z",
         "data_start_date": "2016-03-21",
         "price": 25.34000015258789,
         "change": 0,
-        "volume": 1484235,
+        "volume": 1620063,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 508,

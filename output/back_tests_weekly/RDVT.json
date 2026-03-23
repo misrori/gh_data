@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RDVT",
         "name": "Red Violet, Inc.",
-        "collected_at": "2026-03-22T02:10:01.001Z",
+        "collected_at": "2026-03-23T02:09:58.986Z",
         "data_start_date": "2018-03-26",
         "price": 38.38999938964844,
         "change": 0,
-        "volume": 143214,
+        "volume": 156561,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 613,

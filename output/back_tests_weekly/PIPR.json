@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PIPR",
         "name": "Piper Sandler Companies",
-        "collected_at": "2026-03-22T02:04:41.965Z",
+        "collected_at": "2026-03-23T02:04:41.900Z",
         "data_start_date": "2016-03-21",
         "price": 294.2699890136719,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 16.8664,
         "number_of_employees": 1858,
         "ml_direction": -1,
-        "ml_value": 366.6977887485872,
+        "ml_value": 366.6979728396158,
         "ml_last_change_date": "2026-02-23",
         "ml_last_change_price": 286.260009765625,
         "ml_change_percent_from_last_change": 2.79814817815629

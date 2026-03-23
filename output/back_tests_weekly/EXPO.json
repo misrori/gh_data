@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EXPO",
         "name": "Exponent, Inc.",
-        "collected_at": "2026-03-22T02:05:48.513Z",
+        "collected_at": "2026-03-23T02:05:47.978Z",
         "data_start_date": "2016-03-21",
         "price": 66.76000213623047,
         "change": 0,
-        "volume": 1057461,
+        "volume": 1160346,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 368,

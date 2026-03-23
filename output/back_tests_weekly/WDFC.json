@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WDFC",
         "name": "WD-40 Company",
-        "collected_at": "2026-03-22T02:06:08.477Z",
+        "collected_at": "2026-03-23T02:06:07.579Z",
         "data_start_date": "2016-03-21",
         "price": 213.8300018310547,
         "change": 0,
-        "volume": 380129,
+        "volume": 401850,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 242,

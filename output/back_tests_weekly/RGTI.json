@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RGTI",
         "name": "Rigetti Computing, Inc.",
-        "collected_at": "2026-03-22T02:04:50.787Z",
+        "collected_at": "2026-03-23T02:04:50.399Z",
         "data_start_date": "2021-04-19",
         "price": 14.880000114440918,
         "change": 0,
-        "volume": 24702250,
+        "volume": 24794814,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 459,

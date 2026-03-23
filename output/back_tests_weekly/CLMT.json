@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CLMT",
         "name": "Calumet, Inc",
-        "collected_at": "2026-03-22T02:06:30.698Z",
+        "collected_at": "2026-03-23T02:06:30.821Z",
         "data_start_date": "2016-03-21",
         "price": 28.040000915527344,
         "change": 0,
-        "volume": 2189004,
+        "volume": 2903857,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 151,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.4011,
         "number_of_employees": 1540,
         "ml_direction": 1,
-        "ml_value": 22.754453968792582,
+        "ml_value": 22.754453968792586,
         "ml_last_change_date": "2025-09-01",
         "ml_last_change_price": 17.959999084472656,
         "ml_change_percent_from_last_change": 56.12473465975489

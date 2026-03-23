@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AHG",
         "name": "Akso Health Group",
-        "collected_at": "2026-03-22T02:06:56.572Z",
+        "collected_at": "2026-03-23T02:06:57.400Z",
         "data_start_date": "2017-10-30",
         "price": 2.359999895095825,
         "change": 0,
-        "volume": 177563,
+        "volume": 177565,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 459,

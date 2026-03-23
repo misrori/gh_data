@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COST",
         "name": "Costco Wholesale Corporation",
-        "collected_at": "2026-03-22T02:00:13.159Z",
+        "collected_at": "2026-03-23T02:00:12.335Z",
         "data_start_date": "2016-03-21",
         "price": 972.3300170898438,
         "change": 0,
-        "volume": 2615881,
+        "volume": 2621555,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 32,

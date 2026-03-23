@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HOOD",
         "name": "Robinhood Markets, Inc.",
-        "collected_at": "2026-03-22T02:01:09.897Z",
+        "collected_at": "2026-03-23T02:01:10.936Z",
         "data_start_date": "2021-07-26",
         "price": 70.88999938964844,
         "change": 0,
-        "volume": 34180031,
+        "volume": 34441126,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 725,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IBCP",
         "name": "Independent Bank Corporation",
-        "collected_at": "2026-03-22T02:09:33.224Z",
+        "collected_at": "2026-03-23T02:09:31.186Z",
         "data_start_date": "2016-03-21",
         "price": 31.979999542236328,
         "change": 0,
-        "volume": 943141,
+        "volume": 990301,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 102,

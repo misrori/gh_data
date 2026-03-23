@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LBRDA",
         "name": "Liberty Broadband Corporation",
-        "collected_at": "2026-03-22T02:04:03.341Z",
+        "collected_at": "2026-03-23T02:04:01.351Z",
         "data_start_date": "2016-03-21",
         "price": 49.470001220703125,
         "change": 0,
-        "volume": 183405,
+        "volume": 196683,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 172,

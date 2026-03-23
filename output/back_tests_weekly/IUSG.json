@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IUSG",
         "name": "iShares Core S&P U.S. Growth ETF",
-        "collected_at": "2026-03-22T02:10:47.583Z",
+        "collected_at": "2026-03-23T02:10:47.328Z",
         "data_start_date": "2016-03-21",
         "price": 156.30999755859375,
         "change": 0,
-        "volume": 1379503,
+        "volume": 1379949,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 970,

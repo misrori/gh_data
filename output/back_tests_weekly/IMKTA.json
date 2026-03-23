@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IMKTA",
         "name": "Ingles Markets, Incorporated",
-        "collected_at": "2026-03-22T02:07:34.279Z",
+        "collected_at": "2026-03-23T02:07:34.254Z",
         "data_start_date": "2016-03-21",
         "price": 83.55999755859375,
         "change": 0,
-        "volume": 346239,
+        "volume": 368490,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 53,

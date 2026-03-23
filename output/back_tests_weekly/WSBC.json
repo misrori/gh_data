@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WSBC",
         "name": "WesBanco, Inc.",
-        "collected_at": "2026-03-22T02:05:55.160Z",
+        "collected_at": "2026-03-23T02:05:54.737Z",
         "data_start_date": "2016-03-21",
         "price": 33.119998931884766,
         "change": 0,
-        "volume": 816175,
+        "volume": 967670,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 109,

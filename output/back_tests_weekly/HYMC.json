@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HYMC",
         "name": "Hycroft Mining Holding Corporation",
-        "collected_at": "2026-03-22T02:06:18.464Z",
+        "collected_at": "2026-03-23T02:06:18.342Z",
         "data_start_date": "2018-03-12",
         "price": 30,
         "change": 0,
-        "volume": 11718508,
+        "volume": 11744046,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

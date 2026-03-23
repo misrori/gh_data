@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BTBT",
         "name": "Bit Digital, Inc.",
-        "collected_at": "2026-03-22T02:10:09.473Z",
+        "collected_at": "2026-03-23T02:10:07.315Z",
         "data_start_date": "2018-03-19",
         "price": 1.5499999523162842,
         "change": 0,
-        "volume": 26756853,
+        "volume": 26873157,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 102,

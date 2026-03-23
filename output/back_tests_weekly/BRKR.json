@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BRKR",
         "name": "Bruker Corporation",
-        "collected_at": "2026-03-22T02:04:46.800Z",
+        "collected_at": "2026-03-23T02:04:46.573Z",
         "data_start_date": "2016-03-21",
         "price": 33.349998474121094,
         "change": 0,
-        "volume": 2545515,
+        "volume": 2546178,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 578,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVT",
         "name": "Avnet, Inc.",
-        "collected_at": "2026-03-22T02:04:56.322Z",
+        "collected_at": "2026-03-23T02:04:55.898Z",
         "data_start_date": "2016-03-21",
         "price": 58.45000076293945,
         "change": 0,
-        "volume": 1124930,
+        "volume": 1420207,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 46,

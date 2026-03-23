@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RGEN",
         "name": "Repligen Corporation",
-        "collected_at": "2026-03-22T02:04:15.104Z",
+        "collected_at": "2026-03-23T02:04:15.003Z",
         "data_start_date": "2016-03-21",
         "price": 113.87999725341797,
         "change": 0,
-        "volume": 859375,
+        "volume": 938670,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

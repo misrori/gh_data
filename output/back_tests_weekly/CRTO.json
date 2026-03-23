@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRTO",
         "name": "Criteo S.A.",
-        "collected_at": "2026-03-22T02:08:56.871Z",
+        "collected_at": "2026-03-23T02:08:56.072Z",
         "data_start_date": "2016-03-21",
         "price": 17,
         "change": 0,
-        "volume": 453242,
+        "volume": 456038,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

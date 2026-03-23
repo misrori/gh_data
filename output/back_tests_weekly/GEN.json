@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GEN",
         "name": "Gen Digital Inc.",
-        "collected_at": "2026-03-22T02:02:58.984Z",
+        "collected_at": "2026-03-23T02:02:57.899Z",
         "data_start_date": "2016-03-21",
         "price": 20.969999313354492,
         "change": 0,
-        "volume": 36099630,
+        "volume": 36134654,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

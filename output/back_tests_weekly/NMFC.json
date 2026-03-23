@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NMFC",
         "name": "New Mountain Finance Corporation",
-        "collected_at": "2026-03-22T02:09:10.453Z",
+        "collected_at": "2026-03-23T02:09:08.429Z",
         "data_start_date": "2016-03-21",
         "price": 7.710000038146973,
         "change": 0,
-        "volume": 2175937,
+        "volume": 2177486,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 648,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HROW",
         "name": "Harrow, Inc.",
-        "collected_at": "2026-03-22T02:08:09.118Z",
+        "collected_at": "2026-03-23T02:08:09.096Z",
         "data_start_date": "2016-03-21",
         "price": 33.279998779296875,
         "change": 0,
-        "volume": 1008797,
+        "volume": 1010114,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 249,

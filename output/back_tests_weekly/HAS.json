@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HAS",
         "name": "Hasbro, Inc.",
-        "collected_at": "2026-03-22T02:02:58.050Z",
+        "collected_at": "2026-03-23T02:02:56.833Z",
         "data_start_date": "2016-03-21",
         "price": 91.11000061035156,
         "change": 0,
-        "volume": 2560596,
+        "volume": 2715865,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 298,

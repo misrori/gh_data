@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CLSK",
         "name": "CleanSpark, Inc.",
-        "collected_at": "2026-03-22T02:06:33.236Z",
+        "collected_at": "2026-03-23T02:06:33.222Z",
         "data_start_date": "2016-11-14",
         "price": 9.399999618530273,
         "change": 0,
-        "volume": 25448542,
+        "volume": 25595153,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

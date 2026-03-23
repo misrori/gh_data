@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FUTU",
         "name": "Futu Holdings Limited",
-        "collected_at": "2026-03-22T02:02:26.635Z",
+        "collected_at": "2026-03-23T02:02:26.060Z",
         "data_start_date": "2019-03-04",
         "price": 135.02000427246094,
         "change": 0,
-        "volume": 1402374,
+        "volume": 1446714,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 886,

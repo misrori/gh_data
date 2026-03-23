@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WWD",
         "name": "Woodward, Inc.",
-        "collected_at": "2026-03-22T02:02:18.006Z",
+        "collected_at": "2026-03-23T02:02:17.264Z",
         "data_start_date": "2016-03-21",
         "price": 353.3500061035156,
         "change": 0,
-        "volume": 1115374,
+        "volume": 1271218,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 991,

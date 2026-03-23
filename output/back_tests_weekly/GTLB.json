@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GTLB",
         "name": "GitLab Inc.",
-        "collected_at": "2026-03-22T02:05:27.163Z",
+        "collected_at": "2026-03-23T02:05:27.386Z",
         "data_start_date": "2021-10-11",
         "price": 22.25,
         "change": 0,
-        "volume": 8019536,
+        "volume": 8029100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 319,

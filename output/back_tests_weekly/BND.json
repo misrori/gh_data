@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BND",
         "name": "Vanguard Total Bond Market ETF",
-        "collected_at": "2026-03-22T02:10:25.022Z",
+        "collected_at": "2026-03-23T02:10:23.727Z",
         "data_start_date": "2016-03-21",
         "price": 73.16999816894531,
         "change": 0,
-        "volume": 12981507,
+        "volume": 12983191,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 235,

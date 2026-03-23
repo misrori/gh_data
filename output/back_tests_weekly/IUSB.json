@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IUSB",
         "name": "iShares Core Universal USD Bond ETF",
-        "collected_at": "2026-03-22T02:10:42.273Z",
+        "collected_at": "2026-03-23T02:10:41.422Z",
         "data_start_date": "2016-03-21",
         "price": 45.93000030517578,
         "change": 0,
-        "volume": 3883127,
+        "volume": 3883158,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 263,

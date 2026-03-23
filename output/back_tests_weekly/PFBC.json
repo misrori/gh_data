@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PFBC",
         "name": "Preferred Bank",
-        "collected_at": "2026-03-22T02:08:15.890Z",
+        "collected_at": "2026-03-23T02:08:15.367Z",
         "data_start_date": "2016-03-21",
         "price": 87.58999633789062,
         "change": 0,
-        "volume": 374009,
+        "volume": 388084,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 809,

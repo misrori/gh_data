@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CCBG",
         "name": "Capital City Bank Group",
-        "collected_at": "2026-03-22T02:09:22.389Z",
+        "collected_at": "2026-03-23T02:09:20.461Z",
         "data_start_date": "2016-03-21",
         "price": 41.880001068115234,
         "change": 0,
-        "volume": 548652,
+        "volume": 592248,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 571,

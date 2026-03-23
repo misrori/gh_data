@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TXRH",
         "name": "Texas Roadhouse, Inc.",
-        "collected_at": "2026-03-22T02:03:14.050Z",
+        "collected_at": "2026-03-23T02:03:12.437Z",
         "data_start_date": "2016-03-21",
         "price": 170.88999938964844,
         "change": 0,
-        "volume": 1784516,
+        "volume": 1865360,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

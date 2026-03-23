@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRVL",
         "name": "CorVel Corp.",
-        "collected_at": "2026-03-22T02:06:18.066Z",
+        "collected_at": "2026-03-23T02:06:17.742Z",
         "data_start_date": "2016-03-21",
         "price": 53.4900016784668,
         "change": 0,
-        "volume": 542592,
+        "volume": 591480,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 165,

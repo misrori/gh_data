@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CWCO",
         "name": "Consolidated Water Co. Ltd.",
-        "collected_at": "2026-03-22T02:10:13.809Z",
+        "collected_at": "2026-03-23T02:10:11.677Z",
         "data_start_date": "2016-03-21",
         "price": 30.520000457763672,
         "change": 0,
-        "volume": 855571,
+        "volume": 886376,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 270,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KRNT",
         "name": "Kornit Digital Ltd.",
-        "collected_at": "2026-03-22T02:09:38.749Z",
+        "collected_at": "2026-03-23T02:09:36.826Z",
         "data_start_date": "2016-03-21",
         "price": 14.069999694824219,
         "change": 0,
-        "volume": 2390577,
+        "volume": 2396600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 298,

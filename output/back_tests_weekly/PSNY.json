@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PSNY",
         "name": "Polestar Automotive Holding UK Limited",
-        "collected_at": "2026-03-22T02:07:35.446Z",
+        "collected_at": "2026-03-23T02:07:35.414Z",
         "data_start_date": "2021-05-17",
         "price": 16.530000686645508,
         "change": 0,
-        "volume": 186666,
+        "volume": 194564,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1334,

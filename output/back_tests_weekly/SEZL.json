@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SEZL",
         "name": "Sezzle Inc.",
-        "collected_at": "2026-03-22T02:06:43.520Z",
+        "collected_at": "2026-03-23T02:06:43.377Z",
         "data_start_date": "2023-09-11",
         "price": 66.1500015258789,
         "change": 0,
-        "volume": 691669,
+        "volume": 738617,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 53,

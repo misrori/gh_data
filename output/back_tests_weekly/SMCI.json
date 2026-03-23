@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMCI",
         "name": "Super Micro Computer, Inc.",
-        "collected_at": "2026-03-22T02:03:03.033Z",
+        "collected_at": "2026-03-23T02:03:01.721Z",
         "data_start_date": "2016-03-21",
         "price": 20.530000686645508,
         "change": 0,
-        "volume": 240557743,
+        "volume": 242958521,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 116,

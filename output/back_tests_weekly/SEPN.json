@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SEPN",
         "name": "Septerna, Inc.",
-        "collected_at": "2026-03-22T02:08:26.778Z",
+        "collected_at": "2026-03-23T02:08:26.211Z",
         "data_start_date": "2024-10-21",
         "price": 24.18000030517578,
         "change": 0,
-        "volume": 453248,
+        "volume": 489838,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 144,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GEL",
         "name": "Genesis Energy, L.P.",
-        "collected_at": "2026-03-22T02:06:48.204Z",
+        "collected_at": "2026-03-23T02:06:48.282Z",
         "data_start_date": "2016-03-21",
         "price": 17.6200008392334,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.6632,
         "number_of_employees": 1061,
         "ml_direction": 1,
-        "ml_value": 14.87700473869743,
+        "ml_value": 14.877004738697433,
         "ml_last_change_date": "2025-02-24",
         "ml_last_change_price": 13.630000114440918,
         "ml_change_percent_from_last_change": 29.273666113656848

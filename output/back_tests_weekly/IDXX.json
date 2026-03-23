@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IDXX",
         "name": "IDEXX Laboratories, Inc.",
-        "collected_at": "2026-03-22T02:01:24.864Z",
+        "collected_at": "2026-03-23T02:01:24.949Z",
         "data_start_date": "2016-03-21",
         "price": 577.260009765625,
         "change": 0,
-        "volume": 733848,
+        "volume": 765323,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

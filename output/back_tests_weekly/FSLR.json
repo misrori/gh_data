@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FSLR",
         "name": "First Solar, Inc.",
-        "collected_at": "2026-03-22T02:02:18.941Z",
+        "collected_at": "2026-03-23T02:02:18.146Z",
         "data_start_date": "2016-03-21",
         "price": 192.82000732421875,
         "change": 0,
-        "volume": 3542074,
+        "volume": 3564923,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 172,

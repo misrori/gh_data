@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMPL",
         "name": "Amplitude, Inc.",
-        "collected_at": "2026-03-22T02:08:45.298Z",
+        "collected_at": "2026-03-23T02:08:44.599Z",
         "data_start_date": "2021-09-27",
         "price": 7.010000228881836,
         "change": 0,
-        "volume": 2363148,
+        "volume": 2612416,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 60,

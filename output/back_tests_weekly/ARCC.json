@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARCC",
         "name": "Ares Capital Corporation",
-        "collected_at": "2026-03-22T02:02:56.880Z",
+        "collected_at": "2026-03-23T02:02:55.780Z",
         "data_start_date": "2016-03-21",
         "price": 17.959999084472656,
         "change": 0,
-        "volume": 8128251,
+        "volume": 8280702,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 116,

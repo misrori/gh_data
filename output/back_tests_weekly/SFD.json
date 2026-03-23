@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SFD",
         "name": "Smithfield Foods, Inc.",
-        "collected_at": "2026-03-22T02:03:33.434Z",
+        "collected_at": "2026-03-23T02:03:31.437Z",
         "data_start_date": "2025-01-27",
         "price": 23.1200008392334,
         "change": 0,
-        "volume": 2486181,
+        "volume": 2523054,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 221,

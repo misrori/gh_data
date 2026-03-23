@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HUBG",
         "name": "Hub Group, Inc.",
-        "collected_at": "2026-03-22T02:06:49.871Z",
+        "collected_at": "2026-03-23T02:06:50.074Z",
         "data_start_date": "2016-03-21",
         "price": 34.82500076293945,
         "change": -0.01435850661017016,
-        "volume": 1377846,
+        "volume": 1510366,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

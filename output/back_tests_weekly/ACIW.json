@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACIW",
         "name": "ACI Worldwide, Inc.",
-        "collected_at": "2026-03-22T02:05:20.077Z",
+        "collected_at": "2026-03-23T02:05:20.332Z",
         "data_start_date": "2016-03-21",
         "price": 39.439998626708984,
         "change": 0,
-        "volume": 1242222,
+        "volume": 1382785,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 4,
