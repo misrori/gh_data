@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SXPUSDT",
         "name": "SXP / USDT",
-        "collected_at": "2026-03-24T10:47:45.509Z",
+        "collected_at": "2026-03-24T11:47:43.255Z",
         "data_start_date": "2020-07-20",
         "price": 0.0069,
         "change": -9.210526315789474,
-        "volume": 93247680.1,
+        "volume": 104226791.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 221,
