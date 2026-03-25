@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "币安人生USDT",
         "name": "币安人生 / USDT",
-        "collected_at": "2026-03-25T11:46:18.247Z",
+        "collected_at": "2026-03-25T12:46:18.079Z",
         "data_start_date": "2026-01-07",
         "price": 0.0501,
         "change": -4.206500956022945,
-        "volume": 30911594.8,
+        "volume": 33808684.2,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 49,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.07252898004093622,
+        "ml_value": 0.07254183718379337,
         "ml_last_change_date": "2026-01-20",
         "ml_last_change_price": 0.1701,
         "ml_change_percent_from_last_change": -70.54673721340387
