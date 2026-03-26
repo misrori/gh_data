@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ENSUSDT",
         "name": "Ethereum Name Service",
-        "collected_at": "2026-03-26T11:47:38.125Z",
+        "collected_at": "2026-03-26T12:47:51.046Z",
         "data_start_date": "2021-11-10",
         "price": 5.85,
         "change": -4.255319148936181,
-        "volume": 74130.69,
+        "volume": 78228.94,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 186,
