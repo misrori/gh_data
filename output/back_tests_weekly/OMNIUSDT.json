@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OMNIUSDT",
         "name": "Omni Network",
-        "collected_at": "2026-03-26T07:47:19.235Z",
+        "collected_at": "2026-03-26T08:47:19.960Z",
         "data_start_date": "2024-04-15",
         "price": 3.88,
         "change": -4.433497536945806,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:OMNINUSD",
-        "market_capitalization": 10070373.80622,
+        "market_capitalization": 10057017.87279,
         "commodity_name": null,
         "display_name": "Omni Network",
         "sma_50": 4.9676,
