@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROSEUSDT",
         "name": "Oasis",
-        "collected_at": "2026-03-27T01:47:16.539Z",
+        "collected_at": "2026-03-27T02:47:10.922Z",
         "data_start_date": "2020-11-16",
         "price": 0.01127,
         "change": 0.2669039145907519,
-        "volume": 420088744.4,
+        "volume": 425251536.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 567,

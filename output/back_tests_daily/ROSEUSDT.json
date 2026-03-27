@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROSEUSDT",
         "name": "Oasis",
-        "collected_at": "2026-03-27T01:47:16.272Z",
+        "collected_at": "2026-03-27T02:47:10.670Z",
         "data_start_date": "2020-11-19",
         "price": 0.01127,
         "change": 0.8050089445438264,
-        "volume": 3484427.6,
+        "volume": 8647219.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 40,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.013560869962486797,
+        "ml_value": 0.01357115567677251,
         "ml_last_change_date": "2026-02-05",
         "ml_last_change_price": 0.01307,
         "ml_change_percent_from_last_change": -13.77199693955623
