@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "1000CHEEMSUSDT",
         "name": "1000CHEEMS / USDT",
-        "collected_at": "2026-03-27T12:47:52.057Z",
+        "collected_at": "2026-03-27T13:47:50.057Z",
         "data_start_date": "2025-02-09",
         "price": 0.000422,
         "change": -4.090909090909092,
-        "volume": 1044740595,
+        "volume": 1140700713,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 132,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.0005592816225570318,
+        "ml_value": 0.0005599244796998888,
         "ml_last_change_date": "2026-01-20",
         "ml_last_change_price": 0.000853,
         "ml_change_percent_from_last_change": -50.527549824150064
