@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BATUSDT",
         "name": "Basic Attention Token",
-        "collected_at": "2026-03-27T06:47:33.831Z",
+        "collected_at": "2026-03-27T07:47:50.168Z",
         "data_start_date": "2019-03-04",
         "price": 0.0995,
         "change": 9.220636663007689,
-        "volume": 85935302,
+        "volume": 86030134,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 35,
