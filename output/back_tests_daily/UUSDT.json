@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UUSDT",
         "name": "U / USDT",
-        "collected_at": "2026-03-27T21:45:44.567Z",
+        "collected_at": "2026-03-27T22:45:44.097Z",
         "data_start_date": "2026-01-13",
         "price": 1.0006,
         "change": 0.009995002498749524,
-        "volume": 11674289,
+        "volume": 11769831,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 22,
