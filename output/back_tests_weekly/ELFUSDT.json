@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ELFUSDT",
         "name": "aelf",
-        "collected_at": "2026-03-28T13:48:01.940Z",
+        "collected_at": "2026-03-28T14:48:07.523Z",
         "data_start_date": "2021-09-06",
         "price": 0.2272,
         "change": 3.60237118103056,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:ELFUSD",
-        "market_capitalization": 64270937.12025759,
+        "market_capitalization": 64434780.741029665,
         "commodity_name": null,
         "display_name": "aelf",
         "sma_50": 0.385,
