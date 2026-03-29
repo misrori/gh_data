@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XMRUSDT",
         "name": "Monero",
-        "collected_at": "2026-03-29T02:48:21.903Z",
+        "collected_at": "2026-03-29T03:48:10.063Z",
         "data_start_date": "2019-03-15",
         "price": 118.7,
         "change": 5.511111111111114,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:XMRUSD",
-        "market_capitalization": 6077279835.0836115,
+        "market_capitalization": 6083367260.627935,
         "commodity_name": null,
         "display_name": "Monero",
         "sma_50": 146.80800000000002,
