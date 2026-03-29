@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CI",
         "name": "The Cigna Group",
-        "collected_at": "2026-03-28T02:00:58.060Z",
+        "collected_at": "2026-03-29T02:00:59.491Z",
         "data_start_date": "2016-03-28",
         "price": 261.9599914550781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Managed Health Care",
         "tradingview_id": "NYSE:CI",
-        "market_capitalization": 69033867387.88606,
+        "market_capitalization": 69033868543,
         "commodity_name": null,
         "display_name": "The Cigna Group",
         "sma_50": 291.28839904785156,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IJR",
         "name": "iShares Core S&P Small-Cap ETF",
-        "collected_at": "2026-03-28T02:10:16.127Z",
+        "collected_at": "2026-03-29T02:10:17.609Z",
         "data_start_date": "2016-03-28",
         "price": 121.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IJR",
-        "market_capitalization": 92629869796.8,
+        "market_capitalization": 91607341170.3,
         "commodity_name": null,
         "display_name": "iShares Core S&P Small-Cap ETF",
         "sma_50": 117.40379989624023,

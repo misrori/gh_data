@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCNE",
         "name": "CNB Financial Corporation",
-        "collected_at": "2026-03-28T02:08:50.767Z",
+        "collected_at": "2026-03-29T02:08:49.210Z",
         "data_start_date": "2016-03-28",
         "price": 28.3700008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CCNE",
-        "market_capitalization": 840751326.2965686,
+        "market_capitalization": 840751367,
         "commodity_name": null,
         "display_name": "CNB Financial Corporation",
         "sma_50": 25.239200019836424,

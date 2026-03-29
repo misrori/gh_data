@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FRHC",
         "name": "Freedom Holding Corp.",
-        "collected_at": "2026-03-28T02:03:23.367Z",
+        "collected_at": "2026-03-29T02:03:27.725Z",
         "data_start_date": "2018-02-05",
         "price": 141.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:FRHC",
-        "market_capitalization": 8639491406.592539,
+        "market_capitalization": 8639491998,
         "commodity_name": null,
         "display_name": "Freedom Holding Corp.",
         "sma_50": 148.510400390625,

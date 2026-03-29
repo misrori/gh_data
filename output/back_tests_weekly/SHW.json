@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SHW",
         "name": "Sherwin-Williams Company (The)",
-        "collected_at": "2026-03-28T02:00:51.294Z",
+        "collected_at": "2026-03-29T02:00:52.300Z",
         "data_start_date": "2016-03-28",
         "price": 315.3699951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:SHW",
-        "market_capitalization": 78140724657.80103,
+        "market_capitalization": 78140726433,
         "commodity_name": null,
         "display_name": "Sherwin-Williams Company (The)",
         "sma_50": 344.4201995849609,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRSH",
         "name": "Marsh",
-        "collected_at": "2026-03-28T02:00:47.857Z",
+        "collected_at": "2026-03-29T02:00:48.629Z",
         "data_start_date": "2016-03-28",
         "price": 169.1699981689453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Insurance Brokers/Services",
         "tradingview_id": "NYSE:MRSH",
-        "market_capitalization": 81899296896.24911,
+        "market_capitalization": 81899296297,
         "commodity_name": null,
         "display_name": "Marsh",
         "sma_50": 197.45400024414062,

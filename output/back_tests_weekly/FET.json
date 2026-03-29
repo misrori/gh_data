@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FET",
         "name": "Forum Energy Technologies, Inc.",
-        "collected_at": "2026-03-28T02:09:15.862Z",
+        "collected_at": "2026-03-29T02:09:15.588Z",
         "data_start_date": "2016-03-28",
         "price": 61.91999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:FET",
-        "market_capitalization": 696980809.0272063,
+        "market_capitalization": 696980803,
         "commodity_name": null,
         "display_name": "Forum Energy Technologies, Inc.",
         "sma_50": 31.599000015258788,

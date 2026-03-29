@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BCSS",
         "name": "Bain Capital GSS Investment Corp.",
-        "collected_at": "2026-03-28T02:09:39.071Z",
+        "collected_at": "2026-03-29T02:09:39.161Z",
         "data_start_date": "2025-11-20",
         "price": 10.100000381469727,
         "change": 0,
-        "volume": 422759,
+        "volume": 422800,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 7,

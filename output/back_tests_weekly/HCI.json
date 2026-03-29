@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HCI",
         "name": "HCI Group, Inc.",
-        "collected_at": "2026-03-28T02:06:45.135Z",
+        "collected_at": "2026-03-29T02:06:54.115Z",
         "data_start_date": "2016-03-28",
         "price": 150.49000549316406,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:HCI",
-        "market_capitalization": 1955159208.0724792,
+        "market_capitalization": 1955159350,
         "commodity_name": null,
         "display_name": "HCI Group, Inc.",
         "sma_50": 167.1820004272461,

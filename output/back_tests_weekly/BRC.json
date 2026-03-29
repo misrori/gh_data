@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BRC",
         "name": "Brady Corporation",
-        "collected_at": "2026-03-28T02:05:12.072Z",
+        "collected_at": "2026-03-29T02:05:17.900Z",
         "data_start_date": "2016-03-28",
         "price": 80.7300033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NYSE:BRC",
-        "market_capitalization": 3812719729.364101,
+        "market_capitalization": 3812719760.0000005,
         "commodity_name": null,
         "display_name": "Brady Corporation",
         "sma_50": 77.45220016479492,

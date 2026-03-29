@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VTS",
         "name": "Vitesse Energy Inc.",
-        "collected_at": "2026-03-28T02:09:09.547Z",
+        "collected_at": "2026-03-29T02:09:08.569Z",
         "data_start_date": "2023-01-09",
         "price": 18.510000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:VTS",
-        "market_capitalization": 736267205.7097274,
+        "market_capitalization": 736267203.0000001,
         "commodity_name": null,
         "display_name": "Vitesse Energy Inc.",
         "sma_50": 21.961600036621093,

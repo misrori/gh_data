@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OLN",
         "name": "Olin Corporation",
-        "collected_at": "2026-03-28T02:05:31.958Z",
+        "collected_at": "2026-03-29T02:05:38.484Z",
         "data_start_date": "2016-03-28",
         "price": 29.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:OLN",
-        "market_capitalization": 3296603468.5951047,
+        "market_capitalization": 3296603450,
         "commodity_name": null,
         "display_name": "Olin Corporation",
         "sma_50": 22.40999988555908,

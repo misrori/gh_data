@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FCN",
         "name": "FTI Consulting, Inc.",
-        "collected_at": "2026-03-28T02:04:28.145Z",
+        "collected_at": "2026-03-29T02:04:32.792Z",
         "data_start_date": "2016-03-28",
         "price": 170.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:FCN",
-        "market_capitalization": 5209320265.171133,
+        "market_capitalization": 5209320023,
         "commodity_name": null,
         "display_name": "FTI Consulting, Inc.",
         "sma_50": 166.74499969482423,

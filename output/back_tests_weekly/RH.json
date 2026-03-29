@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RH",
         "name": "RH",
-        "collected_at": "2026-03-28T02:06:15.029Z",
+        "collected_at": "2026-03-29T02:06:22.616Z",
         "data_start_date": "2016-03-28",
         "price": 130.85000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:RH",
-        "market_capitalization": 2457061827.957282,
+        "market_capitalization": 2457061966.0000005,
         "commodity_name": null,
         "display_name": "RH",
         "sma_50": 189.5168000793457,

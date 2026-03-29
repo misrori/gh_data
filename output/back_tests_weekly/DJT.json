@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DJT",
         "name": "Trump Media & Technology Group Corp.",
-        "collected_at": "2026-03-28T02:06:20.607Z",
+        "collected_at": "2026-03-29T02:06:28.478Z",
         "data_start_date": "2021-09-27",
         "price": 8.470000267028809,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NASDAQ:DJT",
-        "market_capitalization": 2343914349.6193247,
+        "market_capitalization": 2343914382,
         "commodity_name": null,
         "display_name": "Trump Media & Technology Group Corp.",
         "sma_50": 15.853199996948241,

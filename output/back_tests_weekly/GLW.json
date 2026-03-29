@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLW",
         "name": "Corning Incorporated",
-        "collected_at": "2026-03-28T02:00:35.942Z",
+        "collected_at": "2026-03-29T02:00:36.266Z",
         "data_start_date": "2016-03-28",
         "price": 136.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NYSE:GLW",
-        "market_capitalization": 117375888666.16449,
+        "market_capitalization": 117375880219,
         "commodity_name": null,
         "display_name": "Corning Incorporated",
         "sma_50": 82.0831999206543,

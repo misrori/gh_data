@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MCBS",
         "name": "MetroCity Bankshares, Inc.",
-        "collected_at": "2026-03-28T02:08:54.650Z",
+        "collected_at": "2026-03-29T02:08:53.639Z",
         "data_start_date": "2019-09-02",
         "price": 28.209999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:MCBS",
-        "market_capitalization": 811184976.2162163,
+        "market_capitalization": 811184957,
         "commodity_name": null,
         "display_name": "MetroCity Bankshares, Inc.",
         "sma_50": 27.939200019836427,

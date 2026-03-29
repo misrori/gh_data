@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LYTS",
         "name": "LSI Industries Inc.",
-        "collected_at": "2026-03-28T02:09:41.627Z",
+        "collected_at": "2026-03-29T02:09:41.517Z",
         "data_start_date": "2016-03-28",
         "price": 18.530000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NASDAQ:LYTS",
-        "market_capitalization": 576898103.3992559,
+        "market_capitalization": 576898141,
         "commodity_name": null,
         "display_name": "LSI Industries Inc.",
         "sma_50": 19.531800022125243,

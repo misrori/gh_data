@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GNRC",
         "name": "Generac Holdings Inc.",
-        "collected_at": "2026-03-28T02:02:57.022Z",
+        "collected_at": "2026-03-29T02:03:00.800Z",
         "data_start_date": "2016-03-28",
         "price": 194.39999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:GNRC",
-        "market_capitalization": 11406580773.709091,
+        "market_capitalization": 11406580416,
         "commodity_name": null,
         "display_name": "Generac Holdings Inc.",
         "sma_50": 165.75399993896485,

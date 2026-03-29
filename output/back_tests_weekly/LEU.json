@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LEU",
         "name": "Centrus Energy Corp.",
-        "collected_at": "2026-03-28T02:05:20.209Z",
+        "collected_at": "2026-03-29T02:05:26.582Z",
         "data_start_date": "2016-03-28",
         "price": 182.89999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "NYSE:LEU",
-        "market_capitalization": 3596649058.5189595,
+        "market_capitalization": 3596648984,
         "commodity_name": null,
         "display_name": "Centrus Energy Corp.",
         "sma_50": 227.16039794921875,

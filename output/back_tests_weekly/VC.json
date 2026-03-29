@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VC",
         "name": "Visteon Corporation",
-        "collected_at": "2026-03-28T02:06:20.270Z",
+        "collected_at": "2026-03-29T02:06:28.066Z",
         "data_start_date": "2016-03-28",
         "price": 87.83000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NASDAQ:VC",
-        "market_capitalization": 2355555411.145036,
+        "market_capitalization": 2355555558.9999995,
         "commodity_name": null,
         "display_name": "Visteon Corporation",
         "sma_50": 101.44979995727539,

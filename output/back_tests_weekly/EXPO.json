@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXPO",
         "name": "Exponent, Inc.",
-        "collected_at": "2026-03-28T02:05:39.579Z",
+        "collected_at": "2026-03-29T02:05:45.834Z",
         "data_start_date": "2016-03-28",
         "price": 64.47000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:EXPO",
-        "market_capitalization": 3175427520.952833,
+        "market_capitalization": 3175427431.9999995,
         "commodity_name": null,
         "display_name": "Exponent, Inc.",
         "sma_50": 71.93400009155273,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLNG",
         "name": "Golar LNG Limited",
-        "collected_at": "2026-03-28T02:04:14.201Z",
+        "collected_at": "2026-03-29T02:04:18.406Z",
         "data_start_date": "2016-03-28",
         "price": 55.029998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oil & Gas Pipelines",
         "tradingview_id": "NASDAQ:GLNG",
-        "market_capitalization": 5757374927.001849,
+        "market_capitalization": 5757374653,
         "commodity_name": null,
         "display_name": "Golar LNG Limited",
         "sma_50": 41.27679977416992,

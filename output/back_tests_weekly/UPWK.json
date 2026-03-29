@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UPWK",
         "name": "Upwork Inc.",
-        "collected_at": "2026-03-28T02:07:32.949Z",
+        "collected_at": "2026-03-29T02:07:42.182Z",
         "data_start_date": "2018-10-01",
         "price": 10.869999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Personnel Services",
         "tradingview_id": "NASDAQ:UPWK",
-        "market_capitalization": 1417232921.653262,
+        "market_capitalization": 1417232960.0000002,
         "commodity_name": null,
         "display_name": "Upwork Inc.",
         "sma_50": 15.978800048828125,

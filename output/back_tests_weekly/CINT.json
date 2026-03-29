@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CINT",
         "name": "CI&T Inc",
-        "collected_at": "2026-03-28T02:09:30.991Z",
+        "collected_at": "2026-03-29T02:09:31.036Z",
         "data_start_date": "2021-11-08",
         "price": 4.820000171661377,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:CINT",
-        "market_capitalization": 621248604.4803314,
+        "market_capitalization": 621248636,
         "commodity_name": null,
         "display_name": "CI&T Inc",
         "sma_50": 5.139800009727478,

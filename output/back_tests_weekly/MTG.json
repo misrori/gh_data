@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MTG",
         "name": "MGIC Investment Corporation",
-        "collected_at": "2026-03-28T02:04:19.343Z",
+        "collected_at": "2026-03-29T02:04:24.019Z",
         "data_start_date": "2016-03-28",
         "price": 25.719999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NYSE:MTG",
-        "market_capitalization": 5528600391.027192,
+        "market_capitalization": 5528600114,
         "commodity_name": null,
         "display_name": "MGIC Investment Corporation",
         "sma_50": 27.171000022888183,

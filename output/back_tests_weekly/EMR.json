@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EMR",
         "name": "Emerson Electric Company",
-        "collected_at": "2026-03-28T02:00:57.101Z",
+        "collected_at": "2026-03-29T02:00:58.345Z",
         "data_start_date": "2016-03-28",
         "price": 125.4000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Equipment/Instruments",
         "tradingview_id": "NYSE:EMR",
-        "market_capitalization": 70512677335.57281,
+        "market_capitalization": 70512679557,
         "commodity_name": null,
         "display_name": "Emerson Electric Company",
         "sma_50": 133.43040100097656,

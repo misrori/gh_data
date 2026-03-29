@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NHC",
         "name": "National HealthCare Corporation",
-        "collected_at": "2026-03-28T02:06:12.268Z",
+        "collected_at": "2026-03-29T02:06:19.704Z",
         "data_start_date": "2016-03-28",
         "price": 161.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Hospital/Nursing Management",
         "tradingview_id": "AMEX:NHC",
-        "market_capitalization": 2502616872.9290676,
+        "market_capitalization": 2502616873,
         "commodity_name": null,
         "display_name": "National HealthCare Corporation",
         "sma_50": 125.26740020751953,

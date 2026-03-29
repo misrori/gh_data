@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FISV",
         "name": "Fiserv, Inc.",
-        "collected_at": "2026-03-28T02:01:41.235Z",
+        "collected_at": "2026-03-29T02:01:44.325Z",
         "data_start_date": "2016-03-28",
         "price": 53.900001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:FISV",
-        "market_capitalization": 28824509172.504505,
+        "market_capitalization": 28824509514.000004,
         "commodity_name": null,
         "display_name": "Fiserv, Inc.",
         "sma_50": 110.1470004272461,

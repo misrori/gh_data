@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GL",
         "name": "Globe Life Inc.",
-        "collected_at": "2026-03-28T02:03:04.807Z",
+        "collected_at": "2026-03-29T02:03:08.532Z",
         "data_start_date": "2016-03-28",
         "price": 135.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NYSE:GL",
-        "market_capitalization": 10624662967.207924,
+        "market_capitalization": 10624662781.999998,
         "commodity_name": null,
         "display_name": "Globe Life Inc.",
         "sma_50": 134.0115995788574,

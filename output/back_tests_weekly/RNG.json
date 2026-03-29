@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RNG",
         "name": "RingCentral, Inc.",
-        "collected_at": "2026-03-28T02:05:47.972Z",
+        "collected_at": "2026-03-29T02:05:54.647Z",
         "data_start_date": "2016-03-28",
         "price": 35.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:RNG",
-        "market_capitalization": 2972822315.7313433,
+        "market_capitalization": 2972822331,
         "commodity_name": null,
         "display_name": "RingCentral, Inc.",
         "sma_50": 29.476200103759766,

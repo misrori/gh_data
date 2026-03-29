@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CINF",
         "name": "Cincinnati Financial Corporation",
-        "collected_at": "2026-03-28T02:01:54.841Z",
+        "collected_at": "2026-03-29T02:01:57.657Z",
         "data_start_date": "2016-03-28",
         "price": 153.67999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Multi-Line Insurance",
         "tradingview_id": "NASDAQ:CINF",
-        "market_capitalization": 23915309232.155376,
+        "market_capitalization": 23915309203.999996,
         "commodity_name": null,
         "display_name": "Cincinnati Financial Corporation",
         "sma_50": 156.1657992553711,

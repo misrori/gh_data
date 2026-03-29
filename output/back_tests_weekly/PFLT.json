@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PFLT",
         "name": "PennantPark Floating Rate Capital Ltd.",
-        "collected_at": "2026-03-28T02:09:03.915Z",
+        "collected_at": "2026-03-29T02:09:02.720Z",
         "data_start_date": "2016-03-28",
         "price": 7.730000019073486,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Miscellaneous",
         "industry": "Investment Trusts/Mutual Funds",
         "tradingview_id": "NYSE:PFLT",
-        "market_capitalization": 766954332.215,
+        "market_capitalization": 766954334,
         "commodity_name": null,
         "display_name": "PennantPark Floating Rate Capital Ltd.",
         "sma_50": 9.516199951171876,

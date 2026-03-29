@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OWL",
         "name": "Blue Owl Capital Inc.",
-        "collected_at": "2026-03-28T02:02:38.136Z",
+        "collected_at": "2026-03-29T02:02:42.190Z",
         "data_start_date": "2020-12-14",
         "price": 8.84000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:OWL",
-        "market_capitalization": 13742395538.412416,
+        "market_capitalization": 13742395079,
         "commodity_name": null,
         "display_name": "Blue Owl Capital Inc.",
         "sma_50": 16.086000118255615,

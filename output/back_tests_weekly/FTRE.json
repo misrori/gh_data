@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FTRE",
         "name": "Fortrea Holdings Inc.",
-        "collected_at": "2026-03-28T02:08:49.276Z",
+        "collected_at": "2026-03-29T02:08:48.334Z",
         "data_start_date": "2023-06-12",
         "price": 9.069999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:FTRE",
-        "market_capitalization": 848045017.0952879,
+        "market_capitalization": 848044971,
         "commodity_name": null,
         "display_name": "Fortrea Holdings Inc.",
         "sma_50": 9.813199968338013,

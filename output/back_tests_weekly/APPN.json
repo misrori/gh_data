@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APPN",
         "name": "Appian Corporation",
-        "collected_at": "2026-03-28T02:06:59.680Z",
+        "collected_at": "2026-03-29T02:07:10.016Z",
         "data_start_date": "2017-05-22",
         "price": 23.18000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:APPN",
-        "market_capitalization": 1714400733.355,
+        "market_capitalization": 1714400756,
         "commodity_name": null,
         "display_name": "Appian Corporation",
         "sma_50": 30.80220012664795,

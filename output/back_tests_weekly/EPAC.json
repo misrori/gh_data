@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EPAC",
         "name": "Enerpac Tool Group Corp.",
-        "collected_at": "2026-03-28T02:06:52.931Z",
+        "collected_at": "2026-03-29T02:07:02.705Z",
         "data_start_date": "2016-03-28",
         "price": 34.34000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:EPAC",
-        "market_capitalization": 1812338401.4887092,
+        "market_capitalization": 1812338361,
         "commodity_name": null,
         "display_name": "Enerpac Tool Group Corp.",
         "sma_50": 40.263199920654294,

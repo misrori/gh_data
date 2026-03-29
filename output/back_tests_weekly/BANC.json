@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BANC",
         "name": "Banc of California, Inc.",
-        "collected_at": "2026-03-28T02:06:03.703Z",
+        "collected_at": "2026-03-29T02:06:10.943Z",
         "data_start_date": "2016-03-28",
         "price": 16.889999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:BANC",
-        "market_capitalization": 2693842954.5631123,
+        "market_capitalization": 2693842798.0000005,
         "commodity_name": null,
         "display_name": "Banc of California, Inc.",
         "sma_50": 16.777399978637696,

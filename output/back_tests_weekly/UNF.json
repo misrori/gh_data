@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UNF",
         "name": "Unifirst Corporation",
-        "collected_at": "2026-03-28T02:04:55.330Z",
+        "collected_at": "2026-03-29T02:05:00.531Z",
         "data_start_date": "2016-03-28",
         "price": 248.6199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NYSE:UNF",
-        "market_capitalization": 4318391161.664373,
+        "market_capitalization": 4318391056.000001,
         "commodity_name": null,
         "display_name": "Unifirst Corporation",
         "sma_50": 190.41980102539063,

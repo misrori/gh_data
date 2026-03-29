@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "THFF",
         "name": "First Financial Corporation",
-        "collected_at": "2026-03-28T02:09:09.025Z",
+        "collected_at": "2026-03-29T02:09:08.011Z",
         "data_start_date": "2016-03-28",
         "price": 61.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:THFF",
-        "market_capitalization": 736465116.7180588,
+        "market_capitalization": 736465138,
         "commodity_name": null,
         "display_name": "First Financial Corporation",
         "sma_50": 57.54779998779297,

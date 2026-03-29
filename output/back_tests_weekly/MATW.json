@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MATW",
         "name": "Matthews International Corporation",
-        "collected_at": "2026-03-28T02:09:00.210Z",
+        "collected_at": "2026-03-29T02:08:59.366Z",
         "data_start_date": "2016-03-28",
         "price": 25.200000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NASDAQ:MATW",
-        "market_capitalization": 784377219.3905817,
+        "market_capitalization": 784377229.0000001,
         "commodity_name": null,
         "display_name": "Matthews International Corporation",
         "sma_50": 24.324800148010254,

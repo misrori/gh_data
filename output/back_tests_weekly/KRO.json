@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KRO",
         "name": "Kronos Worldwide Inc",
-        "collected_at": "2026-03-28T02:09:08.080Z",
+        "collected_at": "2026-03-29T02:09:07.101Z",
         "data_start_date": "2016-03-28",
         "price": 6.429999828338623,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:KRO",
-        "market_capitalization": 739791560.4147465,
+        "market_capitalization": 739791515,
         "commodity_name": null,
         "display_name": "Kronos Worldwide Inc",
         "sma_50": 5.76419997215271,

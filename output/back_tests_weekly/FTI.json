@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FTI",
         "name": "TechnipFMC plc",
-        "collected_at": "2026-03-28T02:01:42.341Z",
+        "collected_at": "2026-03-29T02:01:45.330Z",
         "data_start_date": "2016-03-28",
         "price": 71.19000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:FTI",
-        "market_capitalization": 28479200902.011375,
+        "market_capitalization": 28479201137,
         "commodity_name": null,
         "display_name": "TechnipFMC plc",
         "sma_50": 43.69640022277832,

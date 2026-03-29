@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SG",
         "name": "Sweetgreen, Inc.",
-        "collected_at": "2026-03-28T02:09:46.100Z",
+        "collected_at": "2026-03-29T02:09:46.402Z",
         "data_start_date": "2021-11-15",
         "price": 4.699999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NYSE:SG",
-        "market_capitalization": 558341075.6161617,
+        "market_capitalization": 558341074,
         "commodity_name": null,
         "display_name": "Sweetgreen, Inc.",
         "sma_50": 9.275999994277955,

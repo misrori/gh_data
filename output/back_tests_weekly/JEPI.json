@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JEPI",
         "name": "JPMorgan Equity Premium Income ETF",
-        "collected_at": "2026-03-28T02:10:24.679Z",
+        "collected_at": "2026-03-29T02:10:25.590Z",
         "data_start_date": "2020-05-18",
         "price": 55.54999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:JEPI",
-        "market_capitalization": 43852290000,
+        "market_capitalization": 43472771500,
         "commodity_name": null,
         "display_name": "JPMorgan Equity Premium Income ETF",
         "sma_50": 57.01420021057129,

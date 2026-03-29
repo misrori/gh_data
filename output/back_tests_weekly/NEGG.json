@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NEGG",
         "name": "Newegg Commerce, Inc.",
-        "collected_at": "2026-03-28T02:08:58.914Z",
+        "collected_at": "2026-03-29T02:08:58.225Z",
         "data_start_date": "2016-03-28",
         "price": 40.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:NEGG",
-        "market_capitalization": 787105950.4784827,
+        "market_capitalization": 787105965.9999999,
         "commodity_name": null,
         "display_name": "Newegg Commerce, Inc.",
         "sma_50": 45.13340003013611,

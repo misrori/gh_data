@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DJCO",
         "name": "Daily Journal Corp. (S.C.)",
-        "collected_at": "2026-03-28T02:09:19.473Z",
+        "collected_at": "2026-03-29T02:09:18.748Z",
         "data_start_date": "2016-03-28",
         "price": 491.760009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Publishing: Newspapers",
         "tradingview_id": "NASDAQ:DJCO",
-        "market_capitalization": 677508562.7038242,
+        "market_capitalization": 677508596,
         "commodity_name": null,
         "display_name": "Daily Journal Corp. (S.C.)",
         "sma_50": 459.7457977294922,

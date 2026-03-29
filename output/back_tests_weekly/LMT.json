@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LMT",
         "name": "Lockheed Martin Corporation",
-        "collected_at": "2026-03-28T02:00:31.271Z",
+        "collected_at": "2026-03-29T02:00:31.371Z",
         "data_start_date": "2016-03-28",
         "price": 615.8400268554688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:LMT",
-        "market_capitalization": 141692613142.09363,
+        "market_capitalization": 141692615461,
         "commodity_name": null,
         "display_name": "Lockheed Martin Corporation",
         "sma_50": 509.3760021972656,

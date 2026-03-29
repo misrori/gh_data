@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IDT",
         "name": "IDT Corporation",
-        "collected_at": "2026-03-28T02:08:06.887Z",
+        "collected_at": "2026-03-29T02:08:06.117Z",
         "data_start_date": "2016-03-28",
         "price": 47.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Major Telecommunications",
         "tradingview_id": "NYSE:IDT",
-        "market_capitalization": 1189099304.4269943,
+        "market_capitalization": 1189099300.0000002,
         "commodity_name": null,
         "display_name": "IDT Corporation",
         "sma_50": 55.173599853515626,

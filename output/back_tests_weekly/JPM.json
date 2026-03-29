@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JPM",
         "name": "JP Morgan Chase & Co.",
-        "collected_at": "2026-03-28T02:00:10.001Z",
+        "collected_at": "2026-03-29T02:00:10.354Z",
         "data_start_date": "2016-03-28",
         "price": 282.8399963378906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:JPM",
-        "market_capitalization": 762828673591.7192,
+        "market_capitalization": 762828654137,
         "commodity_name": null,
         "display_name": "JP Morgan Chase & Co.",
         "sma_50": 295.2989987182617,

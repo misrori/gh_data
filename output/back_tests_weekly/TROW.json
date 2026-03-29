@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TROW",
         "name": "T. Rowe Price Group, Inc.",
-        "collected_at": "2026-03-28T02:02:12.404Z",
+        "collected_at": "2026-03-29T02:02:14.711Z",
         "data_start_date": "2016-03-28",
         "price": 88.44999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:TROW",
-        "market_capitalization": 19288549296.999336,
+        "market_capitalization": 19288547914,
         "commodity_name": null,
         "display_name": "T. Rowe Price Group, Inc.",
         "sma_50": 99.85099945068359,

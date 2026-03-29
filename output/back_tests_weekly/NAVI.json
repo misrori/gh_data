@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NAVI",
         "name": "Navient Corporation",
-        "collected_at": "2026-03-28T02:09:03.650Z",
+        "collected_at": "2026-03-29T02:09:02.450Z",
         "data_start_date": "2016-03-28",
         "price": 8.069999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:NAVI",
-        "market_capitalization": 767373579.9295261,
+        "market_capitalization": 767373593.9999999,
         "commodity_name": null,
         "display_name": "Navient Corporation",
         "sma_50": 12.176299934387208,

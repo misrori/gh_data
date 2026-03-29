@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VCYT",
         "name": "Veracyte, Inc.",
-        "collected_at": "2026-03-28T02:06:19.166Z",
+        "collected_at": "2026-03-29T02:06:27.033Z",
         "data_start_date": "2016-03-28",
         "price": 30.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:VCYT",
-        "market_capitalization": 2384547351.6338415,
+        "market_capitalization": 2384547425,
         "commodity_name": null,
         "display_name": "Veracyte, Inc.",
         "sma_50": 33.85560001373291,

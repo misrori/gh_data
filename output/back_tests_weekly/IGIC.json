@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IGIC",
         "name": "International General Insurance Holdings Ltd.",
-        "collected_at": "2026-03-28T02:08:25.737Z",
+        "collected_at": "2026-03-29T02:08:25.024Z",
         "data_start_date": "2018-04-09",
         "price": 23.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NASDAQ:IGIC",
-        "market_capitalization": 1018084244.2383552,
+        "market_capitalization": 1018084240,
         "commodity_name": null,
         "display_name": "International General Insurance Holdings Ltd.",
         "sma_50": 23.83659996032715,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UFPT",
         "name": "UFP Technologies, Inc.",
-        "collected_at": "2026-03-28T02:07:26.850Z",
+        "collected_at": "2026-03-29T02:07:36.694Z",
         "data_start_date": "2016-03-28",
         "price": 189.4499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NASDAQ:UFPT",
-        "market_capitalization": 1461284604.3744016,
+        "market_capitalization": 1461284614,
         "commodity_name": null,
         "display_name": "UFP Technologies, Inc.",
         "sma_50": 222.68440002441406,

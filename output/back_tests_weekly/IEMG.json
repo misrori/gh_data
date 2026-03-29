@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IEMG",
         "name": "iShares Core MSCI Emerging Markets ETF",
-        "collected_at": "2026-03-28T02:10:13.475Z",
+        "collected_at": "2026-03-29T02:10:14.433Z",
         "data_start_date": "2016-03-28",
         "price": 67.86000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IEMG",
-        "market_capitalization": 137635569718.8,
+        "market_capitalization": 132906098996.4,
         "commodity_name": null,
         "display_name": "iShares Core MSCI Emerging Markets ETF",
         "sma_50": 65.04340003967285,

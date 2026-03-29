@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TTWO",
         "name": "Take-Two Interactive Software, Inc.",
-        "collected_at": "2026-03-28T02:01:29.532Z",
+        "collected_at": "2026-03-29T02:01:32.156Z",
         "data_start_date": "2016-03-28",
         "price": 189.69000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:TTWO",
-        "market_capitalization": 35125930488.00662,
+        "market_capitalization": 35125930720,
         "commodity_name": null,
         "display_name": "Take-Two Interactive Software, Inc.",
         "sma_50": 231.6085998535156,

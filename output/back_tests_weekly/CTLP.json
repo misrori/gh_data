@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTLP",
         "name": "Cantaloupe, Inc.",
-        "collected_at": "2026-03-28T02:09:01.114Z",
+        "collected_at": "2026-03-29T02:09:00.218Z",
         "data_start_date": "2016-03-28",
         "price": 10.600000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:CTLP",
-        "market_capitalization": 781434023.545966,
+        "market_capitalization": 781434063.0000001,
         "commodity_name": null,
         "display_name": "Cantaloupe, Inc.",
         "sma_50": 10.329800033569336,

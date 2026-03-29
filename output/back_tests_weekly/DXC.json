@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DXC",
         "name": "DXC Technology Company",
-        "collected_at": "2026-03-28T02:06:40.858Z",
+        "collected_at": "2026-03-29T02:06:49.675Z",
         "data_start_date": "2016-03-28",
         "price": 11.8100004196167,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NYSE:DXC",
-        "market_capitalization": 2004865105.898277,
+        "market_capitalization": 2004865246,
         "commodity_name": null,
         "display_name": "DXC Technology Company",
         "sma_50": 14.098800067901612,

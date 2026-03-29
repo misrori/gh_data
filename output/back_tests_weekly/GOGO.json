@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GOGO",
         "name": "Gogo Inc.",
-        "collected_at": "2026-03-28T02:09:40.884Z",
+        "collected_at": "2026-03-29T02:09:40.770Z",
         "data_start_date": "2016-03-28",
         "price": 4.309999942779541,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Wireless Telecommunications",
         "tradingview_id": "NASDAQ:GOGO",
-        "market_capitalization": 580478921.2986727,
+        "market_capitalization": 580478916,
         "commodity_name": null,
         "display_name": "Gogo Inc.",
         "sma_50": 8.697800016403198,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VISN",
         "name": "Vistance Networks, Inc.",
-        "collected_at": "2026-03-28T02:05:04.018Z",
+        "collected_at": "2026-03-29T02:05:09.498Z",
         "data_start_date": "2016-03-28",
         "price": 17.950000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:VISN",
-        "market_capitalization": 4047043156.8487167,
+        "market_capitalization": 4047043447,
         "commodity_name": null,
         "display_name": "Vistance Networks, Inc.",
         "sma_50": 14.061000056266785,

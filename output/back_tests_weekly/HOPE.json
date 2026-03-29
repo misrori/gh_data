@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HOPE",
         "name": "Hope Bancorp, Inc.",
-        "collected_at": "2026-03-28T02:07:34.472Z",
+        "collected_at": "2026-03-29T02:07:44.163Z",
         "data_start_date": "2016-03-28",
         "price": 10.920000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:HOPE",
-        "market_capitalization": 1399984833.3500898,
+        "market_capitalization": 1399984800,
         "commodity_name": null,
         "display_name": "Hope Bancorp, Inc.",
         "sma_50": 10.866000003814698,

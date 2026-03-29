@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CWT",
         "name": "California Water Service Group",
-        "collected_at": "2026-03-28T02:06:04.187Z",
+        "collected_at": "2026-03-29T02:06:11.481Z",
         "data_start_date": "2016-03-28",
         "price": 45.0099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NYSE:CWT",
-        "market_capitalization": 2684524569.6692543,
+        "market_capitalization": 2684524359.9999995,
         "commodity_name": null,
         "display_name": "California Water Service Group",
         "sma_50": 45.89920021057129,

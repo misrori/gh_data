@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CIFR",
         "name": "Cipher Digital Inc.",
-        "collected_at": "2026-03-28T02:04:18.519Z",
+        "collected_at": "2026-03-29T02:04:23.093Z",
         "data_start_date": "2020-10-19",
         "price": 13.744999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:CIFR",
-        "market_capitalization": 5568366511.232055,
+        "market_capitalization": 5568366317,
         "commodity_name": null,
         "display_name": "Cipher Digital Inc.",
         "sma_50": 11.477999925613403,

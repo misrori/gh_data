@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "THRM",
         "name": "Gentherm Inc",
-        "collected_at": "2026-03-28T02:08:49.794Z",
+        "collected_at": "2026-03-29T02:08:48.720Z",
         "data_start_date": "2016-03-28",
         "price": 27.670000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NASDAQ:THRM",
-        "market_capitalization": 844667247.1774805,
+        "market_capitalization": 844667274,
         "commodity_name": null,
         "display_name": "Gentherm Inc",
         "sma_50": 32.625000190734866,

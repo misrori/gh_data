@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VGT",
         "name": "Vanguard Information Tech ETF",
-        "collected_at": "2026-03-28T02:10:15.010Z",
+        "collected_at": "2026-03-29T02:10:16.596Z",
         "data_start_date": "2016-03-28",
         "price": 681,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VGT",
-        "market_capitalization": 107808355648.541,
+        "market_capitalization": 104828149702.299,
         "commodity_name": null,
         "display_name": "Vanguard Information Tech ETF",
         "sma_50": 703.5971984863281,

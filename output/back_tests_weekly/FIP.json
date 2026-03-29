@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FIP",
         "name": "FTAI Infrastructure Inc.",
-        "collected_at": "2026-03-28T02:09:42.003Z",
+        "collected_at": "2026-03-29T02:09:42.282Z",
         "data_start_date": "2022-07-18",
         "price": 4.840000152587891,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:FIP",
-        "market_capitalization": 571911571.6821706,
+        "market_capitalization": 571911606,
         "commodity_name": null,
         "display_name": "FTAI Infrastructure Inc.",
         "sma_50": 5.321500015258789,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALKT",
         "name": "Alkami Technology, Inc.",
-        "collected_at": "2026-03-28T02:07:09.540Z",
+        "collected_at": "2026-03-29T02:07:19.934Z",
         "data_start_date": "2021-04-12",
         "price": 15.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:ALKT",
-        "market_capitalization": 1618759210.3086421,
+        "market_capitalization": 1618759134,
         "commodity_name": null,
         "display_name": "Alkami Technology, Inc.",
         "sma_50": 23.203300094604494,

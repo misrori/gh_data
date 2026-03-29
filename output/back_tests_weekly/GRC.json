@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GRC",
         "name": "Gorman-Rupp Company (The)",
-        "collected_at": "2026-03-28T02:07:09.830Z",
+        "collected_at": "2026-03-29T02:07:20.250Z",
         "data_start_date": "2016-03-28",
         "price": 61.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:GRC",
-        "market_capitalization": 1616134739.0187347,
+        "market_capitalization": 1616134672,
         "commodity_name": null,
         "display_name": "Gorman-Rupp Company (The)",
         "sma_50": 46.67040016174317,

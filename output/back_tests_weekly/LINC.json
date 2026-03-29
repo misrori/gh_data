@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LINC",
         "name": "Lincoln Educational Services Corporation",
-        "collected_at": "2026-03-28T02:07:43.764Z",
+        "collected_at": "2026-03-29T02:07:53.971Z",
         "data_start_date": "2016-03-28",
         "price": 40.90999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:LINC",
-        "market_capitalization": 1304168502.9657283,
+        "market_capitalization": 1304168547,
         "commodity_name": null,
         "display_name": "Lincoln Educational Services Corporation",
         "sma_50": 24.355399932861328,

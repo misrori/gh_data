@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BMI",
         "name": "Badger Meter, Inc.",
-        "collected_at": "2026-03-28T02:04:57.402Z",
+        "collected_at": "2026-03-29T02:05:02.532Z",
         "data_start_date": "2016-03-28",
         "price": 145.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:BMI",
-        "market_capitalization": 4254968417.006482,
+        "market_capitalization": 4254968552.0000005,
         "commodity_name": null,
         "display_name": "Badger Meter, Inc.",
         "sma_50": 189.89659912109374,

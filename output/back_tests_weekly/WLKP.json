@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WLKP",
         "name": "Westlake Chemical Partners LP",
-        "collected_at": "2026-03-28T02:09:04.363Z",
+        "collected_at": "2026-03-29T02:09:03.281Z",
         "data_start_date": "2016-03-28",
         "price": 21.709999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:WLKP",
-        "market_capitalization": 765188068.1118125,
+        "market_capitalization": 765188024.9999999,
         "commodity_name": null,
         "display_name": "Westlake Chemical Partners LP",
         "sma_50": 21.20300006866455,

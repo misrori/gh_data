@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GH",
         "name": "Guardant Health, Inc.",
-        "collected_at": "2026-03-28T02:03:00.333Z",
+        "collected_at": "2026-03-29T02:03:04.175Z",
         "data_start_date": "2018-10-01",
         "price": 84.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:GH",
-        "market_capitalization": 11098330792.985586,
+        "market_capitalization": 11098331065,
         "commodity_name": null,
         "display_name": "Guardant Health, Inc.",
         "sma_50": 74.39519966125488,

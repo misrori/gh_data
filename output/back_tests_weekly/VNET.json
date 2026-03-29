@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VNET",
         "name": "VNET Group, Inc.",
-        "collected_at": "2026-03-28T02:06:20.844Z",
+        "collected_at": "2026-03-29T02:06:33.249Z",
         "data_start_date": "2016-03-28",
         "price": 8.449999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:VNET",
-        "market_capitalization": 2343215608,
+        "market_capitalization": 2273268812,
         "commodity_name": null,
         "display_name": "VNET Group, Inc.",
         "sma_50": 8.69939995765686,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DCH",
         "name": "Dauch Corporation",
-        "collected_at": "2026-03-28T02:07:41.266Z",
+        "collected_at": "2026-03-29T02:07:51.336Z",
         "data_start_date": "2016-03-28",
         "price": 5.610000133514404,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:DCH",
-        "market_capitalization": 1323875446.840678,
+        "market_capitalization": 1323875457,
         "commodity_name": null,
         "display_name": "Dauch Corporation",
         "sma_50": 5.748799967765808,

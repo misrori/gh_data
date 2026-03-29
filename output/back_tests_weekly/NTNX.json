@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NTNX",
         "name": "Nutanix, Inc.",
-        "collected_at": "2026-03-28T02:03:09.759Z",
+        "collected_at": "2026-03-29T02:03:14.018Z",
         "data_start_date": "2016-09-26",
         "price": 37.61000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:NTNX",
-        "market_capitalization": 9974627167.755642,
+        "market_capitalization": 9974627136,
         "commodity_name": null,
         "display_name": "Nutanix, Inc.",
         "sma_50": 61.65900032043457,

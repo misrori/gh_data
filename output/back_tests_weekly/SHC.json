@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SHC",
         "name": "Sotera Health Company",
-        "collected_at": "2026-03-28T02:05:14.416Z",
+        "collected_at": "2026-03-29T02:05:20.527Z",
         "data_start_date": "2020-11-16",
         "price": 13.130000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:SHC",
-        "market_capitalization": 3734068129.481537,
+        "market_capitalization": 3734068172,
         "commodity_name": null,
         "display_name": "Sotera Health Company",
         "sma_50": 14.952500133514404,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMP",
         "name": "Ameriprise Financial, Inc.",
-        "collected_at": "2026-03-28T02:01:23.241Z",
+        "collected_at": "2026-03-29T02:01:25.805Z",
         "data_start_date": "2016-03-28",
         "price": 436.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:AMP",
-        "market_capitalization": 39827898820.4029,
+        "market_capitalization": 39827899141,
         "commodity_name": null,
         "display_name": "Ameriprise Financial, Inc.",
         "sma_50": 491.43019714355466,

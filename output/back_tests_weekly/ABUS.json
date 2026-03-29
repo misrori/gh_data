@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABUS",
         "name": "Arbutus Biopharma Corporation",
-        "collected_at": "2026-03-28T02:08:50.976Z",
+        "collected_at": "2026-03-29T02:08:49.580Z",
         "data_start_date": "2016-03-28",
         "price": 4.289999961853027,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ABUS",
-        "market_capitalization": 838600832.0898877,
+        "market_capitalization": 838600861,
         "commodity_name": null,
         "display_name": "Arbutus Biopharma Corporation",
         "sma_50": 3.9765999937057495,

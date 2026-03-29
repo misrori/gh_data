@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DOLE",
         "name": "Dole plc",
-        "collected_at": "2026-03-28T02:07:34.169Z",
+        "collected_at": "2026-03-29T02:07:43.897Z",
         "data_start_date": "2021-07-26",
         "price": 14.729999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Food Distributors",
         "tradingview_id": "NYSE:DOLE",
-        "market_capitalization": 1401775312.216495,
+        "market_capitalization": 1401775250,
         "commodity_name": null,
         "display_name": "Dole plc",
         "sma_50": 14.393000030517578,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VEEV",
         "name": "Veeva Systems Inc.",
-        "collected_at": "2026-03-28T02:01:43.064Z",
+        "collected_at": "2026-03-29T02:01:46.162Z",
         "data_start_date": "2016-03-28",
         "price": 172.58999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:VEEV",
-        "market_capitalization": 28189285467.759254,
+        "market_capitalization": 28189285062,
         "commodity_name": null,
         "display_name": "Veeva Systems Inc.",
         "sma_50": 248.18019897460937,

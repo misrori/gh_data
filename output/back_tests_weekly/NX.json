@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NX",
         "name": "Quanex Building Products Corporation",
-        "collected_at": "2026-03-28T02:08:56.762Z",
+        "collected_at": "2026-03-29T02:08:55.964Z",
         "data_start_date": "2016-03-28",
         "price": 17.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:NX",
-        "market_capitalization": 800626315.5418327,
+        "market_capitalization": 800626343,
         "commodity_name": null,
         "display_name": "Quanex Building Products Corporation",
         "sma_50": 17.382799949645996,

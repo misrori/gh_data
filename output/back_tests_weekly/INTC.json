@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "collected_at": "2026-03-28T02:00:21.136Z",
+        "collected_at": "2026-03-29T02:00:21.527Z",
         "data_start_date": "2016-03-28",
         "price": 43.130001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:INTC",
-        "market_capitalization": 215434342545.6494,
+        "market_capitalization": 215434355335.00003,
         "commodity_name": null,
         "display_name": "Intel Corporation",
         "sma_50": 32.858800086975094,

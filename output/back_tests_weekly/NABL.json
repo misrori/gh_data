@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NABL",
         "name": "N-able, Inc.",
-        "collected_at": "2026-03-28T02:08:45.863Z",
+        "collected_at": "2026-03-29T02:08:44.778Z",
         "data_start_date": "2021-07-19",
         "price": 4.599999904632568,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NYSE:NABL",
-        "market_capitalization": 866531071.0416667,
+        "market_capitalization": 866531018,
         "commodity_name": null,
         "display_name": "N-able, Inc.",
         "sma_50": 7.154200000762939,

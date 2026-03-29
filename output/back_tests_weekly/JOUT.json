@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JOUT",
         "name": "Johnson Outdoors Inc.",
-        "collected_at": "2026-03-28T02:10:03.973Z",
+        "collected_at": "2026-03-29T02:10:04.834Z",
         "data_start_date": "2016-03-28",
         "price": 46.79999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Recreational Products",
         "tradingview_id": "NASDAQ:JOUT",
-        "market_capitalization": 484070988.4893303,
+        "market_capitalization": 484070962,
         "commodity_name": null,
         "display_name": "Johnson Outdoors Inc.",
         "sma_50": 38.73099998474121,

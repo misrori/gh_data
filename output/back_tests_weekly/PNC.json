@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PNC",
         "name": "PNC Financial Services Group, Inc. (The)",
-        "collected_at": "2026-03-28T02:00:48.177Z",
+        "collected_at": "2026-03-29T02:00:48.904Z",
         "data_start_date": "2016-03-28",
         "price": 202.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:PNC",
-        "market_capitalization": 81638247449.17166,
+        "market_capitalization": 81638244536,
         "commodity_name": null,
         "display_name": "PNC Financial Services Group, Inc. (The)",
         "sma_50": 196.86020141601563,

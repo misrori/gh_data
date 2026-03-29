@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OMCL",
         "name": "Omnicell, Inc.",
-        "collected_at": "2026-03-28T02:07:22.737Z",
+        "collected_at": "2026-03-29T02:07:33.083Z",
         "data_start_date": "2016-03-28",
         "price": 32.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:OMCL",
-        "market_capitalization": 1488026311.150568,
+        "market_capitalization": 1488026278,
         "commodity_name": null,
         "display_name": "Omnicell, Inc.",
         "sma_50": 34.81719993591309,

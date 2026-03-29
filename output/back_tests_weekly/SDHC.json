@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SDHC",
         "name": "Smith Douglas Homes Corp.",
-        "collected_at": "2026-03-28T02:09:31.788Z",
+        "collected_at": "2026-03-29T02:09:31.897Z",
         "data_start_date": "2024-01-08",
         "price": 12,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NYSE:SDHC",
-        "market_capitalization": 617846375.4701555,
+        "market_capitalization": 617846399,
         "commodity_name": null,
         "display_name": "Smith Douglas Homes Corp.",
         "sma_50": 18.145400104522704,

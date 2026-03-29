@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ICFI",
         "name": "ICF International, Inc.",
-        "collected_at": "2026-03-28T02:08:07.987Z",
+        "collected_at": "2026-03-29T02:08:07.106Z",
         "data_start_date": "2016-03-28",
         "price": 64.7699966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:ICFI",
-        "market_capitalization": 1183560271.3577073,
+        "market_capitalization": 1183560232.0000002,
         "commodity_name": null,
         "display_name": "ICF International, Inc.",
         "sma_50": 85.80659957885742,

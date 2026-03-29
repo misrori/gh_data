@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CSTL",
         "name": "Castle Biosciences, Inc.",
-        "collected_at": "2026-03-28T02:09:14.697Z",
+        "collected_at": "2026-03-29T02:09:13.852Z",
         "data_start_date": "2019-07-22",
         "price": 23.530000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:CSTL",
-        "market_capitalization": 699575095.0368422,
+        "market_capitalization": 699575094.0000001,
         "commodity_name": null,
         "display_name": "Castle Biosciences, Inc.",
         "sma_50": 26.234800090789793,

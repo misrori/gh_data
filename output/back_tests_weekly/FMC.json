@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FMC",
         "name": "FMC Corporation",
-        "collected_at": "2026-03-28T02:06:43.977Z",
+        "collected_at": "2026-03-29T02:06:52.945Z",
         "data_start_date": "2016-03-28",
         "price": 15.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Agricultural",
         "tradingview_id": "NYSE:FMC",
-        "market_capitalization": 1970709632.7458494,
+        "market_capitalization": 1970709681,
         "commodity_name": null,
         "display_name": "FMC Corporation",
         "sma_50": 27.304200057983397,

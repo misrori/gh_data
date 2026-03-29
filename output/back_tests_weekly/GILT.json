@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GILT",
         "name": "Gilat Satellite Networks Ltd.",
-        "collected_at": "2026-03-28T02:08:12.208Z",
+        "collected_at": "2026-03-29T02:08:11.574Z",
         "data_start_date": "2016-03-28",
         "price": 15.390000343322754,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:GILT",
-        "market_capitalization": 1143675929.4496078,
+        "market_capitalization": 1143675976,
         "commodity_name": null,
         "display_name": "Gilat Satellite Networks Ltd.",
         "sma_50": 11.470800046920777,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RDW",
         "name": "Redwire Corporation",
-        "collected_at": "2026-03-28T02:07:13.230Z",
+        "collected_at": "2026-03-29T02:07:23.650Z",
         "data_start_date": "2021-01-11",
         "price": 8.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:RDW",
-        "market_capitalization": 1566522504.0811727,
+        "market_capitalization": 1566522495,
         "commodity_name": null,
         "display_name": "Redwire Corporation",
         "sma_50": 10.502799949645997,

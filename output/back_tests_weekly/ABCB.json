@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABCB",
         "name": "Ameris Bancorp",
-        "collected_at": "2026-03-28T02:04:30.240Z",
+        "collected_at": "2026-03-29T02:04:35.170Z",
         "data_start_date": "2016-03-28",
         "price": 75.88999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:ABCB",
-        "market_capitalization": 5151435490.723473,
+        "market_capitalization": 5151435531,
         "commodity_name": null,
         "display_name": "Ameris Bancorp",
         "sma_50": 71.95240020751953,

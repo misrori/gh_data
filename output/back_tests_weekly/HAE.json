@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HAE",
         "name": "Haemonetics Corporation",
-        "collected_at": "2026-03-28T02:06:11.735Z",
+        "collected_at": "2026-03-29T02:06:19.115Z",
         "data_start_date": "2016-03-28",
         "price": 54.040000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:HAE",
-        "market_capitalization": 2511311862.041066,
+        "market_capitalization": 2511311884.0000005,
         "commodity_name": null,
         "display_name": "Haemonetics Corporation",
         "sma_50": 65.31439964294434,

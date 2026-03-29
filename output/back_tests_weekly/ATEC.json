@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATEC",
         "name": "Alphatec Holdings, Inc.",
-        "collected_at": "2026-03-28T02:07:05.811Z",
+        "collected_at": "2026-03-29T02:07:15.915Z",
         "data_start_date": "2016-03-28",
         "price": 10.930000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:ATEC",
-        "market_capitalization": 1654328014.667535,
+        "market_capitalization": 1654327995,
         "commodity_name": null,
         "display_name": "Alphatec Holdings, Inc.",
         "sma_50": 14.947799911499024,

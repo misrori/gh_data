@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ARCC",
         "name": "Ares Capital Corporation",
-        "collected_at": "2026-03-28T02:02:46.879Z",
+        "collected_at": "2026-03-29T02:02:51.258Z",
         "data_start_date": "2016-03-28",
         "price": 17.450000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:ARCC",
-        "market_capitalization": 12529499452.117743,
+        "market_capitalization": 12529499947,
         "commodity_name": null,
         "display_name": "Ares Capital Corporation",
         "sma_50": 20.730400009155275,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MAN",
         "name": "ManpowerGroup",
-        "collected_at": "2026-03-28T02:07:41.930Z",
+        "collected_at": "2026-03-29T02:07:52.110Z",
         "data_start_date": "2016-03-28",
         "price": 28.420000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Personnel Services",
         "tradingview_id": "NYSE:MAN",
-        "market_capitalization": 1319246241.4036796,
+        "market_capitalization": 1319246269,
         "commodity_name": null,
         "display_name": "ManpowerGroup",
         "sma_50": 35.62599998474121,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TARS",
         "name": "Tarsus Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-28T02:05:56.455Z",
+        "collected_at": "2026-03-29T02:06:03.479Z",
         "data_start_date": "2020-10-12",
         "price": 66.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:TARS",
-        "market_capitalization": 2819433671.0937495,
+        "market_capitalization": 2819433799,
         "commodity_name": null,
         "display_name": "Tarsus Pharmaceuticals, Inc.",
         "sma_50": 60.34519989013672,

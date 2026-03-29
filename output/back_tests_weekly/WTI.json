@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WTI",
         "name": "W&T Offshore, Inc.",
-        "collected_at": "2026-03-28T02:09:59.130Z",
+        "collected_at": "2026-03-29T02:09:59.930Z",
         "data_start_date": "2016-03-28",
         "price": 3.380000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:WTI",
-        "market_capitalization": 502868654.8536586,
+        "market_capitalization": 502868677,
         "commodity_name": null,
         "display_name": "W&T Offshore, Inc.",
         "sma_50": 1.9864000058174134,

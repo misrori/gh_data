@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BV",
         "name": "BrightView Holdings, Inc.",
-        "collected_at": "2026-03-28T02:08:18.251Z",
+        "collected_at": "2026-03-29T02:08:17.204Z",
         "data_start_date": "2018-06-25",
         "price": 11.489999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:BV",
-        "market_capitalization": 1082357946.969231,
+        "market_capitalization": 1082357943,
         "commodity_name": null,
         "display_name": "BrightView Holdings, Inc.",
         "sma_50": 13.857999935150147,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRCH",
         "name": "Porch Group, Inc.",
-        "collected_at": "2026-03-28T02:09:11.498Z",
+        "collected_at": "2026-03-29T02:09:10.433Z",
         "data_start_date": "2020-01-13",
         "price": 6.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:PRCH",
-        "market_capitalization": 717571899.8058252,
+        "market_capitalization": 717571920,
         "commodity_name": null,
         "display_name": "Porch Group, Inc.",
         "sma_50": 11.229300012588501,

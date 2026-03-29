@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KURA",
         "name": "Kura Oncology, Inc.",
-        "collected_at": "2026-03-28T02:09:18.239Z",
+        "collected_at": "2026-03-29T02:09:17.389Z",
         "data_start_date": "2016-03-28",
         "price": 7.739999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:KURA",
-        "market_capitalization": 683672296.4784689,
+        "market_capitalization": 683672304,
         "commodity_name": null,
         "display_name": "Kura Oncology, Inc.",
         "sma_50": 8.18940001487732,

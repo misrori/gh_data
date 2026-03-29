@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KW",
         "name": "Kennedy-Wilson Holdings Inc.",
-        "collected_at": "2026-03-28T02:07:18.878Z",
-        "data_start_date": "2016-03-30",
+        "collected_at": "2026-03-29T02:07:28.906Z",
+        "data_start_date": "2016-03-31",
         "price": 10.930000305175781,
         "change": 0,
-        "volume": 741032,
+        "volume": 922400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 141,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.2816,
         "number_of_employees": 321,
         "ml_direction": 1,
-        "ml_value": 10.723075511047128,
+        "ml_value": 10.722432639190439,
         "ml_last_change_date": "2025-11-05",
         "ml_last_change_price": 9.609999656677246,
         "ml_change_percent_from_last_change": 13.735699226392462

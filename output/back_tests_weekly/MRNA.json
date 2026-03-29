@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MRNA",
         "name": "Moderna, Inc.",
-        "collected_at": "2026-03-28T02:02:10.436Z",
+        "collected_at": "2026-03-29T02:02:12.929Z",
         "data_start_date": "2018-12-03",
         "price": 49.560001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:MRNA",
-        "market_capitalization": 19573197673.332836,
+        "market_capitalization": 19573198327,
         "commodity_name": null,
         "display_name": "Moderna, Inc.",
         "sma_50": 32.465100059509275,

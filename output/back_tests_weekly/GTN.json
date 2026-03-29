@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GTN",
         "name": "Gray Media, Inc.",
-        "collected_at": "2026-03-28T02:09:46.341Z",
+        "collected_at": "2026-03-29T02:09:46.978Z",
         "data_start_date": "2016-03-28",
         "price": 4.579999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Broadcasting",
         "tradingview_id": "NYSE:GTN",
-        "market_capitalization": 556744174.1982759,
+        "market_capitalization": 556279337.0000001,
         "commodity_name": null,
         "display_name": "Gray Media, Inc.",
         "sma_50": 4.774000034332276,

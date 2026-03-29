@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XPEL",
         "name": "XPEL, Inc.",
-        "collected_at": "2026-03-28T02:08:15.133Z",
+        "collected_at": "2026-03-29T02:08:14.362Z",
         "data_start_date": "2019-07-01",
         "price": 40.415000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Automotive Aftermarket",
         "tradingview_id": "NASDAQ:XPEL",
-        "market_capitalization": 1115623055.3836803,
+        "market_capitalization": 1115623089,
         "commodity_name": null,
         "display_name": "XPEL, Inc.",
         "sma_50": 40.21710014343262,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IXUS",
         "name": "iShares Core MSCI Total International Stock ETF",
-        "collected_at": "2026-03-28T02:10:21.656Z",
+        "collected_at": "2026-03-29T02:10:22.826Z",
         "data_start_date": "2016-03-28",
         "price": 83.80000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:IXUS",
-        "market_capitalization": 52388998939.8,
+        "market_capitalization": 51102545406.9,
         "commodity_name": null,
         "display_name": "iShares Core MSCI Total International Stock ETF",
         "sma_50": 82.14500045776367,

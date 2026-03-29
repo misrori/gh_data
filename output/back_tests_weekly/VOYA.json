@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VOYA",
         "name": "Voya Financial, Inc.",
-        "collected_at": "2026-03-28T02:04:06.039Z",
+        "collected_at": "2026-03-29T02:04:10.160Z",
         "data_start_date": "2016-03-28",
         "price": 66.19999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Life/Health Insurance",
         "tradingview_id": "NYSE:VOYA",
-        "market_capitalization": 6140914346.589191,
+        "market_capitalization": 6140914390,
         "commodity_name": null,
         "display_name": "Voya Financial, Inc.",
         "sma_50": 71.44240005493164,

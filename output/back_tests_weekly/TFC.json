@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TFC",
         "name": "Truist Financial Corporation",
-        "collected_at": "2026-03-28T02:01:07.412Z",
+        "collected_at": "2026-03-29T02:01:09.625Z",
         "data_start_date": "2016-03-28",
         "price": 44.529998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:TFC",
-        "market_capitalization": 55625467465.69803,
+        "market_capitalization": 55625464430.99999,
         "commodity_name": null,
         "display_name": "Truist Financial Corporation",
         "sma_50": 45.39580017089844,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GPRE",
         "name": "Green Plains, Inc.",
-        "collected_at": "2026-03-28T02:08:08.469Z",
+        "collected_at": "2026-03-29T02:08:07.848Z",
         "data_start_date": "2016-03-28",
         "price": 16.889999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NASDAQ:GPRE",
-        "market_capitalization": 1179578080.2781818,
+        "market_capitalization": 1179578038.0000002,
         "commodity_name": null,
         "display_name": "Green Plains, Inc.",
         "sma_50": 9.647399940490722,

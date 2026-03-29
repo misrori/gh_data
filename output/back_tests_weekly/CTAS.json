@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CTAS",
         "name": "Cintas Corporation",
-        "collected_at": "2026-03-28T02:01:01.154Z",
+        "collected_at": "2026-03-29T02:01:02.929Z",
         "data_start_date": "2016-03-28",
         "price": 165.7100067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:CTAS",
-        "market_capitalization": 66062882095.41393,
+        "market_capitalization": 66062882383.99999,
         "commodity_name": null,
         "display_name": "Cintas Corporation",
         "sma_50": 201.62200134277344,

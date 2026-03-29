@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KODK",
         "name": "Eastman Kodak Company",
-        "collected_at": "2026-03-28T02:08:38.063Z",
+        "collected_at": "2026-03-29T02:08:37.557Z",
         "data_start_date": "2016-03-28",
         "price": 9.460000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:KODK",
-        "market_capitalization": 922350011.7184684,
+        "market_capitalization": 922350003.9999999,
         "commodity_name": null,
         "display_name": "Eastman Kodak Company",
         "sma_50": 6.952799968719482,

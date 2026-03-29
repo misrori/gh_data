@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ENSG",
         "name": "The Ensign Group, Inc.",
-        "collected_at": "2026-03-28T02:02:55.875Z",
+        "collected_at": "2026-03-29T02:02:59.426Z",
         "data_start_date": "2016-03-28",
         "price": 200.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:ENSG",
-        "market_capitalization": 11660911057.472845,
+        "market_capitalization": 11660910954,
         "commodity_name": null,
         "display_name": "The Ensign Group, Inc.",
         "sma_50": 171.9638005065918,

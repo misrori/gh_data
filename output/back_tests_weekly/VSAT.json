@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VSAT",
         "name": "ViaSat, Inc.",
-        "collected_at": "2026-03-28T02:04:02.719Z",
+        "collected_at": "2026-03-29T02:04:06.303Z",
         "data_start_date": "2016-03-28",
         "price": 46.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Telecommunications Equipment",
         "tradingview_id": "NASDAQ:VSAT",
-        "market_capitalization": 6327027116.462471,
+        "market_capitalization": 6327027122.999999,
         "commodity_name": null,
         "display_name": "ViaSat, Inc.",
         "sma_50": 29.912600231170654,

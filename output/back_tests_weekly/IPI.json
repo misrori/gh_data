@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IPI",
         "name": "Intrepid Potash, Inc",
-        "collected_at": "2026-03-28T02:09:30.260Z",
+        "collected_at": "2026-03-29T02:09:30.360Z",
         "data_start_date": "2016-03-28",
         "price": 46.52000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Other Metals/Minerals",
         "tradingview_id": "NYSE:IPI",
-        "market_capitalization": 623689567.589864,
+        "market_capitalization": 623689590,
         "commodity_name": null,
         "display_name": "Intrepid Potash, Inc",
         "sma_50": 32.63579986572265,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SATL",
         "name": "Satellogic Inc.",
-        "collected_at": "2026-03-28T02:08:49.133Z",
+        "collected_at": "2026-03-29T02:08:48.169Z",
         "data_start_date": "2021-03-22",
         "price": 5.929999828338623,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NASDAQ:SATL",
-        "market_capitalization": 848337744.6214951,
+        "market_capitalization": 848337710,
         "commodity_name": null,
         "display_name": "Satellogic Inc.",
         "sma_50": 3.29939998626709,

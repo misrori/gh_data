@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPFI",
         "name": "South Plains Financial, Inc.",
-        "collected_at": "2026-03-28T02:09:20.399Z",
+        "collected_at": "2026-03-29T02:09:19.566Z",
         "data_start_date": "2019-05-06",
         "price": 41.27000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:SPFI",
-        "market_capitalization": 673997801.5727252,
+        "market_capitalization": 673997827.0000001,
         "commodity_name": null,
         "display_name": "South Plains Financial, Inc.",
         "sma_50": 38.647600173950195,

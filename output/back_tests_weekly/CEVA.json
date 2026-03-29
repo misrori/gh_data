@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CEVA",
         "name": "CEVA, Inc.",
-        "collected_at": "2026-03-28T02:09:58.195Z",
+        "collected_at": "2026-03-29T02:09:58.951Z",
         "data_start_date": "2016-03-28",
         "price": 18.219999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:CEVA",
-        "market_capitalization": 505680369.03400636,
+        "market_capitalization": 505680358,
         "commodity_name": null,
         "display_name": "CEVA, Inc.",
         "sma_50": 22.506599807739256,

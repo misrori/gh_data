@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FSBC",
         "name": "Five Star Bancorp",
-        "collected_at": "2026-03-28T02:08:57.417Z",
+        "collected_at": "2026-03-29T02:08:56.661Z",
         "data_start_date": "2021-05-03",
         "price": 37.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:FSBC",
-        "market_capitalization": 793268969.7204819,
+        "market_capitalization": 793269015,
         "commodity_name": null,
         "display_name": "Five Star Bancorp",
         "sma_50": 33.39699996948242,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALGT",
         "name": "Allegiant Travel Company",
-        "collected_at": "2026-03-28T02:07:25.984Z",
+        "collected_at": "2026-03-29T02:07:35.802Z",
         "data_start_date": "2016-03-28",
         "price": 79.4000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NASDAQ:ALGT",
-        "market_capitalization": 1465112251.9957106,
+        "market_capitalization": 1464756989,
         "commodity_name": null,
         "display_name": "Allegiant Travel Company",
         "sma_50": 69.71980018615723,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IVV",
         "name": "iShares Core S&P 500 ETF",
-        "collected_at": "2026-03-28T02:10:10.668Z",
+        "collected_at": "2026-03-29T02:10:11.227Z",
         "data_start_date": "2016-03-28",
         "price": 636.989990234375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IVV",
-        "market_capitalization": 724281613488.7,
+        "market_capitalization": 714075546229.5,
         "commodity_name": null,
         "display_name": "iShares Core S&P 500 ETF",
         "sma_50": 651.1322009277344,

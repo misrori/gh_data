@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TNK",
         "name": "Teekay Tankers Ltd.",
-        "collected_at": "2026-03-28T02:06:11.968Z",
+        "collected_at": "2026-03-29T02:06:19.432Z",
         "data_start_date": "2016-03-28",
         "price": 72.44999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:TNK",
-        "market_capitalization": 2509947414.815864,
+        "market_capitalization": 2509947364,
         "commodity_name": null,
         "display_name": "Teekay Tankers Ltd.",
         "sma_50": 54.596799545288086,

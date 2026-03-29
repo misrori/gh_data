@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCOI",
         "name": "Cogent Communications Holdings, Inc.",
-        "collected_at": "2026-03-28T02:08:44.208Z",
+        "collected_at": "2026-03-29T02:08:42.817Z",
         "data_start_date": "2016-03-28",
         "price": 17.6200008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Major Telecommunications",
         "tradingview_id": "NASDAQ:CCOI",
-        "market_capitalization": 882095203.9408481,
+        "market_capitalization": 882095243,
         "commodity_name": null,
         "display_name": "Cogent Communications Holdings, Inc.",
         "sma_50": 34.036600036621095,

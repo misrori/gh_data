@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BRKR",
         "name": "Bruker Corporation",
-        "collected_at": "2026-03-28T02:04:31.238Z",
+        "collected_at": "2026-03-29T02:04:36.278Z",
         "data_start_date": "2016-03-28",
         "price": 33.720001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:BRKR",
-        "market_capitalization": 5132833251.215618,
+        "market_capitalization": 5132833415,
         "commodity_name": null,
         "display_name": "Bruker Corporation",
         "sma_50": 39.50939990997315,

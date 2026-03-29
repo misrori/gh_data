@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CGON",
         "name": "CG Oncology, Inc.",
-        "collected_at": "2026-03-28T02:04:21.265Z",
+        "collected_at": "2026-03-29T02:04:25.982Z",
         "data_start_date": "2024-01-22",
         "price": 64.62000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:CGON",
-        "market_capitalization": 5456202703.478625,
+        "market_capitalization": 5456203085,
         "commodity_name": null,
         "display_name": "CG Oncology, Inc.",
         "sma_50": 39.43490016937256,

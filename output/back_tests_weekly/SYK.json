@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SYK",
         "name": "Stryker Corporation",
-        "collected_at": "2026-03-28T02:00:34.176Z",
+        "collected_at": "2026-03-29T02:00:34.380Z",
         "data_start_date": "2016-03-28",
         "price": 327.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:SYK",
-        "market_capitalization": 125307581955.5763,
+        "market_capitalization": 125307585649,
         "commodity_name": null,
         "display_name": "Stryker Corporation",
         "sma_50": 371.01679931640626,

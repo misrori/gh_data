@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXTR",
         "name": "Extreme Networks, Inc.",
-        "collected_at": "2026-03-28T02:06:37.646Z",
+        "collected_at": "2026-03-29T02:06:46.306Z",
         "data_start_date": "2016-03-28",
         "price": 15.260000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Peripherals",
         "tradingview_id": "NASDAQ:EXTR",
-        "market_capitalization": 2048953284.633894,
+        "market_capitalization": 2048953310.0000002,
         "commodity_name": null,
         "display_name": "Extreme Networks, Inc.",
         "sma_50": 17.189799976348876,

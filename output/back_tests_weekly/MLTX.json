@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MLTX",
         "name": "MoonLake Immunotherapeutics",
-        "collected_at": "2026-03-28T02:07:49.490Z",
+        "collected_at": "2026-03-29T02:07:59.749Z",
         "data_start_date": "2020-10-19",
         "price": 17.31999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:MLTX",
-        "market_capitalization": 1242326790.852958,
+        "market_capitalization": 1242326769,
         "commodity_name": null,
         "display_name": "MoonLake Immunotherapeutics",
         "sma_50": 30.19459987640381,

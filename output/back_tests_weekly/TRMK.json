@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TRMK",
         "name": "Trustmark Corporation",
-        "collected_at": "2026-03-28T02:06:14.846Z",
+        "collected_at": "2026-03-29T02:06:22.387Z",
         "data_start_date": "2016-03-28",
         "price": 41.810001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:TRMK",
-        "market_capitalization": 2460509620.069977,
+        "market_capitalization": 2460509745,
         "commodity_name": null,
         "display_name": "Trustmark Corporation",
         "sma_50": 39.00040008544922,

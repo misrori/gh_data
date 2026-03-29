@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COF",
         "name": "Capital One Financial Corporation",
-        "collected_at": "2026-03-28T02:00:38.690Z",
+        "collected_at": "2026-03-29T02:00:39.179Z",
         "data_start_date": "2016-03-28",
         "price": 176.10000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:COF",
-        "market_capitalization": 109522148229.25435,
+        "market_capitalization": 109522154962,
         "commodity_name": null,
         "display_name": "Capital One Financial Corporation",
         "sma_50": 211.55599914550783,

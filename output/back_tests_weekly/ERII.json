@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ERII",
         "name": "Energy Recovery, Inc.",
-        "collected_at": "2026-03-28T02:09:54.223Z",
+        "collected_at": "2026-03-29T02:09:54.903Z",
         "data_start_date": "2016-03-28",
         "price": 9.869999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:ERII",
-        "market_capitalization": 521418880.75352114,
+        "market_capitalization": 521418897,
         "commodity_name": null,
         "display_name": "Energy Recovery, Inc.",
         "sma_50": 13.768400039672851,

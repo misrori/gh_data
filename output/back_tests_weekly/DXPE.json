@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DXPE",
         "name": "DXP Enterprises, Inc.",
-        "collected_at": "2026-03-28T02:06:34.378Z",
+        "collected_at": "2026-03-29T02:06:42.652Z",
         "data_start_date": "2016-03-28",
         "price": 136.63999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NASDAQ:DXPE",
-        "market_capitalization": 2120955143.6649642,
+        "market_capitalization": 2120955172,
         "commodity_name": null,
         "display_name": "DXP Enterprises, Inc.",
         "sma_50": 111.36780029296875,

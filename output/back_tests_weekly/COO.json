@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COO",
         "name": "The Cooper Companies, Inc.",
-        "collected_at": "2026-03-28T02:02:38.910Z",
+        "collected_at": "2026-03-29T02:02:43.016Z",
         "data_start_date": "2016-03-28",
         "price": 69.7699966430664,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:COO",
-        "market_capitalization": 13613131523.181293,
+        "market_capitalization": 13613130694,
         "commodity_name": null,
         "display_name": "The Cooper Companies, Inc.",
         "sma_50": 75.16099990844727,

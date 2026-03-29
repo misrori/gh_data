@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRAI",
         "name": "CRA International,Inc.",
-        "collected_at": "2026-03-28T02:08:27.046Z",
+        "collected_at": "2026-03-29T02:08:26.174Z",
         "data_start_date": "2016-03-28",
         "price": 153.16000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:CRAI",
-        "market_capitalization": 1005676574.7336401,
+        "market_capitalization": 1005676626,
         "commodity_name": null,
         "display_name": "CRA International,Inc.",
         "sma_50": 185.33860046386718,

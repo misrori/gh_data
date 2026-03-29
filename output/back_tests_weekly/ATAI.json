@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATAI",
         "name": "AtaiBeckley Inc.",
-        "collected_at": "2026-03-28T02:07:50.987Z",
+        "collected_at": "2026-03-29T02:08:01.290Z",
         "data_start_date": "2021-06-14",
         "price": 3.3499999046325684,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ATAI",
-        "market_capitalization": 1221899094.322034,
+        "market_capitalization": 1221899073,
         "commodity_name": null,
         "display_name": "AtaiBeckley Inc.",
         "sma_50": 3.697600016593933,

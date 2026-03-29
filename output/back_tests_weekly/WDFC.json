@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WDFC",
         "name": "WD-40 Company",
-        "collected_at": "2026-03-28T02:06:02.682Z",
+        "collected_at": "2026-03-29T02:06:10.141Z",
         "data_start_date": "2016-03-28",
         "price": 201.2100067138672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NASDAQ:WDFC",
-        "market_capitalization": 2713578645.131456,
+        "market_capitalization": 2713578799.9999995,
         "commodity_name": null,
         "display_name": "WD-40 Company",
         "sma_50": 216.60820037841796,

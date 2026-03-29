@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRU",
         "name": "Prudential Financial, Inc.",
-        "collected_at": "2026-03-28T02:01:35.173Z",
+        "collected_at": "2026-03-29T02:01:38.191Z",
         "data_start_date": "2016-03-28",
         "price": 93.29000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Life/Health Insurance",
         "tradingview_id": "NYSE:PRU",
-        "market_capitalization": 32464918856.27459,
+        "market_capitalization": 32464920319.000004,
         "commodity_name": null,
         "display_name": "Prudential Financial, Inc.",
         "sma_50": 105.06600036621094,

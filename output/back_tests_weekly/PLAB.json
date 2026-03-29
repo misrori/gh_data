@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLAB",
         "name": "Photronics, Inc.",
-        "collected_at": "2026-03-28T02:06:21.372Z",
+        "collected_at": "2026-03-29T02:06:29.003Z",
         "data_start_date": "2016-03-28",
         "price": 39.599998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:PLAB",
-        "market_capitalization": 2335069195.985916,
+        "market_capitalization": 2335069205,
         "commodity_name": null,
         "display_name": "Photronics, Inc.",
         "sma_50": 26.001999855041504,

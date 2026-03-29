@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UMBF",
         "name": "UMB Financial Corporation",
-        "collected_at": "2026-03-28T02:03:27.422Z",
+        "collected_at": "2026-03-29T02:03:31.850Z",
         "data_start_date": "2016-03-28",
         "price": 108.95999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:UMBF",
-        "market_capitalization": 8295722091.187097,
+        "market_capitalization": 8295722135,
         "commodity_name": null,
         "display_name": "UMB Financial Corporation",
         "sma_50": 113.25140014648437,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WLK",
         "name": "Westlake Corporation",
-        "collected_at": "2026-03-28T02:02:34.151Z",
+        "collected_at": "2026-03-29T02:02:37.602Z",
         "data_start_date": "2016-03-28",
         "price": 113.29000091552734,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:WLK",
-        "market_capitalization": 14490962228.485283,
+        "market_capitalization": 14490962463,
         "commodity_name": null,
         "display_name": "Westlake Corporation",
         "sma_50": 82.8473999786377,

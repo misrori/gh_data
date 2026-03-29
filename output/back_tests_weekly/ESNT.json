@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ESNT",
         "name": "Essent Group Ltd.",
-        "collected_at": "2026-03-28T02:04:21.119Z",
+        "collected_at": "2026-03-29T02:04:25.840Z",
         "data_start_date": "2016-03-28",
         "price": 57.7400016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Specialty Insurance",
         "tradingview_id": "NYSE:ESNT",
-        "market_capitalization": 5458903981.11862,
+        "market_capitalization": 5458904126,
         "commodity_name": null,
         "display_name": "Essent Group Ltd.",
         "sma_50": 60.74740013122559,

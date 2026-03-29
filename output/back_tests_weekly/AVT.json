@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AVT",
         "name": "Avnet, Inc.",
-        "collected_at": "2026-03-28T02:04:38.293Z",
+        "collected_at": "2026-03-29T02:04:43.048Z",
         "data_start_date": "2016-03-28",
         "price": 59.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Electronics Distributors",
         "tradingview_id": "NASDAQ:AVT",
-        "market_capitalization": 4889675165.892647,
+        "market_capitalization": 4889675067.999999,
         "commodity_name": null,
         "display_name": "Avnet, Inc.",
         "sma_50": 53.50159996032715,

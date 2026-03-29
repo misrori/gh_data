@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLB",
         "name": "Core Laboratories Inc.",
-        "collected_at": "2026-03-28T02:08:54.886Z",
+        "collected_at": "2026-03-29T02:08:53.950Z",
         "data_start_date": "2016-03-28",
         "price": 17.610000610351562,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:CLB",
-        "market_capitalization": 810948148.8745431,
+        "market_capitalization": 810948173,
         "commodity_name": null,
         "display_name": "Core Laboratories Inc.",
         "sma_50": 14.25480001449585,

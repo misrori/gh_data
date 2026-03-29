@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NMIH",
         "name": "NMI Holdings Inc",
-        "collected_at": "2026-03-28T02:05:57.063Z",
+        "collected_at": "2026-03-29T02:06:04.201Z",
         "data_start_date": "2016-03-28",
         "price": 36.86000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:NMIH",
-        "market_capitalization": 2802562529.0101275,
+        "market_capitalization": 2802562541,
         "commodity_name": null,
         "display_name": "NMI Holdings Inc",
         "sma_50": 38.60350021362305,

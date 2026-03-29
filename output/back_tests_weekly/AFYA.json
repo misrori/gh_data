@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AFYA",
         "name": "Afya Limited",
-        "collected_at": "2026-03-28T02:07:39.698Z",
+        "collected_at": "2026-03-29T02:07:49.765Z",
         "data_start_date": "2019-07-15",
         "price": 14.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:AFYA",
-        "market_capitalization": 1337791298.1258368,
+        "market_capitalization": 1337791336,
         "commodity_name": null,
         "display_name": "Afya Limited",
         "sma_50": 15.534200057983398,

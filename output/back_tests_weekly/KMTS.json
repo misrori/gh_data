@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KMTS",
         "name": "Kestra Medical Technologies, Ltd.",
-        "collected_at": "2026-03-28T02:08:12.510Z",
+        "collected_at": "2026-03-29T02:08:11.889Z",
         "data_start_date": "2025-03-03",
         "price": 19.459999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:KMTS",
-        "market_capitalization": 1135945448.351626,
+        "market_capitalization": 1135945377,
         "commodity_name": null,
         "display_name": "Kestra Medical Technologies, Ltd.",
         "sma_50": 21.9982999420166,

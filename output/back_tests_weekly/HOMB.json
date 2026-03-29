@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HOMB",
         "name": "Home BancShares, Inc.",
-        "collected_at": "2026-03-28T02:04:28.619Z",
+        "collected_at": "2026-03-29T02:04:33.288Z",
         "data_start_date": "2016-03-28",
         "price": 26.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:HOMB",
-        "market_capitalization": 5197041037.854096,
+        "market_capitalization": 5197041187,
         "commodity_name": null,
         "display_name": "Home BancShares, Inc.",
         "sma_50": 28.281000061035158,

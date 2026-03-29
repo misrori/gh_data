@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "V",
         "name": "Visa Inc.",
-        "collected_at": "2026-03-28T02:00:11.170Z",
+        "collected_at": "2026-03-29T02:00:11.503Z",
         "data_start_date": "2016-03-28",
         "price": 295.5199890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:V",
-        "market_capitalization": 563263883265.3071,
+        "market_capitalization": 563263864576,
         "commodity_name": null,
         "display_name": "Visa Inc.",
         "sma_50": 338.7617980957031,

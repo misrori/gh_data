@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APOG",
         "name": "Apogee Enterprises, Inc.",
-        "collected_at": "2026-03-28T02:09:15.681Z",
+        "collected_at": "2026-03-29T02:09:15.342Z",
         "data_start_date": "2016-03-28",
         "price": 32.459999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NASDAQ:APOG",
-        "market_capitalization": 698218347.9792176,
+        "market_capitalization": 698218301.9999999,
         "commodity_name": null,
         "display_name": "Apogee Enterprises, Inc.",
         "sma_50": 39.299199981689455,

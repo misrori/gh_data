@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TFX",
         "name": "Teleflex Incorporated",
-        "collected_at": "2026-03-28T02:04:31.022Z",
+        "collected_at": "2026-03-29T02:04:35.964Z",
         "data_start_date": "2016-03-28",
         "price": 116.22000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:TFX",
-        "market_capitalization": 5136989160.616889,
+        "market_capitalization": 5136989314,
         "commodity_name": null,
         "display_name": "Teleflex Incorporated",
         "sma_50": 118.81240005493164,

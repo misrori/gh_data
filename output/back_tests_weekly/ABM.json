@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ABM",
         "name": "ABM Industries Incorporated",
-        "collected_at": "2026-03-28T02:06:28.785Z",
+        "collected_at": "2026-03-29T02:06:37.219Z",
         "data_start_date": "2016-03-28",
         "price": 37.4900016784668,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:ABM",
-        "market_capitalization": 2194395553.8291473,
+        "market_capitalization": 2194395582,
         "commodity_name": null,
         "display_name": "ABM Industries Incorporated",
         "sma_50": 45.49580001831055,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TK",
         "name": "Teekay Corporation Ltd.",
-        "collected_at": "2026-03-28T02:08:23.513Z",
+        "collected_at": "2026-03-29T02:08:22.799Z",
         "data_start_date": "2016-03-28",
         "price": 12,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:TK",
-        "market_capitalization": 1032681734.6835444,
+        "market_capitalization": 1032681702,
         "commodity_name": null,
         "display_name": "Teekay Corporation Ltd.",
         "sma_50": 9.184599943161011,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "collected_at": "2026-03-28T02:00:07.927Z",
+        "collected_at": "2026-03-29T02:00:07.750Z",
         "data_start_date": "2016-03-28",
         "price": 356.7699890136719,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:MSFT",
-        "market_capitalization": 2649241633719.6255,
+        "market_capitalization": 2649241543302,
         "commodity_name": null,
         "display_name": "Microsoft Corporation",
         "sma_50": 469.60459777832034,

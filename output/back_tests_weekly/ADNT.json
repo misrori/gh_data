@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADNT",
         "name": "Adient plc",
-        "collected_at": "2026-03-28T02:07:11.711Z",
+        "collected_at": "2026-03-29T02:07:21.983Z",
         "data_start_date": "2016-10-17",
         "price": 20.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Auto Parts: OEM",
         "tradingview_id": "NYSE:ADNT",
-        "market_capitalization": 1586407527.1769664,
+        "market_capitalization": 1586407482,
         "commodity_name": null,
         "display_name": "Adient plc",
         "sma_50": 20.8796000289917,

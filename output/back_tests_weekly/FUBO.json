@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FUBO",
         "name": "FuboTV Inc.",
-        "collected_at": "2026-03-28T02:08:26.842Z",
+        "collected_at": "2026-03-29T02:08:25.947Z",
         "data_start_date": "2019-03-25",
         "price": 9.279999732971191,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:FUBO",
-        "market_capitalization": 1005816959.668737,
+        "market_capitalization": 1005816947.0000001,
         "commodity_name": null,
         "display_name": "FuboTV Inc.",
         "sma_50": 35.17840003967285,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FMNB",
         "name": "Farmers National Banc Corp.",
-        "collected_at": "2026-03-28T02:09:04.654Z",
+        "collected_at": "2026-03-29T02:09:03.533Z",
         "data_start_date": "2016-03-28",
         "price": 12.880000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:FMNB",
-        "market_capitalization": 764077329.3774021,
+        "market_capitalization": 764077323,
         "commodity_name": null,
         "display_name": "Farmers National Banc Corp.",
         "sma_50": 13.592800006866455,

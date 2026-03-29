@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPYV",
         "name": "State Street SPDR Portfolio S&P 500 Value ETF",
-        "collected_at": "2026-03-28T02:10:31.607Z",
+        "collected_at": "2026-03-29T02:10:32.891Z",
         "data_start_date": "2016-03-28",
         "price": 55.59000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SPYV",
-        "market_capitalization": 31726443035.4972,
+        "market_capitalization": 31614962871.2785,
         "commodity_name": null,
         "display_name": "State Street SPDR Portfolio S&P 500 Value ETF",
         "sma_50": 54.91259994506836,

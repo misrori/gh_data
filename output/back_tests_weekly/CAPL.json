@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CAPL",
         "name": "CrossAmerica Partners LP",
-        "collected_at": "2026-03-28T02:08:53.321Z",
+        "collected_at": "2026-03-29T02:08:52.056Z",
         "data_start_date": "2016-03-28",
         "price": 21.540000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:CAPL",
-        "market_capitalization": 821429574.4489607,
+        "market_capitalization": 821429624,
         "commodity_name": null,
         "display_name": "CrossAmerica Partners LP",
         "sma_50": 21.36299991607666,

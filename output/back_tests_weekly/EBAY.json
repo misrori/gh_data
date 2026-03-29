@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EBAY",
         "name": "eBay Inc.",
-        "collected_at": "2026-03-28T02:01:23.822Z",
+        "collected_at": "2026-03-29T02:01:26.334Z",
         "data_start_date": "2016-03-28",
         "price": 87.9800033569336,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Internet Retail",
         "tradingview_id": "NASDAQ:EBAY",
-        "market_capitalization": 39415040134.77871,
+        "market_capitalization": 39415041504,
         "commodity_name": null,
         "display_name": "eBay Inc.",
         "sma_50": 85.14560028076171,

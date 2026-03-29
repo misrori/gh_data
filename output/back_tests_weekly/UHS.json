@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UHS",
         "name": "Universal Health Services, Inc.",
-        "collected_at": "2026-03-28T02:02:58.853Z",
+        "collected_at": "2026-03-29T02:03:02.729Z",
         "data_start_date": "2016-03-28",
         "price": 184.0399932861328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Hospital/Nursing Management",
         "tradingview_id": "NYSE:UHS",
-        "market_capitalization": 11240085292.76417,
+        "market_capitalization": 11240085106,
         "commodity_name": null,
         "display_name": "Universal Health Services, Inc.",
         "sma_50": 197.94080047607423,

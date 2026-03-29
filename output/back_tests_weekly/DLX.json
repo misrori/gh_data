@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DLX",
         "name": "Deluxe Corporation",
-        "collected_at": "2026-03-28T02:07:51.621Z",
+        "collected_at": "2026-03-29T02:08:01.871Z",
         "data_start_date": "2016-03-28",
         "price": 26.989999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Commercial Printing/Forms",
         "tradingview_id": "NYSE:DLX",
-        "market_capitalization": 1216749745.4108305,
+        "market_capitalization": 1216749702.0000002,
         "commodity_name": null,
         "display_name": "Deluxe Corporation",
         "sma_50": 20.305999946594238,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.8309,
         "number_of_employees": 4571,
         "ml_direction": 1,
-        "ml_value": 22.406558203302517,
+        "ml_value": 22.40655820330252,
         "ml_last_change_date": "2025-08-04",
         "ml_last_change_price": 19.049999237060547,
         "ml_change_percent_from_last_change": 41.67979449894601

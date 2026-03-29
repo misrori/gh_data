@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PINS",
         "name": "Pinterest, Inc.",
-        "collected_at": "2026-03-28T02:02:57.191Z",
+        "collected_at": "2026-03-29T02:03:01.067Z",
         "data_start_date": "2019-04-15",
         "price": 17.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NYSE:PINS",
-        "market_capitalization": 11380963964.391983,
+        "market_capitalization": 11380964691,
         "commodity_name": null,
         "display_name": "Pinterest, Inc.",
         "sma_50": 28.91739994049072,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IBOC",
         "name": "International Bancshares Corporation",
-        "collected_at": "2026-03-28T02:05:00.079Z",
+        "collected_at": "2026-03-29T02:05:05.432Z",
         "data_start_date": "2016-03-28",
         "price": 67.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:IBOC",
-        "market_capitalization": 4188291065.3193808,
+        "market_capitalization": 4188291198,
         "commodity_name": null,
         "display_name": "International Bancshares Corporation",
         "sma_50": 67.8323999786377,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MAMA",
         "name": "Mama's Creations, Inc.",
-        "collected_at": "2026-03-28T02:09:32.375Z",
+        "collected_at": "2026-03-29T02:09:32.518Z",
         "data_start_date": "2021-07-19",
         "price": 15.130000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Meat/Fish/Dairy",
         "tradingview_id": "NASDAQ:MAMA",
-        "market_capitalization": 615084905.1829187,
+        "market_capitalization": 615084914,
         "commodity_name": null,
         "display_name": "Mama's Creations, Inc.",
         "sma_50": 11.023600063323975,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DIS",
         "name": "Walt Disney Company (The)",
-        "collected_at": "2026-03-28T02:00:26.074Z",
+        "collected_at": "2026-03-29T02:00:26.524Z",
         "data_start_date": "2016-03-28",
         "price": 92.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Movies/Entertainment",
         "tradingview_id": "NYSE:DIS",
-        "market_capitalization": 163723868922.92642,
+        "market_capitalization": 163723865680,
         "commodity_name": null,
         "display_name": "Walt Disney Company (The)",
         "sma_50": 110.46979995727538,

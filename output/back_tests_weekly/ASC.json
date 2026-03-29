@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ASC",
         "name": "Ardmore Shipping Corporation",
-        "collected_at": "2026-03-28T02:09:31.441Z",
+        "collected_at": "2026-03-29T02:09:31.516Z",
         "data_start_date": "2016-03-28",
         "price": 15.180000305175781,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Marine Shipping",
         "tradingview_id": "NYSE:ASC",
-        "market_capitalization": 619383665.479632,
+        "market_capitalization": 619383667,
         "commodity_name": null,
         "display_name": "Ardmore Shipping Corporation",
         "sma_50": 11.81,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CELH",
         "name": "Celsius Holdings, Inc.",
-        "collected_at": "2026-03-28T02:03:22.651Z",
+        "collected_at": "2026-03-29T02:03:27.070Z",
         "data_start_date": "2016-03-28",
         "price": 33.939998626708984,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Non-Alcoholic",
         "tradingview_id": "NASDAQ:CELH",
-        "market_capitalization": 8721765924.448439,
+        "market_capitalization": 8721765535,
         "commodity_name": null,
         "display_name": "Celsius Holdings, Inc.",
         "sma_50": 47.65299987792969,

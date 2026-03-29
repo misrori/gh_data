@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TLN",
         "name": "Talen Energy Corporation",
-        "collected_at": "2026-03-28T02:02:32.272Z",
+        "collected_at": "2026-03-29T02:02:35.591Z",
         "data_start_date": "2023-05-29",
         "price": 324.5400085449219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Alternative Power Generation",
         "tradingview_id": "NASDAQ:TLN",
-        "market_capitalization": 14829857901.301643,
+        "market_capitalization": 14829858067,
         "commodity_name": null,
         "display_name": "Talen Energy Corporation",
         "sma_50": 344.0942007446289,

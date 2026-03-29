@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "XRAY",
         "name": "DENTSPLY SIRONA Inc.",
-        "collected_at": "2026-03-28T02:06:23.963Z",
+        "collected_at": "2026-03-29T02:06:31.621Z",
         "data_start_date": "2016-03-28",
         "price": 11.470000267028809,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:XRAY",
-        "market_capitalization": 2291124792.042006,
+        "market_capitalization": 2291124853,
         "commodity_name": null,
         "display_name": "DENTSPLY SIRONA Inc.",
         "sma_50": 13.382000026702881,

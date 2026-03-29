@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FA",
         "name": "First Advantage Corporation",
-        "collected_at": "2026-03-28T02:06:45.961Z",
+        "collected_at": "2026-03-29T02:06:55.042Z",
         "data_start_date": "2021-06-21",
         "price": 11.149999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:FA",
-        "market_capitalization": 1943658037.0947745,
+        "market_capitalization": 1943657977,
         "commodity_name": null,
         "display_name": "First Advantage Corporation",
         "sma_50": 14.773399925231933,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VNT",
         "name": "Vontier Corporation",
-        "collected_at": "2026-03-28T02:04:36.233Z",
+        "collected_at": "2026-03-29T02:04:41.005Z",
         "data_start_date": "2020-09-21",
         "price": 35.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Other Transportation",
         "tradingview_id": "NYSE:VNT",
-        "market_capitalization": 4971576024.422649,
+        "market_capitalization": 4971576301,
         "commodity_name": null,
         "display_name": "Vontier Corporation",
         "sma_50": 38.415199737548825,

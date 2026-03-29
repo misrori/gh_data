@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SUN",
         "name": "Sunoco LP",
-        "collected_at": "2026-03-28T02:02:38.362Z",
+        "collected_at": "2026-03-29T02:02:42.462Z",
         "data_start_date": "2016-03-28",
         "price": 67.01000213623047,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:SUN",
-        "market_capitalization": 13725171037.258038,
+        "market_capitalization": 13725171097,
         "commodity_name": null,
         "display_name": "Sunoco LP",
         "sma_50": 55.42259979248047,

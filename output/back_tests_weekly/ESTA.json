@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ESTA",
         "name": "Establishment Labs Holdings Inc.",
-        "collected_at": "2026-03-28T02:07:09.028Z",
+        "collected_at": "2026-03-29T02:07:19.357Z",
         "data_start_date": "2018-07-16",
         "price": 55.310001373291016,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:ESTA",
-        "market_capitalization": 1621736019.1625774,
+        "market_capitalization": 1621736063,
         "commodity_name": null,
         "display_name": "Establishment Labs Holdings Inc.",
         "sma_50": 52.289599876403805,

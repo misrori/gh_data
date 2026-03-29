@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INSM",
         "name": "Insmed Incorporated",
-        "collected_at": "2026-03-28T02:01:37.040Z",
+        "collected_at": "2026-03-29T02:01:40.155Z",
         "data_start_date": "2016-03-28",
         "price": 145.3000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:INSM",
-        "market_capitalization": 31319691659.665993,
+        "market_capitalization": 31319691022,
         "commodity_name": null,
         "display_name": "Insmed Incorporated",
         "sma_50": 138.01320083618165,

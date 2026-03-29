@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SYF",
         "name": "Synchrony Financial",
-        "collected_at": "2026-03-28T02:01:58.614Z",
+        "collected_at": "2026-03-29T02:02:02.123Z",
         "data_start_date": "2016-03-28",
         "price": 65.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:SYF",
-        "market_capitalization": 22718894091.681435,
+        "market_capitalization": 22718893266,
         "commodity_name": null,
         "display_name": "Synchrony Financial",
         "sma_50": 70.77360023498535,

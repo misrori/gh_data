@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MSTR",
         "name": "Strategy Inc",
-        "collected_at": "2026-03-28T02:01:18.402Z",
+        "collected_at": "2026-03-29T02:01:21.310Z",
         "data_start_date": "2016-03-28",
         "price": 126.02999877929688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:MSTR",
-        "market_capitalization": 43555229912.45836,
+        "market_capitalization": 43555231890.00001,
         "commodity_name": null,
         "display_name": "Strategy Inc",
         "sma_50": 272.04860046386716,

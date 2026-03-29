@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLK",
         "name": "BlackRock, Inc.",
-        "collected_at": "2026-03-28T02:00:28.009Z",
+        "collected_at": "2026-03-29T02:00:28.625Z",
         "data_start_date": "2016-03-28",
         "price": 933.8499755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NYSE:BLK",
-        "market_capitalization": 152363280211.32364,
+        "market_capitalization": 152363272771,
         "commodity_name": null,
         "display_name": "BlackRock, Inc.",
         "sma_50": 1059.8660009765624,

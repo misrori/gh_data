@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NNE",
         "name": "Nano Nuclear Energy Inc.",
-        "collected_at": "2026-03-28T02:08:20.377Z",
+        "collected_at": "2026-03-29T02:08:19.689Z",
         "data_start_date": "2024-05-06",
         "price": 20.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:NNE",
-        "market_capitalization": 1056768002.3267142,
+        "market_capitalization": 1056768069,
         "commodity_name": null,
         "display_name": "Nano Nuclear Energy Inc.",
         "sma_50": 32.69210021972656,

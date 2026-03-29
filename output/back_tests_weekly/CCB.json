@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCB",
         "name": "Coastal Financial Corporation",
-        "collected_at": "2026-03-28T02:08:14.720Z",
+        "collected_at": "2026-03-29T02:08:14.189Z",
         "data_start_date": "2018-07-16",
         "price": 73.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CCB",
-        "market_capitalization": 1116185763.0219076,
+        "market_capitalization": 1116185744,
         "commodity_name": null,
         "display_name": "Coastal Financial Corporation",
         "sma_50": 98.57469970703124,

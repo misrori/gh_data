@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KMT",
         "name": "Kennametal Inc.",
-        "collected_at": "2026-03-28T02:05:59.602Z",
+        "collected_at": "2026-03-29T02:06:06.865Z",
         "data_start_date": "2016-03-28",
         "price": 36.08000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:KMT",
-        "market_capitalization": 2749252444.6211734,
+        "market_capitalization": 2749252537,
         "commodity_name": null,
         "display_name": "Kennametal Inc.",
         "sma_50": 26.837800178527832,

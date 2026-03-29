@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ASIX",
         "name": "AdvanSix Inc.",
-        "collected_at": "2026-03-28T02:09:25.979Z",
+        "collected_at": "2026-03-29T02:09:26.289Z",
         "data_start_date": "2016-09-12",
         "price": 24.059999465942383,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NYSE:ASIX",
-        "market_capitalization": 646562257.6381497,
+        "market_capitalization": 646562235,
         "commodity_name": null,
         "display_name": "AdvanSix Inc.",
         "sma_50": 20.005399894714355,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SONO",
         "name": "Sonos, Inc.",
-        "collected_at": "2026-03-28T02:07:16.914Z",
+        "collected_at": "2026-03-29T02:07:26.948Z",
         "data_start_date": "2018-07-30",
         "price": 12.699999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Electronics/Appliances",
         "tradingview_id": "NASDAQ:SONO",
-        "market_capitalization": 1535082804.2076504,
+        "market_capitalization": 1535082731,
         "commodity_name": null,
         "display_name": "Sonos, Inc.",
         "sma_50": 14.039199981689453,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DSP",
         "name": "Viant Technology Inc.",
-        "collected_at": "2026-03-28T02:09:18.975Z",
+        "collected_at": "2026-03-29T02:09:18.213Z",
         "data_start_date": "2021-02-08",
         "price": 10.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:DSP",
-        "market_capitalization": 681044469.9082569,
+        "market_capitalization": 681044494,
         "commodity_name": null,
         "display_name": "Viant Technology Inc.",
         "sma_50": 11.437600021362305,

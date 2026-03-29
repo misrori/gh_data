@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KLAC",
         "name": "KLA Corporation",
-        "collected_at": "2026-03-28T02:00:23.248Z",
+        "collected_at": "2026-03-29T02:00:23.621Z",
         "data_start_date": "2016-03-28",
         "price": 1443.2099609375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:KLAC",
-        "market_capitalization": 189171081275.61877,
+        "market_capitalization": 189171075519,
         "commodity_name": null,
         "display_name": "KLA Corporation",
         "sma_50": 1105.3868005371094,

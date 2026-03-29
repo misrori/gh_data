@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRVS",
         "name": "Corvus Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-28T02:08:08.677Z",
+        "collected_at": "2026-03-29T02:08:08.052Z",
         "data_start_date": "2016-03-28",
         "price": 14.010000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:CRVS",
-        "market_capitalization": 1176733621.5820894,
+        "market_capitalization": 1176733666,
         "commodity_name": null,
         "display_name": "Corvus Pharmaceuticals, Inc.",
         "sma_50": 8.467199983596801,

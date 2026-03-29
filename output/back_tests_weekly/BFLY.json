@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BFLY",
         "name": "Butterfly Network, Inc.",
-        "collected_at": "2026-03-28T02:08:28.386Z",
+        "collected_at": "2026-03-29T02:08:27.439Z",
         "data_start_date": "2020-07-13",
         "price": 3.9200000762939453,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NYSE:BFLY",
-        "market_capitalization": 998160871.653012,
+        "market_capitalization": 998160868.0000001,
         "commodity_name": null,
         "display_name": "Butterfly Network, Inc.",
         "sma_50": 2.6541999983787536,

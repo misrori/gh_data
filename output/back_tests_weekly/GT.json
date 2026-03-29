@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GT",
         "name": "The Goodyear Tire & Rubber Company",
-        "collected_at": "2026-03-28T02:06:51.454Z",
+        "collected_at": "2026-03-29T02:07:01.391Z",
         "data_start_date": "2016-03-28",
         "price": 6.440000057220459,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Automotive Aftermarket",
         "tradingview_id": "NASDAQ:GT",
-        "market_capitalization": 1843430904.7190332,
+        "market_capitalization": 1843430953,
         "commodity_name": null,
         "display_name": "The Goodyear Tire & Rubber Company",
         "sma_50": 8.983199920654297,

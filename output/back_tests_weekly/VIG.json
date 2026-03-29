@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VIG",
         "name": "Vanguard Div Appreciation ETF",
-        "collected_at": "2026-03-28T02:10:15.605Z",
+        "collected_at": "2026-03-29T02:10:17.033Z",
         "data_start_date": "2016-03-28",
         "price": 210.72999572753906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VIG",
-        "market_capitalization": 99673778559.5475,
+        "market_capitalization": 98847524071.054,
         "commodity_name": null,
         "display_name": "Vanguard Div Appreciation ETF",
         "sma_50": 212.858798828125,

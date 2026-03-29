@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VBR",
         "name": "Vanguard Small-Cap Value ETF",
-        "collected_at": "2026-03-28T02:10:31.295Z",
+        "collected_at": "2026-03-29T02:10:32.583Z",
         "data_start_date": "2016-03-28",
         "price": 213.13999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VBR",
-        "market_capitalization": 32870248985.728,
+        "market_capitalization": 32592702132.17,
         "commodity_name": null,
         "display_name": "Vanguard Small-Cap Value ETF",
         "sma_50": 207.61959869384765,

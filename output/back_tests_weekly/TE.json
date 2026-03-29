@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TE",
         "name": "T1 Energy Inc.",
-        "collected_at": "2026-03-28T02:07:13.991Z",
+        "collected_at": "2026-03-29T02:07:24.477Z",
         "data_start_date": "2020-01-06",
         "price": 5.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:TE",
-        "market_capitalization": 1558499466.4968152,
+        "market_capitalization": 1558499476.0000002,
         "commodity_name": null,
         "display_name": "T1 Energy Inc.",
         "sma_50": 3.768200011253357,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MKTX",
         "name": "MarketAxess Holdings, Inc.",
-        "collected_at": "2026-03-28T02:04:12.206Z",
+        "collected_at": "2026-03-29T02:04:16.294Z",
         "data_start_date": "2016-03-28",
         "price": 164.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Banks/Brokers",
         "tradingview_id": "NASDAQ:MKTX",
-        "market_capitalization": 5834181682.181863,
+        "market_capitalization": 5834181465.999999,
         "commodity_name": null,
         "display_name": "MarketAxess Holdings, Inc.",
         "sma_50": 188.5425994873047,

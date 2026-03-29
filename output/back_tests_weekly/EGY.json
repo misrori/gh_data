@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EGY",
         "name": "VAALCO Energy, Inc.",
-        "collected_at": "2026-03-28T02:09:20.735Z",
+        "collected_at": "2026-03-29T02:09:20.244Z",
         "data_start_date": "2016-03-28",
         "price": 6.440000057220459,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:EGY",
-        "market_capitalization": 671423137.201278,
+        "market_capitalization": 671423119.0000001,
         "commodity_name": null,
         "display_name": "VAALCO Energy, Inc.",
         "sma_50": 4.101000013351441,

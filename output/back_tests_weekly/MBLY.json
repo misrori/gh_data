@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MBLY",
         "name": "Mobileye Global Inc.",
-        "collected_at": "2026-03-28T02:04:16.462Z",
+        "collected_at": "2026-03-29T02:04:20.846Z",
         "data_start_date": "2022-10-24",
         "price": 6.730000019073486,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:MBLY",
-        "market_capitalization": 5662497704.202347,
+        "market_capitalization": 5662497577,
         "commodity_name": null,
         "display_name": "Mobileye Global Inc.",
         "sma_50": 12.736799898147583,

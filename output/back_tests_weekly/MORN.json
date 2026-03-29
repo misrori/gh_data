@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MORN",
         "name": "Morningstar, Inc.",
-        "collected_at": "2026-03-28T02:04:04.922Z",
+        "collected_at": "2026-03-29T02:04:08.951Z",
         "data_start_date": "2016-03-28",
         "price": 156.80999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Financial Publishing/Services",
         "tradingview_id": "NASDAQ:MORN",
-        "market_capitalization": 6207129612.689134,
+        "market_capitalization": 6207129799,
         "commodity_name": null,
         "display_name": "Morningstar, Inc.",
         "sma_50": 238.11340118408202,

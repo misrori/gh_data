@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MIDD",
         "name": "The Middleby Corporation",
-        "collected_at": "2026-03-28T02:04:06.499Z",
+        "collected_at": "2026-03-29T02:04:10.604Z",
         "data_start_date": "2016-03-28",
         "price": 128.6300048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:MIDD",
-        "market_capitalization": 6068894183.120929,
+        "market_capitalization": 6068894192,
         "commodity_name": null,
         "display_name": "The Middleby Corporation",
         "sma_50": 140.72960021972656,

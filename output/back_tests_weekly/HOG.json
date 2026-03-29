@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HOG",
         "name": "Harley-Davidson, Inc.",
-        "collected_at": "2026-03-28T02:06:29.997Z",
+        "collected_at": "2026-03-29T02:06:38.513Z",
         "data_start_date": "2016-03-28",
         "price": 19.469999313354492,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NYSE:HOG",
-        "market_capitalization": 2177730436.7655206,
+        "market_capitalization": 2177730386,
         "commodity_name": null,
         "display_name": "Harley-Davidson, Inc.",
         "sma_50": 23.708799896240233,

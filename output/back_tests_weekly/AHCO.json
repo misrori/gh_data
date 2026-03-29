@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AHCO",
         "name": "AdaptHealth Corp.",
-        "collected_at": "2026-03-28T02:07:18.102Z",
+        "collected_at": "2026-03-29T02:07:28.067Z",
         "data_start_date": "2018-05-28",
         "price": 11.199999809265137,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Services",
         "industry": "Medical/Nursing Services",
         "tradingview_id": "NASDAQ:AHCO",
-        "market_capitalization": 1522245853.2515337,
+        "market_capitalization": 1522245848,
         "commodity_name": null,
         "display_name": "AdaptHealth Corp.",
         "sma_50": 9.504099941253662,

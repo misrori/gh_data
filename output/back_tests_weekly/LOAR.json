@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LOAR",
         "name": "Loar Holdings Inc.",
-        "collected_at": "2026-03-28T02:04:27.558Z",
+        "collected_at": "2026-03-29T02:04:32.217Z",
         "data_start_date": "2024-04-22",
         "price": 55.869998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:LOAR",
-        "market_capitalization": 5230687080.618582,
+        "market_capitalization": 5230687134,
         "commodity_name": null,
         "display_name": "Loar Holdings Inc.",
         "sma_50": 74.85160026550292,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPY",
         "name": "SPDR S&P 500 ETF TRUST",
-        "collected_at": "2026-03-28T02:10:11.005Z",
+        "collected_at": "2026-03-29T02:10:11.526Z",
         "data_start_date": "2016-03-28",
         "price": 634.0900268554688,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SPY",
-        "market_capitalization": 657374257319.681,
+        "market_capitalization": 647550333184.941,
         "commodity_name": null,
         "display_name": "SPDR S&P 500 ETF TRUST",
         "sma_50": 648.1038012695312,

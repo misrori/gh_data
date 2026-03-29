@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TSCO",
         "name": "Tractor Supply Company",
-        "collected_at": "2026-03-28T02:01:55.708Z",
+        "collected_at": "2026-03-29T02:01:59.227Z",
         "data_start_date": "2016-03-28",
         "price": 44.869998931884766,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NASDAQ:TSCO",
-        "market_capitalization": 23617383340.419693,
+        "market_capitalization": 23617383093,
         "commodity_name": null,
         "display_name": "Tractor Supply Company",
         "sma_50": 53.68820014953613,

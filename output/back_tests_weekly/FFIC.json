@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FFIC",
         "name": "Flushing Financial Corporation",
-        "collected_at": "2026-03-28T02:09:58.860Z",
+        "collected_at": "2026-03-29T02:09:59.676Z",
         "data_start_date": "2016-03-28",
         "price": 14.880000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:FFIC",
-        "market_capitalization": 504188342.9919571,
+        "market_capitalization": 504188344,
         "commodity_name": null,
         "display_name": "Flushing Financial Corporation",
         "sma_50": 14.11800006866455,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HWKN",
         "name": "Hawkins, Inc.",
-        "collected_at": "2026-03-28T02:05:39.353Z",
+        "collected_at": "2026-03-29T02:05:45.546Z",
         "data_start_date": "2016-03-28",
         "price": 152.1199951171875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Specialty",
         "tradingview_id": "NASDAQ:HWKN",
-        "market_capitalization": 3179626444.8357334,
+        "market_capitalization": 3179626420,
         "commodity_name": null,
         "display_name": "Hawkins, Inc.",
         "sma_50": 148.25740127563478,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RUM",
         "name": "Rumble Inc.",
-        "collected_at": "2026-03-28T02:06:37.465Z",
+        "collected_at": "2026-03-29T02:06:46.115Z",
         "data_start_date": "2021-04-12",
         "price": 4.710000038146973,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Internet Software/Services",
         "tradingview_id": "NASDAQ:RUM",
-        "market_capitalization": 2049936056.1523044,
+        "market_capitalization": 2049936167,
         "commodity_name": null,
         "display_name": "Rumble Inc.",
         "sma_50": 7.26060001373291,

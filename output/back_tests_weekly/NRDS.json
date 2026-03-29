@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NRDS",
         "name": "NerdWallet, Inc.",
-        "collected_at": "2026-03-28T02:09:21.273Z",
+        "collected_at": "2026-03-29T02:09:20.830Z",
         "data_start_date": "2021-11-01",
         "price": 10,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:NRDS",
-        "market_capitalization": 667857937.3219373,
+        "market_capitalization": 667857954,
         "commodity_name": null,
         "display_name": "NerdWallet, Inc.",
         "sma_50": 11.386000022888183,

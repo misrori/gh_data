@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CAC",
         "name": "Camden National Corporation",
-        "collected_at": "2026-03-28T02:09:00.852Z",
+        "collected_at": "2026-03-29T02:09:00.009Z",
         "data_start_date": "2016-03-28",
         "price": 46.20000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:CAC",
-        "market_capitalization": 781950100.5692358,
+        "market_capitalization": 781950134,
         "commodity_name": null,
         "display_name": "Camden National Corporation",
         "sma_50": 41.87720008850098,

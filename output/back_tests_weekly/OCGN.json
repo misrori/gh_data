@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OCGN",
         "name": "Ocugen, Inc.",
-        "collected_at": "2026-03-28T02:09:33.032Z",
+        "collected_at": "2026-03-29T02:09:33.202Z",
         "data_start_date": "2016-03-28",
         "price": 1.8700000047683716,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:OCGN",
-        "market_capitalization": 613167921.4234694,
+        "market_capitalization": 613167911,
         "commodity_name": null,
         "display_name": "Ocugen, Inc.",
         "sma_50": 1.307840003967285,

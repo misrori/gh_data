@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AXGN",
         "name": "Axogen, Inc.",
-        "collected_at": "2026-03-28T02:07:08.589Z",
+        "collected_at": "2026-03-29T02:07:18.945Z",
         "data_start_date": "2016-03-28",
         "price": 31.280000686645508,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:AXGN",
-        "market_capitalization": 1623359499.264496,
+        "market_capitalization": 1623359535,
         "commodity_name": null,
         "display_name": "Axogen, Inc.",
         "sma_50": 21.64639986038208,

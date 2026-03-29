@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CRI",
         "name": "Carter's, Inc.",
-        "collected_at": "2026-03-28T02:07:46.466Z",
+        "collected_at": "2026-03-29T02:07:56.760Z",
         "data_start_date": "2016-03-28",
         "price": 34.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Apparel/Footwear Retail",
         "tradingview_id": "NYSE:CRI",
-        "market_capitalization": 1266965345.647093,
+        "market_capitalization": 1266965346,
         "commodity_name": null,
         "display_name": "Carter's, Inc.",
         "sma_50": 32.08019992828369,

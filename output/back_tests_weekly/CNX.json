@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CNX",
         "name": "CNX Resources Corporation",
-        "collected_at": "2026-03-28T02:04:13.644Z",
+        "collected_at": "2026-03-29T02:04:17.851Z",
         "data_start_date": "2016-03-28",
         "price": 40.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Oil & Gas Production",
         "tradingview_id": "NYSE:CNX",
-        "market_capitalization": 5777300474.813296,
+        "market_capitalization": 5777300978,
         "commodity_name": null,
         "display_name": "CNX Resources Corporation",
         "sma_50": 34.67159999847412,

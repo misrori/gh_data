@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AGIO",
         "name": "Agios Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-28T02:06:59.244Z",
+        "collected_at": "2026-03-29T02:07:09.652Z",
         "data_start_date": "2016-03-28",
         "price": 29.43000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:AGIO",
-        "market_capitalization": 1724367628.445409,
+        "market_capitalization": 1724367602,
         "commodity_name": null,
         "display_name": "Agios Pharmaceuticals, Inc.",
         "sma_50": 33.08580005645752,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HTB",
         "name": "HomeTrust Bancshares, Inc.",
-        "collected_at": "2026-03-28T02:09:12.460Z",
+        "collected_at": "2026-03-29T02:09:11.392Z",
         "data_start_date": "2016-03-28",
         "price": 42.04999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NYSE:HTB",
-        "market_capitalization": 711841444.3696984,
+        "market_capitalization": 711841454,
         "commodity_name": null,
         "display_name": "HomeTrust Bancshares, Inc.",
         "sma_50": 40.2794002532959,

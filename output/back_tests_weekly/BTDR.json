@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BTDR",
         "name": "Bitdeer Technologies Group",
-        "collected_at": "2026-03-28T02:06:39.633Z",
+        "collected_at": "2026-03-29T02:06:48.376Z",
         "data_start_date": "2021-07-26",
         "price": 8.369999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Data Processing Services",
         "tradingview_id": "NASDAQ:BTDR",
-        "market_capitalization": 2017631228.321469,
+        "market_capitalization": 2017631192,
         "commodity_name": null,
         "display_name": "Bitdeer Technologies Group",
         "sma_50": 13.215200042724609,

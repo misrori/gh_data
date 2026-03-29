@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CVX",
         "name": "Chevron Corporation",
-        "collected_at": "2026-03-28T02:00:12.071Z",
+        "collected_at": "2026-03-29T02:00:12.545Z",
         "data_start_date": "2016-03-28",
         "price": 211.14999389648438,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:CVX",
-        "market_capitalization": 421325634298.8031,
+        "market_capitalization": 421325635734,
         "commodity_name": null,
         "display_name": "Chevron Corporation",
         "sma_50": 159.64499938964843,

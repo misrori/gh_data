@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "POET",
         "name": "POET Technologies Inc.",
-        "collected_at": "2026-03-28T02:08:58.133Z",
+        "collected_at": "2026-03-29T02:08:57.379Z",
         "data_start_date": "2016-03-28",
         "price": 5.190000057220459,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:POET",
-        "market_capitalization": 792570999.431694,
+        "market_capitalization": 792571041,
         "commodity_name": null,
         "display_name": "POET Technologies Inc.",
         "sma_50": 5.7258000087738035,

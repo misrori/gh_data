@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INVX",
         "name": "Innovex International, Inc.",
-        "collected_at": "2026-03-28T02:06:58.244Z",
+        "collected_at": "2026-03-29T02:07:08.591Z",
         "data_start_date": "2016-03-28",
         "price": 25.1299991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:INVX",
-        "market_capitalization": 1737455271.4889066,
+        "market_capitalization": 1737455150,
         "commodity_name": null,
         "display_name": "Innovex International, Inc.",
         "sma_50": 19.791600074768066,

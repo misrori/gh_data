@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EOG",
         "name": "EOG Resources, Inc.",
-        "collected_at": "2026-03-28T02:00:49.860Z",
+        "collected_at": "2026-03-29T02:00:50.762Z",
         "data_start_date": "2016-03-28",
         "price": 149.55999755859375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NYSE:EOG",
-        "market_capitalization": 80237674138.72153,
+        "market_capitalization": 80237669840,
         "commodity_name": null,
         "display_name": "EOG Resources, Inc.",
         "sma_50": 116.40420013427735,

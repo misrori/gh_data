@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CASS",
         "name": "Cass Information Systems, Inc",
-        "collected_at": "2026-03-28T02:09:45.378Z",
+        "collected_at": "2026-03-29T02:09:45.909Z",
         "data_start_date": "2016-03-28",
         "price": 43.38999938964844,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:CASS",
-        "market_capitalization": 560091028.3026646,
+        "market_capitalization": 560091021.9999999,
         "commodity_name": null,
         "display_name": "Cass Information Systems, Inc",
         "sma_50": 42.3763998413086,

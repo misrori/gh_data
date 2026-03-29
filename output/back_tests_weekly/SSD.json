@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SSD",
         "name": "Simpson Manufacturing Company, Inc.",
-        "collected_at": "2026-03-28T02:03:50.409Z",
+        "collected_at": "2026-03-29T02:03:54.066Z",
         "data_start_date": "2016-03-28",
         "price": 168.3800048828125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NYSE:SSD",
-        "market_capitalization": 6971274812.155555,
+        "market_capitalization": 6971274814.999999,
         "commodity_name": null,
         "display_name": "Simpson Manufacturing Company, Inc.",
         "sma_50": 173.01959991455078,

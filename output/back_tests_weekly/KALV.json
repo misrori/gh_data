@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "KALV",
         "name": "KalVista Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-28T02:08:29.558Z",
+        "collected_at": "2026-03-29T02:08:29.101Z",
         "data_start_date": "2016-03-28",
         "price": 19.329999923706055,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:KALV",
-        "market_capitalization": 990130740.3704485,
+        "market_capitalization": 990130697,
         "commodity_name": null,
         "display_name": "KalVista Pharmaceuticals, Inc.",
         "sma_50": 14.064099998474122,

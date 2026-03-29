@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RBCAA",
         "name": "Republic Bancorp, Inc.",
-        "collected_at": "2026-03-28T02:08:03.689Z",
+        "collected_at": "2026-03-29T02:08:02.997Z",
         "data_start_date": "2016-03-28",
         "price": 69.20999908447266,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:RBCAA",
-        "market_capitalization": 1208481110.0707924,
+        "market_capitalization": 1208481105,
         "commodity_name": null,
         "display_name": "Republic Bancorp, Inc.",
         "sma_50": 70.97139999389648,

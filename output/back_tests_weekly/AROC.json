@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AROC",
         "name": "Archrock, Inc.",
-        "collected_at": "2026-03-28T02:04:04.393Z",
+        "collected_at": "2026-03-29T02:04:08.461Z",
         "data_start_date": "2016-03-28",
         "price": 35.52000045776367,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Oilfield Services/Equipment",
         "tradingview_id": "NYSE:AROC",
-        "market_capitalization": 6214077686.453781,
+        "market_capitalization": 6214077634,
         "commodity_name": null,
         "display_name": "Archrock, Inc.",
         "sma_50": 26.655000038146973,

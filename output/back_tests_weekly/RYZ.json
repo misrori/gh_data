@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RYZ",
         "name": "Ryerson Holding Corporation",
-        "collected_at": "2026-03-28T02:08:17.455Z",
+        "collected_at": "2026-03-29T02:08:16.543Z",
         "data_start_date": "2016-03-28",
         "price": 21.270000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Non-Energy Minerals",
         "industry": "Steel",
         "tradingview_id": "NYSE:RYZ",
-        "market_capitalization": 1095037397.1540654,
+        "market_capitalization": 1095037385,
         "commodity_name": null,
         "display_name": "Ryerson Holding Corporation",
         "sma_50": 23.311199989318848,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EVGO",
         "name": "EVgo Inc.",
-        "collected_at": "2026-03-28T02:09:51.337Z",
+        "collected_at": "2026-03-29T02:09:51.767Z",
         "data_start_date": "2020-11-16",
         "price": 1.7200000286102295,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NASDAQ:EVGO",
-        "market_capitalization": 538503686.8342857,
+        "market_capitalization": 538503696,
         "commodity_name": null,
         "display_name": "EVgo Inc.",
         "sma_50": 3.4084000062942503,

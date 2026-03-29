@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OPRA",
         "name": "Opera Limited",
-        "collected_at": "2026-03-28T02:07:48.806Z",
+        "collected_at": "2026-03-29T02:08:02.742Z",
         "data_start_date": "2018-07-23",
         "price": 13.489999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:OPRA",
-        "market_capitalization": 1247900946,
+        "market_capitalization": 1209352255,
         "commodity_name": null,
         "display_name": "Opera Limited",
         "sma_50": 15.803399982452392,

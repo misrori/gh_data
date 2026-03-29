@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LUV",
         "name": "Southwest Airlines Company",
-        "collected_at": "2026-03-28T02:02:18.090Z",
+        "collected_at": "2026-03-29T02:02:20.351Z",
         "data_start_date": "2016-03-28",
         "price": 37.36000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NYSE:LUV",
-        "market_capitalization": 18355639657.758663,
+        "market_capitalization": 18355640523.999996,
         "commodity_name": null,
         "display_name": "Southwest Airlines Company",
         "sma_50": 36.254799919128416,

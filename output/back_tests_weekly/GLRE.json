@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "GLRE",
         "name": "Greenlight Reinsurance, Ltd.",
-        "collected_at": "2026-03-28T02:09:42.403Z",
+        "collected_at": "2026-03-29T02:09:42.766Z",
         "data_start_date": "2016-03-28",
         "price": 16.760000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:GLRE",
-        "market_capitalization": 569565174.1799066,
+        "market_capitalization": 569565154,
         "commodity_name": null,
         "display_name": "Greenlight Reinsurance, Ltd.",
         "sma_50": 13.678399963378906,

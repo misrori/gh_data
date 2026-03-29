@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CF",
         "name": "CF Industries Holdings, Inc.",
-        "collected_at": "2026-03-28T02:02:05.464Z",
+        "collected_at": "2026-03-29T02:02:09.168Z",
         "data_start_date": "2016-03-28",
         "price": 136.4499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Agricultural",
         "tradingview_id": "NYSE:CF",
-        "market_capitalization": 20968110545.408115,
+        "market_capitalization": 20968110462,
         "commodity_name": null,
         "display_name": "CF Industries Holdings, Inc.",
         "sma_50": 91.60859970092774,

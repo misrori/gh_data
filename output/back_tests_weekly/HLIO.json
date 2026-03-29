@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "HLIO",
         "name": "Helios Technologies, Inc.",
-        "collected_at": "2026-03-28T02:06:33.203Z",
+        "collected_at": "2026-03-29T02:06:41.458Z",
         "data_start_date": "2016-03-28",
         "price": 64.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NYSE:HLIO",
-        "market_capitalization": 2133422433.360329,
+        "market_capitalization": 2133422435,
         "commodity_name": null,
         "display_name": "Helios Technologies, Inc.",
         "sma_50": 50.84619983673096,

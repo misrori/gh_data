@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRG",
         "name": "PROG Holdings, Inc.",
-        "collected_at": "2026-03-28T02:08:13.472Z",
+        "collected_at": "2026-03-29T02:08:12.870Z",
         "data_start_date": "2016-03-28",
         "price": 28.510000228881836,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NYSE:PRG",
-        "market_capitalization": 1128306345.8507926,
+        "market_capitalization": 1128306337,
         "commodity_name": null,
         "display_name": "PROG Holdings, Inc.",
         "sma_50": 30.906800117492676,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MCW",
         "name": "Mister Car Wash, Inc.",
-        "collected_at": "2026-03-28T02:06:24.120Z",
+        "collected_at": "2026-03-29T02:06:31.807Z",
         "data_start_date": "2021-06-21",
         "price": 6.96999979019165,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Other Consumer Services",
         "tradingview_id": "NASDAQ:MCW",
-        "market_capitalization": 2289499089.340974,
+        "market_capitalization": 2289499014,
         "commodity_name": null,
         "display_name": "Mister Car Wash, Inc.",
         "sma_50": 6.091499967575073,

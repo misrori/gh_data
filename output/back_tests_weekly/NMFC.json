@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NMFC",
         "name": "New Mountain Finance Corporation",
-        "collected_at": "2026-03-28T02:09:06.064Z",
+        "collected_at": "2026-03-29T02:09:04.754Z",
         "data_start_date": "2016-03-28",
         "price": 7.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NASDAQ:NMFC",
-        "market_capitalization": 756049355.882353,
+        "market_capitalization": 756049347.0000001,
         "commodity_name": null,
         "display_name": "New Mountain Finance Corporation",
         "sma_50": 9.575400037765503,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OUST",
         "name": "Ouster, Inc.",
-        "collected_at": "2026-03-28T02:08:15.289Z",
+        "collected_at": "2026-03-29T02:08:14.526Z",
         "data_start_date": "2020-10-05",
         "price": 17.65999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:OUST",
-        "market_capitalization": 1109118490.0134645,
+        "market_capitalization": 1109118511,
         "commodity_name": null,
         "display_name": "Ouster, Inc.",
         "sma_50": 22.778800020217897,

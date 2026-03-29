@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BDC",
         "name": "Belden Inc",
-        "collected_at": "2026-03-28T02:04:53.766Z",
+        "collected_at": "2026-03-29T02:04:58.919Z",
         "data_start_date": "2016-03-28",
         "price": 112.87999725341797,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:BDC",
-        "market_capitalization": 4373986880.335498,
+        "market_capitalization": 4373986645,
         "commodity_name": null,
         "display_name": "Belden Inc",
         "sma_50": 119.42859954833985,

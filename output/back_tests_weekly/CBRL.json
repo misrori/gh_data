@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CBRL",
         "name": "Cracker Barrel Old Country Store, Inc.",
-        "collected_at": "2026-03-28T02:09:37.462Z",
+        "collected_at": "2026-03-29T02:09:37.451Z",
         "data_start_date": "2016-03-28",
         "price": 26.739999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Services",
         "industry": "Restaurants",
         "tradingview_id": "NASDAQ:CBRL",
-        "market_capitalization": 597666331.5503597,
+        "market_capitalization": 597666342,
         "commodity_name": null,
         "display_name": "Cracker Barrel Old Country Store, Inc.",
         "sma_50": 42.427199821472165,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VGK",
         "name": "Vanguard FTSEEuropean ETF",
-        "collected_at": "2026-03-28T02:10:32.709Z",
+        "collected_at": "2026-03-29T02:10:34.613Z",
         "data_start_date": "2016-03-28",
         "price": 79.44999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VGK",
-        "market_capitalization": 29135367924.2611,
+        "market_capitalization": 28398761364.3955,
         "commodity_name": null,
         "display_name": "Vanguard FTSEEuropean ETF",
         "sma_50": 80.45579986572265,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "APH",
         "name": "Amphenol Corporation",
-        "collected_at": "2026-03-28T02:00:28.262Z",
+        "collected_at": "2026-03-29T02:00:28.946Z",
         "data_start_date": "2016-03-28",
         "price": 123.62000274658203,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Components",
         "tradingview_id": "NYSE:APH",
-        "market_capitalization": 151955535595.00284,
+        "market_capitalization": 151955542361,
         "commodity_name": null,
         "display_name": "Amphenol Corporation",
         "sma_50": 119.59179977416993,

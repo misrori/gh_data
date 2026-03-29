@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALAB",
         "name": "Astera Labs, Inc.",
-        "collected_at": "2026-03-28T02:02:13.459Z",
+        "collected_at": "2026-03-29T02:02:15.698Z",
         "data_start_date": "2024-03-18",
         "price": 112.47000122070312,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:ALAB",
-        "market_capitalization": 19144024570.96272,
+        "market_capitalization": 19144024213,
         "commodity_name": null,
         "display_name": "Astera Labs, Inc.",
         "sma_50": 142.46550018310546,

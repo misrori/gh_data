@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "FORM",
         "name": "FormFactor, Inc.",
-        "collected_at": "2026-03-28T02:03:40.444Z",
+        "collected_at": "2026-03-29T02:03:44.298Z",
         "data_start_date": "2016-03-28",
         "price": 97.93000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:FORM",
-        "market_capitalization": 7630504321.889786,
+        "market_capitalization": 7630504462,
         "commodity_name": null,
         "display_name": "FormFactor, Inc.",
         "sma_50": 51.52179981231689,

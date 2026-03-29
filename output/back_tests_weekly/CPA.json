@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CPA",
         "name": "Copa Holdings, S.A.",
-        "collected_at": "2026-03-28T02:04:47.194Z",
+        "collected_at": "2026-03-29T02:04:52.147Z",
         "data_start_date": "2016-03-28",
         "price": 110.91000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NYSE:CPA",
-        "market_capitalization": 4562677011.719326,
+        "market_capitalization": 4562677065,
         "commodity_name": null,
         "display_name": "Copa Holdings, S.A.",
         "sma_50": 118.15599990844727,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CACC",
         "name": "Credit Acceptance Corporation",
-        "collected_at": "2026-03-28T02:04:49.207Z",
+        "collected_at": "2026-03-29T02:04:54.366Z",
         "data_start_date": "2016-03-28",
         "price": 419.489990234375,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:CACC",
-        "market_capitalization": 4508544974.132506,
+        "market_capitalization": 4508544857,
         "commodity_name": null,
         "display_name": "Credit Acceptance Corporation",
         "sma_50": 477.85259826660155,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ETON",
         "name": "Eton Pharmaceuticals, Inc.",
-        "collected_at": "2026-03-28T02:09:28.272Z",
+        "collected_at": "2026-03-29T02:09:28.314Z",
         "data_start_date": "2018-11-12",
         "price": 23.239999771118164,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:ETON",
-        "market_capitalization": 634091581.7910447,
+        "market_capitalization": 634091555,
         "commodity_name": null,
         "display_name": "Eton Pharmaceuticals, Inc.",
         "sma_50": 17.169999980926512,

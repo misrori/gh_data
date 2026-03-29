@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "TYRA",
         "name": "Tyra Biosciences, Inc.",
-        "collected_at": "2026-03-28T02:06:45.299Z",
+        "collected_at": "2026-03-29T02:06:54.346Z",
         "data_start_date": "2021-09-13",
         "price": 36.290000915527344,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:TYRA",
-        "market_capitalization": 1954837540.894557,
+        "market_capitalization": 1954837653,
         "commodity_name": null,
         "display_name": "Tyra Biosciences, Inc.",
         "sma_50": 18.77940013885498,

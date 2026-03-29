@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "WDC",
         "name": "Western Digital Corporation",
-        "collected_at": "2026-03-28T02:00:43.812Z",
+        "collected_at": "2026-03-29T02:00:44.604Z",
         "data_start_date": "2016-03-28",
         "price": 275.3399963378906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Computer Peripherals",
         "tradingview_id": "NASDAQ:WDC",
-        "market_capitalization": 93350706652.42726,
+        "market_capitalization": 93350703327,
         "commodity_name": null,
         "display_name": "Western Digital Corporation",
         "sma_50": 142.83759941101073,

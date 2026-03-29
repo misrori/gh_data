@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SPH",
         "name": "Suburban Propane Partners, L.P.",
-        "collected_at": "2026-03-28T02:07:38.079Z",
+        "collected_at": "2026-03-29T02:07:48.123Z",
         "data_start_date": "2016-03-28",
         "price": 20.3799991607666,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:SPH",
-        "market_capitalization": 1351835632.319688,
+        "market_capitalization": 1351835546,
         "commodity_name": null,
         "display_name": "Suburban Propane Partners, L.P.",
         "sma_50": 19.06839988708496,

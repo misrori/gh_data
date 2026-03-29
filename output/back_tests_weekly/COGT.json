@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COGT",
         "name": "Cogent Biosciences, Inc.",
-        "collected_at": "2026-03-28T02:04:11.485Z",
+        "collected_at": "2026-03-29T02:04:15.623Z",
         "data_start_date": "2018-03-26",
         "price": 36.099998474121094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:COGT",
-        "market_capitalization": 5859347775.95335,
+        "market_capitalization": 5859347699,
         "commodity_name": null,
         "display_name": "Cogent Biosciences, Inc.",
         "sma_50": 21.69319995880127,

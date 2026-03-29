@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CERT",
         "name": "Certara, Inc.",
-        "collected_at": "2026-03-28T02:08:39.914Z",
+        "collected_at": "2026-03-29T02:08:39.159Z",
         "data_start_date": "2020-12-07",
         "price": 5.75,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:CERT",
-        "market_capitalization": 915052432.1661239,
+        "market_capitalization": 915052452,
         "commodity_name": null,
         "display_name": "Certara, Inc.",
         "sma_50": 9.957200012207032,

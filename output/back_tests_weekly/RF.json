@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "RF",
         "name": "Regions Financial Corporation",
-        "collected_at": "2026-03-28T02:02:02.289Z",
+        "collected_at": "2026-03-29T02:02:06.170Z",
         "data_start_date": "2016-03-28",
         "price": 25.15999984741211,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NYSE:RF",
-        "market_capitalization": 21725829115.440216,
+        "market_capitalization": 21725828789,
         "commodity_name": null,
         "display_name": "Regions Financial Corporation",
         "sma_50": 25.496800041198732,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SOUN",
         "name": "SoundHound AI, Inc.",
-        "collected_at": "2026-03-28T02:06:12.426Z",
+        "collected_at": "2026-03-29T02:06:19.856Z",
         "data_start_date": "2022-04-25",
         "price": 5.900000095367432,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:SOUN",
-        "market_capitalization": 2494603673.8778887,
+        "market_capitalization": 2494603738,
         "commodity_name": null,
         "display_name": "SoundHound AI, Inc.",
         "sma_50": 11.47800009727478,

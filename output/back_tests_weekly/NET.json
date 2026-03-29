@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NET",
         "name": "Cloudflare, Inc.",
-        "collected_at": "2026-03-28T02:00:56.326Z",
+        "collected_at": "2026-03-29T02:00:57.588Z",
         "data_start_date": "2019-09-09",
         "price": 203.02000427246094,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NYSE:NET",
-        "market_capitalization": 71459038577.53705,
+        "market_capitalization": 71459038421.00002,
         "commodity_name": null,
         "display_name": "Cloudflare, Inc.",
         "sma_50": 192.90000137329102,

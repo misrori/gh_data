@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MAIN",
         "name": "Main Street Capital Corporation",
-        "collected_at": "2026-03-28T02:04:44.449Z",
+        "collected_at": "2026-03-29T02:04:49.346Z",
         "data_start_date": "2016-03-28",
         "price": 51.529998779296875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Financial Conglomerates",
         "tradingview_id": "NYSE:MAIN",
-        "market_capitalization": 4643101619.591458,
+        "market_capitalization": 4643101671.000001,
         "commodity_name": null,
         "display_name": "Main Street Capital Corporation",
         "sma_50": 59.799399871826175,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VINP",
         "name": "Vinci Compass Investments Ltd.",
-        "collected_at": "2026-03-28T02:09:27.931Z",
+        "collected_at": "2026-03-29T02:09:27.992Z",
         "data_start_date": "2021-01-25",
         "price": 10.0600004196167,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:VINP",
-        "market_capitalization": 636241290.4490197,
+        "market_capitalization": 636241328.9999999,
         "commodity_name": null,
         "display_name": "Vinci Compass Investments Ltd.",
         "sma_50": 10.91739999771118,

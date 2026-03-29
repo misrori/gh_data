@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "F",
         "name": "Ford Motor Company",
-        "collected_at": "2026-03-28T02:01:16.551Z",
+        "collected_at": "2026-03-29T02:01:19.148Z",
         "data_start_date": "2016-03-28",
         "price": 11.369999885559082,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NYSE:F",
-        "market_capitalization": 45360336414.416374,
+        "market_capitalization": 45360334466,
         "commodity_name": null,
         "display_name": "Ford Motor Company",
         "sma_50": 12.129200038909913,

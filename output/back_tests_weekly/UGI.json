@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UGI",
         "name": "UGI Corporation",
-        "collected_at": "2026-03-28T02:03:35.594Z",
+        "collected_at": "2026-03-29T02:03:39.738Z",
         "data_start_date": "2016-03-28",
         "price": 36.66999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:UGI",
-        "market_capitalization": 7870714717.741742,
+        "market_capitalization": 7870714095,
         "commodity_name": null,
         "display_name": "UGI Corporation",
         "sma_50": 35.90319995880127,

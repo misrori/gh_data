@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ANAB",
         "name": "AnaptysBio, Inc.",
-        "collected_at": "2026-03-28T02:07:05.996Z",
+        "collected_at": "2026-03-29T02:07:16.126Z",
         "data_start_date": "2017-01-23",
         "price": 57.400001525878906,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:ANAB",
-        "market_capitalization": 1650149878.9967687,
+        "market_capitalization": 1650149977,
         "commodity_name": null,
         "display_name": "AnaptysBio, Inc.",
         "sma_50": 35.348900146484375,

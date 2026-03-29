@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MEG",
         "name": "Montrose Environmental Group, Inc.",
-        "collected_at": "2026-03-28T02:09:04.808Z",
+        "collected_at": "2026-03-29T02:09:03.687Z",
         "data_start_date": "2020-07-20",
         "price": 21.1200008392334,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Environmental Services",
         "tradingview_id": "NYSE:MEG",
-        "market_capitalization": 759911258.1662201,
+        "market_capitalization": 759911317,
         "commodity_name": null,
         "display_name": "Montrose Environmental Group, Inc.",
         "sma_50": 24.263199939727784,

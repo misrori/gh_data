@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BC",
         "name": "Brunswick Corporation",
-        "collected_at": "2026-03-28T02:04:45.992Z",
+        "collected_at": "2026-03-29T02:04:50.921Z",
         "data_start_date": "2016-03-28",
         "price": 70.94999694824219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Trucks/Construction/Farm Machinery",
         "tradingview_id": "NYSE:BC",
-        "market_capitalization": 4601177316.157894,
+        "market_capitalization": 4601177021.999999,
         "commodity_name": null,
         "display_name": "Brunswick Corporation",
         "sma_50": 66.43600006103516,

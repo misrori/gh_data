@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BCPC",
         "name": "Balchem Corporation",
-        "collected_at": "2026-03-28T02:04:23.813Z",
+        "collected_at": "2026-03-29T02:04:28.583Z",
         "data_start_date": "2016-03-28",
         "price": 166.9499969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Food: Specialty/Candy",
         "tradingview_id": "NASDAQ:BCPC",
-        "market_capitalization": 5346639581.819521,
+        "market_capitalization": 5346639503.999999,
         "commodity_name": null,
         "display_name": "Balchem Corporation",
         "sma_50": 160.55619995117186,

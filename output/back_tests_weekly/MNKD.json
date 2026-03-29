@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MNKD",
         "name": "MannKind Corporation",
-        "collected_at": "2026-03-28T02:09:14.138Z",
+        "collected_at": "2026-03-29T02:09:13.487Z",
         "data_start_date": "2016-03-28",
         "price": 2.2799999713897705,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:MNKD",
-        "market_capitalization": 702468973.4608696,
+        "market_capitalization": 702468979,
         "commodity_name": null,
         "display_name": "MannKind Corporation",
         "sma_50": 4.6284000062942505,

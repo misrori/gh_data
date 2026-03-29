@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UFCS",
         "name": "United Fire Group, Inc",
-        "collected_at": "2026-03-28T02:08:36.892Z",
+        "collected_at": "2026-03-29T02:08:36.217Z",
         "data_start_date": "2016-03-28",
         "price": 36.5099983215332,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:UFCS",
-        "market_capitalization": 931810119.0298067,
+        "market_capitalization": 931810034,
         "commodity_name": null,
         "display_name": "United Fire Group, Inc",
         "sma_50": 32.47719982147217,

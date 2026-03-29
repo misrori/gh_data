@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MLR",
         "name": "Miller Industries, Inc.",
-        "collected_at": "2026-03-28T02:09:55.593Z",
+        "collected_at": "2026-03-29T02:09:56.304Z",
         "data_start_date": "2016-03-28",
         "price": 45.20000076293945,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NYSE:MLR",
-        "market_capitalization": 514002211.4959929,
+        "market_capitalization": 514002241.00000006,
         "commodity_name": null,
         "display_name": "Miller Industries, Inc.",
         "sma_50": 41.87280006408692,

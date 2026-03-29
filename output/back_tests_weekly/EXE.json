@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "EXE",
         "name": "Expand Energy Corporation",
-        "collected_at": "2026-03-28T02:01:46.028Z",
+        "collected_at": "2026-03-29T02:01:49.104Z",
         "data_start_date": "2021-02-08",
         "price": 113.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Energy Minerals",
         "industry": "Integrated Oil",
         "tradingview_id": "NASDAQ:EXE",
-        "market_capitalization": 27285204355.84421,
+        "market_capitalization": 27285203606,
         "commodity_name": null,
         "display_name": "Expand Energy Corporation",
         "sma_50": 107.97269912719726,

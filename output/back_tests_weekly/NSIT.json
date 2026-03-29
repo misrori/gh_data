@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NSIT",
         "name": "Insight Enterprises, Inc.",
-        "collected_at": "2026-03-28T02:06:38.019Z",
+        "collected_at": "2026-03-29T02:06:46.802Z",
         "data_start_date": "2016-03-28",
         "price": 65.81999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Information Technology Services",
         "tradingview_id": "NASDAQ:NSIT",
-        "market_capitalization": 2040189783.1790402,
+        "market_capitalization": 2040189747,
         "commodity_name": null,
         "display_name": "Insight Enterprises, Inc.",
         "sma_50": 107.53100051879883,

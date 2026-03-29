@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ALNT",
         "name": "Allient Inc.",
-        "collected_at": "2026-03-28T02:08:20.237Z",
+        "collected_at": "2026-03-29T02:08:19.350Z",
         "data_start_date": "2016-03-28",
         "price": 62.41999816894531,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NASDAQ:ALNT",
-        "market_capitalization": 1057397780.4509835,
+        "market_capitalization": 1057397779,
         "commodity_name": null,
         "display_name": "Allient Inc.",
         "sma_50": 48.27580005645752,

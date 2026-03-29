@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "UPST",
         "name": "Upstart Holdings, Inc.",
-        "collected_at": "2026-03-28T02:06:16.754Z",
+        "collected_at": "2026-03-29T02:06:24.423Z",
         "data_start_date": "2020-12-14",
         "price": 24.770000457763672,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Finance/Rental/Leasing",
         "tradingview_id": "NASDAQ:UPST",
-        "market_capitalization": 2428977692.0284247,
+        "market_capitalization": 2428977744,
         "commodity_name": null,
         "display_name": "Upstart Holdings, Inc.",
         "sma_50": 50.309600028991696,

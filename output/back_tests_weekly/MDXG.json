@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MDXG",
         "name": "MiMedx Group, Inc",
-        "collected_at": "2026-03-28T02:09:43.721Z",
+        "collected_at": "2026-03-29T02:09:44.138Z",
         "data_start_date": "2016-03-28",
         "price": 3.809999942779541,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Medical Specialties",
         "tradingview_id": "NASDAQ:MDXG",
-        "market_capitalization": 566038714.0888324,
+        "market_capitalization": 566038697,
         "commodity_name": null,
         "display_name": "MiMedx Group, Inc",
         "sma_50": 6.306800022125244,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LGIH",
         "name": "LGI Homes, Inc.",
-        "collected_at": "2026-03-28T02:08:44.798Z",
+        "collected_at": "2026-03-29T02:08:43.662Z",
         "data_start_date": "2016-03-28",
         "price": 37.72999954223633,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Homebuilding",
         "tradingview_id": "NASDAQ:LGIH",
-        "market_capitalization": 872811320.4395325,
+        "market_capitalization": 872811296,
         "commodity_name": null,
         "display_name": "LGI Homes, Inc.",
         "sma_50": 51.48980010986328,

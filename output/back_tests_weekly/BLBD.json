@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BLBD",
         "name": "Blue Bird Corporation",
-        "collected_at": "2026-03-28T02:06:58.063Z",
+        "collected_at": "2026-03-29T02:07:08.386Z",
         "data_start_date": "2016-03-28",
         "price": 55.11000061035156,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Consumer Durables",
         "industry": "Motor Vehicles",
         "tradingview_id": "NASDAQ:BLBD",
-        "market_capitalization": 1741029659.6310954,
+        "market_capitalization": 1741029726,
         "commodity_name": null,
         "display_name": "Blue Bird Corporation",
         "sma_50": 50.255300216674804,

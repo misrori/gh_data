@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PROK",
         "name": "ProKidney Corp.",
-        "collected_at": "2026-03-28T02:10:04.302Z",
+        "collected_at": "2026-03-29T02:10:05.145Z",
         "data_start_date": "2021-06-28",
         "price": 1.600000023841858,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Biotechnology",
         "tradingview_id": "NASDAQ:PROK",
-        "market_capitalization": 483065725.6497176,
+        "market_capitalization": 483065738,
         "commodity_name": null,
         "display_name": "ProKidney Corp.",
         "sma_50": 2.099859997034073,

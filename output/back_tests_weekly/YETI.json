@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "YETI",
         "name": "YETI Holdings, Inc.",
-        "collected_at": "2026-03-28T02:06:04.975Z",
+        "collected_at": "2026-03-29T02:06:11.982Z",
         "data_start_date": "2018-10-22",
         "price": 35.56999969482422,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Miscellaneous Manufacturing",
         "tradingview_id": "NYSE:YETI",
-        "market_capitalization": 2677295705.503889,
+        "market_capitalization": 2677295682.9999995,
         "commodity_name": null,
         "display_name": "YETI Holdings, Inc.",
         "sma_50": 37.252000122070314,

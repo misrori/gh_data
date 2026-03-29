@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MPWR",
         "name": "Monolithic Power Systems, Inc.",
-        "collected_at": "2026-03-28T02:01:10.417Z",
+        "collected_at": "2026-03-29T02:01:12.810Z",
         "data_start_date": "2016-03-28",
         "price": 1053.010009765625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:MPWR",
-        "market_capitalization": 51721746643.67474,
+        "market_capitalization": 51721745692,
         "commodity_name": null,
         "display_name": "Monolithic Power Systems, Inc.",
         "sma_50": 894.1931994628907,

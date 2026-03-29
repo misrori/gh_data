@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACIC",
         "name": "American Coastal Insurance Corporation",
-        "collected_at": "2026-03-28T02:09:50.671Z",
+        "collected_at": "2026-03-29T02:09:51.040Z",
         "data_start_date": "2016-03-28",
         "price": 11.130000114440918,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Property/Casualty Insurance",
         "tradingview_id": "NASDAQ:ACIC",
-        "market_capitalization": 541543541.840731,
+        "market_capitalization": 541543559,
         "commodity_name": null,
         "display_name": "American Coastal Insurance Corporation",
         "sma_50": 11.282800083160401,

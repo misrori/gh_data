@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AXTA",
         "name": "Axalta Coating Systems Ltd.",
-        "collected_at": "2026-03-28T02:04:14.930Z",
+        "collected_at": "2026-03-29T02:04:19.240Z",
         "data_start_date": "2016-03-28",
         "price": 26.850000381469727,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Industrial Specialties",
         "tradingview_id": "NYSE:AXTA",
-        "market_capitalization": 5729090199.30373,
+        "market_capitalization": 5729090153,
         "commodity_name": null,
         "display_name": "Axalta Coating Systems Ltd.",
         "sma_50": 30.46160011291504,

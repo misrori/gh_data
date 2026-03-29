@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CLNE",
         "name": "Clean Energy Fuels Corp.",
-        "collected_at": "2026-03-28T02:09:42.632Z",
+        "collected_at": "2026-03-29T02:09:42.987Z",
         "data_start_date": "2016-03-28",
         "price": 2.5899999141693115,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Gas Distributors",
         "tradingview_id": "NASDAQ:CLNE",
-        "market_capitalization": 568326147.8255318,
+        "market_capitalization": 568326152,
         "commodity_name": null,
         "display_name": "Clean Energy Fuels Corp.",
         "sma_50": 2.268200011253357,

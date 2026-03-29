@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "MGNI",
         "name": "Magnite, Inc.",
-        "collected_at": "2026-03-28T02:07:03.704Z",
+        "collected_at": "2026-03-29T02:07:13.807Z",
         "data_start_date": "2016-03-28",
         "price": 11.649999618530273,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:MGNI",
-        "market_capitalization": 1681844902.14346,
+        "market_capitalization": 1681844793,
         "commodity_name": null,
         "display_name": "Magnite, Inc.",
         "sma_50": 17.478599967956544,

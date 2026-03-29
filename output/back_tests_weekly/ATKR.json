@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ATKR",
         "name": "Atkore Inc.",
-        "collected_at": "2026-03-28T02:06:41.726Z",
+        "collected_at": "2026-03-29T02:06:50.556Z",
         "data_start_date": "2016-06-06",
         "price": 59.130001068115234,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Electrical Products",
         "tradingview_id": "NYSE:ATKR",
-        "market_capitalization": 1995675409.8336086,
+        "market_capitalization": 1995675430.9999998,
         "commodity_name": null,
         "display_name": "Atkore Inc.",
         "sma_50": 65.42039993286133,

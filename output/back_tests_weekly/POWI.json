@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "POWI",
         "name": "Power Integrations, Inc.",
-        "collected_at": "2026-03-28T02:06:00.006Z",
+        "collected_at": "2026-03-29T02:06:07.282Z",
         "data_start_date": "2016-03-28",
         "price": 49.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:POWI",
-        "market_capitalization": 2747448038.571429,
+        "market_capitalization": 2747448080,
         "commodity_name": null,
         "display_name": "Power Integrations, Inc.",
         "sma_50": 45.63279991149902,

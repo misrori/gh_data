@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BAH",
         "name": "Booz Allen Hamilton Holding Corporation",
-        "collected_at": "2026-03-28T02:03:15.135Z",
+        "collected_at": "2026-03-29T02:03:19.689Z",
         "data_start_date": "2016-03-28",
         "price": 78.48999786376953,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NYSE:BAH",
-        "market_capitalization": 9465453954.750528,
+        "market_capitalization": 9465453482,
         "commodity_name": null,
         "display_name": "Booz Allen Hamilton Holding Corporation",
         "sma_50": 97.28779998779297,

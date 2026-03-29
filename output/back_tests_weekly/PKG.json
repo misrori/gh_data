@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PKG",
         "name": "Packaging Corporation of America",
-        "collected_at": "2026-03-28T02:02:14.111Z",
+        "collected_at": "2026-03-29T02:02:16.240Z",
         "data_start_date": "2016-03-28",
         "price": 212.25,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Containers/Packaging",
         "tradingview_id": "NYSE:PKG",
-        "market_capitalization": 18935543455.145817,
+        "market_capitalization": 18935542912,
         "commodity_name": null,
         "display_name": "Packaging Corporation of America",
         "sma_50": 206.805,

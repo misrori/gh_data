@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QXO",
         "name": "QXO, Inc.",
-        "collected_at": "2026-03-28T02:02:40.196Z",
+        "collected_at": "2026-03-29T02:02:44.179Z",
         "data_start_date": "2016-03-28",
         "price": 18.959999084472656,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NYSE:QXO",
-        "market_capitalization": 13434130808.899286,
+        "market_capitalization": 13434130264,
         "commodity_name": null,
         "display_name": "QXO, Inc.",
         "sma_50": 20.116399879455567,

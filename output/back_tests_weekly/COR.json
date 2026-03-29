@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "COR",
         "name": "Cencora, Inc.",
-        "collected_at": "2026-03-28T02:01:05.150Z",
+        "collected_at": "2026-03-29T02:01:07.264Z",
         "data_start_date": "2016-03-28",
         "price": 312.45001220703125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Medical Distributors",
         "tradingview_id": "NYSE:COR",
-        "market_capitalization": 60781112427.4993,
+        "market_capitalization": 60781115036,
         "commodity_name": null,
         "display_name": "Cencora, Inc.",
         "sma_50": 320.5220001220703,

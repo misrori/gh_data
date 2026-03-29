@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LXU",
         "name": "LSB Industries, Inc.",
-        "collected_at": "2026-03-28T02:08:09.573Z",
+        "collected_at": "2026-03-29T02:08:08.949Z",
         "data_start_date": "2016-03-28",
         "price": 16.299999237060547,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": "Process Industries",
         "industry": "Chemicals: Agricultural",
         "tradingview_id": "NYSE:LXU",
-        "market_capitalization": 1171103556.5047395,
+        "market_capitalization": 1171103560,
         "commodity_name": null,
         "display_name": "LSB Industries, Inc.",
         "sma_50": 9.13899998664856,
