@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FARMUSDT",
         "name": "FARM / USDT",
-        "collected_at": "2026-03-29T07:48:01.936Z",
+        "collected_at": "2026-03-29T08:48:10.816Z",
         "data_start_date": "2021-08-09",
         "price": 11.29,
         "change": -4.564666103127649,
-        "volume": 163368.109,
+        "volume": 164997.207,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 413,
