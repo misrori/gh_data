@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UVSP",
         "name": "Univest Financial Corporation",
-        "collected_at": "2026-03-29T02:08:34.847Z",
+        "collected_at": "2026-03-30T00:08:53.177Z",
         "data_start_date": "2016-03-28",
         "price": 33.52000045776367,
         "change": 0,
-        "volume": 156159,
+        "volume": 159393,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 606,

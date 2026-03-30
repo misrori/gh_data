@@ -2,8 +2,8 @@
     "summary_data": {
         "ticker": "MSCI",
         "name": "MSCI Inc.",
-        "collected_at": "2026-03-29T02:01:28.239Z",
-        "data_start_date": "2016-03-31",
+        "collected_at": "2026-03-30T00:01:32.648Z",
+        "data_start_date": "2016-04-01",
         "price": 523.4000244140625,
         "change": -2.1096671684438144,
         "volume": 441800,

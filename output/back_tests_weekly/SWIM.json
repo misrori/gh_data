@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SWIM",
         "name": "Latham Group, Inc.",
-        "collected_at": "2026-03-29T02:09:32.057Z",
+        "collected_at": "2026-03-30T00:09:50.938Z",
         "data_start_date": "2021-04-19",
         "price": 5.289999961853027,
         "change": 0,
-        "volume": 595896,
+        "volume": 619524,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 4,

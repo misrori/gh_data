@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALRS",
         "name": "Alerus Financial Corporation",
-        "collected_at": "2026-03-29T02:09:36.823Z",
+        "collected_at": "2026-03-30T00:09:55.994Z",
         "data_start_date": "2016-03-28",
         "price": 23.56999969482422,
         "change": 0,
-        "volume": 79468,
+        "volume": 80552,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AZTA",
         "name": "Azenta, Inc.",
-        "collected_at": "2026-03-29T02:08:39.005Z",
+        "collected_at": "2026-03-30T00:08:57.478Z",
         "data_start_date": "2016-03-28",
         "price": 19.899999618530273,
         "change": 0,
-        "volume": 738745,
+        "volume": 751116,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 592,

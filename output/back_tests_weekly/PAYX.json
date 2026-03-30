@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PAYX",
         "name": "Paychex, Inc.",
-        "collected_at": "2026-03-29T02:01:36.721Z",
+        "collected_at": "2026-03-30T00:01:41.654Z",
         "data_start_date": "2016-03-28",
         "price": 91.68000030517578,
         "change": 0,
-        "volume": 3583783,
+        "volume": 3583857,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADP",
         "name": "Automatic Data Processing, Inc.",
-        "collected_at": "2026-03-29T02:00:49.520Z",
+        "collected_at": "2026-03-30T00:00:52.174Z",
         "data_start_date": "2016-03-28",
         "price": 201.25,
         "change": 0,
-        "volume": 3568628,
+        "volume": 3569513,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

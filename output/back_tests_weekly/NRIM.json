@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NRIM",
         "name": "Northrim BanCorp Inc",
-        "collected_at": "2026-03-29T02:10:01.754Z",
+        "collected_at": "2026-03-30T00:10:21.315Z",
         "data_start_date": "2016-03-28",
         "price": 22.520000457763672,
         "change": 0,
-        "volume": 112270,
+        "volume": 114736,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 837,

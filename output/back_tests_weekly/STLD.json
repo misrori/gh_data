@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STLD",
         "name": "Steel Dynamics, Inc.",
-        "collected_at": "2026-03-29T02:01:55.187Z",
+        "collected_at": "2026-03-30T00:02:00.818Z",
         "data_start_date": "2016-03-28",
         "price": 170.97000122070312,
         "change": 0,
-        "volume": 966616,
+        "volume": 980384,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 319,

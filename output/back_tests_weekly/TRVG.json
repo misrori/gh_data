@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRVG",
         "name": "trivago N.V.",
-        "collected_at": "2026-03-29T02:07:47.144Z",
+        "collected_at": "2026-03-30T00:08:05.748Z",
         "data_start_date": "2016-12-12",
         "price": 2.740000009536743,
         "change": 0,
-        "volume": 77697,
+        "volume": 77750,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 116,

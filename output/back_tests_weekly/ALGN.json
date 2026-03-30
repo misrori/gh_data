@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALGN",
         "name": "Align Technology, Inc.",
-        "collected_at": "2026-03-29T02:02:57.761Z",
+        "collected_at": "2026-03-30T00:03:12.266Z",
         "data_start_date": "2016-03-28",
         "price": 166.3800048828125,
         "change": 0,
-        "volume": 1294106,
+        "volume": 1294114,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 676,

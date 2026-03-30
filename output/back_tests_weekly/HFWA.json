@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HFWA",
         "name": "Heritage Financial Corporation",
-        "collected_at": "2026-03-29T02:08:22.148Z",
+        "collected_at": "2026-03-30T00:08:41.018Z",
         "data_start_date": "2016-03-28",
         "price": 25.170000076293945,
         "change": 0,
-        "volume": 216841,
+        "volume": 230169,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 515,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GOOG",
         "name": "Alphabet Inc.",
-        "collected_at": "2026-03-29T02:00:07.360Z",
+        "collected_at": "2026-03-30T00:00:08.074Z",
         "data_start_date": "2016-03-28",
         "price": 273.760009765625,
         "change": 0,
-        "volume": 25623591,
+        "volume": 25703300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 312,

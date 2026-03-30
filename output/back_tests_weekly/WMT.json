@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WMT",
         "name": "Walmart Inc.",
-        "collected_at": "2026-03-29T02:00:09.554Z",
+        "collected_at": "2026-03-30T00:00:09.702Z",
         "data_start_date": "2016-03-28",
         "price": 122.88999938964844,
         "change": 0,
-        "volume": 16522512,
+        "volume": 16543336,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1208,

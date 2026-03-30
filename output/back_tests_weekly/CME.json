@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CME",
         "name": "CME Group Inc.",
-        "collected_at": "2026-03-29T02:00:40.930Z",
+        "collected_at": "2026-03-30T00:00:43.282Z",
         "data_start_date": "2016-03-28",
         "price": 293.7799987792969,
         "change": 0,
-        "volume": 1538868,
+        "volume": 1579941,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 571,

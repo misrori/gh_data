@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BNDX",
         "name": "Vanguard Total International Bond ETF",
-        "collected_at": "2026-03-29T02:10:19.063Z",
+        "collected_at": "2026-03-30T00:10:38.664Z",
         "data_start_date": "2016-03-28",
         "price": 47.65999984741211,
         "change": 0,
-        "volume": 4598767,
+        "volume": 4602004,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

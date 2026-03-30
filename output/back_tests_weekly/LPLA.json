@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LPLA",
         "name": "LPL Financial Holdings Inc.",
-        "collected_at": "2026-03-29T02:01:58.798Z",
+        "collected_at": "2026-03-30T00:02:05.141Z",
         "data_start_date": "2016-03-28",
         "price": 296.8999938964844,
         "change": 0,
-        "volume": 795867,
+        "volume": 803551,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,

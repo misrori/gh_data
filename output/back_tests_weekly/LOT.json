@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LOT",
         "name": "Lotus Technology Inc.",
-        "collected_at": "2026-03-29T02:09:06.086Z",
+        "collected_at": "2026-03-30T00:09:25.606Z",
         "data_start_date": "2021-05-03",
         "price": 1.100000023841858,
         "change": 0,
-        "volume": 41816,
+        "volume": 42379,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 739,

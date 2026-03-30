@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CEVA",
         "name": "CEVA, Inc.",
-        "collected_at": "2026-03-29T02:09:58.951Z",
+        "collected_at": "2026-03-30T00:10:18.522Z",
         "data_start_date": "2016-03-28",
         "price": 18.219999313354492,
         "change": 0,
-        "volume": 361547,
+        "volume": 361548,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 130,

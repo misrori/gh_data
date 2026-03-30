@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DPZ",
         "name": "Domino's Pizza Inc",
-        "collected_at": "2026-03-29T02:02:58.910Z",
+        "collected_at": "2026-03-30T00:03:13.412Z",
         "data_start_date": "2016-03-28",
         "price": 348.1400146484375,
         "change": 0,
-        "volume": 896678,
+        "volume": 897015,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

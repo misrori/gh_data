@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMH",
         "name": "VanEck Semiconductor ETF",
-        "collected_at": "2026-03-29T02:10:26.983Z",
+        "collected_at": "2026-03-30T00:10:46.865Z",
         "data_start_date": "2016-03-28",
         "price": 374.25,
         "change": 0,
-        "volume": 10881899,
+        "volume": 11811407,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 298,

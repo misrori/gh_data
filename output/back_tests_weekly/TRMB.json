@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRMB",
         "name": "Trimble Inc.",
-        "collected_at": "2026-03-29T02:02:36.562Z",
+        "collected_at": "2026-03-30T00:02:48.867Z",
         "data_start_date": "2016-03-28",
         "price": 62.970001220703125,
         "change": 0,
-        "volume": 1671331,
+        "volume": 1671395,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

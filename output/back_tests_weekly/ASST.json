@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASST",
         "name": "Strive, Inc.",
-        "collected_at": "2026-03-29T02:09:18.006Z",
+        "collected_at": "2026-03-30T00:09:37.123Z",
         "data_start_date": "2023-01-30",
         "price": 9.854999542236328,
         "change": 0,
-        "volume": 4151643,
+        "volume": 4175979,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 116,

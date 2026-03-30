@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FFIC",
         "name": "Flushing Financial Corporation",
-        "collected_at": "2026-03-29T02:09:59.676Z",
+        "collected_at": "2026-03-30T00:10:19.389Z",
         "data_start_date": "2016-03-28",
         "price": 14.880000114440918,
         "change": 0,
-        "volume": 192826,
+        "volume": 196158,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 109,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.5409,
         "number_of_employees": 567,
         "ml_direction": 1,
-        "ml_value": 14.196528974572674,
+        "ml_value": 14.196528974572676,
         "ml_last_change_date": "2025-11-03",
         "ml_last_change_price": 15.329999923706055,
         "ml_change_percent_from_last_change": -2.9354195140553485

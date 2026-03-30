@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMSF",
         "name": "AMERISAFE, Inc.",
-        "collected_at": "2026-03-29T02:09:32.335Z",
+        "collected_at": "2026-03-30T00:09:51.158Z",
         "data_start_date": "2016-03-28",
         "price": 32.72999954223633,
         "change": 0,
-        "volume": 219464,
+        "volume": 225883,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 319,
