@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GUNUSDT",
         "name": "Gunz",
-        "collected_at": "2026-03-31T12:46:55.038Z",
+        "collected_at": "2026-03-31T13:47:13.194Z",
         "data_start_date": "2025-03-31",
         "price": 0.01705,
         "change": 8.529598981540428,
-        "volume": 115306505,
+        "volume": 118909289,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 168,
