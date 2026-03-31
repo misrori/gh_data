@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PUMPUSDT",
         "name": "Pump.fun",
-        "collected_at": "2026-03-31T21:45:46.388Z",
+        "collected_at": "2026-03-31T22:45:47.046Z",
         "data_start_date": "2025-09-11",
         "price": 0.001667,
         "change": 0.5428226779252178,
-        "volume": 3444600366,
+        "volume": 3507374158,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 54,
