@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "YBUSDT",
         "name": "YB / USDT",
-        "collected_at": "2026-04-01T03:47:59.860Z",
+        "collected_at": "2026-04-01T04:48:20.553Z",
         "data_start_date": "2025-10-15",
         "price": 0.1054,
         "change": 0.9578544061302556,
-        "volume": 793039,
+        "volume": 879874.6,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 139,
