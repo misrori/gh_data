@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "POLYXUSDT",
         "name": "Polymesh",
-        "collected_at": "2026-04-02T10:47:52.495Z",
+        "collected_at": "2026-04-02T11:47:44.035Z",
         "data_start_date": "2022-10-17",
         "price": 0.0443,
         "change": 0.2262443438913935,
-        "volume": 68281860.3,
+        "volume": 68634328.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 385,
