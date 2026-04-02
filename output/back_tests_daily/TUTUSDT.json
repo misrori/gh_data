@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TUTUSDT",
         "name": "TUT / USDT",
-        "collected_at": "2026-04-02T20:47:51.578Z",
+        "collected_at": "2026-04-02T21:47:45.791Z",
         "data_start_date": "2025-03-27",
         "price": 0.00911,
         "change": 2.705749718151078,
-        "volume": 110890200,
+        "volume": 114728546,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 167,
