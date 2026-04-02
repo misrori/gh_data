@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "INVMF",
         "name": "Invesco Markets plc",
-        "collected_at": "2026-04-01T00:10:59.269Z",
+        "collected_at": "2026-04-02T00:10:36.701Z",
         "data_start_date": "2020-05-18",
         "price": 12.827899932861328,
         "change": -0.2798548749082293,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 61.36725315767705,
+        "ml_value": 61.38035459919665,
         "ml_last_change_date": "2025-12-16",
         "ml_last_change_price": 13.604000091552734,
         "ml_change_percent_from_last_change": -5.704940851722851
