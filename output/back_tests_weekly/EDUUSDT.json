@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EDUUSDT",
         "name": "Open Campus",
-        "collected_at": "2026-04-03T20:47:15.374Z",
+        "collected_at": "2026-04-03T21:47:17.829Z",
         "data_start_date": "2023-04-24",
         "price": 0.05,
         "change": -15.397631133671737,
-        "volume": 61438037,
+        "volume": 61719019,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 609,
