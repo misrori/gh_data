@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NFPUSDT",
         "name": "NFP / USDT",
-        "collected_at": "2026-04-03T06:47:56.878Z",
+        "collected_at": "2026-04-03T07:47:54.534Z",
         "data_start_date": "2023-12-25",
         "price": 0.01438,
         "change": 8.774583963691372,
-        "volume": 107129658,
+        "volume": 107708682,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 630,
