@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TURTLEUSDT",
         "name": "TURTLE / USDT",
-        "collected_at": "2026-04-03T03:45:56.434Z",
+        "collected_at": "2026-04-03T04:45:58.784Z",
         "data_start_date": "2025-10-22",
         "price": 0.0439,
         "change": -3.51648351648351,
-        "volume": 6894400.9,
+        "volume": 7163906.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 135,
