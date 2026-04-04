@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EPICUSDT",
         "name": "EPIC / USDT",
-        "collected_at": "2026-04-03T23:47:24.780Z",
+        "collected_at": "2026-04-04T00:47:39.834Z",
         "data_start_date": "2025-03-10",
         "price": 0.26,
         "change": 10.638297872340436,
-        "volume": 13517519.4,
+        "volume": 13563559.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 140,
