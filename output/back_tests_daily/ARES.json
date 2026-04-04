@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARES",
         "name": "Ares Management Corporation",
-        "collected_at": "2026-04-03T00:02:06.930Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:02.870Z",
+        "data_start_date": "2016-04-06",
         "price": 102.43000030517578,
         "change": -3.1852577026235167,
-        "volume": 4434948,
+        "volume": 5074300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 62,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.7485,
         "number_of_employees": 4250,
         "ml_direction": -1,
-        "ml_value": 119.79059892986437,
+        "ml_value": 119.79252742281918,
         "ml_last_change_date": "2026-01-23",
         "ml_last_change_price": 154.58999633789062,
         "ml_change_percent_from_last_change": -33.740861160710324

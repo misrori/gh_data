@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVA",
         "name": "Avista Corporation",
-        "collected_at": "2026-04-03T00:05:46.326Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:35.099Z",
+        "data_start_date": "2016-04-06",
         "price": 41.34000015258789,
         "change": 1.6224184917917428,
-        "volume": 336248,
+        "volume": 524000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 21,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.3873,
         "number_of_employees": 1929,
         "ml_direction": 1,
-        "ml_value": 38.770988100136144,
+        "ml_value": 38.766702287758214,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 41.34000015258789,
         "ml_change_percent_from_last_change": 0

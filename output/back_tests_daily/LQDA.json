@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LQDA",
         "name": "Liquidia Corporation",
-        "collected_at": "2026-04-03T00:05:50.416Z",
+        "collected_at": "2026-04-04T00:05:39.036Z",
         "data_start_date": "2018-07-26",
         "price": 37.68000030517578,
         "change": 0.5604458970677226,
-        "volume": 708288,
+        "volume": 786500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 2,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.8101,
         "number_of_employees": 216,
         "ml_direction": 1,
-        "ml_value": 31.22813044533035,
+        "ml_value": 31.228246194144525,
         "ml_last_change_date": "2026-03-10",
         "ml_last_change_price": 38.529998779296875,
         "ml_change_percent_from_last_change": -2.206069299378799

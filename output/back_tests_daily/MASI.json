@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MASI",
         "name": "Masimo Corporation",
-        "collected_at": "2026-04-03T00:03:33.545Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:22.012Z",
+        "data_start_date": "2016-04-06",
         "price": 178.58999633789062,
         "change": 0.32582543056727875,
-        "volume": 1007163,
+        "volume": 1009000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 42,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -2.7647,
         "number_of_employees": 7500,
         "ml_direction": 1,
-        "ml_value": 173.90418766046884,
+        "ml_value": 173.90354613738012,
         "ml_last_change_date": "2026-01-16",
         "ml_last_change_price": 140.13999938964844,
         "ml_change_percent_from_last_change": 27.43684680726659

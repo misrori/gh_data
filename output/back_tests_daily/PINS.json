@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PINS",
         "name": "Pinterest, Inc.",
-        "collected_at": "2026-04-03T00:03:23.982Z",
+        "collected_at": "2026-04-04T00:03:12.250Z",
         "data_start_date": "2019-04-18",
         "price": 18.18000030517578,
         "change": -0.60142484879909,
-        "volume": 14512539,
+        "volume": 14519000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 181,

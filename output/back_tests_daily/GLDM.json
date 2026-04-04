@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLDM",
         "name": "SPDR Gold MiniShares Trust",
-        "collected_at": "2026-04-03T00:10:45.681Z",
+        "collected_at": "2026-04-04T00:10:31.193Z",
         "data_start_date": "2018-06-26",
         "price": 92.4800033569336,
         "change": -1.9300102183721963,
-        "volume": 5612051,
+        "volume": 5723700,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 7,

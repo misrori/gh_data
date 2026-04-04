@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GTX",
         "name": "Garrett Motion Inc.",
-        "collected_at": "2026-04-03T00:05:41.638Z",
+        "collected_at": "2026-04-04T00:05:30.552Z",
         "data_start_date": "2018-09-17",
         "price": 18.40999984741211,
         "change": -1.0215082266713578,
-        "volume": 1665517,
+        "volume": 1693600,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 14,

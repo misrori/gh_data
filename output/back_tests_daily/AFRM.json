@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AFRM",
         "name": "Affirm Holdings, Inc.",
-        "collected_at": "2026-04-03T00:02:54.745Z",
+        "collected_at": "2026-04-04T00:02:42.218Z",
         "data_start_date": "2021-01-13",
         "price": 46.310001373291016,
         "change": 1.690822227237005,
-        "volume": 3583499,
+        "volume": 3590100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 63,

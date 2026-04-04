@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZYME",
         "name": "Zymeworks Inc.",
-        "collected_at": "2026-04-03T00:07:10.349Z",
+        "collected_at": "2026-04-04T00:06:58.547Z",
         "data_start_date": "2017-04-28",
         "price": 25.799999237060547,
         "change": -0.5397120050682237,
-        "volume": 631026,
+        "volume": 701800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 28,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.0761,
         "number_of_employees": 264,
         "ml_direction": 1,
-        "ml_value": 22.250776042837057,
+        "ml_value": 22.24563331321408,
         "ml_last_change_date": "2026-03-10",
         "ml_last_change_price": 25.09000015258789,
         "ml_change_percent_from_last_change": 2.8298090081893656

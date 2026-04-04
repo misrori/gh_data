@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FLY",
         "name": "Firefly Aerospace Inc.",
-        "collected_at": "2026-04-03T00:04:44.526Z",
+        "collected_at": "2026-04-04T00:04:33.466Z",
         "data_start_date": "2025-08-07",
         "price": 32.93000030517578,
         "change": 10.651881894871378,
-        "volume": 7634120,
+        "volume": 7745300,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

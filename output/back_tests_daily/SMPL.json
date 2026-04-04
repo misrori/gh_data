@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMPL",
         "name": "The Simply Good Foods Company",
-        "collected_at": "2026-04-03T00:08:04.097Z",
+        "collected_at": "2026-04-04T00:07:52.322Z",
         "data_start_date": "2017-07-10",
         "price": 14.15999984741211,
         "change": -0.28168987598808554,
-        "volume": 2286649,
+        "volume": 2591900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 315,

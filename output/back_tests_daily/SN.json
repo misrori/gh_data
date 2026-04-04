@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SN",
         "name": "SharkNinja, Inc.",
-        "collected_at": "2026-04-03T00:02:48.717Z",
+        "collected_at": "2026-04-04T00:02:36.062Z",
         "data_start_date": "2023-07-31",
         "price": 104.37999725341797,
         "change": -1.981407317756587,
-        "volume": 1362591,
+        "volume": 1475900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 9,

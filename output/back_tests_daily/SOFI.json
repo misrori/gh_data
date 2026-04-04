@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SOFI",
         "name": "SoFi Technologies, Inc.",
-        "collected_at": "2026-04-03T00:02:16.197Z",
+        "collected_at": "2026-04-04T00:02:12.479Z",
         "data_start_date": "2021-01-04",
         "price": 15.850000381469727,
         "change": 1.4075512822648368,
-        "volume": 52657211,
+        "volume": 53233600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 64,

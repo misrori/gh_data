@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EBAY",
         "name": "eBay Inc.",
-        "collected_at": "2026-04-03T00:01:26.810Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:23.048Z",
+        "data_start_date": "2016-04-06",
         "price": 94.13999938964844,
         "change": 1.0845078557042485,
-        "volume": 3199466,
+        "volume": 3532400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 27,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 4.432,
         "number_of_employees": 12300,
         "ml_direction": 1,
-        "ml_value": 84.9324263314956,
+        "ml_value": 84.92406985566552,
         "ml_last_change_date": "2026-02-27",
         "ml_last_change_price": 89.41999816894531,
         "ml_change_percent_from_last_change": 5.278462667585182

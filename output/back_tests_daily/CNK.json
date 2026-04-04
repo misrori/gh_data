@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNK",
         "name": "Cinemark Holdings, Inc.",
-        "collected_at": "2026-04-03T00:05:48.067Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:36.921Z",
+        "data_start_date": "2016-04-06",
         "price": 29.239999771118164,
         "change": 2.4526938792422466,
-        "volume": 2222220,
+        "volume": 2602100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 30,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.2104,
         "number_of_employees": 27900,
         "ml_direction": 1,
-        "ml_value": 25.91455944854607,
+        "ml_value": 25.904273744069574,
         "ml_last_change_date": "2026-02-06",
         "ml_last_change_price": 25.440000534057617,
         "ml_change_percent_from_last_change": 14.937103605691071

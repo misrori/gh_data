@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADNT",
         "name": "Adient plc",
-        "collected_at": "2026-04-03T00:07:34.166Z",
+        "collected_at": "2026-04-04T00:07:22.502Z",
         "data_start_date": "2016-10-17",
         "price": 20.3700008392334,
         "change": -2.2083489493878674,
-        "volume": 489888,
+        "volume": 625400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 10,

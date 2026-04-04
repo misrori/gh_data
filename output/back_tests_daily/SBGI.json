@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SBGI",
         "name": "Sinclair, Inc.",
-        "collected_at": "2026-04-03T00:09:40.759Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:28.159Z",
+        "data_start_date": "2016-04-06",
         "price": 13.010000228881836,
         "change": -0.3828498401865346,
-        "volume": 410578,
+        "volume": 410600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 22,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.6817,
         "number_of_employees": 7100,
         "ml_direction": -1,
-        "ml_value": 14.866355341859196,
+        "ml_value": 14.867641085572574,
         "ml_last_change_date": "2026-03-11",
         "ml_last_change_price": 13.859999656677246,
         "ml_change_percent_from_last_change": -6.132752156208832

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GRAB",
         "name": "Grab Holdings Limited",
-        "collected_at": "2026-04-03T00:02:49.923Z",
+        "collected_at": "2026-04-04T00:02:37.078Z",
         "data_start_date": "2020-12-01",
         "price": 3.619999885559082,
         "change": -1.3624029889763567,
-        "volume": 31710333,
+        "volume": 31776100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 119,

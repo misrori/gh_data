@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "STGW",
         "name": "Stagwell Inc.",
-        "collected_at": "2026-04-03T00:07:34.605Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:07:22.957Z",
+        "data_start_date": "2016-04-06",
         "price": 6.28000020980835,
         "change": 0.9646370038679775,
-        "volume": 1280511,
+        "volume": 1304800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 17,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.1003,
         "number_of_employees": 12629,
         "ml_direction": 1,
-        "ml_value": 5.387662989780518,
+        "ml_value": 5.38663437028676,
         "ml_last_change_date": "2026-03-10",
         "ml_last_change_price": 6,
         "ml_change_percent_from_last_change": 4.666670163472486

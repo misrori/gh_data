@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACA",
         "name": "Arcosa, Inc.",
-        "collected_at": "2026-04-03T00:04:44.347Z",
+        "collected_at": "2026-04-04T00:04:33.019Z",
         "data_start_date": "2018-11-05",
         "price": 107.69999694824219,
         "change": -0.29624116345939444,
-        "volume": 212583,
+        "volume": 308400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,

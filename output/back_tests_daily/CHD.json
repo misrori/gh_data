@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHD",
         "name": "Church & Dwight Company, Inc.",
-        "collected_at": "2026-04-03T00:02:10.349Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:06.411Z",
+        "data_start_date": "2016-04-06",
         "price": 92.8499984741211,
         "change": 0,
-        "volume": 1292773,
+        "volume": 1573400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.0307,
         "number_of_employees": 5550,
         "ml_direction": -1,
-        "ml_value": 99.06707771058812,
+        "ml_value": 99.07672017536211,
         "ml_last_change_date": "2026-03-13",
         "ml_last_change_price": 98.51000213623047,
         "ml_change_percent_from_last_change": -5.745613175687581

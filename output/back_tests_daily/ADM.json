@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADM",
         "name": "Archer-Daniels-Midland Company",
-        "collected_at": "2026-04-03T00:01:36.400Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:32.719Z",
+        "data_start_date": "2016-04-06",
         "price": 73.83000183105469,
         "change": 2.0174091875954927,
-        "volume": 2054677,
+        "volume": 3406600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 79,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.2364,
         "number_of_employees": 41496,
         "ml_direction": 1,
-        "ml_value": 66.48533874474224,
+        "ml_value": 66.48405373672047,
         "ml_last_change_date": "2026-01-09",
         "ml_last_change_price": 62.220001220703125,
         "ml_change_percent_from_last_change": 18.659595600407087

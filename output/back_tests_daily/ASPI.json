@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASPI",
         "name": "ASP Isotopes Inc.",
-        "collected_at": "2026-04-03T00:10:02.579Z",
+        "collected_at": "2026-04-04T00:09:48.637Z",
         "data_start_date": "2022-11-10",
         "price": 4.289999961853027,
         "change": 4.379557724848726,
-        "volume": 3095289,
+        "volume": 3155400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 59,

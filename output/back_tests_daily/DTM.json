@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DTM",
         "name": "DT Midstream, Inc.",
-        "collected_at": "2026-04-03T00:02:54.084Z",
+        "collected_at": "2026-04-04T00:02:41.532Z",
         "data_start_date": "2021-07-01",
         "price": 134.05999755859375,
         "change": 0.14193056572529575,
-        "volume": 341493,
+        "volume": 426400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 209,

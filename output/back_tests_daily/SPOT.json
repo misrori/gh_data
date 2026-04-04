@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPOT",
         "name": "Spotify Technology S.A.",
-        "collected_at": "2026-04-03T00:00:44.643Z",
+        "collected_at": "2026-04-04T00:00:41.533Z",
         "data_start_date": "2018-04-03",
         "price": 488.9700012207031,
         "change": 4.0339548224797825,
-        "volume": 1360524,
+        "volume": 1550500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 157,

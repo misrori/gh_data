@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PLTK",
         "name": "Playtika Holding Corp.",
-        "collected_at": "2026-04-03T00:08:36.390Z",
+        "collected_at": "2026-04-04T00:08:24.117Z",
         "data_start_date": "2021-01-18",
         "price": 2.740000009536743,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.5455,
         "number_of_employees": 3175,
         "ml_direction": -1,
-        "ml_value": 3.6831442099953646,
+        "ml_value": 3.6916850181767376,
         "ml_last_change_date": "2024-08-05",
         "ml_last_change_price": 6.949999809265137,
         "ml_change_percent_from_last_change": -60.57553834916638

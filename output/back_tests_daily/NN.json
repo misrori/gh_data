@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NN",
         "name": "NextNav Inc.",
-        "collected_at": "2026-04-03T00:06:45.272Z",
+        "collected_at": "2026-04-04T00:06:33.604Z",
         "data_start_date": "2020-11-02",
         "price": 16.549999237060547,
         "change": 3.9572811416296214,
-        "volume": 1190903,
+        "volume": 1213400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 51,

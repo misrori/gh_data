@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMN",
         "name": "AMN Healthcare Services Inc",
-        "collected_at": "2026-04-03T00:09:24.505Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:11.135Z",
+        "data_start_date": "2016-04-06",
         "price": 18.200000762939453,
         "change": -1.9396482400957376,
-        "volume": 800631,
+        "volume": 951800,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -2.4938,
         "number_of_employees": 2664,
         "ml_direction": -1,
-        "ml_value": 21.44763778792817,
+        "ml_value": 21.446994793456213,
         "ml_last_change_date": "2026-03-18",
         "ml_last_change_price": 17.899999618530273,
         "ml_change_percent_from_last_change": 1.675984082695825

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SNDR",
         "name": "Schneider National, Inc.",
-        "collected_at": "2026-04-03T00:06:31.768Z",
+        "collected_at": "2026-04-04T00:06:20.549Z",
         "data_start_date": "2017-04-06",
         "price": 27.030000686645508,
         "change": 2.000002591115124,
-        "volume": 610878,
+        "volume": 746800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 13,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.5912,
         "number_of_employees": 19000,
         "ml_direction": 1,
-        "ml_value": 24.119275722700802,
+        "ml_value": 24.108561191755978,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 27.030000686645508,
         "ml_change_percent_from_last_change": 0

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XMTR",
         "name": "Xometry, Inc.",
-        "collected_at": "2026-04-03T00:06:55.563Z",
+        "collected_at": "2026-04-04T00:06:43.724Z",
         "data_start_date": "2021-06-30",
         "price": 42.349998474121094,
         "change": 1.352156584353743,
-        "volume": 798434,
+        "volume": 805600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 34,

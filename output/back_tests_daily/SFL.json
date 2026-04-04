@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SFL",
         "name": "SFL Corporation Ltd",
-        "collected_at": "2026-04-03T00:07:35.018Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:07:23.374Z",
+        "data_start_date": "2016-04-06",
         "price": 10.930000305175781,
         "change": 2.8222030809511587,
-        "volume": 1200315,
+        "volume": 1402800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 83,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.2032,
         "number_of_employees": 24,
         "ml_direction": 1,
-        "ml_value": 10.01400056019644,
+        "ml_value": 10.013636188487979,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 10.930000305175781,
         "ml_change_percent_from_last_change": 0

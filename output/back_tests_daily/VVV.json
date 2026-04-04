@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VVV",
         "name": "Valvoline Inc.",
-        "collected_at": "2026-04-03T00:05:11.432Z",
+        "collected_at": "2026-04-04T00:05:00.385Z",
         "data_start_date": "2016-09-23",
         "price": 33.33000183105469,
         "change": -2.2293878501948585,
-        "volume": 951884,
+        "volume": 1212900,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 3,

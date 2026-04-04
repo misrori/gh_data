@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVTR",
         "name": "Avantor, Inc.",
-        "collected_at": "2026-04-03T00:04:39.620Z",
+        "collected_at": "2026-04-04T00:04:28.106Z",
         "data_start_date": "2019-05-17",
         "price": 7.900000095367432,
         "change": 1.673103150064827,
-        "volume": 5095057,
+        "volume": 5095100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 64,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BWMN",
         "name": "Bowman Consulting Group Ltd.",
-        "collected_at": "2026-04-03T00:10:09.201Z",
+        "collected_at": "2026-04-04T00:09:54.637Z",
         "data_start_date": "2021-05-07",
         "price": 29.649999618530273,
         "change": 0.47441338042220077,
-        "volume": 94508,
+        "volume": 95400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 129,

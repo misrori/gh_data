@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DLO",
         "name": "DLocal Limited",
-        "collected_at": "2026-04-03T00:06:55.269Z",
+        "collected_at": "2026-04-04T00:06:43.568Z",
         "data_start_date": "2021-06-03",
         "price": 12.859999656677246,
         "change": 3.376206514960383,
-        "volume": 2066416,
+        "volume": 2068400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 52,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FG",
         "name": "F&G Annuities & Life, Inc.",
-        "collected_at": "2026-04-03T00:05:40.435Z",
+        "collected_at": "2026-04-04T00:05:29.535Z",
         "data_start_date": "2022-11-22",
         "price": 26.049999237060547,
         "change": 1.0081361469695271,
-        "volume": 607106,
+        "volume": 696400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 86,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.8542,
         "number_of_employees": 1173,
         "ml_direction": 1,
-        "ml_value": 22.65704274876569,
+        "ml_value": 22.656991250352604,
         "ml_last_change_date": "2026-03-24",
         "ml_last_change_price": 24.670000076293945,
         "ml_change_percent_from_last_change": 5.593835251312695

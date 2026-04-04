@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VIRT",
         "name": "Virtu Financial, Inc.",
-        "collected_at": "2026-04-03T00:05:20.706Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:09.894Z",
+        "data_start_date": "2016-04-06",
         "price": 46.220001220703125,
         "change": 4.122554305511967,
-        "volume": 1009154,
+        "volume": 1310000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 62,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.1356,
         "number_of_employees": 1027,
         "ml_direction": 1,
-        "ml_value": 41.53454976162554,
+        "ml_value": 41.52940678677203,
         "ml_last_change_date": "2026-01-15",
         "ml_last_change_price": 36.20000076293945,
         "ml_change_percent_from_last_change": 27.679558692224848

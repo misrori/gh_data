@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KARO",
         "name": "Karooooo Ltd.",
-        "collected_at": "2026-04-03T00:07:39.977Z",
+        "collected_at": "2026-04-04T00:07:27.800Z",
         "data_start_date": "2021-04-01",
         "price": 49.68000030517578,
         "change": -2.204722339971382,
-        "volume": 59602,
+        "volume": 60000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 3,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IDEV",
         "name": "iShares Core MSCI International Developed Markets ETF",
-        "collected_at": "2026-04-03T00:10:47.463Z",
+        "collected_at": "2026-04-04T00:10:33.032Z",
         "data_start_date": "2017-03-27",
         "price": 84.36000061035156,
         "change": -0.5540507020607729,
-        "volume": 1418889,
+        "volume": 1518900,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 14,

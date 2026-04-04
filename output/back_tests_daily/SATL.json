@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SATL",
         "name": "Satellogic Inc.",
-        "collected_at": "2026-04-03T00:08:54.306Z",
+        "collected_at": "2026-04-04T00:08:42.360Z",
         "data_start_date": "2021-03-26",
         "price": 6.769999980926514,
         "change": 18.563921816076476,
-        "volume": 21204452,
+        "volume": 21337400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 13,

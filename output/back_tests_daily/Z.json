@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "Z",
         "name": "Zillow Group, Inc.",
-        "collected_at": "2026-04-03T00:03:56.202Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:44.877Z",
+        "data_start_date": "2016-04-06",
         "price": 40.599998474121094,
         "change": 0.27166409260189006,
-        "volume": 3603581,
+        "volume": 3605100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 169,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.0951,
         "number_of_employees": 7068,
         "ml_direction": -1,
-        "ml_value": 47.92376601586335,
+        "ml_value": 47.92633750329011,
         "ml_last_change_date": "2025-12-15",
         "ml_last_change_price": 68.33000183105469,
         "ml_change_percent_from_last_change": -40.582471262763576

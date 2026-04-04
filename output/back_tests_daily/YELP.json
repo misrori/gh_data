@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "YELP",
         "name": "Yelp Inc.",
-        "collected_at": "2026-04-03T00:07:45.181Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:07:32.945Z",
+        "data_start_date": "2016-04-06",
         "price": 25.149999618530273,
         "change": -0.15879680301420138,
-        "volume": 1373236,
+        "volume": 1523100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 143,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.3042,
         "number_of_employees": 5168,
         "ml_direction": 1,
-        "ml_value": 22.56167419716843,
+        "ml_value": 22.56038845345505,
         "ml_last_change_date": "2026-03-04",
         "ml_last_change_price": 23.850000381469727,
         "ml_change_percent_from_last_change": 5.450730466531062

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PPL",
         "name": "PPL Corporation",
-        "collected_at": "2026-04-03T00:01:48.622Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:45.265Z",
+        "data_start_date": "2016-04-06",
         "price": 38.63999938964844,
         "change": 0.7036759585085796,
-        "volume": 3295166,
+        "volume": 3963300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 50,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.596,
         "number_of_employees": 6546,
         "ml_direction": 1,
-        "ml_value": 36.529011218623424,
+        "ml_value": 36.529654213095384,
         "ml_last_change_date": "2026-02-13",
         "ml_last_change_price": 38,
         "ml_change_percent_from_last_change": 1.6842089201274613

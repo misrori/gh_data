@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IBIT",
         "name": "iShares Bitcoin Trust",
-        "collected_at": "2026-04-03T00:10:34.061Z",
+        "collected_at": "2026-04-04T00:10:19.476Z",
         "data_start_date": "2024-01-11",
         "price": 37.970001220703125,
         "change": -1.7339497399805948,
-        "volume": 33755911,
+        "volume": 34264400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 148,

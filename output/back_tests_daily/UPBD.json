@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UPBD",
         "name": "Upbound Group, Inc.",
-        "collected_at": "2026-04-03T00:08:39.076Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:26.766Z",
+        "data_start_date": "2016-04-06",
         "price": 17.530000686645508,
         "change": -1.9574859650389809,
-        "volume": 768760,
+        "volume": 782300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.2982,
         "number_of_employees": 12050,
         "ml_direction": -1,
-        "ml_value": 20.072689047910174,
+        "ml_value": 20.072046053438218,
         "ml_last_change_date": "2026-03-09",
         "ml_last_change_price": 18.969999313354492,
         "ml_change_percent_from_last_change": -7.590926087673888

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NEXA",
         "name": "Nexa Resources S.A.",
-        "collected_at": "2026-04-03T00:07:48.404Z",
+        "collected_at": "2026-04-04T00:07:36.464Z",
         "data_start_date": "2017-10-27",
         "price": 11.069999694824219,
         "change": 0.7279338068440668,
-        "volume": 230584,
+        "volume": 257300,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 10,

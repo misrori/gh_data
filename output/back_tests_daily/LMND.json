@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LMND",
         "name": "Lemonade, Inc.",
-        "collected_at": "2026-04-03T00:04:59.766Z",
+        "collected_at": "2026-04-04T00:04:48.607Z",
         "data_start_date": "2020-07-02",
         "price": 61.470001220703125,
         "change": 0.6549885833924558,
-        "volume": 1243459,
+        "volume": 1243800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 35,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HAYW",
         "name": "Hayward Holdings, Inc.",
-        "collected_at": "2026-04-03T00:06:12.241Z",
+        "collected_at": "2026-04-04T00:06:00.654Z",
         "data_start_date": "2021-03-12",
         "price": 13.380000114440918,
         "change": -0.8154162975803254,
-        "volume": 1536095,
+        "volume": 1782200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 24,

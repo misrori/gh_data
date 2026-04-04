@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HRI",
         "name": "Herc Holdings Inc.",
-        "collected_at": "2026-04-03T00:06:05.447Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:53.751Z",
+        "data_start_date": "2016-04-06",
         "price": 91.04000091552734,
         "change": -3.17983399190244,
-        "volume": 899156,
+        "volume": 1007200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 23,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.1739,
         "number_of_employees": 9600,
         "ml_direction": -1,
-        "ml_value": 112.54127339653407,
+        "ml_value": 112.5567023210946,
         "ml_last_change_date": "2026-02-17",
         "ml_last_change_price": 148.44000244140625,
         "ml_change_percent_from_last_change": -38.66882281178648

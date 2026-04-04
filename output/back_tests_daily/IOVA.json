@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IOVA",
         "name": "Iovance Biotherapeutics, Inc.",
-        "collected_at": "2026-04-03T00:07:54.063Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:07:41.351Z",
+        "data_start_date": "2016-04-06",
         "price": 3.430000066757202,
         "change": -0.5797095840604812,
-        "volume": 7328135,
+        "volume": 7803500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 101,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.1209,
         "number_of_employees": 975,
         "ml_direction": -1,
-        "ml_value": 4.39467939365148,
+        "ml_value": 4.395322234854352,
         "ml_last_change_date": "2026-03-12",
         "ml_last_change_price": 4.199999809265137,
         "ml_change_percent_from_last_change": -18.33332803514245

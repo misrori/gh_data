@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACLX",
         "name": "Arcellx, Inc.",
-        "collected_at": "2026-04-03T00:04:11.611Z",
+        "collected_at": "2026-04-04T00:04:00.215Z",
         "data_start_date": "2022-02-04",
         "price": 114.7699966430664,
         "change": 0.01742626846745643,
-        "volume": 1209104,
+        "volume": 1212200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 37,

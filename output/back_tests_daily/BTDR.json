@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BTDR",
         "name": "Bitdeer Technologies Group",
-        "collected_at": "2026-04-03T00:07:14.542Z",
+        "collected_at": "2026-04-04T00:07:03.754Z",
         "data_start_date": "2021-07-28",
         "price": 9.345000267028809,
         "change": 0.05353441498105925,
-        "volume": 4426182,
+        "volume": 5842100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 128,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BMNR",
         "name": "BitMine Immersion Technologies, Inc.",
-        "collected_at": "2026-04-03T00:03:37.241Z",
+        "collected_at": "2026-04-04T00:03:25.979Z",
         "data_start_date": "2025-06-05",
         "price": 19.450000762939453,
         "change": -1.218891643517422,
-        "volume": 39557492,
+        "volume": 39700000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 136,

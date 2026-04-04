@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRBG",
         "name": "Corebridge Financial Inc.",
-        "collected_at": "2026-04-03T00:03:12.326Z",
+        "collected_at": "2026-04-04T00:02:59.461Z",
         "data_start_date": "2022-09-16",
         "price": 24.010000228881836,
         "change": -0.49730184856315307,
-        "volume": 4019908,
+        "volume": 4485500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 38,

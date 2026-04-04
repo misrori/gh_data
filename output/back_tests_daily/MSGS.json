@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MSGS",
         "name": "Madison Square Garden Sports Corp.",
-        "collected_at": "2026-04-03T00:04:18.682Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:04:07.338Z",
+        "data_start_date": "2016-04-06",
         "price": 324.510009765625,
         "change": 1.8294267678658742,
-        "volume": 169665,
+        "volume": 188700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 203,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.6888,
         "number_of_employees": 1007,
         "ml_direction": 1,
-        "ml_value": 293.7943926092087,
+        "ml_value": 293.7918225931652,
         "ml_last_change_date": "2025-12-11",
         "ml_last_change_price": 237,
         "ml_change_percent_from_last_change": 36.92405475342826

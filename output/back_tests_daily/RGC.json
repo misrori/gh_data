@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RGC",
         "name": "Regencell Bioscience Holdings Limited",
-        "collected_at": "2026-04-03T00:02:46.984Z",
+        "collected_at": "2026-04-04T00:02:34.516Z",
         "data_start_date": "2021-07-16",
         "price": 30.799999237060547,
         "change": -8.659554798146862,
-        "volume": 327142,
+        "volume": 330000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 0,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 22.475341036377237,
         "ml_last_change_date": "2026-04-01",
-        "ml_last_change_price": 32.900001525878906,
-        "ml_change_percent_from_last_change": -6.382985384260587
+        "ml_last_change_price": 32.060001373291016,
+        "ml_change_percent_from_last_change": -3.9301374992459226
     }
 }

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BLCO",
         "name": "Bausch + Lomb Corporation",
-        "collected_at": "2026-04-03T00:04:28.478Z",
+        "collected_at": "2026-04-04T00:04:17.098Z",
         "data_start_date": "2022-05-06",
         "price": 16.489999771118164,
         "change": -1.1390919099603392,
-        "volume": 303164,
+        "volume": 350400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 2,

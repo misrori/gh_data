@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PNTG",
         "name": "The Pennant Group, Inc.",
-        "collected_at": "2026-04-03T00:08:37.556Z",
+        "collected_at": "2026-04-04T00:08:25.207Z",
         "data_start_date": "2019-10-01",
         "price": 29.65999984741211,
         "change": -2.2734778431136324,
-        "volume": 249226,
+        "volume": 250800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 133,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.8557,
         "number_of_employees": 9700,
         "ml_direction": -1,
-        "ml_value": 33.5631579766705,
+        "ml_value": 33.57280085016206,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 29.65999984741211,
         "ml_change_percent_from_last_change": 0

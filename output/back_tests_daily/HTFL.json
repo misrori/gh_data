@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HTFL",
         "name": "Heartflow, Inc.",
-        "collected_at": "2026-04-03T00:06:55.905Z",
+        "collected_at": "2026-04-04T00:06:44.076Z",
         "data_start_date": "2025-08-11",
         "price": 24.829999923706055,
         "change": 1.3469384641063458,
-        "volume": 1809564,
+        "volume": 1818100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 58,

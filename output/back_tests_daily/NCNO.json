@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NCNO",
         "name": "nCino, Inc.",
-        "collected_at": "2026-04-03T00:07:07.132Z",
+        "collected_at": "2026-04-04T00:06:55.437Z",
         "data_start_date": "2020-07-14",
         "price": 17.100000381469727,
         "change": 3.198555802092489,
-        "volume": 4543414,
+        "volume": 4595700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 176,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.1874,
         "number_of_employees": 1833,
         "ml_direction": 1,
-        "ml_value": 13.833556611716283,
+        "ml_value": 13.833513696372044,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 17.100000381469727,
         "ml_change_percent_from_last_change": 0

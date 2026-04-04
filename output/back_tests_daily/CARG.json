@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CARG",
         "name": "CarGurus, Inc.",
-        "collected_at": "2026-04-03T00:06:21.645Z",
+        "collected_at": "2026-04-04T00:06:10.469Z",
         "data_start_date": "2017-10-12",
         "price": 33.33000183105469,
         "change": -0.6557299881033745,
-        "volume": 891504,
+        "volume": 912300,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 8,

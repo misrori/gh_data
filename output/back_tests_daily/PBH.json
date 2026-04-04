@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PBH",
         "name": "Prestige Consumer Healthcare Inc.",
-        "collected_at": "2026-04-03T00:06:32.791Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:06:21.729Z",
+        "data_start_date": "2016-04-06",
         "price": 52.47999954223633,
         "change": -9.01525786308438,
-        "volume": 1449499,
+        "volume": 1594900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 7,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.8052,
         "number_of_employees": 600,
         "ml_direction": -1,
-        "ml_value": 61.309586669168006,
+        "ml_value": 61.309599911617084,
         "ml_last_change_date": "2026-03-12",
         "ml_last_change_price": 62.369998931884766,
         "ml_change_percent_from_last_change": -15.856981816609395

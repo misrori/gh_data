@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BG",
         "name": "Bunge Limited",
-        "collected_at": "2026-04-03T00:01:59.625Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:55.635Z",
+        "data_start_date": "2016-04-06",
         "price": 129.4199981689453,
         "change": 0.8572247365504579,
-        "volume": 923641,
+        "volume": 1272700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 84,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.4741,
         "number_of_employees": 34000,
         "ml_direction": 1,
-        "ml_value": 115.96215702348921,
+        "ml_value": 115.96178427307069,
         "ml_last_change_date": "2026-01-08",
         "ml_last_change_price": 98.91000366210938,
         "ml_change_percent_from_last_change": 30.846217144084243

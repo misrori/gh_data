@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TBBB",
         "name": "BBB Foods Inc.",
-        "collected_at": "2026-04-03T00:06:44.202Z",
+        "collected_at": "2026-04-04T00:06:32.588Z",
         "data_start_date": "2024-02-09",
         "price": 36.290000915527344,
         "change": 3.8935030016305014,
-        "volume": 714192,
+        "volume": 765100,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 17,

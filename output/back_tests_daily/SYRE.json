@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYRE",
         "name": "Spyre Therapeutics, Inc.",
-        "collected_at": "2026-04-03T00:05:31.252Z",
+        "collected_at": "2026-04-04T00:05:21.016Z",
         "data_start_date": "2016-04-07",
         "price": 47.58000183105469,
         "change": -2.6993857947543156,
-        "volume": 438009,
+        "volume": 438000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 175,

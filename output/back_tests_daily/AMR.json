@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMR",
         "name": "Alpha Metallurgical Resources, Inc.",
-        "collected_at": "2026-04-03T00:06:22.893Z",
+        "collected_at": "2026-04-04T00:06:11.582Z",
         "data_start_date": "2021-02-08",
         "price": 209.30999755859375,
         "change": 5.5362252942912065,
-        "volume": 177653,
+        "volume": 206200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 7,

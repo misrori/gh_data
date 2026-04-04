@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IDA",
         "name": "IDACORP, Inc.",
-        "collected_at": "2026-04-03T00:03:52.380Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:40.774Z",
+        "data_start_date": "2016-04-06",
         "price": 144.27000427246094,
         "change": 0.3198711645063223,
-        "volume": 200231,
+        "volume": 431200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 76,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.9636,
         "number_of_employees": 2174,
         "ml_direction": 1,
-        "ml_value": 136.02087990024654,
+        "ml_value": 136.01766574532186,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 144.27000427246094,
         "ml_change_percent_from_last_change": 0

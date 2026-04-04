@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SOLV",
         "name": "Solventum Corporation",
-        "collected_at": "2026-04-03T00:03:17.532Z",
+        "collected_at": "2026-04-04T00:03:05.668Z",
         "data_start_date": "2024-03-26",
         "price": 63.56999969482422,
         "change": -1.2121193438886533,
-        "volume": 800006,
+        "volume": 1046600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 38,

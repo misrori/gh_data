@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ETOR",
         "name": "eToro Group Ltd.",
-        "collected_at": "2026-04-03T00:07:05.058Z",
+        "collected_at": "2026-04-04T00:06:53.497Z",
         "data_start_date": "2025-05-13",
         "price": 29.8799991607666,
         "change": -0.43319249291481315,
-        "volume": 731513,
+        "volume": 736000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 273,

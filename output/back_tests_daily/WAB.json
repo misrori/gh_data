@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WAB",
         "name": "Westinghouse Air Brake Technologies Corporation",
-        "collected_at": "2026-04-03T00:01:25.478Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:21.333Z",
+        "data_start_date": "2016-04-06",
         "price": 253.91000366210938,
         "change": -0.8280260622955279,
-        "volume": 842737,
+        "volume": 979100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 155,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 235.21043445214153,
         "ml_last_change_date": "2026-04-01",
-        "ml_last_change_price": 252.1649932861328,
-        "ml_change_percent_from_last_change": 0.6920113506780456
+        "ml_last_change_price": 252.1699981689453,
+        "ml_change_percent_from_last_change": 0.6900128904304914
     }
 }

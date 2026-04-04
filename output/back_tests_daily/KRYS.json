@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KRYS",
         "name": "Krystal Biotech, Inc.",
-        "collected_at": "2026-04-03T00:03:55.920Z",
+        "collected_at": "2026-04-04T00:03:44.593Z",
         "data_start_date": "2017-09-20",
         "price": 260.95001220703125,
         "change": 0.7879218709463962,
-        "volume": 201157,
+        "volume": 203800,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 15,

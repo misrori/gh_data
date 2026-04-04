@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPNT",
         "name": "SiriusPoint Ltd.",
-        "collected_at": "2026-04-03T00:06:27.171Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:06:15.923Z",
+        "data_start_date": "2016-04-06",
         "price": 22.190000534057617,
         "change": 2.636446219696029,
-        "volume": 572374,
+        "volume": 700800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 8,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.7999,
         "number_of_employees": 1099,
         "ml_direction": 1,
-        "ml_value": 20.065292270893583,
+        "ml_value": 20.036363895649444,
         "ml_last_change_date": "2026-02-19",
         "ml_last_change_price": 22.110000610351562,
         "ml_change_percent_from_last_change": 0.3618268724452145

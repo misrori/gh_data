@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TARS",
         "name": "Tarsus Pharmaceuticals, Inc.",
-        "collected_at": "2026-04-03T00:06:07.267Z",
+        "collected_at": "2026-04-04T00:05:55.918Z",
         "data_start_date": "2020-10-16",
         "price": 70.12000274658203,
         "change": -0.1424073944499035,
-        "volume": 363202,
+        "volume": 370800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 20,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OKLO",
         "name": "Oklo Inc.",
-        "collected_at": "2026-04-03T00:03:44.568Z",
+        "collected_at": "2026-04-04T00:03:33.136Z",
         "data_start_date": "2021-07-08",
         "price": 48.130001068115234,
         "change": 0.1248208314373592,
-        "volume": 5506121,
+        "volume": 5533400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 106,

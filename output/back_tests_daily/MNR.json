@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MNR",
         "name": "Mach Natural Resources LP",
-        "collected_at": "2026-04-03T00:06:37.445Z",
+        "collected_at": "2026-04-04T00:06:26.184Z",
         "data_start_date": "2023-10-25",
         "price": 14.0600004196167,
         "change": 2.777778552367036,
-        "volume": 165820,
+        "volume": 173000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 42,

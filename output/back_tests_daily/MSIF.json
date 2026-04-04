@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MSIF",
         "name": "MSC Income Fund, Inc.",
-        "collected_at": "2026-04-03T00:09:53.231Z",
+        "collected_at": "2026-04-04T00:09:39.686Z",
         "data_start_date": "2025-01-29",
         "price": 12.350000381469727,
         "change": 1.1466039548350468,
-        "volume": 209803,
+        "volume": 253300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 85,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SPHR",
         "name": "Sphere Entertainment Co.",
-        "collected_at": "2026-04-03T00:05:36.604Z",
+        "collected_at": "2026-04-04T00:05:25.843Z",
         "data_start_date": "2020-04-09",
         "price": 127.22000122070312,
         "change": 6.184795770891716,
-        "volume": 902770,
+        "volume": 902800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 296,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.9333,
         "number_of_employees": 1100,
         "ml_direction": 1,
-        "ml_value": 106.19652551259547,
+        "ml_value": 106.19651276060748,
         "ml_last_change_date": "2025-08-28",
         "ml_last_change_price": 45.869998931884766,
         "ml_change_percent_from_last_change": 177.34903898650634

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "XPEL",
         "name": "XPEL, Inc.",
-        "collected_at": "2026-04-03T00:08:16.300Z",
+        "collected_at": "2026-04-04T00:08:04.314Z",
         "data_start_date": "2019-07-01",
         "price": 44.15999984741211,
         "change": -1.2301481733904938,
-        "volume": 263882,
+        "volume": 264900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 21,

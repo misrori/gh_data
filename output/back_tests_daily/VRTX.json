@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VRTX",
         "name": "Vertex Pharmaceuticals Incorporated",
-        "collected_at": "2026-04-03T00:00:40.794Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:00:37.815Z",
+        "data_start_date": "2016-04-06",
         "price": 438.7099914550781,
         "change": -1.911643814305529,
-        "volume": 1242833,
+        "volume": 1244900,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 7,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 15.4674,
         "number_of_employees": 6400,
         "ml_direction": -1,
-        "ml_value": 478.7859525159021,
+        "ml_value": 478.79559694252043,
         "ml_last_change_date": "2026-03-18",
         "ml_last_change_price": 454.5,
         "ml_change_percent_from_last_change": -3.47414929481229

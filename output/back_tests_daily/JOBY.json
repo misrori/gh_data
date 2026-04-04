@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JOBY",
         "name": "Joby Aviation, Inc.",
-        "collected_at": "2026-04-03T00:03:44.879Z",
+        "collected_at": "2026-04-04T00:03:33.465Z",
         "data_start_date": "2020-11-09",
         "price": 8.5,
         "change": 2.781130949278367,
-        "volume": 22285848,
+        "volume": 23369500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 69,

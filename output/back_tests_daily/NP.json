@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NP",
         "name": "Neptune Insurance Holdings Inc.",
-        "collected_at": "2026-04-03T00:06:37.310Z",
+        "collected_at": "2026-04-04T00:06:25.863Z",
         "data_start_date": "2025-10-01",
         "price": 25.049999237060547,
         "change": 3.0864198499897726,
-        "volume": 286222,
+        "volume": 419500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 58,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": 62,
         "ml_direction": 1,
-        "ml_value": 20.69853561239111,
+        "ml_value": 20.695964124964355,
         "ml_last_change_date": "2026-03-17",
         "ml_last_change_price": 23.1299991607666,
         "ml_change_percent_from_last_change": 8.300908542835895

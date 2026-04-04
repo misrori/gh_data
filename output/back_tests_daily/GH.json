@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GH",
         "name": "Guardant Health, Inc.",
-        "collected_at": "2026-04-03T00:03:07.455Z",
+        "collected_at": "2026-04-04T00:02:54.297Z",
         "data_start_date": "2018-10-04",
         "price": 93.83000183105469,
         "change": 2.940208733199952,
-        "volume": 1724792,
+        "volume": 1743900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

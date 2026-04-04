@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MMS",
         "name": "Maximus, Inc.",
-        "collected_at": "2026-04-03T00:05:46.021Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:34.834Z",
+        "data_start_date": "2016-04-06",
         "price": 62.380001068115234,
         "change": -0.28772426666318696,
-        "volume": 975243,
+        "volume": 975200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 44,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.6158,
         "number_of_employees": 37200,
         "ml_direction": -1,
-        "ml_value": 70.13891100205375,
+        "ml_value": 70.1395539965257,
         "ml_last_change_date": "2026-02-05",
         "ml_last_change_price": 78.86000061035156,
         "ml_change_percent_from_last_change": -20.897792815985706

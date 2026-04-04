@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GSAT",
         "name": "Globalstar, Inc.",
-        "collected_at": "2026-04-03T00:03:26.229Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:14.389Z",
+        "data_start_date": "2016-04-06",
         "price": 77.7300033569336,
         "change": 13.42478438860861,
-        "volume": 4824821,
+        "volume": 4852700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 8,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.1517,
         "number_of_employees": 477,
         "ml_direction": 1,
-        "ml_value": 61.69354418244234,
+        "ml_value": 61.693521294258744,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 77.7300033569336,
         "ml_change_percent_from_last_change": 0

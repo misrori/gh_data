@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZGN",
         "name": "Ermenegildo Zegna N.V.",
-        "collected_at": "2026-04-03T00:06:22.700Z",
+        "collected_at": "2026-04-04T00:06:11.400Z",
         "data_start_date": "2021-12-20",
         "price": 10.550000190734863,
         "change": -2.8545071431174525,
-        "volume": 634592,
+        "volume": 732500,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 15,

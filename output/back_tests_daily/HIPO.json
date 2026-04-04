@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HIPO",
         "name": "Hippo Holdings Inc.",
-        "collected_at": "2026-04-03T00:09:32.009Z",
+        "collected_at": "2026-04-04T00:09:19.170Z",
         "data_start_date": "2021-01-11",
         "price": 25.860000610351562,
         "change": 1.2925966111652885,
-        "volume": 59526,
+        "volume": 74800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 114,

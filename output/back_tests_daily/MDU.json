@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MDU",
         "name": "MDU Resources Group, Inc.",
-        "collected_at": "2026-04-03T00:05:07.645Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:04:56.520Z",
+        "data_start_date": "2016-04-06",
         "price": 21.31999969482422,
         "change": 1.3789776448408124,
-        "volume": 734764,
+        "volume": 1288400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 183,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.9318,
         "number_of_employees": 2096,
         "ml_direction": 1,
-        "ml_value": 19.92766588279723,
+        "ml_value": 19.91052304200307,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 21.31999969482422,
         "ml_change_percent_from_last_change": 0

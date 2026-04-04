@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WRBY",
         "name": "Warby Parker Inc.",
-        "collected_at": "2026-04-03T00:06:51.618Z",
+        "collected_at": "2026-04-04T00:06:40.280Z",
         "data_start_date": "2021-09-29",
         "price": 20.290000915527344,
         "change": -5.23119542207817,
-        "volume": 2367233,
+        "volume": 2367300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

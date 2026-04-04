@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KODK",
         "name": "Eastman Kodak Company",
-        "collected_at": "2026-04-03T00:08:29.205Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:16.921Z",
+        "data_start_date": "2016-04-06",
         "price": 11.25,
         "change": 20.320850706014756,
-        "volume": 6583857,
+        "volume": 6611300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 8,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.6796,
         "number_of_employees": 3500,
         "ml_direction": 1,
-        "ml_value": 8.682551239811199,
+        "ml_value": 8.681265618713088,
         "ml_last_change_date": "2026-03-17",
         "ml_last_change_price": 7.590000152587891,
         "ml_change_percent_from_last_change": 48.22134089370464

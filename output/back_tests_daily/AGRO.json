@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AGRO",
         "name": "Adecoagro S.A.",
-        "collected_at": "2026-04-03T00:06:53.048Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:06:41.266Z",
+        "data_start_date": "2016-04-06",
         "price": 15.220000267028809,
         "change": 2.629806779023178,
-        "volume": 1250657,
+        "volume": 1306100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 70,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.0343,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 12.550009546235522,
+        "ml_value": 12.548723802522144,
         "ml_last_change_date": "2026-01-09",
         "ml_last_change_price": 8.380000114440918,
         "ml_change_percent_from_last_change": 81.62291240069071

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CTVA",
         "name": "Corteva, Inc.",
-        "collected_at": "2026-04-03T00:01:11.991Z",
+        "collected_at": "2026-04-04T00:01:07.650Z",
         "data_start_date": "2019-05-24",
         "price": 85.45999908447266,
         "change": 1.968740691974543,
-        "volume": 3652995,
+        "volume": 3669600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 83,

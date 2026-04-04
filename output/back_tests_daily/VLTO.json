@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VLTO",
         "name": "Veralto Corp",
-        "collected_at": "2026-04-03T00:02:11.177Z",
+        "collected_at": "2026-04-04T00:02:07.550Z",
         "data_start_date": "2023-10-04",
         "price": 88.01000213623047,
         "change": -0.056774271802602624,
-        "volume": 1051323,
+        "volume": 1782600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 63,

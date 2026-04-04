@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CBIO",
         "name": "Crescent Biopharma, Inc.",
-        "collected_at": "2026-04-03T00:10:03.614Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:49.638Z",
+        "data_start_date": "2016-04-06",
         "price": 19.399999618530273,
         "change": 0.4140782865927606,
-        "volume": 208386,
+        "volume": 209000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 2,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -15.35,
         "number_of_employees": 44,
         "ml_direction": 1,
-        "ml_value": 14.834628823657578,
+        "ml_value": 14.830771592517442,
         "ml_last_change_date": "2026-02-19",
         "ml_last_change_price": 11.489999771118164,
         "ml_change_percent_from_last_change": 68.84247175787661

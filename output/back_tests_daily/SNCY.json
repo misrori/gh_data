@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SNCY",
         "name": "Sun Country Airlines Holdings, Inc.",
-        "collected_at": "2026-04-03T00:08:53.179Z",
+        "collected_at": "2026-04-04T00:08:40.926Z",
         "data_start_date": "2021-03-17",
         "price": 16.850000381469727,
         "change": -0.05931333641646538,
-        "volume": 660793,
+        "volume": 664900,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 15,

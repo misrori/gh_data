@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GPRE",
         "name": "Green Plains, Inc.",
-        "collected_at": "2026-04-03T00:08:18.910Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:07.050Z",
+        "data_start_date": "2016-04-06",
         "price": 16.959999084472656,
         "change": 4.497840806073994,
-        "volume": 2127674,
+        "volume": 2154600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 80,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.8818,
         "number_of_employees": 642,
         "ml_direction": 1,
-        "ml_value": 13.916023608866507,
+        "ml_value": 13.915380859625087,
         "ml_last_change_date": "2026-01-13",
         "ml_last_change_price": 11.279999732971191,
         "ml_change_percent_from_last_change": 50.354605372010354

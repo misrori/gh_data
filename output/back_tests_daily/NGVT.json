@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NGVT",
         "name": "Ingevity Corporation",
-        "collected_at": "2026-04-03T00:06:30.816Z",
+        "collected_at": "2026-04-04T00:06:19.559Z",
         "data_start_date": "2016-05-03",
         "price": 71.08999633789062,
         "change": -1.6463786130376938,
-        "volume": 215834,
+        "volume": 250200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 112,

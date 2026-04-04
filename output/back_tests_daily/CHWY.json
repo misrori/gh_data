@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CHWY",
         "name": "Chewy, Inc.",
-        "collected_at": "2026-04-03T00:04:16.690Z",
+        "collected_at": "2026-04-04T00:04:05.410Z",
         "data_start_date": "2019-06-14",
         "price": 26.8700008392334,
         "change": 0.9391434715191372,
-        "volume": 5709744,
+        "volume": 6478800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 199,

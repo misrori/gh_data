@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MEDP",
         "name": "Medpace Holdings, Inc.",
-        "collected_at": "2026-04-03T00:02:51.308Z",
+        "collected_at": "2026-04-04T00:02:38.592Z",
         "data_start_date": "2016-08-11",
         "price": 498.3399963378906,
         "change": 1.8100811376769321,
-        "volume": 284409,
+        "volume": 284400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 48,

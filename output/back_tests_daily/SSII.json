@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SSII",
         "name": "SS Innovations International Inc.",
-        "collected_at": "2026-04-03T00:08:44.589Z",
+        "collected_at": "2026-04-04T00:08:31.850Z",
         "data_start_date": "2024-08-07",
         "price": 5,
         "change": 3.0927855323080777,
-        "volume": 48570,
+        "volume": 48600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 128,

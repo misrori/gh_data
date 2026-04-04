@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MAX",
         "name": "MediaAlpha, Inc.",
-        "collected_at": "2026-04-03T00:10:05.817Z",
+        "collected_at": "2026-04-04T00:09:51.422Z",
         "data_start_date": "2020-10-28",
         "price": 9.359999656677246,
         "change": 3.083697525593237,
-        "volume": 722400,
+        "volume": 864200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 70,

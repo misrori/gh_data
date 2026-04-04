@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FWRG",
         "name": "First Watch Restaurant Group, Inc.",
-        "collected_at": "2026-04-03T00:09:33.219Z",
+        "collected_at": "2026-04-04T00:09:20.445Z",
         "data_start_date": "2021-10-01",
         "price": 10.760000228881836,
         "change": -1.6453323437436391,
-        "volume": 1358377,
+        "volume": 1370000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 44,

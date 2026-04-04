@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FDS",
         "name": "FactSet Research Systems Inc.",
-        "collected_at": "2026-04-03T00:03:44.085Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:32.664Z",
+        "data_start_date": "2016-04-06",
         "price": 227.67999267578125,
         "change": 1.2541101386530316,
-        "volume": 848859,
+        "volume": 1012300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 65,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 15.8764,
         "number_of_employees": 12800,
         "ml_direction": 1,
-        "ml_value": 196.3082453259809,
+        "ml_value": 196.30792358351437,
         "ml_last_change_date": "2026-04-01",
         "ml_last_change_price": 225.0500030517578,
         "ml_change_percent_from_last_change": 1.1686245671450157

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SHLS",
         "name": "Shoals Technologies Group, Inc.",
-        "collected_at": "2026-04-03T00:08:22.839Z",
+        "collected_at": "2026-04-04T00:08:10.285Z",
         "data_start_date": "2021-01-28",
         "price": 6.820000171661377,
         "change": -1.1594191681209625,
-        "volume": 5288949,
+        "volume": 5289500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 30,

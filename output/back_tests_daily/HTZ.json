@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HTZ",
         "name": "Hertz Global Holdings, Inc",
-        "collected_at": "2026-04-03T00:07:33.984Z",
+        "collected_at": "2026-04-04T00:07:22.323Z",
         "data_start_date": "2021-07-01",
         "price": 5.110000133514404,
         "change": -1.3513455047095957,
-        "volume": 8107022,
+        "volume": 8124200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 63,

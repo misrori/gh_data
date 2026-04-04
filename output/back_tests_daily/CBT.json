@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CBT",
         "name": "Cabot Corporation",
-        "collected_at": "2026-04-03T00:05:22.717Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:11.725Z",
+        "data_start_date": "2016-04-06",
         "price": 75.93000030517578,
         "change": 0.850045665913185,
-        "volume": 284177,
+        "volume": 342700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 2,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.73,
         "number_of_employees": 4064,
         "ml_direction": 1,
-        "ml_value": 69.26604509478642,
+        "ml_value": 69.26283159380985,
         "ml_last_change_date": "2026-03-30",
         "ml_last_change_price": 75.9000015258789,
         "ml_change_percent_from_last_change": 0.039524082600506105

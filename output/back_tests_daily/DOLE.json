@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DOLE",
         "name": "Dole plc",
-        "collected_at": "2026-04-03T00:07:56.355Z",
+        "collected_at": "2026-04-04T00:07:44.136Z",
         "data_start_date": "2021-07-30",
         "price": 14.5600004196167,
         "change": 2.1037881200538178,
-        "volume": 450536,
+        "volume": 588500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 2,

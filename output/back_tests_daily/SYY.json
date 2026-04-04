@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYY",
         "name": "Sysco Corporation",
-        "collected_at": "2026-04-03T00:01:37.966Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:34.292Z",
+        "data_start_date": "2016-04-06",
         "price": 71.16000366210938,
         "change": -1.3994658895121563,
-        "volume": 6318183,
+        "volume": 6761300,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 3,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.7292,
         "number_of_employees": 75000,
         "ml_direction": -1,
-        "ml_value": 79.07204370197813,
+        "ml_value": 79.07205645396614,
         "ml_last_change_date": "2026-03-09",
         "ml_last_change_price": 84.44999694824219,
         "ml_change_percent_from_last_change": -15.737115176307226

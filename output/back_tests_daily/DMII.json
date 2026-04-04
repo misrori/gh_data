@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DMII",
         "name": "Drugs Made In America Acquisition II Corp.",
-        "collected_at": "2026-04-03T00:09:34.027Z",
+        "collected_at": "2026-04-04T00:09:21.082Z",
         "data_start_date": "2025-12-03",
         "price": 9.989999771118164,
         "change": 0,
-        "volume": 2949,
+        "volume": 3100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 78,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 9.939310860485588,
+        "ml_value": 9.938384522098106,
         "ml_last_change_date": "2026-04-01",
         "ml_last_change_price": 9.979999542236328,
         "ml_change_percent_from_last_change": 0.10020269880288701

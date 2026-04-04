@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TXG",
         "name": "10x Genomics, Inc.",
-        "collected_at": "2026-04-03T00:06:26.026Z",
+        "collected_at": "2026-04-04T00:06:14.664Z",
         "data_start_date": "2019-09-12",
         "price": 22.329999923706055,
         "change": 1.2698444278170156,
-        "volume": 1277134,
+        "volume": 1277400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 156,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": -0.3479,
         "number_of_employees": 1178,
         "ml_direction": 1,
-        "ml_value": 18.248250407448126,
+        "ml_value": 18.248237655460123,
         "ml_last_change_date": "2026-04-01",
-        "ml_last_change_price": 21.174999237060547,
-        "ml_change_percent_from_last_change": 5.4545488937918
+        "ml_last_change_price": 21.399999618530273,
+        "ml_change_percent_from_last_change": 4.345795896045224
     }
 }

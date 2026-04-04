@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BLX",
         "name": "Banco Latinoamericano de Comercio Exterior, S.A.",
-        "collected_at": "2026-04-03T00:07:44.535Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:07:32.260Z",
+        "data_start_date": "2016-04-06",
         "price": 52.279998779296875,
         "change": 1.4357738661711854,
-        "volume": 115163,
+        "volume": 115200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 69,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.1061,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 48.113945773399166,
+        "ml_value": 48.11458827741005,
         "ml_last_change_date": "2026-01-21",
         "ml_last_change_price": 46.279998779296875,
         "ml_change_percent_from_last_change": 12.964563868320745

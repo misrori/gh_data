@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASIX",
         "name": "AdvanSix Inc.",
-        "collected_at": "2026-04-03T00:09:29.834Z",
+        "collected_at": "2026-04-04T00:09:16.791Z",
         "data_start_date": "2016-09-15",
         "price": 25.31999969482422,
         "change": 0.8764912749439974,
-        "volume": 609535,
+        "volume": 673500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 37,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.8346,
         "number_of_employees": 1410,
         "ml_direction": 1,
-        "ml_value": 21.774823936229893,
+        "ml_value": 21.772252448803137,
         "ml_last_change_date": "2026-02-04",
         "ml_last_change_price": 18.040000915527344,
         "ml_change_percent_from_last_change": 40.354758369390396

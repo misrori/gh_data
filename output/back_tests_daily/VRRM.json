@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VRRM",
         "name": "Verra Mobility Corporation",
-        "collected_at": "2026-04-03T00:06:49.617Z",
+        "collected_at": "2026-04-04T00:06:38.157Z",
         "data_start_date": "2017-03-24",
         "price": 14.520000457763672,
         "change": 1.6095206194865497,
-        "volume": 2923514,
+        "volume": 2950000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 175,

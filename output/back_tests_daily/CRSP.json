@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRSP",
         "name": "CRISPR Therapeutics AG",
-        "collected_at": "2026-04-03T00:04:57.803Z",
+        "collected_at": "2026-04-04T00:04:46.478Z",
         "data_start_date": "2016-10-19",
         "price": 49.5099983215332,
         "change": 1.4341260572576586,
-        "volume": 1714521,
+        "volume": 1727900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 21,

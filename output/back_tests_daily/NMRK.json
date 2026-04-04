@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NMRK",
         "name": "Newmark Group, Inc.",
-        "collected_at": "2026-04-03T00:06:36.960Z",
+        "collected_at": "2026-04-04T00:06:25.512Z",
         "data_start_date": "2017-12-15",
         "price": 14.630000114440918,
         "change": -1.7461398447746173,
-        "volume": 1296618,
+        "volume": 1316300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 56,

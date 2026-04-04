@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ERAS",
         "name": "Erasca, Inc.",
-        "collected_at": "2026-04-03T00:04:36.269Z",
+        "collected_at": "2026-04-04T00:04:24.870Z",
         "data_start_date": "2021-07-16",
         "price": 17.809999465942383,
         "change": 7.289150943775614,
-        "volume": 5270087,
+        "volume": 5480000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 251,

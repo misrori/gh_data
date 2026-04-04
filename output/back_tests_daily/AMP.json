@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMP",
         "name": "Ameriprise Financial, Inc.",
-        "collected_at": "2026-04-03T00:01:30.486Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:26.617Z",
+        "data_start_date": "2016-04-06",
         "price": 433.94000244140625,
         "change": -0.6251885639909921,
-        "volume": 478613,
+        "volume": 619700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 31,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 36.905,
         "number_of_employees": 13600,
         "ml_direction": -1,
-        "ml_value": 475.97219375512685,
+        "ml_value": 476.0056235821358,
         "ml_last_change_date": "2026-02-11",
         "ml_last_change_price": 480.8699951171875,
         "ml_change_percent_from_last_change": -9.759393006907091

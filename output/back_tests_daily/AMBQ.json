@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMBQ",
         "name": "Ambiq Micro, Inc.",
-        "collected_at": "2026-04-03T00:09:43.536Z",
+        "collected_at": "2026-04-04T00:09:30.282Z",
         "data_start_date": "2025-07-30",
         "price": 28.530000686645508,
         "change": 5.9413307216421245,
-        "volume": 314889,
+        "volume": 340000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 27,

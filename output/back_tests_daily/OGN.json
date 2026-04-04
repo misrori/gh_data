@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OGN",
         "name": "Organon & Co.",
-        "collected_at": "2026-04-03T00:07:28.233Z",
+        "collected_at": "2026-04-04T00:07:16.526Z",
         "data_start_date": "2021-05-14",
         "price": 6.360000133514404,
         "change": 3.5830663161680496,
-        "volume": 3396689,
+        "volume": 3396700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 43,

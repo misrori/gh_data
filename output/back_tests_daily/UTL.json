@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UTL",
         "name": "UNITIL Corporation",
-        "collected_at": "2026-04-03T00:08:45.039Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:32.520Z",
+        "data_start_date": "2016-04-06",
         "price": 53.75,
         "change": 1.7029357651156933,
-        "volume": 66424,
+        "volume": 87600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 106,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.9867,
         "number_of_employees": 595,
         "ml_direction": 1,
-        "ml_value": 49.81132441207342,
+        "ml_value": 49.798467465400705,
         "ml_last_change_date": "2025-10-15",
         "ml_last_change_price": 48.369998931884766,
         "ml_change_percent_from_last_change": 11.12259910464628

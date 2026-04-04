@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FLGT",
         "name": "Fulgent Genetics, Inc.",
-        "collected_at": "2026-04-03T00:10:05.986Z",
+        "collected_at": "2026-04-04T00:09:51.592Z",
         "data_start_date": "2016-09-29",
         "price": 16.81999969482422,
         "change": 2.311430343200923,
-        "volume": 556226,
+        "volume": 556200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 44,

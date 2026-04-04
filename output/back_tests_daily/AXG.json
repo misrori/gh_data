@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AXG",
         "name": "Solowin Holdings",
-        "collected_at": "2026-04-03T00:09:50.178Z",
+        "collected_at": "2026-04-04T00:09:36.680Z",
         "data_start_date": "2023-09-07",
         "price": 3.680000066757202,
         "change": 4.249294520769534,
-        "volume": 688901,
+        "volume": 705000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 20,

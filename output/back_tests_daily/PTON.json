@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PTON",
         "name": "Peloton Interactive, Inc.",
-        "collected_at": "2026-04-03T00:07:12.442Z",
+        "collected_at": "2026-04-04T00:07:01.133Z",
         "data_start_date": "2019-09-26",
         "price": 4.579999923706055,
         "change": 6.511621408168819,
-        "volume": 10856540,
+        "volume": 10951300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 136,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.1264,
         "number_of_employees": 2656,
         "ml_direction": 1,
-        "ml_value": 3.5594007568356734,
+        "ml_value": 3.5572579528260997,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 4.579999923706055,
         "ml_change_percent_from_last_change": 0

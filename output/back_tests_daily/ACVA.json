@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ACVA",
         "name": "ACV Auctions Inc.",
-        "collected_at": "2026-04-03T00:09:15.430Z",
+        "collected_at": "2026-04-04T00:09:02.001Z",
         "data_start_date": "2021-03-24",
         "price": 4.360000133514404,
         "change": 2.107731920138374,
-        "volume": 2536791,
+        "volume": 2536800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 58,

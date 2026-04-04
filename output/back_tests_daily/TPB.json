@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TPB",
         "name": "Turning Point Brands, Inc.",
-        "collected_at": "2026-04-03T00:07:57.134Z",
+        "collected_at": "2026-04-04T00:07:44.697Z",
         "data_start_date": "2016-05-11",
         "price": 72.16000366210938,
         "change": -2.814809882680976,
-        "volume": 613807,
+        "volume": 613800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 15,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.2022,
         "number_of_employees": 484,
         "ml_direction": -1,
-        "ml_value": 91.67680558760297,
+        "ml_value": 91.67681833959097,
         "ml_last_change_date": "2026-03-02",
         "ml_last_change_price": 105.91999816894531,
         "ml_change_percent_from_last_change": -31.873107147328138

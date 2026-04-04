@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRC",
         "name": "Tejon Ranch Co",
-        "collected_at": "2026-04-03T00:10:07.543Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:53.053Z",
+        "data_start_date": "2016-04-06",
         "price": 19.200000762939453,
         "change": 1.212448381181778,
-        "volume": 43451,
+        "volume": 57600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 52,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.0026,
         "number_of_employees": 65,
         "ml_direction": 1,
-        "ml_value": 17.619893064199527,
+        "ml_value": 17.601893142673298,
         "ml_last_change_date": "2026-01-15",
         "ml_last_change_price": 16.770000457763672,
         "ml_change_percent_from_last_change": 14.49016242602912

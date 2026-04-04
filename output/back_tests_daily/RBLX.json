@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RBLX",
         "name": "Roblox Corporation",
-        "collected_at": "2026-04-03T00:01:30.280Z",
+        "collected_at": "2026-04-04T00:01:26.280Z",
         "data_start_date": "2021-03-10",
         "price": 60.11000061035156,
         "change": 4.303313371979841,
-        "volume": 9042664,
+        "volume": 10830300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 140,

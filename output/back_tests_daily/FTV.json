@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FTV",
         "name": "Fortive Corporation",
-        "collected_at": "2026-04-03T00:02:37.161Z",
+        "collected_at": "2026-04-04T00:02:26.374Z",
         "data_start_date": "2016-07-05",
         "price": 56.08000183105469,
         "change": 0.32200411495954984,
-        "volume": 1348693,
+        "volume": 1927700,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 8,

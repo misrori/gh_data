@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PGR",
         "name": "Progressive Corporation (The)",
-        "collected_at": "2026-04-03T00:00:40.156Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:00:36.975Z",
+        "data_start_date": "2016-04-06",
         "price": 195.25,
         "change": 0.977451067274798,
-        "volume": 1667819,
+        "volume": 2177500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 279,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 19.2913,
         "number_of_employees": 70053,
         "ml_direction": -1,
-        "ml_value": 209.99415730218035,
+        "ml_value": 209.99801624993424,
         "ml_last_change_date": "2026-01-02",
         "ml_last_change_price": 210.8000030517578,
         "ml_change_percent_from_last_change": -7.376661682466779

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DC",
         "name": "Dakota Gold Corp.",
-        "collected_at": "2026-04-03T00:09:25.535Z",
+        "collected_at": "2026-04-04T00:09:12.614Z",
         "data_start_date": "2022-04-05",
         "price": 5.230000019073486,
         "change": -1.5065899165373324,
-        "volume": 1037212,
+        "volume": 1097300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 7,

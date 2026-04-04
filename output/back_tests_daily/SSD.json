@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SSD",
         "name": "Simpson Manufacturing Company, Inc.",
-        "collected_at": "2026-04-03T00:04:07.281Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:56.224Z",
+        "data_start_date": "2016-04-06",
         "price": 166.3000030517578,
         "change": -2.7769657499291034,
-        "volume": 274114,
+        "volume": 308000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 2,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 8.2913,
         "number_of_employees": 5545,
         "ml_direction": -1,
-        "ml_value": 182.67210589622377,
+        "ml_value": 182.6727474193125,
         "ml_last_change_date": "2026-03-03",
         "ml_last_change_price": 191.25999450683594,
         "ml_change_percent_from_last_change": -13.050293930749856

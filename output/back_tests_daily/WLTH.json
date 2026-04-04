@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WLTH",
         "name": "Wealthfront Corporation",
-        "collected_at": "2026-04-03T00:07:51.394Z",
+        "collected_at": "2026-04-04T00:07:39.202Z",
         "data_start_date": "2025-12-15",
         "price": 9.569999694824219,
         "change": 1.3771199175799058,
-        "volume": 1173715,
+        "volume": 1368000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 65,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 7.894045707776439,
+        "ml_value": 7.894067165448559,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 9.569999694824219,
         "ml_change_percent_from_last_change": 0

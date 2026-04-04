@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PVH",
         "name": "PVH Corp.",
-        "collected_at": "2026-04-03T00:05:40.669Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:29.763Z",
+        "data_start_date": "2016-04-06",
         "price": 77.11000061035156,
         "change": 0.7183948136059931,
-        "volume": 1246918,
+        "volume": 1445400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.7418,
         "number_of_employees": 28000,
         "ml_direction": 1,
-        "ml_value": 66.92550188564562,
+        "ml_value": 66.9242158967017,
         "ml_last_change_date": "2026-03-31",
         "ml_last_change_price": 72.25,
         "ml_change_percent_from_last_change": 6.7266444433931705

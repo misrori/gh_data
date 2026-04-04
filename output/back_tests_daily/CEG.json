@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CEG",
         "name": "Constellation Energy Corporation",
-        "collected_at": "2026-04-03T00:00:46.509Z",
+        "collected_at": "2026-04-04T00:00:43.197Z",
         "data_start_date": "2022-01-19",
         "price": 272.82000732421875,
         "change": -2.3760052722705107,
-        "volume": 3199127,
+        "volume": 3256700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 76,

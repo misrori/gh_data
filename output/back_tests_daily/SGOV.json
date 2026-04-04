@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SGOV",
         "name": "iShares 0-3 Month Treasury Bond ETF",
-        "collected_at": "2026-04-03T00:10:29.993Z",
+        "collected_at": "2026-04-04T00:10:15.355Z",
         "data_start_date": "2020-06-01",
         "price": 100.43000030517578,
         "change": 0.03984551824936895,
-        "volume": 21789197,
+        "volume": 22593000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 14,

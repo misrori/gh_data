@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SGHC",
         "name": "Super Group (SGHC) Limited",
-        "collected_at": "2026-04-03T00:04:42.269Z",
+        "collected_at": "2026-04-04T00:04:30.775Z",
         "data_start_date": "2020-11-23",
         "price": 10.630000114440918,
         "change": -2.5664503839347748,
-        "volume": 2021371,
+        "volume": 2350400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 22,

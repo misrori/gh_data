@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AVO",
         "name": "Mission Produce, Inc.",
-        "collected_at": "2026-04-03T00:08:38.543Z",
+        "collected_at": "2026-04-04T00:08:26.144Z",
         "data_start_date": "2020-10-02",
         "price": 14.4399995803833,
         "change": 4.109586874745982,
-        "volume": 906976,
+        "volume": 907000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 2,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.4687,
         "number_of_employees": 3800,
         "ml_direction": 1,
-        "ml_value": 12.692480972207635,
+        "ml_value": 12.689266612924188,
         "ml_last_change_date": "2026-03-26",
         "ml_last_change_price": 13.579999923706055,
         "ml_change_percent_from_last_change": 6.332839922745359

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SARO",
         "name": "StandardAero, Inc.",
-        "collected_at": "2026-04-03T00:03:38.818Z",
+        "collected_at": "2026-04-04T00:03:27.872Z",
         "data_start_date": "2024-10-02",
         "price": 26.260000228881836,
         "change": 0.038096110026041664,
-        "volume": 1446744,
+        "volume": 2313200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 14,

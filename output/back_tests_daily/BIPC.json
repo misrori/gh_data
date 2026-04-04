@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BIPC",
         "name": "Brookfield Infrastructure Corporation",
-        "collected_at": "2026-04-03T00:04:56.488Z",
+        "collected_at": "2026-04-04T00:04:45.081Z",
         "data_start_date": "2020-03-31",
         "price": 40.16999816894531,
         "change": 1.5933162337651061,
-        "volume": 557003,
+        "volume": 674000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 9,

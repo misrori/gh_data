@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRDO",
         "name": "Credo Technology Group Holding Ltd",
-        "collected_at": "2026-04-03T00:02:30.899Z",
+        "collected_at": "2026-04-04T00:02:20.575Z",
         "data_start_date": "2022-01-27",
         "price": 101.44999694824219,
         "change": 5.765219854942873,
-        "volume": 5059996,
+        "volume": 5095800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 64,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BAM",
         "name": "Brookfield Asset Management Inc",
-        "collected_at": "2026-04-03T00:01:00.753Z",
+        "collected_at": "2026-04-04T00:00:56.803Z",
         "data_start_date": "2022-12-01",
         "price": 44.45000076293945,
         "change": 0.839380482112636,
-        "volume": 4755749,
+        "volume": 4924400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 168,

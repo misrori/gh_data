@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "THC",
         "name": "Tenet Healthcare Corporation",
-        "collected_at": "2026-04-03T00:02:41.503Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:30.208Z",
+        "data_start_date": "2016-04-06",
         "price": 188.1699981689453,
         "change": -1.1036979326013359,
-        "volume": 618745,
+        "volume": 618800,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 15.6079,
         "number_of_employees": 99000,
         "ml_direction": -1,
-        "ml_value": 213.94615296551942,
+        "ml_value": 213.94554871747255,
         "ml_last_change_date": "2026-03-17",
         "ml_last_change_price": 211.63999938964844,
         "ml_change_percent_from_last_change": -11.089586698350306

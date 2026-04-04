@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BHF",
         "name": "Brighthouse Financial, Inc.",
-        "collected_at": "2026-04-03T00:05:45.343Z",
+        "collected_at": "2026-04-04T00:05:34.198Z",
         "data_start_date": "2017-07-17",
         "price": 59.779998779296875,
         "change": 0.2515473897280306,
-        "volume": 467127,
+        "volume": 893300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 14,

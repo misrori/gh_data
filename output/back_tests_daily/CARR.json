@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CARR",
         "name": "Carrier Global Corporation",
-        "collected_at": "2026-04-03T00:01:22.372Z",
+        "collected_at": "2026-04-04T00:01:18.240Z",
         "data_start_date": "2020-03-19",
         "price": 55.709999084472656,
         "change": -2.091392635314817,
-        "volume": 4665029,
+        "volume": 5650300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1,

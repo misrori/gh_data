@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ESTA",
         "name": "Establishment Labs Holdings Inc.",
-        "collected_at": "2026-04-03T00:07:24.603Z",
+        "collected_at": "2026-04-04T00:07:12.768Z",
         "data_start_date": "2018-07-19",
         "price": 58.310001373291016,
         "change": -0.6643941815664602,
-        "volume": 274392,
+        "volume": 279400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,

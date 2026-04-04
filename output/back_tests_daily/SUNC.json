@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SUNC",
         "name": "SunocoCorp LLC",
-        "collected_at": "2026-04-03T00:06:26.560Z",
+        "collected_at": "2026-04-04T00:06:15.240Z",
         "data_start_date": "2025-11-06",
         "price": 60.90999984741211,
         "change": 0.7609579465128335,
-        "volume": 286596,
+        "volume": 313500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 79,

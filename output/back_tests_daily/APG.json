@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APG",
         "name": "APi Group Corporation",
-        "collected_at": "2026-04-03T00:02:34.689Z",
+        "collected_at": "2026-04-04T00:02:24.183Z",
         "data_start_date": "2020-04-29",
         "price": 42.029998779296875,
         "change": 1.203948987952427,
-        "volume": 2979174,
+        "volume": 2979200,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 10,

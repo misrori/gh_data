@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CVNA",
         "name": "Carvana Co.",
-        "collected_at": "2026-04-03T00:01:24.656Z",
+        "collected_at": "2026-04-04T00:01:20.399Z",
         "data_start_date": "2017-04-28",
         "price": 313.9100036621094,
         "change": 0.583167466299779,
-        "volume": 1993610,
+        "volume": 1994600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 38,

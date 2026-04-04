@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FROG",
         "name": "JFrog Ltd.",
-        "collected_at": "2026-04-03T00:04:23.472Z",
+        "collected_at": "2026-04-04T00:04:11.997Z",
         "data_start_date": "2020-09-16",
         "price": 50.61000061035156,
         "change": 4.43665201505916,
-        "volume": 2766190,
+        "volume": 2766700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 49,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.6194,
         "number_of_employees": 1800,
         "ml_direction": 1,
-        "ml_value": 40.85514934813778,
+        "ml_value": 40.853006850666375,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 50.61000061035156,
         "ml_change_percent_from_last_change": 0

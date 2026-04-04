@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UMAC",
         "name": "Unusual Machines, Inc.",
-        "collected_at": "2026-04-03T00:10:05.211Z",
+        "collected_at": "2026-04-04T00:09:50.848Z",
         "data_start_date": "2024-02-14",
         "price": 13.600000381469727,
         "change": 10.21069864912112,
-        "volume": 4766569,
+        "volume": 4783900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 87,

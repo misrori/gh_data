@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PSN",
         "name": "Parsons Corporation",
-        "collected_at": "2026-04-03T00:04:23.806Z",
+        "collected_at": "2026-04-04T00:04:12.357Z",
         "data_start_date": "2019-05-08",
         "price": 56.31999969482422,
         "change": 2.232709273605889,
-        "volume": 892858,
+        "volume": 1019000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 113,

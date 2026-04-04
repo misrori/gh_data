@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RAL",
         "name": "Ralliant Corporation",
-        "collected_at": "2026-04-03T00:04:59.907Z",
+        "collected_at": "2026-04-04T00:04:48.749Z",
         "data_start_date": "2025-06-25",
         "price": 42,
         "change": -1.4084471727988077,
-        "volume": 808465,
+        "volume": 944200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 43,

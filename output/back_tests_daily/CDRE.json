@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CDRE",
         "name": "Cadre Holdings, Inc.",
-        "collected_at": "2026-04-03T00:07:55.555Z",
+        "collected_at": "2026-04-04T00:07:43.227Z",
         "data_start_date": "2021-11-04",
         "price": 32.5099983215332,
         "change": 1.0568858313336904,
-        "volume": 451403,
+        "volume": 503500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 17,

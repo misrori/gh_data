@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MLAB",
         "name": "Mesa Laboratories, Inc.",
-        "collected_at": "2026-04-03T00:10:10.893Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:56.099Z",
+        "data_start_date": "2016-04-06",
         "price": 91.08000183105469,
         "change": 2.961793775376513,
-        "volume": 90737,
+        "volume": 91400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 16,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.6651,
         "number_of_employees": 730,
         "ml_direction": 1,
-        "ml_value": 78.83244861406305,
+        "ml_value": 78.82816198424999,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 91.08000183105469,
         "ml_change_percent_from_last_change": 0

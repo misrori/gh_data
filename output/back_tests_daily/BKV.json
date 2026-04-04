@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BKV",
         "name": "BKV Corporation",
-        "collected_at": "2026-04-03T00:06:07.648Z",
+        "collected_at": "2026-04-04T00:05:56.292Z",
         "data_start_date": "2024-09-26",
         "price": 27.6299991607666,
         "change": 1.4317158330593796,
-        "volume": 1003598,
+        "volume": 1260900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 149,

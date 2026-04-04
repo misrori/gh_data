@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JBS",
         "name": "JBS N.V.",
-        "collected_at": "2026-04-03T00:02:53.545Z",
+        "collected_at": "2026-04-04T00:02:40.888Z",
         "data_start_date": "2025-06-13",
         "price": 17.75,
         "change": -2.0419471418139956,
-        "volume": 3428315,
+        "volume": 3910300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 107,

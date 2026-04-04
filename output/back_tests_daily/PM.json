@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PM",
         "name": "Philip Morris International Inc",
-        "collected_at": "2026-04-03T00:00:22.202Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:00:19.461Z",
+        "data_start_date": "2016-04-06",
         "price": 158.10000610351562,
         "change": 0.48941985857712594,
-        "volume": 4452376,
+        "volume": 4565100,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 10,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 7.2689,
         "number_of_employees": 84900,
         "ml_direction": -1,
-        "ml_value": 172.87514746554558,
+        "ml_value": 172.88883917697135,
         "ml_last_change_date": "2026-03-05",
         "ml_last_change_price": 168.52000427246094,
         "ml_change_percent_from_last_change": -6.183241101809134

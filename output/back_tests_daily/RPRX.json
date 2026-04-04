@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RPRX",
         "name": "Royalty Pharma plc",
-        "collected_at": "2026-04-03T00:02:14.012Z",
+        "collected_at": "2026-04-04T00:02:10.189Z",
         "data_start_date": "2020-06-16",
         "price": 48.56999969482422,
         "change": 0.16497837407365362,
-        "volume": 2720082,
+        "volume": 2730400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 167,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.7851,
         "number_of_employees": 100,
         "ml_direction": 1,
-        "ml_value": 45.53352767535737,
+        "ml_value": 45.52838470050386,
         "ml_last_change_date": "2025-11-04",
         "ml_last_change_price": 36.599998474121094,
         "ml_change_percent_from_last_change": 32.7049227315318

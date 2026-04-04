@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JEPI",
         "name": "JPMorgan Equity Premium Income ETF",
-        "collected_at": "2026-04-03T00:10:37.005Z",
+        "collected_at": "2026-04-04T00:10:22.481Z",
         "data_start_date": "2020-05-21",
         "price": 56.45000076293945,
         "change": 0.07091103640408687,
-        "volume": 5011937,
+        "volume": 5043400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 8,

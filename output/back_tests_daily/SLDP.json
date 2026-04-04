@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SLDP",
         "name": "Solid Power, Inc.",
-        "collected_at": "2026-04-03T00:09:35.423Z",
+        "collected_at": "2026-04-04T00:09:22.409Z",
         "data_start_date": "2021-05-18",
         "price": 2.940000057220459,
         "change": 0,
-        "volume": 3740426,
+        "volume": 3766000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 57,

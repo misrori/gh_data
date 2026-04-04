@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NI",
         "name": "NiSource Inc",
-        "collected_at": "2026-04-03T00:02:06.589Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:02.606Z",
+        "data_start_date": "2016-04-06",
         "price": 47.4900016784668,
         "change": 1.257996020026428,
-        "volume": 1500295,
+        "volume": 1982400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 72,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.9612,
         "number_of_employees": 7738,
         "ml_direction": 1,
-        "ml_value": 44.74629586190312,
+        "ml_value": 44.738581399622845,
         "ml_last_change_date": "2026-01-14",
         "ml_last_change_price": 43.4900016784668,
         "ml_change_percent_from_last_change": 9.197516315527121

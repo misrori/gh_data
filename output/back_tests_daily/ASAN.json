@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASAN",
         "name": "Asana, Inc.",
-        "collected_at": "2026-04-03T00:08:36.894Z",
+        "collected_at": "2026-04-04T00:08:24.697Z",
         "data_start_date": "2020-09-30",
         "price": 6.369999885559082,
         "change": 0.6319109373639357,
-        "volume": 3261575,
+        "volume": 3572900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 85,

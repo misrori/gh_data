@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KYIV",
         "name": "Kyivstar Group Ltd.",
-        "collected_at": "2026-04-03T00:06:37.588Z",
+        "collected_at": "2026-04-04T00:06:26.324Z",
         "data_start_date": "2024-12-03",
         "price": 10.180000305175781,
         "change": 0.09833066673368332,
-        "volume": 443456,
+        "volume": 494200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 62,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AS",
         "name": "Amer Sports, Inc.",
-        "collected_at": "2026-04-03T00:02:26.618Z",
+        "collected_at": "2026-04-04T00:02:17.573Z",
         "data_start_date": "2024-02-01",
         "price": 33.400001525878906,
         "change": -1.358532416363947,
-        "volume": 2811105,
+        "volume": 2811100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 17,

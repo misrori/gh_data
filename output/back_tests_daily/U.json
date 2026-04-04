@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "U",
         "name": "Unity Software Inc.",
-        "collected_at": "2026-04-03T00:03:28.300Z",
+        "collected_at": "2026-04-04T00:03:16.626Z",
         "data_start_date": "2020-09-18",
         "price": 22.75,
         "change": 3.5974542279736834,
-        "volume": 17374891,
+        "volume": 17399800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 57,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.9562,
         "number_of_employees": 4412,
         "ml_direction": 1,
-        "ml_value": 17.91482665589453,
+        "ml_value": 17.91418366142257,
         "ml_last_change_date": "2026-03-31",
         "ml_last_change_price": 22.15999984741211,
         "ml_change_percent_from_last_change": 2.6624555805526917

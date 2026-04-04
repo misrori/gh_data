@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COUR",
         "name": "Coursera, Inc.",
-        "collected_at": "2026-04-03T00:08:41.968Z",
+        "collected_at": "2026-04-04T00:08:29.698Z",
         "data_start_date": "2021-03-31",
         "price": 5.909999847412109,
         "change": 1.0256400642336343,
-        "volume": 1698759,
+        "volume": 2212000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 155,

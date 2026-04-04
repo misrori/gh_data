@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KVUE",
         "name": "Kenvue Inc.",
-        "collected_at": "2026-04-03T00:01:39.819Z",
+        "collected_at": "2026-04-04T00:01:35.776Z",
         "data_start_date": "2023-05-04",
         "price": 17.139999389648438,
         "change": -1.3808963331824355,
-        "volume": 13127832,
+        "volume": 14787400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DOCN",
         "name": "DigitalOcean Holdings, Inc.",
-        "collected_at": "2026-04-03T00:03:46.452Z",
+        "collected_at": "2026-04-04T00:03:34.942Z",
         "data_start_date": "2021-03-24",
         "price": 90.01000213623047,
         "change": 2.6573925900376016,
-        "volume": 3493895,
+        "volume": 3576500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 217,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.8384,
         "number_of_employees": 1462,
         "ml_direction": 1,
-        "ml_value": 71.05853073886993,
+        "ml_value": 71.05724573084817,
         "ml_last_change_date": "2026-03-11",
         "ml_last_change_price": 68.44000244140625,
         "ml_change_percent_from_last_change": 31.516655355602907

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VST",
         "name": "Vistra Corp.",
-        "collected_at": "2026-04-03T00:01:18.054Z",
+        "collected_at": "2026-04-04T00:01:13.807Z",
         "data_start_date": "2016-10-05",
         "price": 151.17999267578125,
         "change": -1.8056728480484934,
-        "volume": 2944820,
+        "volume": 2950300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 30,

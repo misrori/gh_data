@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PG",
         "name": "Procter & Gamble Company (The)",
-        "collected_at": "2026-04-03T00:00:16.609Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:00:13.735Z",
+        "data_start_date": "2016-04-06",
         "price": 143.1199951171875,
         "change": -0.6731912314221141,
-        "volume": 5777984,
+        "volume": 5941700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.9007,
         "number_of_employees": 109000,
         "ml_direction": -1,
-        "ml_value": 151.25795913449988,
+        "ml_value": 151.26117459732075,
         "ml_last_change_date": "2026-03-05",
         "ml_last_change_price": 153.66000366210938,
         "ml_change_percent_from_last_change": -6.859305150153983

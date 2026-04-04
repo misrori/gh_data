@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CMCSA",
         "name": "Comcast Corporation",
-        "collected_at": "2026-04-03T00:00:44.876Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:00:41.795Z",
+        "data_start_date": "2016-04-06",
         "price": 27.93000030517578,
         "change": -0.42780369036951427,
-        "volume": 16737774,
+        "volume": 25105400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 3,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.393,
         "number_of_employees": 179000,
         "ml_direction": -1,
-        "ml_value": 30.41402713855798,
+        "ml_value": 30.41433563857542,
         "ml_last_change_date": "2026-03-18",
         "ml_last_change_price": 28.790000915527344,
         "ml_change_percent_from_last_change": -2.9871503404077293

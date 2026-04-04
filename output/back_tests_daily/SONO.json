@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SONO",
         "name": "Sonos, Inc.",
-        "collected_at": "2026-04-03T00:07:30.083Z",
+        "collected_at": "2026-04-04T00:07:18.470Z",
         "data_start_date": "2018-08-02",
         "price": 13.579999923706055,
         "change": -1.0204106457577515,
-        "volume": 905522,
+        "volume": 920300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 62,

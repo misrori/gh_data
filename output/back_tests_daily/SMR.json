@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SMR",
         "name": "NuScale Power Corporation",
-        "collected_at": "2026-04-03T00:05:55.256Z",
+        "collected_at": "2026-04-04T00:05:43.727Z",
         "data_start_date": "2022-03-01",
         "price": 10.149999618530273,
         "change": -1.0721306812636464,
-        "volume": 24828587,
+        "volume": 26380300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 141,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -2.2522,
         "number_of_employees": 428,
         "ml_direction": -1,
-        "ml_value": 12.775234776448086,
+        "ml_value": 12.775877648304775,
         "ml_last_change_date": "2026-02-05",
         "ml_last_change_price": 15.75,
         "ml_change_percent_from_last_change": -35.555557977585565

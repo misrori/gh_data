@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KBH",
         "name": "KB Home",
-        "collected_at": "2026-04-03T00:05:56.314Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:44.635Z",
+        "data_start_date": "2016-04-06",
         "price": 50.849998474121094,
         "change": -0.7223794177351096,
-        "volume": 1015632,
+        "volume": 1251300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 23,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.2928,
         "number_of_employees": 2118,
         "ml_direction": -1,
-        "ml_value": 56.48926715848886,
+        "ml_value": 56.49183864591562,
         "ml_last_change_date": "2026-03-05",
         "ml_last_change_price": 57.7599983215332,
         "ml_change_percent_from_last_change": -11.963296482361619

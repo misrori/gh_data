@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IGIC",
         "name": "International General Insurance Holdings Ltd.",
-        "collected_at": "2026-04-03T00:08:27.515Z",
+        "collected_at": "2026-04-04T00:08:14.929Z",
         "data_start_date": "2018-04-10",
         "price": 25.239999771118164,
         "change": 2.435066543555979,
-        "volume": 67126,
+        "volume": 67300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 10,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 22.96295281858164,
+        "ml_value": 22.960809912392676,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 25.239999771118164,
         "ml_change_percent_from_last_change": 0

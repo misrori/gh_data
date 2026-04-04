@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IONQ",
         "name": "IonQ, Inc.",
-        "collected_at": "2026-04-03T00:03:20.626Z",
+        "collected_at": "2026-04-04T00:03:08.938Z",
         "data_start_date": "2021-01-04",
         "price": 29.299999237060547,
         "change": 5.433602993116524,
-        "volume": 15395347,
+        "volume": 15521800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 122,

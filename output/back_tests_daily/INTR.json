@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INTR",
         "name": "Inter & Co. Inc.",
-        "collected_at": "2026-04-03T00:06:29.236Z",
+        "collected_at": "2026-04-04T00:06:18.505Z",
         "data_start_date": "2022-06-23",
         "price": 7.829999923706055,
         "change": -2.1250009536743164,
-        "volume": 2048050,
+        "volume": 2087500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 27,

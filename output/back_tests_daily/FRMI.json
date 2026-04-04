@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FRMI",
         "name": "Fermi Inc.",
-        "collected_at": "2026-04-03T00:05:52.028Z",
+        "collected_at": "2026-04-04T00:05:40.663Z",
         "data_start_date": "2025-10-01",
         "price": 5.355000019073486,
         "change": -0.27932712858957603,
-        "volume": 9142663,
+        "volume": 9160200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 143,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DOCU",
         "name": "DocuSign, Inc.",
-        "collected_at": "2026-04-03T00:03:32.297Z",
+        "collected_at": "2026-04-04T00:03:20.643Z",
         "data_start_date": "2018-04-27",
         "price": 48.369998931884766,
         "change": 0.415197779825517,
-        "volume": 3274535,
+        "volume": 3274600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 178,

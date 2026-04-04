@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MUSA",
         "name": "Murphy USA Inc.",
-        "collected_at": "2026-04-03T00:03:33.753Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:22.303Z",
+        "data_start_date": "2016-04-06",
         "price": 502.4100036621094,
         "change": 1.5338903491259732,
-        "volume": 218464,
+        "volume": 248300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 24,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 24.5548,
         "number_of_employees": 16900,
         "ml_direction": 1,
-        "ml_value": 449.9411085068513,
+        "ml_value": 449.92407185088035,
         "ml_last_change_date": "2026-03-06",
         "ml_last_change_price": 440,
         "ml_change_percent_from_last_change": 14.184091741388505

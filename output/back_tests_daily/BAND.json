@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BAND",
         "name": "Bandwidth Inc.",
-        "collected_at": "2026-04-03T00:10:04.362Z",
+        "collected_at": "2026-04-04T00:09:50.215Z",
         "data_start_date": "2017-11-09",
         "price": 18.049999237060547,
         "change": 0.6692634123945108,
-        "volume": 208810,
+        "volume": 209600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 23,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.4324,
         "number_of_employees": 1100,
         "ml_direction": 1,
-        "ml_value": 15.255948175901189,
+        "ml_value": 15.25337668847443,
         "ml_last_change_date": "2026-02-20",
         "ml_last_change_price": 14.90999984741211,
         "ml_change_percent_from_last_change": 21.0596876041782

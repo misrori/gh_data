@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AL",
         "name": "Air Lease Corporation",
-        "collected_at": "2026-04-03T00:04:01.740Z",
+        "collected_at": "2026-04-04T00:03:50.558Z",
         "data_start_date": "2016-04-04",
         "price": 64.94999694824219,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 9.3479,
         "number_of_employees": 160,
         "ml_direction": 1,
-        "ml_value": 63.238024764332174,
+        "ml_value": 63.23631623616383,
         "ml_last_change_date": "2025-05-05",
         "ml_last_change_price": 55.65999984741211,
         "ml_change_percent_from_last_change": 16.69061646837575

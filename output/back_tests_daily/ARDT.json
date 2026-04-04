@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARDT",
         "name": "Ardent Health, Inc.",
-        "collected_at": "2026-04-03T00:08:13.322Z",
+        "collected_at": "2026-04-04T00:08:01.373Z",
         "data_start_date": "2024-07-18",
         "price": 8.65999984741211,
         "change": -0.11534289266247168,
-        "volume": 260187,
+        "volume": 300500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 27,

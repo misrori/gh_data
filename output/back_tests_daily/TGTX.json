@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TGTX",
         "name": "TG Therapeutics, Inc.",
-        "collected_at": "2026-04-03T00:04:40.217Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:04:28.706Z",
+        "data_start_date": "2016-04-06",
         "price": 33.529998779296875,
         "change": -0.1489072335653354,
-        "volume": 1465390,
+        "volume": 1531600,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 7,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.0758,
         "number_of_employees": 399,
         "ml_direction": 1,
-        "ml_value": 29.244371004474363,
+        "ml_value": 29.238585525609963,
         "ml_last_change_date": "2026-03-17",
         "ml_last_change_price": 31.229999542236328,
         "ml_change_percent_from_last_change": 7.3647110815674655

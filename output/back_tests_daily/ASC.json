@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASC",
         "name": "Ardmore Shipping Corporation",
-        "collected_at": "2026-04-03T00:09:37.029Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:23.850Z",
+        "data_start_date": "2016-04-06",
         "price": 15.75,
         "change": 3.482258368413656,
-        "volume": 411461,
+        "volume": 411500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 62,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.8874,
         "number_of_employees": 997,
         "ml_direction": 1,
-        "ml_value": 13.939977427818407,
+        "ml_value": 13.939744919809767,
         "ml_last_change_date": "2026-03-24",
         "ml_last_change_price": 15.850000381469727,
         "ml_change_percent_from_last_change": -0.6309172180628875

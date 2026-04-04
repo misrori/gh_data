@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OSW",
         "name": "OneSpaWorld Holdings Limited",
-        "collected_at": "2026-04-03T00:06:37.162Z",
+        "collected_at": "2026-04-04T00:06:25.716Z",
         "data_start_date": "2017-11-17",
         "price": 23.479999542236328,
         "change": 0,
-        "volume": 638778,
+        "volume": 738000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 14,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.6937,
         "number_of_employees": 5395,
         "ml_direction": 1,
-        "ml_value": 20.739165385133436,
+        "ml_value": 20.737866889432052,
         "ml_last_change_date": "2026-03-25",
         "ml_last_change_price": 23.100000381469727,
         "ml_change_percent_from_last_change": 1.6450179848110702

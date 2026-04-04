@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JCAP",
         "name": "Jefferson Capital, Inc.",
-        "collected_at": "2026-04-03T00:08:31.910Z",
+        "collected_at": "2026-04-04T00:08:19.674Z",
         "data_start_date": "2025-06-26",
         "price": 19.43000030517578,
         "change": 0.673580690436514,
-        "volume": 133673,
+        "volume": 150200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 15,

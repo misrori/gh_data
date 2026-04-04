@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROKU",
         "name": "Roku, Inc.",
-        "collected_at": "2026-04-03T00:03:02.368Z",
+        "collected_at": "2026-04-04T00:02:49.370Z",
         "data_start_date": "2017-09-28",
         "price": 97.66000366210938,
         "change": 2.9083267564309003,
-        "volume": 2754206,
+        "volume": 2755200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 52,

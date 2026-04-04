@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APP",
         "name": "Applovin Corporation",
-        "collected_at": "2026-04-03T00:00:38.995Z",
+        "collected_at": "2026-04-04T00:00:36.117Z",
         "data_start_date": "2021-04-15",
         "price": 386.3699951171875,
         "change": -0.3790225955505742,
-        "volume": 3195487,
+        "volume": 3204100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 59,

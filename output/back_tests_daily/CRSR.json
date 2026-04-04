@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRSR",
         "name": "Corsair Gaming, Inc.",
-        "collected_at": "2026-04-03T00:09:45.440Z",
+        "collected_at": "2026-04-04T00:09:32.168Z",
         "data_start_date": "2020-09-23",
         "price": 5.630000114440918,
         "change": 1.441440017238307,
-        "volume": 763799,
+        "volume": 763800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 210,

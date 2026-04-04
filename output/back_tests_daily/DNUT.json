@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DNUT",
         "name": "Krispy Kreme, Inc.",
-        "collected_at": "2026-04-03T00:09:48.396Z",
+        "collected_at": "2026-04-04T00:09:34.676Z",
         "data_start_date": "2021-07-01",
         "price": 3.4000000953674316,
         "change": 0.5917153919925783,
-        "volume": 1484679,
+        "volume": 1500700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 64,

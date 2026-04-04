@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APLD",
         "name": "Applied Digital Corporation",
-        "collected_at": "2026-04-03T00:04:07.780Z",
+        "collected_at": "2026-04-04T00:03:56.739Z",
         "data_start_date": "2022-04-13",
         "price": 24.559999465942383,
         "change": 0.2858297079560271,
-        "volume": 19648677,
+        "volume": 19745800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 15,

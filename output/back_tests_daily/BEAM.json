@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BEAM",
         "name": "Beam Therapeutics Inc.",
-        "collected_at": "2026-04-03T00:06:30.630Z",
+        "collected_at": "2026-04-04T00:06:19.372Z",
         "data_start_date": "2020-02-06",
         "price": 24.65999984741211,
         "change": 1.816682685928106,
-        "volume": 1853758,
+        "volume": 1853900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 10,

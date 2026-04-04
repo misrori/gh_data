@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DFAC",
         "name": "Dimensional U.S. Core Equity 2 ETF",
-        "collected_at": "2026-04-03T00:10:39.997Z",
+        "collected_at": "2026-04-04T00:10:25.432Z",
         "data_start_date": "2021-06-14",
         "price": 39.18000030517578,
         "change": 0.15337774777419916,
-        "volume": 3771820,
+        "volume": 3778100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

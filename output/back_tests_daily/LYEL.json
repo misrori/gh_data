@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LYEL",
         "name": "Lyell Immunopharma, Inc.",
-        "collected_at": "2026-04-03T00:10:13.455Z",
+        "collected_at": "2026-04-04T00:09:58.786Z",
         "data_start_date": "2021-06-17",
         "price": 21.209999084472656,
         "change": 1.9221510273698579,
-        "volume": 88851,
+        "volume": 88900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 14,

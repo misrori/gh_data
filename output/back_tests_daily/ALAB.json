@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALAB",
         "name": "Astera Labs, Inc.",
-        "collected_at": "2026-04-03T00:02:21.984Z",
+        "collected_at": "2026-04-04T00:02:14.331Z",
         "data_start_date": "2024-03-20",
         "price": 117.13999938964844,
         "change": 10.16646042738672,
-        "volume": 4370945,
+        "volume": 4496100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 58,

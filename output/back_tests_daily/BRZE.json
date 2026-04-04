@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BRZE",
         "name": "Braze, Inc.",
-        "collected_at": "2026-04-03T00:06:22.518Z",
+        "collected_at": "2026-04-04T00:06:11.246Z",
         "data_start_date": "2021-11-17",
         "price": 23.68000030517578,
         "change": 0.42408982948804674,
-        "volume": 2886688,
+        "volume": 2886700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 69,

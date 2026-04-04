@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EBF",
         "name": "Ennis, Inc.",
-        "collected_at": "2026-04-03T00:09:59.874Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:46.165Z",
+        "data_start_date": "2016-04-06",
         "price": 21.690000534057617,
         "change": 0.27739887017586495,
-        "volume": 68134,
+        "volume": 88600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 99,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.6614,
         "number_of_employees": 1856,
         "ml_direction": 1,
-        "ml_value": 20.342525968271122,
+        "ml_value": 20.34252621350166,
         "ml_last_change_date": "2025-12-01",
         "ml_last_change_price": 17.579999923706055,
         "ml_change_percent_from_last_change": 23.378843163755427

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MFI",
         "name": "mF International Limited",
-        "collected_at": "2026-04-03T00:09:55.395Z",
+        "collected_at": "2026-04-04T00:09:41.944Z",
         "data_start_date": "2024-04-22",
         "price": 11.449999809265137,
         "change": -8.032128637108993,
-        "volume": 5021,
+        "volume": 5100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 148,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 9.225132207125402,
         "ml_last_change_date": "2026-04-01",
-        "ml_last_change_price": 11.850000381469727,
-        "ml_change_percent_from_last_change": -3.375532146227478
+        "ml_last_change_price": 12.199999809265137,
+        "ml_change_percent_from_last_change": -6.147541079717245
     }
 }

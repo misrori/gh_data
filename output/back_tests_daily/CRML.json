@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRML",
         "name": "Critical Metals Corp.",
-        "collected_at": "2026-04-03T00:08:38.212Z",
+        "collected_at": "2026-04-04T00:08:25.842Z",
         "data_start_date": "2022-02-07",
         "price": 8.399999618530273,
         "change": 1.0830227962578785,
-        "volume": 7643586,
+        "volume": 7692300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 24,

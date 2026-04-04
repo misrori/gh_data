@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LINC",
         "name": "Lincoln Educational Services Corporation",
-        "collected_at": "2026-04-03T00:08:02.590Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:07:50.502Z",
+        "data_start_date": "2016-04-06",
         "price": 41.7400016784668,
         "change": -0.5005937560272443,
-        "volume": 213882,
+        "volume": 218800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 113,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.6454,
         "number_of_employees": 2590,
         "ml_direction": 1,
-        "ml_value": 36.019310923891716,
+        "ml_value": 36.018667929419756,
         "ml_last_change_date": "2025-11-11",
         "ml_last_change_price": 20.68000030517578,
         "ml_change_percent_from_last_change": 101.83752931580048

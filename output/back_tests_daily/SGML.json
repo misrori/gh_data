@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SGML",
         "name": "Sigma Lithium Corporation",
-        "collected_at": "2026-04-03T00:07:33.589Z",
+        "collected_at": "2026-04-04T00:07:21.868Z",
         "data_start_date": "2018-07-03",
         "price": 14.369999885559082,
         "change": 21.47083667146218,
-        "volume": 8186343,
+        "volume": 8226000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

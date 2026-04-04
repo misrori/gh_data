@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RLX",
         "name": "RLX Technology Inc.",
-        "collected_at": "2026-04-03T00:06:23.416Z",
+        "collected_at": "2026-04-04T00:06:12.094Z",
         "data_start_date": "2021-01-22",
         "price": 2.190000057220459,
         "change": 0,
-        "volume": 2117308,
+        "volume": 2117500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 28,

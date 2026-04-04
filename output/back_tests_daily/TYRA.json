@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TYRA",
         "name": "Tyra Biosciences, Inc.",
-        "collected_at": "2026-04-03T00:06:56.088Z",
+        "collected_at": "2026-04-04T00:06:44.219Z",
         "data_start_date": "2021-09-15",
         "price": 39.61000061035156,
         "change": 3.4744040581683553,
-        "volume": 1041571,
+        "volume": 1048200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 240,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -2.0122,
         "number_of_employees": 87,
         "ml_direction": 1,
-        "ml_value": 31.79370350710804,
+        "ml_value": 31.788560532254525,
         "ml_last_change_date": "2025-04-23",
         "ml_last_change_price": 10.020000457763672,
         "ml_change_percent_from_last_change": 295.3093692691505

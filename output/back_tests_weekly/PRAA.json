@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "PRAA",
         "name": "PRA Group, Inc.",
-        "collected_at": "2026-04-03T00:09:28.967Z",
+        "collected_at": "2026-04-04T00:09:15.997Z",
         "data_start_date": "2016-04-04",
         "price": 17.780000686645508,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -7.8038,
         "number_of_employees": 2615,
         "ml_direction": 1,
-        "ml_value": 11.985748169617857,
+        "ml_value": 11.983360359864438,
         "ml_last_change_date": "2026-03-02",
         "ml_last_change_price": 18,
         "ml_change_percent_from_last_change": -1.2222184075249554

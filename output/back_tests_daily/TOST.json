@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TOST",
         "name": "Toast, Inc.",
-        "collected_at": "2026-04-03T00:02:53.084Z",
+        "collected_at": "2026-04-04T00:02:40.446Z",
         "data_start_date": "2021-09-22",
         "price": 26.469999313354492,
         "change": 1.5343292029638456,
-        "volume": 9016915,
+        "volume": 9601400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 197,

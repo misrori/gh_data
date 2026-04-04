@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MCB",
         "name": "Metropolitan Bank Holding Corp.",
-        "collected_at": "2026-04-03T00:09:00.946Z",
+        "collected_at": "2026-04-04T00:08:48.755Z",
         "data_start_date": "2017-11-08",
         "price": 83.47000122070312,
         "change": 0.44525000406258375,
-        "volume": 57403,
+        "volume": 109500,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 21,

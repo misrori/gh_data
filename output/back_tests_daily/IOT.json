@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IOT",
         "name": "Samsara Inc.",
-        "collected_at": "2026-04-03T00:03:10.899Z",
+        "collected_at": "2026-04-04T00:02:57.848Z",
         "data_start_date": "2021-12-15",
         "price": 32.2599983215332,
         "change": 1.3190897202655194,
-        "volume": 3460858,
+        "volume": 3902200,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 13,

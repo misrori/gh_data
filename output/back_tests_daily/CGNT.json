@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CGNT",
         "name": "Cognyte Software Ltd.",
-        "collected_at": "2026-04-03T00:09:42.515Z",
+        "collected_at": "2026-04-04T00:09:29.601Z",
         "data_start_date": "2021-02-08",
         "price": 8.399999618530273,
         "change": 2.941173720662243,
-        "volume": 364572,
+        "volume": 365800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 52,

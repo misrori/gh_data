@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AEBI",
         "name": "Aebi Schmidt Holding AG",
-        "collected_at": "2026-04-03T00:09:18.236Z",
+        "collected_at": "2026-04-04T00:09:05.486Z",
         "data_start_date": "2025-07-02",
         "price": 9.579999923706055,
         "change": 2.132194102612305,
-        "volume": 348866,
+        "volume": 350300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 9,

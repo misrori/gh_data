@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HPK",
         "name": "HighPeak Energy, Inc.",
-        "collected_at": "2026-04-03T00:08:57.057Z",
+        "collected_at": "2026-04-04T00:08:44.833Z",
         "data_start_date": "2018-05-29",
         "price": 6.900000095367432,
         "change": 9.523807721703918,
-        "volume": 1204946,
+        "volume": 1206300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 14,

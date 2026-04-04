@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BEPC",
         "name": "Brookfield Renewable Corporation",
-        "collected_at": "2026-04-03T00:04:24.541Z",
+        "collected_at": "2026-04-04T00:04:13.138Z",
         "data_start_date": "2020-07-24",
         "price": 41.31999969482422,
         "change": 2.2519174730221794,
-        "volume": 858398,
+        "volume": 957600,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 10,

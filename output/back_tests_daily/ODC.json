@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ODC",
         "name": "Oil-Dri Corporation Of America",
-        "collected_at": "2026-04-03T00:09:26.795Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:14.212Z",
+        "data_start_date": "2016-04-06",
         "price": 67.56999969482422,
         "change": 2.549704538986102,
-        "volume": 50991,
+        "volume": 60900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 57,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.9344,
         "number_of_employees": 928,
         "ml_direction": 1,
-        "ml_value": 60.9521048600415,
+        "ml_value": 60.84978323528564,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 67.56999969482422,
         "ml_change_percent_from_last_change": 0

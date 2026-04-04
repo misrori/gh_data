@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BILL",
         "name": "BILL Holdings, Inc.",
-        "collected_at": "2026-04-03T00:05:27.187Z",
+        "collected_at": "2026-04-04T00:05:16.430Z",
         "data_start_date": "2019-12-12",
         "price": 38.630001068115234,
         "change": 0.4942831638766813,
-        "volume": 1811423,
+        "volume": 1811400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 64,

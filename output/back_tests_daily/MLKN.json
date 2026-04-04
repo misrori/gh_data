@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MLKN",
         "name": "MillerKnoll, Inc.",
-        "collected_at": "2026-04-03T00:08:42.873Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:30.529Z",
+        "data_start_date": "2016-04-06",
         "price": 14.449999809265137,
         "change": -0.3448289016197468,
-        "volume": 1352877,
+        "volume": 1368900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.1472,
         "number_of_employees": 10382,
         "ml_direction": -1,
-        "ml_value": 17.3434494592897,
+        "ml_value": 17.342986586648273,
         "ml_last_change_date": "2026-02-27",
         "ml_last_change_price": 19.709999084472656,
         "ml_change_percent_from_last_change": -26.68695849585957

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BTGO",
         "name": "BitGo Holdings, Inc.",
-        "collected_at": "2026-04-03T00:08:52.636Z",
+        "collected_at": "2026-04-04T00:08:40.443Z",
         "data_start_date": "2026-01-21",
         "price": 8.5,
         "change": 1.3110804788558819,
-        "volume": 305164,
+        "volume": 396300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 30,

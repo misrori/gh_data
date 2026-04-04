@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CWK",
         "name": "Cushman & Wakefield Ltd.",
-        "collected_at": "2026-04-03T00:06:12.643Z",
+        "collected_at": "2026-04-04T00:06:01.301Z",
         "data_start_date": "2018-08-02",
         "price": 12.479999542236328,
         "change": -0.160003662109375,
-        "volume": 735120,
+        "volume": 1030000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 44,

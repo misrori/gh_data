@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BKSY",
         "name": "BlackSky Technology Inc.",
-        "collected_at": "2026-04-03T00:08:23.466Z",
+        "collected_at": "2026-04-04T00:08:10.922Z",
         "data_start_date": "2019-12-20",
         "price": 30.809999465942383,
         "change": 11.549596414847624,
-        "volume": 3954437,
+        "volume": 4101800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 24,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -2.1459,
         "number_of_employees": 321,
         "ml_direction": 1,
-        "ml_value": 20.975264113275273,
+        "ml_value": 20.972692625848516,
         "ml_last_change_date": "2026-03-17",
         "ml_last_change_price": 25.75,
         "ml_change_percent_from_last_change": 19.650483362883044

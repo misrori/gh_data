@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LYFT",
         "name": "Lyft, Inc.",
-        "collected_at": "2026-04-03T00:04:43.137Z",
+        "collected_at": "2026-04-04T00:04:31.678Z",
         "data_start_date": "2019-03-29",
         "price": 13.34000015258789,
         "change": 0.37622416010821225,
-        "volume": 9289369,
+        "volume": 9389900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 76,

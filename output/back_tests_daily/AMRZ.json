@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMRZ",
         "name": "Amrize Ltd",
-        "collected_at": "2026-04-03T00:01:46.278Z",
+        "collected_at": "2026-04-04T00:01:42.796Z",
         "data_start_date": "2025-06-23",
         "price": 54.22999954223633,
         "change": -1.7216396478532545,
-        "volume": 2629857,
+        "volume": 2632200,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 8,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UPST",
         "name": "Upstart Holdings, Inc.",
-        "collected_at": "2026-04-03T00:06:30.987Z",
+        "collected_at": "2026-04-04T00:06:19.810Z",
         "data_start_date": "2020-12-16",
         "price": 25.579999923706055,
         "change": 0.8675051579639625,
-        "volume": 2746073,
+        "volume": 2794700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 71,

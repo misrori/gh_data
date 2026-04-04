@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CLBT",
         "name": "Cellebrite DI Ltd.",
-        "collected_at": "2026-04-03T00:05:42.184Z",
+        "collected_at": "2026-04-04T00:05:31.039Z",
         "data_start_date": "2020-11-06",
         "price": 14,
         "change": 0.8645524824904915,
-        "volume": 600651,
+        "volume": 626800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 66,

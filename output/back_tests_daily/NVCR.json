@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVCR",
         "name": "NovoCure Limited",
-        "collected_at": "2026-04-03T00:08:17.781Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:05.847Z",
+        "data_start_date": "2016-04-06",
         "price": 10.550000190734863,
         "change": -2.675276363199996,
-        "volume": 1103587,
+        "volume": 1154400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 20,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.2222,
         "number_of_employees": 1605,
         "ml_direction": -1,
-        "ml_value": 12.866794449921088,
+        "ml_value": 12.866755948726542,
         "ml_last_change_date": "2026-03-27",
         "ml_last_change_price": 10.920000076293945,
         "ml_change_percent_from_last_change": -3.3882773166120095

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BTU",
         "name": "Peabody Energy Corporation",
-        "collected_at": "2026-04-03T00:05:17.597Z",
+        "collected_at": "2026-04-04T00:05:06.613Z",
         "data_start_date": "2017-04-03",
         "price": 33.560001373291016,
         "change": 2.13025182573776,
-        "volume": 3074072,
+        "volume": 3075100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 254,

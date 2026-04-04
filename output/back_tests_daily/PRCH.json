@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PRCH",
         "name": "Porch Group, Inc.",
-        "collected_at": "2026-04-03T00:09:08.000Z",
+        "collected_at": "2026-04-04T00:08:54.823Z",
         "data_start_date": "2020-01-13",
         "price": 7.510000228881836,
         "change": 2.5956291361306865,
-        "volume": 673455,
+        "volume": 689800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 141,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MDLN",
         "name": "Medline Inc.",
-        "collected_at": "2026-04-03T00:01:35.813Z",
+        "collected_at": "2026-04-04T00:01:32.147Z",
         "data_start_date": "2025-12-17",
         "price": 44.279998779296875,
         "change": 0.6363608620383523,
-        "volume": 6440165,
+        "volume": 6506300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GBTG",
         "name": "Global Business Travel Group, Inc.",
-        "collected_at": "2026-04-03T00:06:11.527Z",
+        "collected_at": "2026-04-04T00:05:59.924Z",
         "data_start_date": "2022-08-18",
         "price": 5.559999942779541,
         "change": 0.18017570632468194,
-        "volume": 983405,
+        "volume": 983400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 65,

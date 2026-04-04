@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NVTS",
         "name": "Navitas Semiconductor Corporation",
-        "collected_at": "2026-04-03T00:07:02.987Z",
+        "collected_at": "2026-04-04T00:06:50.986Z",
         "data_start_date": "2021-10-20",
         "price": 8.800000190734863,
         "change": 3.0444991808339603,
-        "volume": 11373957,
+        "volume": 11407400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 2,

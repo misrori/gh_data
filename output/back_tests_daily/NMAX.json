@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NMAX",
         "name": "Newsmax, Inc.",
-        "collected_at": "2026-04-03T00:10:08.379Z",
+        "collected_at": "2026-04-04T00:09:53.744Z",
         "data_start_date": "2025-03-31",
         "price": 5.679999828338623,
         "change": 3.272724151611328,
-        "volume": 594129,
+        "volume": 671700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 328,

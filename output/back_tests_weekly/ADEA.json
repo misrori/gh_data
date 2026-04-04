@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ADEA",
         "name": "Adeia Inc.",
-        "collected_at": "2026-04-03T00:06:20.401Z",
+        "collected_at": "2026-04-04T00:06:09.394Z",
         "data_start_date": "2016-04-04",
         "price": 25.06999969482422,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.019,
         "number_of_employees": 150,
         "ml_direction": 1,
-        "ml_value": 19.150383988820614,
+        "ml_value": 19.14525938173443,
         "ml_last_change_date": "2025-12-22",
         "ml_last_change_price": 16.780000686645508,
         "ml_change_percent_from_last_change": 49.40404451101345

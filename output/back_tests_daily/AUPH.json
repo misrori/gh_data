@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AUPH",
         "name": "Aurinia Pharmaceuticals Inc",
-        "collected_at": "2026-04-03T00:06:58.979Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:06:47.225Z",
+        "data_start_date": "2016-04-06",
         "price": 15.609999656677246,
         "change": 0.9049734145565467,
-        "volume": 1223046,
+        "volume": 1260000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.1645,
         "number_of_employees": 128,
         "ml_direction": 1,
-        "ml_value": 13.824414424724104,
+        "ml_value": 13.822271518535139,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 15.609999656677246,
         "ml_change_percent_from_last_change": 0

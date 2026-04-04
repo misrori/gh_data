@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EMAT",
         "name": "Evolution Metals & Technologies Corp.",
-        "collected_at": "2026-04-03T00:04:53.074Z",
+        "collected_at": "2026-04-04T00:04:41.445Z",
         "data_start_date": "2026-01-07",
         "price": 8.350000381469727,
         "change": 1.458090472758286,
-        "volume": 83646,
+        "volume": 83700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 23,

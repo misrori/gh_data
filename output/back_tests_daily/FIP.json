@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIP",
         "name": "FTAI Infrastructure Inc.",
-        "collected_at": "2026-04-03T00:09:46.391Z",
+        "collected_at": "2026-04-04T00:09:33.106Z",
         "data_start_date": "2022-07-20",
         "price": 5.039999961853027,
         "change": 1.0020078763181826,
-        "volume": 552304,
+        "volume": 559600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,

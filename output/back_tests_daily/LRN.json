@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LRN",
         "name": "Stride, Inc.",
-        "collected_at": "2026-04-03T00:05:27.402Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:16.623Z",
+        "data_start_date": "2016-04-06",
         "price": 89.63999938964844,
         "change": 0.8777839004493667,
-        "volume": 446615,
+        "volume": 446600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 7.3894,
         "number_of_employees": 8600,
         "ml_direction": 1,
-        "ml_value": 79.73390405365855,
+        "ml_value": 79.72233309592976,
         "ml_last_change_date": "2026-01-21",
         "ml_last_change_price": 71.91999816894531,
         "ml_change_percent_from_last_change": 24.63848953260197

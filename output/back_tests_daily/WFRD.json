@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WFRD",
         "name": "Weatherford International plc",
-        "collected_at": "2026-04-03T00:04:09.099Z",
+        "collected_at": "2026-04-04T00:03:58.011Z",
         "data_start_date": "2021-01-04",
         "price": 95.29000091552734,
         "change": 1.1785948256049867,
-        "volume": 1067831,
+        "volume": 1067800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 255,

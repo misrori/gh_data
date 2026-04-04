@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GPN",
         "name": "Global Payments Inc.",
-        "collected_at": "2026-04-03T00:02:34.949Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:24.398Z",
+        "data_start_date": "2016-04-06",
         "price": 64.05000305175781,
         "change": -2.004280211690016,
-        "volume": 3192260,
+        "volume": 3836100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 24,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.7975,
         "number_of_employees": 26000,
         "ml_direction": -1,
-        "ml_value": 74.25088852492378,
+        "ml_value": 74.25094051379794,
         "ml_last_change_date": "2026-03-12",
         "ml_last_change_price": 70.9000015258789,
         "ml_change_percent_from_last_change": -9.661492703382812

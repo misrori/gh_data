@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UBER",
         "name": "Uber Technologies, Inc.",
-        "collected_at": "2026-04-03T00:00:32.695Z",
+        "collected_at": "2026-04-04T00:00:29.622Z",
         "data_start_date": "2019-05-10",
         "price": 71.83999633789062,
         "change": 0.18128190639750966,
-        "volume": 12725033,
+        "volume": 12758500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 132,

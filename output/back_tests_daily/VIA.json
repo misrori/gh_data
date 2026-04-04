@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VIA",
         "name": "Via Transportation, Inc.",
-        "collected_at": "2026-04-03T00:08:15.662Z",
+        "collected_at": "2026-04-04T00:08:03.619Z",
         "data_start_date": "2025-09-12",
         "price": 15.800000190734863,
         "change": 3.3355149127157224,
-        "volume": 497555,
+        "volume": 497600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 135,

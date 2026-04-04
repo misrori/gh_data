@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QQQM",
         "name": "Invesco NASDAQ 100 ETF",
-        "collected_at": "2026-04-03T00:10:32.134Z",
+        "collected_at": "2026-04-04T00:10:17.470Z",
         "data_start_date": "2020-10-13",
         "price": 240.86000061035156,
         "change": 0.12054423964080671,
-        "volume": 2901810,
+        "volume": 2931400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 29,

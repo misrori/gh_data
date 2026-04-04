@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OSCR",
         "name": "Oscar Health, Inc.",
-        "collected_at": "2026-04-03T00:06:01.177Z",
+        "collected_at": "2026-04-04T00:05:49.710Z",
         "data_start_date": "2021-03-03",
         "price": 11.920000076293945,
         "change": 1.6197829622540083,
-        "volume": 3546550,
+        "volume": 4372200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 135,

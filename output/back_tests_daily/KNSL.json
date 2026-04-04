@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KNSL",
         "name": "Kinsale Capital Group, Inc.",
-        "collected_at": "2026-04-03T00:03:51.102Z",
+        "collected_at": "2026-04-04T00:03:39.468Z",
         "data_start_date": "2016-07-28",
         "price": 344.8999938964844,
         "change": -0.26026429388517025,
-        "volume": 262693,
+        "volume": 291500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 48,

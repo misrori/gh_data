@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "METC",
         "name": "Ramaco Resources, Inc.",
-        "collected_at": "2026-04-03T00:08:57.499Z",
+        "collected_at": "2026-04-04T00:08:45.529Z",
         "data_start_date": "2017-02-03",
         "price": 15.5,
         "change": 4.517869721785613,
-        "volume": 1137977,
+        "volume": 1163300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 58,

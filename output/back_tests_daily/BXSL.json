@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BXSL",
         "name": "Blackstone Secured Lending Fund",
-        "collected_at": "2026-04-03T00:04:36.426Z",
+        "collected_at": "2026-04-04T00:04:25.030Z",
         "data_start_date": "2021-10-28",
         "price": 23.770000457763672,
         "change": 1.8859860072717973,
-        "volume": 2194107,
+        "volume": 2336100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 90,

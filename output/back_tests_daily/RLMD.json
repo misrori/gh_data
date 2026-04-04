@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RLMD",
         "name": "Relmada Therapeutics, Inc.",
-        "collected_at": "2026-04-03T00:09:19.821Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:07.173Z",
+        "data_start_date": "2016-04-06",
         "price": 6.989999771118164,
         "change": -1.5492976759426718,
-        "volume": 1844213,
+        "volume": 1846000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 297,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.4698,
         "number_of_employees": 17,
         "ml_direction": 1,
-        "ml_value": 5.487869867752784,
+        "ml_value": 5.487831305250604,
         "ml_last_change_date": "2025-08-28",
         "ml_last_change_price": 0.8299999833106995,
         "ml_change_percent_from_last_change": 742.1686640566534

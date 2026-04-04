@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MNTN",
         "name": "MNTN, Inc.",
-        "collected_at": "2026-04-03T00:10:08.834Z",
+        "collected_at": "2026-04-04T00:09:54.291Z",
         "data_start_date": "2025-05-22",
         "price": 8.949999809265137,
         "change": 0.674909602083966,
-        "volume": 276391,
+        "volume": 312300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 217,

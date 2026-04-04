@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FIVE",
         "name": "Five Below, Inc.",
-        "collected_at": "2026-04-03T00:02:59.910Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:47.045Z",
+        "data_start_date": "2016-04-06",
         "price": 235.38999938964844,
         "change": 0.2000686294766265,
-        "volume": 1094525,
+        "volume": 1119700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 318,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.5032,
         "number_of_employees": 24600,
         "ml_direction": 1,
-        "ml_value": 207.22287580615426,
+        "ml_value": 207.2222323212212,
         "ml_last_change_date": "2025-10-20",
         "ml_last_change_price": 153.9499969482422,
         "ml_change_percent_from_last_change": 52.90029493718424

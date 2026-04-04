@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MLTX",
         "name": "MoonLake Immunotherapeutics",
-        "collected_at": "2026-04-03T00:08:12.266Z",
+        "collected_at": "2026-04-04T00:08:00.469Z",
         "data_start_date": "2020-10-20",
         "price": 17.360000610351562,
         "change": 5.084746545470751,
-        "volume": 1682947,
+        "volume": 1687100,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 64,

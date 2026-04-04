@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EVMN",
         "name": "Evommune, Inc.",
-        "collected_at": "2026-04-03T00:08:59.844Z",
+        "collected_at": "2026-04-04T00:08:47.405Z",
         "data_start_date": "2025-11-06",
         "price": 23.719999313354492,
         "change": 5.79839086813883,
-        "volume": 380588,
+        "volume": 380600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 51,

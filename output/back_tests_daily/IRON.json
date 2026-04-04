@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IRON",
         "name": "Disc Medicine, Inc.",
-        "collected_at": "2026-04-03T00:06:32.250Z",
+        "collected_at": "2026-04-04T00:06:21.241Z",
         "data_start_date": "2020-08-12",
         "price": 65.18000030517578,
         "change": 0.6174768962896975,
-        "volume": 570244,
+        "volume": 570200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 51,

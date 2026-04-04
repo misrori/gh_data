@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VSTS",
         "name": "Vestis Corporation",
-        "collected_at": "2026-04-03T00:08:37.045Z",
+        "collected_at": "2026-04-04T00:08:24.845Z",
         "data_start_date": "2023-09-27",
         "price": 7.829999923706055,
         "change": 0.1278740642604521,
-        "volume": 501880,
+        "volume": 627200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 128,

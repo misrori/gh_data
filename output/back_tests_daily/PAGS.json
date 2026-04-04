@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PAGS",
         "name": "PagSeguro Digital Ltd.",
-        "collected_at": "2026-04-03T00:07:18.576Z",
+        "collected_at": "2026-04-04T00:07:07.567Z",
         "data_start_date": "2018-01-24",
         "price": 10.34000015258789,
         "change": -1.8043645318278623,
-        "volume": 2837770,
+        "volume": 3129900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 10,

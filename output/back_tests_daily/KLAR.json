@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KLAR",
         "name": "Klarna Group plc",
-        "collected_at": "2026-04-03T00:04:51.382Z",
+        "collected_at": "2026-04-04T00:04:39.916Z",
         "data_start_date": "2025-09-11",
         "price": 13.350000381469727,
         "change": 0.527113327606021,
-        "volume": 3008030,
+        "volume": 3029600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 163,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OPLN",
         "name": "OPENLANE, Inc.",
-        "collected_at": "2026-04-03T00:05:58.902Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:47.434Z",
+        "data_start_date": "2016-04-06",
         "price": 29.6200008392334,
         "change": 0.6798122448021671,
-        "volume": 405536,
+        "volume": 538000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 15,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.1757,
         "number_of_employees": 4800,
         "ml_direction": 1,
-        "ml_value": 26.791324524981572,
+        "ml_value": 26.787467293841438,
         "ml_last_change_date": "2026-04-01",
         "ml_last_change_price": 29.059999465942383,
         "ml_change_percent_from_last_change": 1.927052249079786

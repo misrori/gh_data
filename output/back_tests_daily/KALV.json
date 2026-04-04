@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KALV",
         "name": "KalVista Pharmaceuticals, Inc.",
-        "collected_at": "2026-04-03T00:08:38.867Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:26.498Z",
+        "data_start_date": "2016-04-06",
         "price": 19.899999618530273,
         "change": 0.6575577023598446,
-        "volume": 897328,
+        "volume": 910800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 122,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -3.9996,
         "number_of_employees": 275,
         "ml_direction": 1,
-        "ml_value": 16.185115407254294,
+        "ml_value": 16.183765413139827,
         "ml_last_change_date": "2025-11-12",
         "ml_last_change_price": 13.09000015258789,
         "ml_change_percent_from_last_change": 52.02444145576306

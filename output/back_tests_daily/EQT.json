@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EQT",
         "name": "EQT Corporation",
-        "collected_at": "2026-04-03T00:01:33.389Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:29.778Z",
+        "data_start_date": "2016-04-06",
         "price": 59.70000076293945,
         "change": -2.2753304733615303,
-        "volume": 8748062,
+        "volume": 8807100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 49,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 3.3355,
         "number_of_employees": 1523,
         "ml_direction": -1,
-        "ml_value": 66.75304779798687,
+        "ml_value": 66.77126188751673,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 59.70000076293945,
         "ml_change_percent_from_last_change": 0

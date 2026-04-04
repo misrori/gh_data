@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BDX",
         "name": "Becton, Dickinson and Company",
-        "collected_at": "2026-04-03T00:01:24.951Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:20.658Z",
+        "data_start_date": "2016-04-06",
         "price": 154.50999450683594,
         "change": -1.1705269757711818,
-        "volume": 1822914,
+        "volume": 2368200,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 10,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.1286,
         "number_of_employees": 72000,
         "ml_direction": -1,
-        "ml_value": 166.41362842836298,
+        "ml_value": 166.414271913296,
         "ml_last_change_date": "2026-03-05",
         "ml_last_change_price": 168.25999450683594,
         "ml_change_percent_from_last_change": -8.171877124031035

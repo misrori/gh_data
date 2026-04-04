@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INGM",
         "name": "Ingram Micro Holding Corporation",
-        "collected_at": "2026-04-03T00:04:29.351Z",
+        "collected_at": "2026-04-04T00:04:17.904Z",
         "data_start_date": "2024-10-24",
         "price": 24.75,
         "change": 2.0618556701030926,
-        "volume": 1831428,
+        "volume": 2224000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 30,

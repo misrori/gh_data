@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HNGE",
         "name": "Hinge Health, Inc.",
-        "collected_at": "2026-04-03T00:06:50.571Z",
+        "collected_at": "2026-04-04T00:06:39.058Z",
         "data_start_date": "2025-05-22",
         "price": 38.97999954223633,
         "change": 1.2730523315192792,
-        "volume": 432974,
+        "volume": 475900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

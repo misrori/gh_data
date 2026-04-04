@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PXED",
         "name": "Phoenix Education Partners, Inc.",
-        "collected_at": "2026-04-03T00:08:25.635Z",
+        "collected_at": "2026-04-04T00:08:13.227Z",
         "data_start_date": "2025-10-09",
         "price": 31.350000381469727,
         "change": -2.0312488079071045,
-        "volume": 33605,
+        "volume": 38000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 135,

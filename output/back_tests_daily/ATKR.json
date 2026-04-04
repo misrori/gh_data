@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATKR",
         "name": "Atkore Inc.",
-        "collected_at": "2026-04-03T00:06:58.780Z",
+        "collected_at": "2026-04-04T00:06:46.997Z",
         "data_start_date": "2016-06-10",
         "price": 61.5099983215332,
         "change": 2.1082281003992325,
-        "volume": 252203,
+        "volume": 335100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 28,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SCHL",
         "name": "Scholastic Corporation",
-        "collected_at": "2026-04-03T00:09:04.529Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:51.599Z",
+        "data_start_date": "2016-04-06",
         "price": 39.20000076293945,
         "change": 1.1091057521245757,
-        "volume": 678652,
+        "volume": 682200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 276,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.5842,
         "number_of_employees": 7090,
         "ml_direction": 1,
-        "ml_value": 35.43570926352069,
+        "ml_value": 35.435477765892344,
         "ml_last_change_date": "2026-03-05",
         "ml_last_change_price": 35.25,
         "ml_change_percent_from_last_change": 11.205675923232494

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RHLD",
         "name": "Resolute Holdings Management",
-        "collected_at": "2026-04-03T00:08:04.860Z",
+        "collected_at": "2026-04-04T00:07:53.078Z",
         "data_start_date": "2025-02-24",
         "price": 154.39999389648438,
         "change": -5.089746220851378,
-        "volume": 163313,
+        "volume": 169300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

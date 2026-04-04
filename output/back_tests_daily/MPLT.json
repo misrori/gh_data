@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MPLT",
         "name": "MapLight Therapeutics, Inc.",
-        "collected_at": "2026-04-03T00:08:54.161Z",
+        "collected_at": "2026-04-04T00:08:42.213Z",
         "data_start_date": "2025-10-27",
         "price": 21.170000076293945,
         "change": 1.632261900303445,
-        "volume": 146023,
+        "volume": 146600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 114,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -3.7149,
         "number_of_employees": 133,
         "ml_direction": 1,
-        "ml_value": 16.633151016730807,
+        "ml_value": 16.605508139969505,
         "ml_last_change_date": "2025-12-04",
         "ml_last_change_price": 18.100000381469727,
         "ml_change_percent_from_last_change": 16.961323923325434

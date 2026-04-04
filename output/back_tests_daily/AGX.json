@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AGX",
         "name": "Argan, Inc.",
-        "collected_at": "2026-04-03T00:03:50.423Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:38.856Z",
+        "data_start_date": "2016-04-06",
         "price": 575.1599731445312,
         "change": 0.6615506719549986,
-        "volume": 256281,
+        "volume": 295300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 342,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 9.9879,
         "number_of_employees": 1409,
         "ml_direction": 1,
-        "ml_value": 449.30706122111206,
+        "ml_value": 449.2765035341701,
         "ml_last_change_date": "2026-01-16",
         "ml_last_change_price": 371.3800048828125,
         "ml_change_percent_from_last_change": 54.87101232766172

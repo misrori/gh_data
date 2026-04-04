@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "REAX",
         "name": "The Real Brokerage, Inc.",
-        "collected_at": "2026-04-03T00:10:02.407Z",
+        "collected_at": "2026-04-04T00:09:48.490Z",
         "data_start_date": "2021-01-08",
         "price": 2.5299999713897705,
         "change": -2.6923052234761613,
-        "volume": 812221,
+        "volume": 819300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 170,

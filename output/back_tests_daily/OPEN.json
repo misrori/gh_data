@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OPEN",
         "name": "Opendoor Technologies Inc",
-        "collected_at": "2026-04-03T00:05:03.213Z",
+        "collected_at": "2026-04-04T00:04:52.320Z",
         "data_start_date": "2020-06-18",
         "price": 4.739999771118164,
         "change": 3.7199035682964863,
-        "volume": 28935178,
+        "volume": 29245000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 66,

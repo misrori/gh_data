@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "YETI",
         "name": "YETI Holdings, Inc.",
-        "collected_at": "2026-04-03T00:06:20.007Z",
+        "collected_at": "2026-04-04T00:06:09.069Z",
         "data_start_date": "2018-10-25",
         "price": 36.36000061035156,
         "change": -1.9681842524484154,
-        "volume": 1180189,
+        "volume": 1430700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

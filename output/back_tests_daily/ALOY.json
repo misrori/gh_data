@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALOY",
         "name": "REalloys Inc.",
-        "collected_at": "2026-04-03T00:09:58.841Z",
+        "collected_at": "2026-04-04T00:09:45.274Z",
         "data_start_date": "2016-08-01",
         "price": 9.1899995803833,
         "change": 0.8781550682871663,
-        "volume": 1125065,
+        "volume": 1146000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 2,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.1462,
         "number_of_employees": 17,
         "ml_direction": -1,
-        "ml_value": 15.129697034702328,
+        "ml_value": 15.134839886940574,
         "ml_last_change_date": "2026-03-09",
         "ml_last_change_price": 16.1200008392334,
         "ml_change_percent_from_last_change": -42.99008001279769

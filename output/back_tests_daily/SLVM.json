@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SLVM",
         "name": "Sylvamo Corporation",
-        "collected_at": "2026-04-03T00:07:26.652Z",
+        "collected_at": "2026-04-04T00:07:14.780Z",
         "data_start_date": "2021-09-23",
         "price": 42.72999954223633,
         "change": 0.023404310036296772,
-        "volume": 203998,
+        "volume": 279900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 24,

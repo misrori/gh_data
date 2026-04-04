@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JXN",
         "name": "Jackson Financial Inc.",
-        "collected_at": "2026-04-03T00:03:59.514Z",
+        "collected_at": "2026-04-04T00:03:48.418Z",
         "data_start_date": "2021-09-01",
         "price": 103.69999694824219,
         "change": -1.0779403444384459,
-        "volume": 332106,
+        "volume": 477700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1,

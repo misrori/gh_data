@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VIK",
         "name": "Viking Holdings Ltd",
-        "collected_at": "2026-04-03T00:02:03.023Z",
+        "collected_at": "2026-04-04T00:01:59.017Z",
         "data_start_date": "2024-05-01",
         "price": 74.80000305175781,
         "change": -1.8630256444546054,
-        "volume": 3069716,
+        "volume": 3075400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 13,

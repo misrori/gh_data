@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CSTM",
         "name": "Constellium SE",
-        "collected_at": "2026-04-03T00:05:31.750Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:21.738Z",
+        "data_start_date": "2016-04-06",
         "price": 27.6200008392334,
         "change": 1.0981008336761255,
-        "volume": 3791522,
+        "volume": 3797200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 318,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.9687,
         "number_of_employees": 11500,
         "ml_direction": 1,
-        "ml_value": 23.073599232519378,
+        "ml_value": 23.071015238335157,
         "ml_last_change_date": "2026-04-01",
         "ml_last_change_price": 26.5,
         "ml_change_percent_from_last_change": 4.226418261258114

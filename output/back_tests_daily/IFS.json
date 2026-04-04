@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IFS",
         "name": "Intercorp Financial Services Inc.",
-        "collected_at": "2026-04-03T00:04:29.986Z",
+        "collected_at": "2026-04-04T00:04:18.640Z",
         "data_start_date": "2019-07-01",
         "price": 50.22999954223633,
         "change": -0.039801905997356966,
-        "volume": 177459,
+        "volume": 177500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 111,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 4.8579,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 45.41774339528634,
+        "ml_value": 45.37917206480712,
         "ml_last_change_date": "2026-03-31",
         "ml_last_change_price": 50.84000015258789,
         "ml_change_percent_from_last_change": -1.1998438405207423

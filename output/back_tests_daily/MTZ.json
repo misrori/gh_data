@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MTZ",
         "name": "MasTec, Inc.",
-        "collected_at": "2026-04-03T00:01:54.382Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:01:50.131Z",
+        "data_start_date": "2016-04-06",
         "price": 336.25,
         "change": 0.7369877444210725,
-        "volume": 441727,
+        "volume": 529600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 325,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.1305,
         "number_of_employees": 36000,
         "ml_direction": 1,
-        "ml_value": 286.5601151605529,
+        "ml_value": 286.5536881585998,
         "ml_last_change_date": "2025-12-08",
         "ml_last_change_price": 219.44000244140625,
         "ml_change_percent_from_last_change": 53.23094980815257

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ECVT",
         "name": "Ecovyst Inc.",
-        "collected_at": "2026-04-03T00:07:50.700Z",
+        "collected_at": "2026-04-04T00:07:38.569Z",
         "data_start_date": "2017-09-29",
         "price": 13.039999961853027,
         "change": -0.6097555213709185,
-        "volume": 1886643,
+        "volume": 2206800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 122,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.6352,
         "number_of_employees": 617,
         "ml_direction": 1,
-        "ml_value": 11.759387920620748,
+        "ml_value": 11.75810217690737,
         "ml_last_change_date": "2025-11-11",
         "ml_last_change_price": 8.819999694824219,
         "ml_change_percent_from_last_change": 47.84580967168517

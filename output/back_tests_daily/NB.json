@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NB",
         "name": "NioCorp Developments Ltd.",
-        "collected_at": "2026-04-03T00:09:31.832Z",
+        "collected_at": "2026-04-04T00:09:18.990Z",
         "data_start_date": "2023-03-21",
         "price": 4.630000114440918,
         "change": 1.9823822322491063,
-        "volume": 2424625,
+        "volume": 2460400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 42,

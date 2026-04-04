@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TE",
         "name": "T1 Energy Inc.",
-        "collected_at": "2026-04-03T00:08:24.128Z",
+        "collected_at": "2026-04-04T00:08:11.694Z",
         "data_start_date": "2020-01-10",
         "price": 4.190000057220459,
         "change": -6.473213406659818,
-        "volume": 16509141,
+        "volume": 16574000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -3.7839,
         "number_of_employees": 328,
         "ml_direction": -1,
-        "ml_value": 6.500023865380506,
+        "ml_value": 6.500036739983777,
         "ml_last_change_date": "2026-02-12",
         "ml_last_change_price": 6.210000038146973,
         "ml_change_percent_from_last_change": -32.52817984731075

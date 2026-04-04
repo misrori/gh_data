@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DASH",
         "name": "DoorDash, Inc.",
-        "collected_at": "2026-04-03T00:01:08.389Z",
+        "collected_at": "2026-04-04T00:01:04.228Z",
         "data_start_date": "2020-12-09",
         "price": 156.4499969482422,
         "change": 3.953486344346968,
-        "volume": 5048899,
+        "volume": 5051500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 142,

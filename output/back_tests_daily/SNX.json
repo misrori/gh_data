@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SNX",
         "name": "TD SYNNEX Corporation",
-        "collected_at": "2026-04-03T00:02:47.189Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:34.717Z",
+        "data_start_date": "2016-04-06",
         "price": 186.9199981689453,
         "change": 0.33818503704857705,
-        "volume": 1056816,
+        "volume": 1201700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 8,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 10.0122,
         "number_of_employees": 24000,
         "ml_direction": 1,
-        "ml_value": 162.55601748441487,
+        "ml_value": 162.55537596132615,
         "ml_last_change_date": "2026-03-31",
         "ml_last_change_price": 171.19000244140625,
         "ml_change_percent_from_last_change": 9.188618203871467

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROCK",
         "name": "Gibraltar Industries, Inc.",
-        "collected_at": "2026-04-03T00:08:21.794Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:09.615Z",
+        "data_start_date": "2016-04-06",
         "price": 38.88999938964844,
         "change": -1.643908727436703,
-        "volume": 317359,
+        "volume": 322100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 38,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.5043,
         "number_of_employees": 2300,
         "ml_direction": -1,
-        "ml_value": 45.06305923420012,
+        "ml_value": 45.06563072162688,
         "ml_last_change_date": "2026-01-21",
         "ml_last_change_price": 48.630001068115234,
         "ml_change_percent_from_last_change": -20.028791825079615

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KALU",
         "name": "Kaiser Aluminum Corporation",
-        "collected_at": "2026-04-03T00:06:55.082Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:06:43.300Z",
+        "data_start_date": "2016-04-06",
         "price": 131.6199951171875,
         "change": 0.46561379736546243,
-        "volume": 278558,
+        "volume": 280900,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 13,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 6.9553,
         "number_of_employees": 3840,
         "ml_direction": 1,
-        "ml_value": 111.9792964355109,
+        "ml_value": 111.97863921766772,
         "ml_last_change_date": "2026-04-01",
         "ml_last_change_price": 126.19000244140625,
         "ml_change_percent_from_last_change": 4.303029218422072

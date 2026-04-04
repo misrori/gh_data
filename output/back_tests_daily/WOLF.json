@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WOLF",
         "name": "Wolfspeed, Inc.",
-        "collected_at": "2026-04-03T00:09:11.299Z",
+        "collected_at": "2026-04-04T00:08:57.772Z",
         "data_start_date": "2025-09-29",
         "price": 17.469999313354492,
         "change": 6.200598803089511,
-        "volume": 896398,
+        "volume": 903500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 27,

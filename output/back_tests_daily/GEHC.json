@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GEHC",
         "name": "GE HealthCare Technologies Inc.",
-        "collected_at": "2026-04-03T00:01:41.437Z",
+        "collected_at": "2026-04-04T00:01:37.858Z",
         "data_start_date": "2022-12-15",
         "price": 70.3499984741211,
         "change": -2.2645245996025465,
-        "volume": 2750540,
+        "volume": 2750700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 22,

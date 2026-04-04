@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMTB",
         "name": "Amerant Bancorp Inc.",
-        "collected_at": "2026-04-03T00:08:52.303Z",
+        "collected_at": "2026-04-04T00:08:40.144Z",
         "data_start_date": "2018-10-18",
         "price": 22.770000457763672,
         "change": 0.8414549809548113,
-        "volume": 139237,
+        "volume": 173600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 107,

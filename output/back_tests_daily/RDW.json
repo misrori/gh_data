@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RDW",
         "name": "Redwire Corporation",
-        "collected_at": "2026-04-03T00:07:12.842Z",
+        "collected_at": "2026-04-04T00:07:01.755Z",
         "data_start_date": "2021-01-14",
         "price": 9.729999542236328,
         "change": 7.158586167311028,
-        "volume": 28168550,
+        "volume": 28421000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

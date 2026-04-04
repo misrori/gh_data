@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NKLR",
         "name": "Terra Innovatum Global N.V.",
-        "collected_at": "2026-04-03T00:10:11.898Z",
+        "collected_at": "2026-04-04T00:09:57.111Z",
         "data_start_date": "2025-10-06",
         "price": 4.53000020980835,
         "change": 0.22124400274413455,
-        "volume": 387107,
+        "volume": 387100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 140,

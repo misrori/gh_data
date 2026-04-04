@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HRL",
         "name": "Hormel Foods Corporation",
-        "collected_at": "2026-04-03T00:03:09.186Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:02:56.159Z",
+        "data_start_date": "2016-04-06",
         "price": 22.09000015258789,
         "change": 0.27235344562995967,
-        "volume": 3961076,
+        "volume": 4734900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 17,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.8893,
         "number_of_employees": 20000,
         "ml_direction": -1,
-        "ml_value": 23.787635496887887,
+        "ml_value": 23.78827824612931,
         "ml_last_change_date": "2026-03-09",
         "ml_last_change_price": 23.700000762939453,
         "ml_change_percent_from_last_change": -6.793251301785519

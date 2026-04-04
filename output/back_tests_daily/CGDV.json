@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CGDV",
         "name": "Capital Group Dividend Value ETF",
-        "collected_at": "2026-04-03T00:10:45.167Z",
+        "collected_at": "2026-04-04T00:10:30.765Z",
         "data_start_date": "2022-02-24",
         "price": 42.689998626708984,
         "change": -0.23370480644713246,
-        "volume": 3797577,
+        "volume": 3797600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,

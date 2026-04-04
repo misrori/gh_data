@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SJM",
         "name": "The J.M. Smucker Company",
-        "collected_at": "2026-04-03T00:03:24.534Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:12.712Z",
+        "data_start_date": "2016-04-06",
         "price": 95.47000122070312,
         "change": -0.020941086515610136,
-        "volume": 1713635,
+        "volume": 1766700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 7,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -11.7881,
         "number_of_employees": 8000,
         "ml_direction": -1,
-        "ml_value": 103.7767114385557,
+        "ml_value": 103.77735492348873,
         "ml_last_change_date": "2026-03-17",
         "ml_last_change_price": 101.0199966430664,
         "ml_change_percent_from_last_change": -5.49395724291405

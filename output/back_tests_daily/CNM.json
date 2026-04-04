@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CNM",
         "name": "Core & Main, Inc.",
-        "collected_at": "2026-04-03T00:03:30.541Z",
+        "collected_at": "2026-04-04T00:03:18.621Z",
         "data_start_date": "2021-07-22",
         "price": 50.95000076293945,
         "change": -0.19588339983460432,
-        "volume": 1858060,
+        "volume": 2258300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 22,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CCC",
         "name": "CCC Intelligent Solutions Holdings Inc.",
-        "collected_at": "2026-04-03T00:05:37.094Z",
+        "collected_at": "2026-04-04T00:05:26.271Z",
         "data_start_date": "2020-10-05",
         "price": 5.989999771118164,
         "change": -0.1666704813639323,
-        "volume": 6735516,
+        "volume": 6736000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 65,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "USFD",
         "name": "US Foods Holding Corp.",
-        "collected_at": "2026-04-03T00:02:22.664Z",
+        "collected_at": "2026-04-04T00:02:15.002Z",
         "data_start_date": "2016-05-26",
         "price": 89.91000366210938,
         "change": -1.0128791703170108,
-        "volume": 1518890,
+        "volume": 1879900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 79,

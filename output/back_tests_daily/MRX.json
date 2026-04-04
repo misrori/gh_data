@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MRX",
         "name": "Marex Group plc",
-        "collected_at": "2026-04-03T00:06:01.019Z",
+        "collected_at": "2026-04-04T00:05:49.561Z",
         "data_start_date": "2024-04-25",
         "price": 43.900001525878906,
         "change": 1.974453667554577,
-        "volume": 1345800,
+        "volume": 1352800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 2,

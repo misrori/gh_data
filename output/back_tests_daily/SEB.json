@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SEB",
         "name": "Seaboard Corporation",
-        "collected_at": "2026-04-03T00:04:32.523Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:04:21.110Z",
+        "data_start_date": "2016-04-06",
         "price": 5906.77978515625,
         "change": 2.5267231224994613,
-        "volume": 10461,
+        "volume": 11200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 142,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 516.0247,
         "number_of_employees": 14000,
         "ml_direction": 1,
-        "ml_value": 5252.747017756305,
+        "ml_value": 5248.633987622376,
         "ml_last_change_date": "2026-03-27",
         "ml_last_change_price": 5540.77001953125,
         "ml_change_percent_from_last_change": 6.605756317891065

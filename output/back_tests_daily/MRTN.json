@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MRTN",
         "name": "Marten Transport, Ltd.",
-        "collected_at": "2026-04-03T00:08:25.253Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:12.749Z",
+        "data_start_date": "2016-04-06",
         "price": 13.770000457763672,
         "change": 2.9917769306537534,
-        "volume": 816878,
+        "volume": 830200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 3,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 0.214,
         "number_of_employees": 3502,
         "ml_direction": 1,
-        "ml_value": 12.226500614411744,
+        "ml_value": 12.225857742555055,
         "ml_last_change_date": "2026-04-01",
-        "ml_last_change_price": 13.015000343322754,
-        "ml_change_percent_from_last_change": 5.800999573759258
+        "ml_last_change_price": 13.010000228881836,
+        "ml_change_percent_from_last_change": 5.841661917842678
     }
 }

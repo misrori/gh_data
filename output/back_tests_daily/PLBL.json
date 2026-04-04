@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PLBL",
         "name": "Polibeli Group Ltd",
-        "collected_at": "2026-04-03T00:06:15.946Z",
+        "collected_at": "2026-04-04T00:06:05.354Z",
         "data_start_date": "2025-08-08",
         "price": 8.800000190734863,
         "change": 0,
-        "volume": 909,
+        "volume": 900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 48,

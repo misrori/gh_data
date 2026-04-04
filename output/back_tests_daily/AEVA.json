@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AEVA",
         "name": "Aeva Technologies, Inc.",
-        "collected_at": "2026-04-03T00:09:02.660Z",
+        "collected_at": "2026-04-04T00:08:50.298Z",
         "data_start_date": "2020-02-27",
         "price": 13.229999542236328,
         "change": 0.22727070761118093,
-        "volume": 793903,
+        "volume": 839000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 2,

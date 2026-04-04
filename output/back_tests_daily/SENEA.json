@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SENEA",
         "name": "Seneca Foods Corp.",
-        "collected_at": "2026-04-03T00:09:02.224Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:49.872Z",
+        "data_start_date": "2016-04-06",
         "price": 160.9199981689453,
         "change": 2.765184195873783,
-        "volume": 126299,
+        "volume": 126300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 72,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 13.1188,
         "number_of_employees": 6895,
         "ml_direction": 1,
-        "ml_value": 140.28386312393377,
+        "ml_value": 140.26972018831714,
         "ml_last_change_date": "2026-01-15",
         "ml_last_change_price": 118.47000122070312,
         "ml_change_percent_from_last_change": 35.83185322093494

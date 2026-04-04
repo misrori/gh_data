@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FTRE",
         "name": "Fortrea Holdings Inc.",
-        "collected_at": "2026-04-03T00:08:55.718Z",
+        "collected_at": "2026-04-04T00:08:43.685Z",
         "data_start_date": "2023-06-16",
         "price": 9.449999809265137,
         "change": -0.6309192236870632,
-        "volume": 825963,
+        "volume": 845500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 35,

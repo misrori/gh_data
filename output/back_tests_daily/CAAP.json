@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CAAP",
         "name": "Corporacion America Airports SA",
-        "collected_at": "2026-04-03T00:05:14.084Z",
+        "collected_at": "2026-04-04T00:05:03.024Z",
         "data_start_date": "2018-02-01",
         "price": 25.65999984741211,
         "change": -0.8883721423658609,
-        "volume": 131541,
+        "volume": 149000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 21,

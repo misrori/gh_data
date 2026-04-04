@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HESM",
         "name": "Hess Midstream LP",
-        "collected_at": "2026-04-03T00:04:51.799Z",
+        "collected_at": "2026-04-04T00:04:40.282Z",
         "data_start_date": "2017-04-05",
         "price": 38.810001373291016,
         "change": 1.810079907502595,
-        "volume": 720737,
+        "volume": 902300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 51,

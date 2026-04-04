@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TATT",
         "name": "TAT Technologies Ltd.",
-        "collected_at": "2026-04-03T00:10:06.784Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:09:52.364Z",
+        "data_start_date": "2016-04-06",
         "price": 40.130001068115234,
         "change": -3.2545768780601843,
-        "volume": 144173,
+        "volume": 144700,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.3888,
         "number_of_employees": 659,
         "ml_direction": -1,
-        "ml_value": 50.75062697214182,
+        "ml_value": 50.75013847290912,
         "ml_last_change_date": "2026-03-19",
         "ml_last_change_price": 47.709999084472656,
         "ml_change_percent_from_last_change": -15.887650726919322

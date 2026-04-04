@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HGV",
         "name": "Hilton Grand Vacations Inc.",
-        "collected_at": "2026-04-03T00:05:51.384Z",
+        "collected_at": "2026-04-04T00:05:40.074Z",
         "data_start_date": "2017-01-04",
         "price": 40.4900016784668,
         "change": 0.07415371891507216,
-        "volume": 605392,
+        "volume": 605400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

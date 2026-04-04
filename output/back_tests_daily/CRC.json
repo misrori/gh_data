@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CRC",
         "name": "California Resources Corporation",
-        "collected_at": "2026-04-03T00:04:25.001Z",
+        "collected_at": "2026-04-04T00:04:13.607Z",
         "data_start_date": "2020-10-28",
         "price": 67.72000122070312,
         "change": 2.559446422307273,
-        "volume": 454734,
+        "volume": 685100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 62,

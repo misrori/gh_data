@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OLED",
         "name": "Universal Display Corporation",
-        "collected_at": "2026-04-03T00:05:12.396Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:05:01.161Z",
+        "data_start_date": "2016-04-06",
         "price": 89.72000122070312,
         "change": 0.12275483718594625,
-        "volume": 1116831,
+        "volume": 1136800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 146,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 5.0854,
         "number_of_employees": 469,
         "ml_direction": -1,
-        "ml_value": 101.00970826358969,
+        "ml_value": 101.01742223540887,
         "ml_last_change_date": "2026-02-20",
         "ml_last_change_price": 102.58999633789062,
         "ml_change_percent_from_last_change": -12.545078054978042

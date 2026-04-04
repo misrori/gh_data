@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZKH",
         "name": "ZKH Group Limited",
-        "collected_at": "2026-04-03T00:10:12.798Z",
+        "collected_at": "2026-04-04T00:09:58.054Z",
         "data_start_date": "2023-12-15",
         "price": 3.059999942779541,
         "change": 0,
-        "volume": 50306,
+        "volume": 50300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 10,

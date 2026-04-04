@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TCMD",
         "name": "Tactile Systems Technology, Inc.",
-        "collected_at": "2026-04-03T00:09:55.650Z",
+        "collected_at": "2026-04-04T00:09:42.326Z",
         "data_start_date": "2016-07-28",
         "price": 24.600000381469727,
         "change": -5.27531370083739,
-        "volume": 167963,
+        "volume": 173100,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 14,

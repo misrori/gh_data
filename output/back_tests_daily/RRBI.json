@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RRBI",
         "name": "Red River Bancshares, Inc.",
-        "collected_at": "2026-04-03T00:09:45.237Z",
+        "collected_at": "2026-04-04T00:09:32.004Z",
         "data_start_date": "2019-05-03",
         "price": 91.54000091552734,
         "change": -0.8448860288943485,
-        "volume": 57143,
+        "volume": 57400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 318,

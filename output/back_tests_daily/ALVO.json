@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALVO",
         "name": "Alvotech",
-        "collected_at": "2026-04-03T00:08:16.890Z",
+        "collected_at": "2026-04-04T00:08:04.886Z",
         "data_start_date": "2022-06-16",
         "price": 3.6500000953674316,
         "change": 0.8287351037779467,
-        "volume": 244924,
+        "volume": 246800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 283,

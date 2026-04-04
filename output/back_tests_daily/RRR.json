@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RRR",
         "name": "Red Rock Resorts, Inc.",
-        "collected_at": "2026-04-03T00:05:53.706Z",
+        "collected_at": "2026-04-04T00:05:42.610Z",
         "data_start_date": "2016-04-27",
         "price": 55.040000915527344,
         "change": 0.1455637416072841,
-        "volume": 608738,
+        "volume": 640200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

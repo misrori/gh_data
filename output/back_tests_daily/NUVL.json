@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NUVL",
         "name": "Nuvalent, Inc.",
-        "collected_at": "2026-04-03T00:03:55.348Z",
+        "collected_at": "2026-04-04T00:03:43.915Z",
         "data_start_date": "2021-07-29",
         "price": 105.43000030517578,
         "change": -0.19878747225100216,
-        "volume": 953047,
+        "volume": 992100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 9,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CERT",
         "name": "Certara, Inc.",
-        "collected_at": "2026-04-03T00:08:58.439Z",
+        "collected_at": "2026-04-04T00:08:46.107Z",
         "data_start_date": "2020-12-11",
         "price": 5.409999847412109,
         "change": -1.6363664106889206,
-        "volume": 6127118,
+        "volume": 6252400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 142,

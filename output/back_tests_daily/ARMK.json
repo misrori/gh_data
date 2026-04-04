@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARMK",
         "name": "Aramark",
-        "collected_at": "2026-04-03T00:03:16.961Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:03:04.698Z",
+        "data_start_date": "2016-04-06",
         "price": 42.54999923706055,
         "change": 1.5998045650849002,
-        "volume": 2149612,
+        "volume": 2616600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 64,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.2035,
         "number_of_employees": 278390,
         "ml_direction": 1,
-        "ml_value": 38.83283363440847,
+        "ml_value": 38.82769065955495,
         "ml_last_change_date": "2026-01-08",
         "ml_last_change_price": 38.77000045776367,
         "ml_change_percent_from_last_change": 9.749803287763271

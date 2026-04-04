@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BFST",
         "name": "Business First Bancshares, Inc.",
-        "collected_at": "2026-04-03T00:08:53.365Z",
+        "collected_at": "2026-04-04T00:08:41.114Z",
         "data_start_date": "2018-04-23",
         "price": 27.530000686645508,
         "change": 0.5111401975787605,
-        "volume": 149536,
+        "volume": 150300,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 21,

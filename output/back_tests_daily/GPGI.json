@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GPGI",
         "name": "GPGI, Inc.",
-        "collected_at": "2026-04-03T00:04:51.596Z",
+        "collected_at": "2026-04-04T00:04:40.088Z",
         "data_start_date": "2020-11-19",
         "price": 17.3700008392334,
         "change": 1.6978976394773821,
-        "volume": 2230129,
+        "volume": 2552300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 15,

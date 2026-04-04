@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IE",
         "name": "Ivanhoe Electric Inc.",
-        "collected_at": "2026-04-03T00:07:09.563Z",
+        "collected_at": "2026-04-04T00:06:57.771Z",
         "data_start_date": "2022-06-28",
         "price": 12.1899995803833,
         "change": -0.16380391237662278,
-        "volume": 1241045,
+        "volume": 1241200,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 16,

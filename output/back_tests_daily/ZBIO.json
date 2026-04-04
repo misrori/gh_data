@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZBIO",
         "name": "Zenas BioPharma, Inc.",
-        "collected_at": "2026-04-03T00:08:13.902Z",
+        "collected_at": "2026-04-04T00:08:01.904Z",
         "data_start_date": "2024-09-13",
         "price": 21.459999084472656,
         "change": 5.402742834702202,
-        "volume": 1706774,
+        "volume": 1722500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 72,

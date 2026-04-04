@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CBLL",
         "name": "CeriBell, Inc.",
-        "collected_at": "2026-04-03T00:09:25.386Z",
+        "collected_at": "2026-04-04T00:09:12.471Z",
         "data_start_date": "2024-10-11",
         "price": 18.56999969482422,
         "change": 0.3783767287795608,
-        "volume": 209690,
+        "volume": 217800,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 31,

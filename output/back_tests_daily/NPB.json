@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NPB",
         "name": "Northpointe Bancshares, Inc.",
-        "collected_at": "2026-04-03T00:09:45.889Z",
+        "collected_at": "2026-04-04T00:09:32.629Z",
         "data_start_date": "2025-02-18",
         "price": 17.459999084472656,
         "change": 0.0572969690318736,
-        "volume": 98891,
+        "volume": 125400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,

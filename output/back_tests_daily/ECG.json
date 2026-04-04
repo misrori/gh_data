@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ECG",
         "name": "Everus Construction Group, Inc.",
-        "collected_at": "2026-04-03T00:04:19.305Z",
+        "collected_at": "2026-04-04T00:04:07.968Z",
         "data_start_date": "2024-10-28",
         "price": 123.87999725341797,
         "change": -1.212124604438105,
-        "volume": 287280,
+        "volume": 330100,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 72,

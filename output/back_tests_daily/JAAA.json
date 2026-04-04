@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JAAA",
         "name": "Janus Henderson AAA CLO ETF",
-        "collected_at": "2026-04-03T00:10:47.692Z",
+        "collected_at": "2026-04-04T00:10:33.251Z",
         "data_start_date": "2020-10-19",
         "price": 50.41999816894531,
         "change": 0.09926392320984705,
-        "volume": 3872346,
+        "volume": 3880400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 29,

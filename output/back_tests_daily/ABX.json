@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ABX",
         "name": "Abacus Global Management, Inc.",
-        "collected_at": "2026-04-03T00:09:12.216Z",
+        "collected_at": "2026-04-04T00:08:58.617Z",
         "data_start_date": "2020-09-14",
         "price": 8.09000015258789,
         "change": 4.252576210988146,
-        "volume": 524419,
+        "volume": 594700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 120,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NUTX",
         "name": "Nutex Health Inc.",
-        "collected_at": "2026-04-03T00:09:24.679Z",
+        "collected_at": "2026-04-04T00:09:11.326Z",
         "data_start_date": "2022-04-04",
         "price": 100.91999816894531,
         "change": 2.5192966944664725,
-        "volume": 170930,
+        "volume": 172500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 44,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "REAL",
         "name": "The RealReal, Inc.",
-        "collected_at": "2026-04-03T00:08:30.660Z",
+        "collected_at": "2026-04-04T00:08:18.402Z",
         "data_start_date": "2019-06-28",
         "price": 9.119999885559082,
         "change": -1.72413633637985,
-        "volume": 2052504,
+        "volume": 2189100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 37,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TIC",
         "name": "TIC Solutions, Inc.",
-        "collected_at": "2026-04-03T00:09:01.640Z",
+        "collected_at": "2026-04-04T00:08:49.329Z",
         "data_start_date": "2025-02-18",
         "price": 6.949999809265137,
         "change": 1.7569529560692645,
-        "volume": 1494181,
+        "volume": 3333100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 59,

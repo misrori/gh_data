@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RLAY",
         "name": "Relay Therapeutics, Inc.",
-        "collected_at": "2026-04-03T00:06:45.468Z",
+        "collected_at": "2026-04-04T00:06:33.786Z",
         "data_start_date": "2020-07-16",
         "price": 12.539999961853027,
         "change": 16.43453508688973,
-        "volume": 8865204,
+        "volume": 8891900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 266,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.613,
         "number_of_employees": 192,
         "ml_direction": 1,
-        "ml_value": 9.491138537373173,
+        "ml_value": 9.490495665516484,
         "ml_last_change_date": "2025-11-24",
         "ml_last_change_price": 8.25,
         "ml_change_percent_from_last_change": 51.99999953761245

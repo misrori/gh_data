@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATEN",
         "name": "A10 Networks, Inc.",
-        "collected_at": "2026-04-03T00:07:23.100Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:07:11.336Z",
+        "data_start_date": "2016-04-06",
         "price": 23.989999771118164,
         "change": -0.3737547876787496,
-        "volume": 541712,
+        "volume": 668400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 55,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.5835,
         "number_of_employees": 494,
         "ml_direction": 1,
-        "ml_value": 21.631179955288264,
+        "ml_value": 21.631089955680633,
         "ml_last_change_date": "2026-01-27",
         "ml_last_change_price": 18.280000686645508,
         "ml_change_percent_from_last_change": 31.2363176695289

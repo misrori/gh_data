@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QURE",
         "name": "uniQure N.V.",
-        "collected_at": "2026-04-03T00:08:34.198Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:08:22.037Z",
+        "data_start_date": "2016-04-06",
         "price": 17.15999984741211,
         "change": 1.5985818088847894,
-        "volume": 1192524,
+        "volume": 1192600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 115,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -3.4809,
         "number_of_employees": 221,
         "ml_direction": 1,
-        "ml_value": 11.547765425308414,
+        "ml_value": 11.54005120825868,
         "ml_last_change_date": "2026-03-09",
         "ml_last_change_price": 17.959999084472656,
         "ml_change_percent_from_last_change": -4.454338963481286

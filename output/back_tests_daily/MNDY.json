@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MNDY",
         "name": "monday.com Ltd.",
-        "collected_at": "2026-04-03T00:05:43.704Z",
+        "collected_at": "2026-04-04T00:05:32.663Z",
         "data_start_date": "2021-06-10",
         "price": 68.33999633789062,
         "change": 0.3524197784831576,
-        "volume": 849189,
+        "volume": 865500,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 238,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.3046,
         "number_of_employees": 3155,
         "ml_direction": -1,
-        "ml_value": 81.06375275711949,
+        "ml_value": 81.068895731973,
         "ml_last_change_date": "2025-10-01",
         "ml_last_change_price": 184.58999633789062,
         "ml_change_percent_from_last_change": -62.97741064321018

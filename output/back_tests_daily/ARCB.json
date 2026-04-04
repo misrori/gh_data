@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARCB",
         "name": "ArcBest Corporation",
-        "collected_at": "2026-04-03T00:06:45.718Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:06:34.046Z",
+        "data_start_date": "2016-04-06",
         "price": 100.51000213623047,
         "change": 0.8528982970971556,
-        "volume": 222350,
+        "volume": 226400,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 104,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 2.6278,
         "number_of_employees": 14000,
         "ml_direction": 1,
-        "ml_value": 86.85503884094135,
+        "ml_value": 86.8507522111283,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 100.51000213623047,
         "ml_change_percent_from_last_change": 0

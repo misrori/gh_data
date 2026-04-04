@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MAT",
         "name": "Mattel, Inc.",
-        "collected_at": "2026-04-03T00:05:08.166Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:04:57.083Z",
+        "data_start_date": "2016-04-06",
         "price": 14.359999656677246,
         "change": -1.373631574007319,
-        "volume": 4233626,
+        "volume": 4285300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 42,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.2703,
         "number_of_employees": 31000,
         "ml_direction": -1,
-        "ml_value": 15.99223246114112,
+        "ml_value": 15.994803948567878,
         "ml_last_change_date": "2026-02-11",
         "ml_last_change_price": 16,
         "ml_change_percent_from_last_change": -10.250002145767212

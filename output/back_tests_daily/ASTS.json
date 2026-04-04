@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ASTS",
         "name": "AST SpaceMobile, Inc.",
-        "collected_at": "2026-04-03T00:01:53.088Z",
+        "collected_at": "2026-04-04T00:01:48.917Z",
         "data_start_date": "2019-11-01",
         "price": 92.62000274658203,
         "change": 10.275038816896071,
-        "volume": 16840234,
+        "volume": 16940400,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,

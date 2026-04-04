@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BCAX",
         "name": "Bicara Therapeutics Inc.",
-        "collected_at": "2026-04-03T00:07:59.680Z",
+        "collected_at": "2026-04-04T00:07:47.458Z",
         "data_start_date": "2024-09-13",
         "price": 21.469999313354492,
         "change": 4.731703967582888,
-        "volume": 914495,
+        "volume": 919800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 28,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -2.2296,
         "number_of_employees": 55,
         "ml_direction": 1,
-        "ml_value": 17.49236720655792,
+        "ml_value": 17.492328705363374,
         "ml_last_change_date": "2026-02-25",
         "ml_last_change_price": 17.350000381469727,
         "ml_change_percent_from_last_change": 23.74639101613529

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TWLO",
         "name": "Twilio Inc.",
-        "collected_at": "2026-04-03T00:02:22.460Z",
+        "collected_at": "2026-04-04T00:02:14.811Z",
         "data_start_date": "2016-06-23",
         "price": 130.9499969482422,
         "change": 0.3755865469558624,
-        "volume": 876240,
+        "volume": 1075200,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 8,

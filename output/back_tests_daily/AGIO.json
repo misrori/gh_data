@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AGIO",
         "name": "Agios Pharmaceuticals, Inc.",
-        "collected_at": "2026-04-03T00:07:00.161Z",
-        "data_start_date": "2016-04-05",
+        "collected_at": "2026-04-04T00:06:48.294Z",
+        "data_start_date": "2016-04-06",
         "price": 35.20000076293945,
         "change": 2.954086507161958,
-        "volume": 1283322,
+        "volume": 1425300,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 6,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -7.1188,
         "number_of_employees": 540,
         "ml_direction": 1,
-        "ml_value": 29.757235642196076,
+        "ml_value": 29.756027636563406,
         "ml_last_change_date": "2026-02-23",
         "ml_last_change_price": 30.350000381469727,
         "ml_change_percent_from_last_change": 15.980231698550185

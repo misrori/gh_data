@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DFIN",
         "name": "Donnelley Financial Solutions, Inc.",
-        "collected_at": "2026-04-03T00:08:15.282Z",
+        "collected_at": "2026-04-04T00:08:03.265Z",
         "data_start_date": "2016-09-26",
         "price": 47.790000915527344,
         "change": 3.7559693674683854,
-        "volume": 146052,
+        "volume": 170800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 15,

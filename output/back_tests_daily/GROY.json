@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GROY",
         "name": "Gold Royalty Corp.",
-        "collected_at": "2026-04-03T00:09:00.537Z",
+        "collected_at": "2026-04-04T00:08:48.112Z",
         "data_start_date": "2021-03-09",
         "price": 3.680000066757202,
         "change": -1.0752677834782465,
-        "volume": 1671812,
+        "volume": 1672300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 13,

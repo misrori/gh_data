@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PACS",
         "name": "PACS Group, Inc.",
-        "collected_at": "2026-04-03T00:04:50.753Z",
+        "collected_at": "2026-04-04T00:04:39.075Z",
         "data_start_date": "2024-04-11",
         "price": 32.13999938964844,
         "change": 1.484052138371488,
-        "volume": 422862,
+        "volume": 587000,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 10,
