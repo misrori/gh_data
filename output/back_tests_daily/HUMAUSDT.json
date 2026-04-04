@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HUMAUSDT",
         "name": "Huma Finance",
-        "collected_at": "2026-04-04T17:46:31.962Z",
+        "collected_at": "2026-04-04T18:46:35.964Z",
         "data_start_date": "2025-05-26",
         "price": 0.01388,
         "change": -6.025727826675695,
-        "volume": 91111115,
+        "volume": 95578785,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 75,
