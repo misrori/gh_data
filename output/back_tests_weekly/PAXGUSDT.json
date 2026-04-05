@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PAXGUSDT",
         "name": "PAX Gold",
-        "collected_at": "2026-04-05T02:45:58.484Z",
+        "collected_at": "2026-04-05T03:45:54.426Z",
         "data_start_date": "2020-08-24",
         "price": 4650.48,
         "change": 4.394205709436936,
-        "volume": 53913.15,
+        "volume": 53932.4717,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1106,
