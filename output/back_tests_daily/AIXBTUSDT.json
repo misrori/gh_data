@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AIXBTUSDT",
         "name": "aixbt",
-        "collected_at": "2026-04-05T15:48:05.405Z",
+        "collected_at": "2026-04-05T16:48:11.091Z",
         "data_start_date": "2025-01-10",
         "price": 0.0218,
         "change": -3.111111111111108,
-        "volume": 16995289.4,
+        "volume": 18015082.4,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 254,
