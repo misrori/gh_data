@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HIGHUSDT",
         "name": "Highstreet",
-        "collected_at": "2026-04-04T23:47:18.317Z",
+        "collected_at": "2026-04-05T00:47:22.281Z",
         "data_start_date": "2021-12-13",
         "price": 0.138,
         "change": 17.948717948717952,
-        "volume": 17878403.889,
+        "volume": 17922645.424,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 567,
