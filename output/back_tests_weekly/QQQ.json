@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QQQ",
         "name": "Invesco QQQ Trust, Series 1",
-        "collected_at": "2026-04-04T00:10:09.358Z",
+        "collected_at": "2026-04-05T00:09:58.995Z",
         "data_start_date": "2016-04-04",
         "price": 584.97998046875,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:QQQ",
-        "market_capitalization": 370209255300,
+        "market_capitalization": 362833235550,
         "commodity_name": null,
         "display_name": "Invesco QQQ Trust, Series 1",
         "sma_50": 581.8957958984375,

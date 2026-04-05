@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ZVRA",
         "name": "Zevra Therapeutics, Inc.",
-        "collected_at": "2026-04-04T00:09:45.180Z",
+        "collected_at": "2026-04-05T00:09:34.857Z",
         "data_start_date": "2016-04-04",
         "price": 9.399999618530273,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.5048,
         "number_of_employees": 61,
         "ml_direction": -1,
-        "ml_value": 11.21441570200936,
+        "ml_value": 11.214415702009358,
         "ml_last_change_date": "2025-09-01",
         "ml_last_change_price": 8.920000076293945,
         "ml_change_percent_from_last_change": 5.381160741377

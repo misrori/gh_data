@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SCHF",
         "name": "Schwab International Equity ETF",
-        "collected_at": "2026-04-04T00:10:19.404Z",
+        "collected_at": "2026-04-05T00:10:09.284Z",
         "data_start_date": "2016-04-04",
         "price": 24.979999542236328,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:SCHF",
-        "market_capitalization": 57163338000,
+        "market_capitalization": 56765232000,
         "commodity_name": null,
         "display_name": "Schwab International Equity ETF",
         "sma_50": 23.49199996948242,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "DFAC",
         "name": "Dimensional U.S. Core Equity 2 ETF",
-        "collected_at": "2026-04-04T00:10:25.432Z",
+        "collected_at": "2026-04-05T00:10:15.382Z",
         "data_start_date": "2021-06-14",
         "price": 39.18000030517578,
         "change": 0.15337774777419916,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:DFAC",
-        "market_capitalization": 40092396461.8305,
+        "market_capitalization": 39496856586.2708,
         "commodity_name": null,
         "display_name": "Dimensional U.S. Core Equity 2 ETF",
         "sma_50": 40.20200012207031,

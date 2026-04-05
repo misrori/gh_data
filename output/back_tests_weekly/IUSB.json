@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IUSB",
         "name": "iShares Core Universal USD Bond ETF",
-        "collected_at": "2026-04-04T00:10:27.907Z",
+        "collected_at": "2026-04-05T00:10:17.419Z",
         "data_start_date": "2016-04-04",
         "price": 46.18000030517578,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:IUSB",
-        "market_capitalization": 35868861280.6,
+        "market_capitalization": 35885140676.7,
         "commodity_name": null,
         "display_name": "iShares Core Universal USD Bond ETF",
         "sma_50": 46.34860000610352,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VEU",
         "name": "Vanguard FTSE All World Ex US ETF",
-        "collected_at": "2026-04-04T00:10:19.165Z",
+        "collected_at": "2026-04-05T00:10:08.942Z",
         "data_start_date": "2016-04-04",
         "price": 75.58000183105469,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VEU",
-        "market_capitalization": 57719896247.0358,
+        "market_capitalization": 57329122261.8423,
         "commodity_name": null,
         "display_name": "Vanguard FTSE All World Ex US ETF",
         "sma_50": 71.61560020446777,

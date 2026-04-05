@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ACWI",
         "name": "iShares MSCI ACWI ETF",
-        "collected_at": "2026-04-04T00:10:32.593Z",
+        "collected_at": "2026-04-05T00:10:22.218Z",
         "data_start_date": "2016-04-04",
         "price": 139.44000244140625,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:ACWI",
-        "market_capitalization": 27861288956,
+        "market_capitalization": 27400717285.4,
         "commodity_name": null,
         "display_name": "iShares MSCI ACWI ETF",
         "sma_50": 136.0374006652832,

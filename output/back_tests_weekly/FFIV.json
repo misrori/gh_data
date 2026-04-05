@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FFIV",
         "name": "F5, Inc.",
-        "collected_at": "2026-04-04T00:02:27.082Z",
+        "collected_at": "2026-04-05T00:02:22.841Z",
         "data_start_date": "2016-04-04",
         "price": 303.3500061035156,
         "change": 0,
-        "volume": 538533,
+        "volume": 538581,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 31,

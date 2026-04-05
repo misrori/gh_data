@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "OI",
         "name": "O-I Glass, Inc.",
-        "collected_at": "2026-04-04T00:07:23.723Z",
+        "collected_at": "2026-04-05T00:07:14.770Z",
         "data_start_date": "2016-04-04",
         "price": 10.350000381469727,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.8435,
         "number_of_employees": 19000,
         "ml_direction": -1,
-        "ml_value": 14.031186358192898,
+        "ml_value": 14.031186358192896,
         "ml_last_change_date": "2026-03-02",
         "ml_last_change_price": 11.25,
         "ml_change_percent_from_last_change": -7.999996609157989

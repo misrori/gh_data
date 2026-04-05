@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IWF",
         "name": "iShares Russell 1000 Growth Fund",
-        "collected_at": "2026-04-04T00:10:12.672Z",
+        "collected_at": "2026-04-05T00:10:02.299Z",
         "data_start_date": "2016-04-04",
         "price": 430.0400085449219,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IWF",
-        "market_capitalization": 110456643872.25,
+        "market_capitalization": 107728786095,
         "commodity_name": null,
         "display_name": "iShares Russell 1000 Growth Fund",
         "sma_50": 445.15680114746095,

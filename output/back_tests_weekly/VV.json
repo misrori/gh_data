@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VV",
         "name": "Vanguard Large-Cap ETF",
-        "collected_at": "2026-04-04T00:10:21.923Z",
+        "collected_at": "2026-04-05T00:10:12.091Z",
         "data_start_date": "2016-04-04",
         "price": 301.42999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:VV",
-        "market_capitalization": 45265118442.0786,
+        "market_capitalization": 44365357746.5563,
         "commodity_name": null,
         "display_name": "Vanguard Large-Cap ETF",
         "sma_50": 300.18499938964845,

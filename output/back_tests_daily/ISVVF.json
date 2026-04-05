@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ISVVF",
         "name": "ISHARES V PLC",
-        "collected_at": "2026-04-04T00:10:33.429Z",
+        "collected_at": "2026-04-05T00:10:23.377Z",
         "data_start_date": "2019-06-26",
         "price": 106.54499816894531,
         "change": -0.19297363284495422,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "OTC:ISVVF",
-        "market_capitalization": 25853921314.2438,
+        "market_capitalization": 25555061096.3825,
         "commodity_name": null,
         "display_name": "ISHARES V PLC",
         "sma_50": 110.08212051391601,

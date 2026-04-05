@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IWR",
         "name": "iShares Russell Mid-Cap ETF",
-        "collected_at": "2026-04-04T00:10:21.068Z",
+        "collected_at": "2026-04-05T00:10:10.486Z",
         "data_start_date": "2016-04-04",
         "price": 98.33999633789062,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IWR",
-        "market_capitalization": 47504318435.2,
+        "market_capitalization": 47274369556.75,
         "commodity_name": null,
         "display_name": "iShares Russell Mid-Cap ETF",
         "sma_50": 95.49619995117187,

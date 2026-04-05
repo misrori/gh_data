@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IVW",
         "name": "iShares S&P 500 Growth ETF",
-        "collected_at": "2026-04-04T00:10:18.904Z",
+        "collected_at": "2026-04-05T00:10:08.689Z",
         "data_start_date": "2016-04-04",
         "price": 114.66000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:IVW",
-        "market_capitalization": 60343776333.75,
+        "market_capitalization": 58545520532.1,
         "commodity_name": null,
         "display_name": "iShares S&P 500 Growth ETF",
         "sma_50": 115.95359985351563,

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JEPQ",
         "name": "JPMorgan Nasdaq Equity Premium Income ETF",
-        "collected_at": "2026-04-04T00:10:29.201Z",
+        "collected_at": "2026-04-05T00:10:18.851Z",
         "data_start_date": "2022-05-02",
         "price": 55.59000015258789,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "NASDAQ:JEPQ",
-        "market_capitalization": 33876752000,
+        "market_capitalization": 33356259250,
         "commodity_name": null,
         "display_name": "JPMorgan Nasdaq Equity Premium Income ETF",
         "sma_50": 56.185000076293946,

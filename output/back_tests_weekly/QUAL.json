@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "QUAL",
         "name": "iShares MSCI USA Quality Factor ETF",
-        "collected_at": "2026-04-04T00:10:21.654Z",
+        "collected_at": "2026-04-05T00:10:11.597Z",
         "data_start_date": "2016-04-04",
         "price": 193.16000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CBOE:QUAL",
-        "market_capitalization": 46315077723,
+        "market_capitalization": 45215166995.05,
         "commodity_name": null,
         "display_name": "iShares MSCI USA Quality Factor ETF",
         "sma_50": 191.30679962158203,
