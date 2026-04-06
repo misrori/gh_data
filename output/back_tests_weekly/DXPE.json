@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DXPE",
         "name": "DXP Enterprises, Inc.",
-        "collected_at": "2026-04-05T00:06:26.950Z",
+        "collected_at": "2026-04-06T00:06:37.682Z",
         "data_start_date": "2016-04-04",
         "price": 143.33999633789062,
         "change": 0,
-        "volume": 100363,
+        "volume": 101280,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1039,

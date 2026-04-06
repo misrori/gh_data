@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "IOSP",
         "name": "Innospec Inc.",
-        "collected_at": "2026-04-05T00:06:55.105Z",
+        "collected_at": "2026-04-06T00:07:06.233Z",
         "data_start_date": "2016-04-04",
         "price": 73.79000091552734,
         "change": 0,
-        "volume": 260772,
+        "volume": 263051,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 395,

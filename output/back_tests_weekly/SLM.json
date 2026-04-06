@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SLM",
         "name": "SLM Corporation",
-        "collected_at": "2026-04-05T00:04:51.495Z",
+        "collected_at": "2026-04-06T00:05:02.216Z",
         "data_start_date": "2016-04-04",
         "price": 21.639999389648438,
         "change": 0,
-        "volume": 4806225,
+        "volume": 5382520,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 17,

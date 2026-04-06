@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BANF",
         "name": "BancFirst Corporation",
-        "collected_at": "2026-04-05T00:05:17.156Z",
+        "collected_at": "2026-04-06T00:05:28.303Z",
         "data_start_date": "2016-04-04",
         "price": 109.06999969482422,
         "change": 0,
-        "volume": 54822,
+        "volume": 56429,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 108,

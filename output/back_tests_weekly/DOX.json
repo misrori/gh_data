@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DOX",
         "name": "Amdocs Limited",
-        "collected_at": "2026-04-05T00:03:46.301Z",
+        "collected_at": "2026-04-06T00:03:55.476Z",
         "data_start_date": "2016-04-04",
         "price": 66.43000030517578,
         "change": 0,
-        "volume": 669244,
+        "volume": 669287,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 178,

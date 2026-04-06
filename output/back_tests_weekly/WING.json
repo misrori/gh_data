@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WING",
         "name": "Wingstop Inc.",
-        "collected_at": "2026-04-05T00:04:54.994Z",
+        "collected_at": "2026-04-06T00:05:05.822Z",
         "data_start_date": "2016-04-04",
         "price": 152.50999450683594,
         "change": 0,
-        "volume": 2390939,
+        "volume": 2401280,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 178,

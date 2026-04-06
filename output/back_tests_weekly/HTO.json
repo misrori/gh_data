@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HTO",
         "name": "H2O America",
-        "collected_at": "2026-04-05T00:06:13.489Z",
+        "collected_at": "2026-04-06T00:06:24.914Z",
         "data_start_date": "2016-04-04",
         "price": 59.18000030517578,
         "change": 0,
-        "volume": 511741,
+        "volume": 535026,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 31,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MTCH",
         "name": "Match Group, Inc.",
-        "collected_at": "2026-04-05T00:03:43.081Z",
+        "collected_at": "2026-04-06T00:03:52.086Z",
         "data_start_date": "2016-04-04",
         "price": 31.440000534057617,
         "change": 0,
-        "volume": 2279361,
+        "volume": 2320022,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 80,

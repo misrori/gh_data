@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "POWI",
         "name": "Power Integrations, Inc.",
-        "collected_at": "2026-04-05T00:05:52.200Z",
+        "collected_at": "2026-04-06T00:06:03.362Z",
         "data_start_date": "2016-04-04",
         "price": 52.369998931884766,
         "change": 0,
-        "volume": 799800,
+        "volume": 799844,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 885,

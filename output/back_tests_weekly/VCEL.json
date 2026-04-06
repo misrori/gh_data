@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VCEL",
         "name": "Vericel Corporation",
-        "collected_at": "2026-04-05T00:07:01.604Z",
+        "collected_at": "2026-04-06T00:07:12.743Z",
         "data_start_date": "2016-04-04",
         "price": 34.13999938964844,
         "change": 0,
-        "volume": 1675885,
+        "volume": 1685769,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 255,

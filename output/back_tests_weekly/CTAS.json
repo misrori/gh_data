@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CTAS",
         "name": "Cintas Corporation",
-        "collected_at": "2026-04-05T00:00:58.482Z",
+        "collected_at": "2026-04-06T00:00:59.319Z",
         "data_start_date": "2016-04-04",
         "price": 174.33999633789062,
         "change": 0,
-        "volume": 2319374,
+        "volume": 2387546,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 0,

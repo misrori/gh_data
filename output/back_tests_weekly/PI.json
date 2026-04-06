@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PI",
         "name": "Impinj, Inc.",
-        "collected_at": "2026-04-05T00:05:46.078Z",
+        "collected_at": "2026-04-06T00:05:57.018Z",
         "data_start_date": "2016-07-18",
         "price": 100.44999694824219,
         "change": 0,
-        "volume": 226364,
+        "volume": 231251,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 3,

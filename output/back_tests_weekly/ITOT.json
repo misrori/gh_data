@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "ITOT",
         "name": "iShares Core S&P Total U.S. Stock Market ETF",
-        "collected_at": "2026-04-05T00:10:05.330Z",
+        "collected_at": "2026-04-06T00:10:20.177Z",
         "data_start_date": "2016-04-04",
         "price": 143.67999267578125,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:ITOT",
-        "market_capitalization": 77602863471,
+        "market_capitalization": 78927514566.55,
         "commodity_name": null,
         "display_name": "iShares Core S&P Total U.S. Stock Market ETF",
         "sma_50": 142.24900039672852,

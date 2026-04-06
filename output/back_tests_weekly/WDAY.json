@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WDAY",
         "name": "Workday, Inc.",
-        "collected_at": "2026-04-05T00:01:45.357Z",
+        "collected_at": "2026-04-06T00:01:46.770Z",
         "data_start_date": "2016-04-04",
         "price": 132.25999450683594,
         "change": 0,
-        "volume": 2987297,
+        "volume": 2990573,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 234,

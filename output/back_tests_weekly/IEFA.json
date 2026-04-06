@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "IEFA",
         "name": "iShares Core MSCI EAFE ETF",
-        "collected_at": "2026-04-05T00:09:59.842Z",
+        "collected_at": "2026-04-06T00:10:14.549Z",
         "data_start_date": "2016-04-04",
         "price": 91.41000366210938,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CBOE:IEFA",
-        "market_capitalization": 164675771637,
+        "market_capitalization": 165919714248.6,
         "commodity_name": null,
         "display_name": "iShares Core MSCI EAFE ETF",
         "sma_50": 87.62459976196288,
