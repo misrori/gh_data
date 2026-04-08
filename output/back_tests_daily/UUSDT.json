@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "UUSDT",
         "name": "U / USDT",
-        "collected_at": "2026-04-08T17:45:42.540Z",
+        "collected_at": "2026-04-08T18:45:43.378Z",
         "data_start_date": "2026-01-13",
         "price": 0.9999,
         "change": 0,
-        "volume": 10479429,
+        "volume": 10723599,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 1.0010789287873736,
+        "ml_value": 1.001085341167263,
         "ml_last_change_date": "2026-02-25",
         "ml_last_change_price": 0.9999,
         "ml_change_percent_from_last_change": 0
