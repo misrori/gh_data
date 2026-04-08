@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COSUSDT",
         "name": "COS / USDT",
-        "collected_at": "2026-04-08T18:47:00.713Z",
+        "collected_at": "2026-04-08T19:47:27.391Z",
         "data_start_date": "2019-08-03",
         "price": 0.001276,
         "change": 1.835594573024742,
-        "volume": 1227452580.3,
+        "volume": 1278158292,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 20,
