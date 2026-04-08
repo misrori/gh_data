@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AUDIOUSDT",
         "name": "Audius",
-        "collected_at": "2026-04-08T02:48:03.705Z",
+        "collected_at": "2026-04-08T03:48:08.494Z",
         "data_start_date": "2020-10-23",
         "price": 0.01688,
         "change": -1.2865497076023475,
-        "volume": 1968772.6,
+        "volume": 2038145,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 219,
