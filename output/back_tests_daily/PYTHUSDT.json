@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PYTHUSDT",
         "name": "Pyth Network",
-        "collected_at": "2026-04-09T19:47:35.974Z",
+        "collected_at": "2026-04-09T20:47:03.955Z",
         "data_start_date": "2024-02-02",
         "price": 0.0471,
         "change": 9.534883720930248,
-        "volume": 36043646.5,
+        "volume": 37688883.7,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 174,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": 1,
-        "ml_value": 0.03859497418271507,
+        "ml_value": 0.03853068846842936,
         "ml_last_change_date": "2026-04-09",
         "ml_last_change_price": 0.0471,
         "ml_change_percent_from_last_change": 0

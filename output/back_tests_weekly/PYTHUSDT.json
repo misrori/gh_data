@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PYTHUSDT",
         "name": "Pyth Network",
-        "collected_at": "2026-04-09T19:47:36.250Z",
+        "collected_at": "2026-04-09T20:47:04.241Z",
         "data_start_date": "2024-01-29",
         "price": 0.0471,
         "change": 17.456359102244406,
-        "volume": 153363413.1,
+        "volume": 155008650.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 602,
