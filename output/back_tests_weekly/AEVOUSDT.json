@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AEVOUSDT",
         "name": "Aevo",
-        "collected_at": "2026-04-09T05:47:52.634Z",
+        "collected_at": "2026-04-09T06:48:30.199Z",
         "data_start_date": "2024-03-11",
         "price": 0.0239,
         "change": -0.41666666666666413,
-        "volume": 164528123.36,
+        "volume": 165364612.81,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 560,
