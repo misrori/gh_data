@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRUUSDT",
         "name": "TrueFi",
-        "collected_at": "2026-04-09T18:47:26.910Z",
+        "collected_at": "2026-04-09T19:47:48.561Z",
         "data_start_date": "2021-01-19",
         "price": 0.0072,
         "change": -8.860759493670898,
-        "volume": 192070510,
+        "volume": 193396781,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 1,
