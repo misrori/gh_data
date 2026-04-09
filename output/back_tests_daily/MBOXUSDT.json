@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MBOXUSDT",
         "name": "MBOX / USDT",
-        "collected_at": "2026-04-09T00:47:54.011Z",
+        "collected_at": "2026-04-09T01:47:42.675Z",
         "data_start_date": "2021-08-19",
         "price": 0.0126,
         "change": -0.7874015748031449,
-        "volume": 2543714.9,
+        "volume": 3284700.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 180,

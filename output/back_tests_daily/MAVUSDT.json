@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MAVUSDT",
         "name": "Maverick Protocol",
-        "collected_at": "2026-04-09T00:46:18.089Z",
+        "collected_at": "2026-04-09T01:46:05.646Z",
         "data_start_date": "2023-06-28",
         "price": 0.01473,
         "change": -1.3395847287340958,
-        "volume": 2997535,
+        "volume": 4850573,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 181,
