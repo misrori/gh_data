@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LINEAUSDT",
         "name": "Linea",
-        "collected_at": "2026-04-09T03:48:30.412Z",
+        "collected_at": "2026-04-09T04:48:27.278Z",
         "data_start_date": "2025-09-10",
         "price": 0.0033,
         "change": 0,
-        "volume": 33167434,
+        "volume": 36439547,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 183,
