@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "WUSDT",
         "name": "Wormhole",
-        "collected_at": "2026-04-10T06:47:22.269Z",
+        "collected_at": "2026-04-10T07:47:06.785Z",
         "data_start_date": "2024-04-03",
         "price": 0.0129,
         "change": -3.007518796992476,
-        "volume": 51940434.2,
+        "volume": 56486925.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 169,
