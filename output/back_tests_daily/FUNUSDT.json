@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FUNUSDT",
         "name": "FUN / USDT",
-        "collected_at": "2026-04-10T15:46:33.092Z",
+        "collected_at": "2026-04-10T16:46:30.247Z",
         "data_start_date": "2019-08-27",
         "price": 0.000864,
         "change": -1.4823261117445827,
-        "volume": 3884736929,
+        "volume": 4132374634,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 219,
