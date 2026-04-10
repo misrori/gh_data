@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ETHFIUSDT",
         "name": "ether.fi",
-        "collected_at": "2026-04-10T13:46:30.529Z",
+        "collected_at": "2026-04-10T14:46:06.677Z",
         "data_start_date": "2024-03-18",
         "price": 0.44,
         "change": -2.4390243902439046,
-        "volume": 34257677,
+        "volume": 35630185.2,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 553,
