@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZBTUSDT",
         "name": "ZEROBASE",
-        "collected_at": "2026-04-11T20:46:35.722Z",
+        "collected_at": "2026-04-11T21:46:23.003Z",
         "data_start_date": "2025-10-17",
         "price": 0.1108,
         "change": -0.4492362982929025,
-        "volume": 25614687.8,
+        "volume": 25851983.6,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 9,
