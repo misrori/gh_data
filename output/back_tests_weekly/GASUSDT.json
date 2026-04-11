@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GASUSDT",
         "name": "Gas",
-        "collected_at": "2026-04-11T02:47:12.051Z",
+        "collected_at": "2026-04-11T03:47:38.635Z",
         "data_start_date": "2023-03-13",
         "price": 1.722,
         "change": -3.095104108047267,
-        "volume": 2870454.5,
+        "volume": 2877750.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 406,
