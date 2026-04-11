@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARUSDT",
         "name": "Arweave",
-        "collected_at": "2026-04-11T10:46:59.135Z",
+        "collected_at": "2026-04-11T11:46:59.932Z",
         "data_start_date": "2021-05-10",
         "price": 1.74,
         "change": 5.4545454545454595,
-        "volume": 6513110.18,
+        "volume": 6532866.51,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 413,
