@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DUSDT",
         "name": "D / USDT",
-        "collected_at": "2026-04-12T03:46:40.151Z",
+        "collected_at": "2026-04-12T04:46:36.751Z",
         "data_start_date": "2025-01-09",
         "price": 0.00888,
         "change": 0.4524886877828066,
-        "volume": 18673561,
+        "volume": 24581769,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 8,
