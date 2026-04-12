@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AGIO",
         "name": "Agios Pharmaceuticals, Inc.",
-        "collected_at": "2026-04-11T00:07:06.636Z",
+        "collected_at": "2026-04-12T00:06:54.376Z",
         "data_start_date": "2016-04-11",
         "price": 32.91999816894531,
         "change": 0,
-        "volume": 756544,
+        "volume": 648553,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 116,

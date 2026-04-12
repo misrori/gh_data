@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MIDD",
         "name": "The Middleby Corporation",
-        "collected_at": "2026-04-11T00:04:09.276Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:04:00.610Z",
+        "data_start_date": "2016-04-14",
         "price": 143.02999877929688,
         "change": -1.6232207306272204,
-        "volume": 396816,
+        "volume": 411600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 11,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Industrial Machinery",
         "tradingview_id": "NASDAQ:MIDD",
-        "market_capitalization": 6748300549.035835,
+        "market_capitalization": 6748300519.999999,
         "commodity_name": null,
         "display_name": "The Middleby Corporation",
         "sma_50": 149.79660034179688,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 129.17843097577193,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 145.17999267578125,
-        "ml_change_percent_from_last_change": -1.480916107556074
+        "ml_last_change_price": 145.16000366210938,
+        "ml_change_percent_from_last_change": -1.467349703138987
     }
 }

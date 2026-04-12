@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "COKE",
         "name": "Coca-Cola Consolidated, Inc.",
-        "collected_at": "2026-04-11T00:02:50.373Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:02:44.448Z",
+        "data_start_date": "2016-04-14",
         "price": 203.4199981689453,
         "change": -2.688478424075952,
-        "volume": 382155,
+        "volume": 416600,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 66,
@@ -22,7 +22,7 @@
         "sector": "Consumer Non-Durables",
         "industry": "Beverages: Non-Alcoholic",
         "tradingview_id": "NASDAQ:COKE",
-        "market_capitalization": 13540509023.384521,
+        "market_capitalization": 13540509335.999998,
         "commodity_name": null,
         "display_name": "Coca-Cola Consolidated, Inc.",
         "sma_50": 187.6749996948242,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 185.8230801455555,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 209.08999633789062,
-        "ml_change_percent_from_last_change": -2.7117500924255467
+        "ml_last_change_price": 208.85000610351562,
+        "ml_change_percent_from_last_change": -2.5999558419351643
     }
 }

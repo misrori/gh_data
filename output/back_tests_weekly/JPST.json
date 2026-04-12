@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "JPST",
         "name": "JPMorgan Ultra-Short Income ETF",
-        "collected_at": "2026-04-11T00:10:37.512Z",
+        "collected_at": "2026-04-12T00:10:23.426Z",
         "data_start_date": "2017-05-15",
         "price": 50.5,
         "change": 0,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "AMEX:JPST",
-        "market_capitalization": 37804387500,
+        "market_capitalization": 37811875000,
         "commodity_name": null,
         "display_name": "JPMorgan Ultra-Short Income ETF",
         "sma_50": 50.62740005493164,

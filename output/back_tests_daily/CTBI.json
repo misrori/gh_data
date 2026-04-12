@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "CTBI",
         "name": "Community Trust Bancorp, Inc.",
-        "collected_at": "2026-04-11T00:08:19.865Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:08:06.562Z",
+        "data_start_date": "2016-04-14",
         "price": 64.62999725341797,
         "change": -1.3884706277045264,
-        "volume": 102441,
+        "volume": 102800,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 3,
@@ -16,13 +16,13 @@
         "rsi": 66.53241840216319,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-04-09",
-        "rsi_last_change_price": 65.16999816894531,
+        "rsi_last_change_price": 65.26000213623047,
         "rsi_days_since_last_change": 1,
-        "rsi_change_percent_from_last_change": -0.8286035456491092,
+        "rsi_change_percent_from_last_change": -0.9653767425526039,
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:CTBI",
-        "market_capitalization": 1173084417.1589868,
+        "market_capitalization": 1173084351,
         "commodity_name": null,
         "display_name": "Community Trust Bancorp, Inc.",
         "sma_50": 61.621600036621096,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 60.20760411304995,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 65.16999816894531,
-        "ml_change_percent_from_last_change": -0.8286035456491092
+        "ml_last_change_price": 65.26000213623047,
+        "ml_change_percent_from_last_change": -0.9653767425526039
     }
 }

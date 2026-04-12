@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CCO",
         "name": "Clear Channel Outdoor Holdings, Inc.",
-        "collected_at": "2026-04-11T00:08:18.315Z",
+        "collected_at": "2026-04-12T00:08:05.095Z",
         "data_start_date": "2016-04-11",
         "price": 2.369999885559082,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.2127,
         "number_of_employees": 1900,
         "ml_direction": 1,
-        "ml_value": 1.9811476851529592,
+        "ml_value": 1.9794395235166846,
         "ml_last_change_date": "2025-09-22",
         "ml_last_change_price": 1.5099999904632568,
         "ml_change_percent_from_last_change": 56.95363579651305

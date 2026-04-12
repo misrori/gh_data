@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
-        "collected_at": "2026-04-11T00:00:11.485Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:00:12.051Z",
+        "data_start_date": "2016-04-14",
         "price": 420.5899963378906,
         "change": -0.21826609248163198,
-        "volume": 36212702,
+        "volume": 36285700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 312,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:MU",
-        "market_capitalization": 474313657745.876,
+        "market_capitalization": 474313642627.00006,
         "commodity_name": null,
         "display_name": "Micron Technology, Inc.",
         "sma_50": 402.9555999755859,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 21.4443,
         "number_of_employees": 53000,
         "ml_direction": 1,
-        "ml_value": 341.28570140903304,
+        "ml_value": 341.284414439167,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 420.2850036621094,
-        "ml_change_percent_from_last_change": 0.07256806051221254
+        "ml_last_change_price": 420.2900085449219,
+        "ml_change_percent_from_last_change": 0.07137637984955258
     }
 }

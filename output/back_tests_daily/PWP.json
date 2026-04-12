@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PWP",
         "name": "Perella Weinberg Partners",
-        "collected_at": "2026-04-11T00:07:09.931Z",
+        "collected_at": "2026-04-12T00:06:57.909Z",
         "data_start_date": "2020-11-24",
         "price": 20.43000030517578,
         "change": 0.6899920321901023,
-        "volume": 808588,
+        "volume": 827000,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 31,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Investment Managers",
         "tradingview_id": "NASDAQ:PWP",
-        "market_capitalization": 1875302275.2272055,
+        "market_capitalization": 1875302219,
         "commodity_name": null,
         "display_name": "Perella Weinberg Partners",
         "sma_50": 19.23180000305176,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 0.5554,
         "number_of_employees": 736,
         "ml_direction": 1,
-        "ml_value": 17.600459167220766,
+        "ml_value": 17.537459196648435,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 20.209999084472656,
-        "ml_change_percent_from_last_change": 1.088576104252037
+        "ml_last_change_price": 20.559999465942383,
+        "ml_change_percent_from_last_change": -0.6322916543939905
     }
 }

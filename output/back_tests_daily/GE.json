@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GE",
         "name": "GE Aerospace",
-        "collected_at": "2026-04-11T00:00:16.262Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:00:17.005Z",
+        "data_start_date": "2016-04-14",
         "price": 308.3500061035156,
         "change": -1.4919120420620415,
-        "volume": 3065600,
+        "volume": 3683900,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 14,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Aerospace & Defense",
         "tradingview_id": "NYSE:GE",
-        "market_capitalization": 323401661787.2991,
+        "market_capitalization": 323401679539.99994,
         "commodity_name": null,
         "display_name": "GE Aerospace",
         "sma_50": 311.99859802246095,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 278.48430154615977,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 313.07501220703125,
-        "ml_change_percent_from_last_change": -1.50922492031752
+        "ml_last_change_price": 313.0799865722656,
+        "ml_change_percent_from_last_change": -1.5107897890682342
     }
 }

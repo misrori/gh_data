@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FULT",
         "name": "Fulton Financial Corporation",
-        "collected_at": "2026-04-11T00:05:17.245Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:05:07.366Z",
+        "data_start_date": "2016-04-14",
         "price": 21.540000915527344,
         "change": -1.2832208213242629,
-        "volume": 2720242,
+        "volume": 2739500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 0,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Major Banks",
         "tradingview_id": "NASDAQ:FULT",
-        "market_capitalization": 4145290050.2694774,
+        "market_capitalization": 4145290285,
         "commodity_name": null,
         "display_name": "Fulton Financial Corporation",
         "sma_50": 20.88480007171631,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 20.05218374233463,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 21.700000762939453,
-        "ml_change_percent_from_last_change": -0.7373264598467988
+        "ml_last_change_price": 21.760000228881836,
+        "ml_change_percent_from_last_change": -1.0110262455902408
     }
 }

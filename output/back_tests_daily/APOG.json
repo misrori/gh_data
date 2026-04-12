@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "APOG",
         "name": "Apogee Enterprises, Inc.",
-        "collected_at": "2026-04-11T00:09:13.109Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:08:59.253Z",
+        "data_start_date": "2016-04-14",
         "price": 36.220001220703125,
         "change": 0.1659330020581009,
-        "volume": 142025,
+        "volume": 144600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 30,
@@ -22,7 +22,7 @@
         "sector": "Producer Manufacturing",
         "industry": "Building Products",
         "tradingview_id": "NASDAQ:APOG",
-        "market_capitalization": 779096349.8744469,
+        "market_capitalization": 779096380.0000001,
         "commodity_name": null,
         "display_name": "Apogee Enterprises, Inc.",
         "sma_50": 36.7742000579834,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 1.871,
         "number_of_employees": 4500,
         "ml_direction": 1,
-        "ml_value": 32.7031520154144,
+        "ml_value": 32.70313926342641,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 36.4900016784668,
-        "ml_change_percent_from_last_change": -0.7399299680575289
+        "ml_last_change_price": 36.15999984741211,
+        "ml_change_percent_from_last_change": 0.16593300205809403
     }
 }

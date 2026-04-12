@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AMC",
         "name": "AMC Entertainment Holdings, Inc.",
-        "collected_at": "2026-04-11T00:09:12.355Z",
+        "collected_at": "2026-04-12T00:08:58.578Z",
         "data_start_date": "2016-04-11",
         "price": 1.350000023841858,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -1.3094,
         "number_of_employees": 33311,
         "ml_direction": -1,
-        "ml_value": 1.626889000484969,
+        "ml_value": 1.6268890004849688,
         "ml_last_change_date": "2021-12-06",
         "ml_last_change_price": 274.8999938964844,
         "ml_change_percent_from_last_change": -99.50891231218063

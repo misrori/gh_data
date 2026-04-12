@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MSEX",
         "name": "Middlesex Water Company",
-        "collected_at": "2026-04-11T00:08:36.533Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:08:23.230Z",
+        "data_start_date": "2016-04-14",
         "price": 55.849998474121094,
         "change": 0.6850500181278921,
-        "volume": 113270,
+        "volume": 116100,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -22,7 +22,7 @@
         "sector": "Utilities",
         "industry": "Water Utilities",
         "tradingview_id": "NASDAQ:MSEX",
-        "market_capitalization": 1034450065.269515,
+        "market_capitalization": 1034450013.9999999,
         "commodity_name": null,
         "display_name": "Middlesex Water Company",
         "sma_50": 52.919799880981444,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 2.3634,
         "number_of_employees": 395,
         "ml_direction": 1,
-        "ml_value": 51.12760647470866,
+        "ml_value": 51.098035104992555,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 55.41999816894531,
-        "ml_change_percent_from_last_change": 0.7758937556528789
+        "ml_last_change_price": 55.2400016784668,
+        "ml_change_percent_from_last_change": 1.104266432149803
     }
 }

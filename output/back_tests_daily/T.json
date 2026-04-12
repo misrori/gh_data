@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "T",
         "name": "AT&T Inc.",
-        "collected_at": "2026-04-11T00:00:24.970Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:00:25.056Z",
+        "data_start_date": "2016-04-14",
         "price": 26.459999084472656,
         "change": -1.4158012889526566,
-        "volume": 31965302,
+        "volume": 31985700,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 57,
@@ -22,7 +22,7 @@
         "sector": "Communications",
         "industry": "Wireless Telecommunications",
         "tradingview_id": "NYSE:T",
-        "market_capitalization": 184784909761.4754,
+        "market_capitalization": 184784902317.00003,
         "commodity_name": null,
         "display_name": "AT&T Inc.",
         "sma_50": 27.89879981994629,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 3.0537,
         "number_of_employees": 133030,
         "ml_direction": -1,
-        "ml_value": 28.563917829523618,
+        "ml_value": 28.56327483505166,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 26.514999389648438,
-        "ml_change_percent_from_last_change": -0.20743091247157341
+        "ml_last_change_price": 26.520000457763672,
+        "ml_change_percent_from_last_change": -0.22624951830817475
     }
 }

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ORLY",
         "name": "O'Reilly Automotive, Inc.",
-        "collected_at": "2026-04-11T00:00:54.211Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:00:52.933Z",
+        "data_start_date": "2016-04-14",
         "price": 93.01000213623047,
         "change": -1.4724569567590333,
-        "volume": 4396124,
+        "volume": 4398300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 59,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NASDAQ:ORLY",
-        "market_capitalization": 77987682762.00159,
+        "market_capitalization": 77987683292.99998,
         "commodity_name": null,
         "display_name": "O'Reilly Automotive, Inc.",
         "sma_50": 93.05900009155273,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 88.25117797226888,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 94.0199966430664,
-        "ml_change_percent_from_last_change": -1.074233719312112
+        "ml_last_change_price": 94.06999969482422,
+        "ml_change_percent_from_last_change": -1.1268178612017898
     }
 }

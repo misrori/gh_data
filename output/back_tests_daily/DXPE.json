@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DXPE",
         "name": "DXP Enterprises, Inc.",
-        "collected_at": "2026-04-11T00:06:36.690Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:06:25.395Z",
+        "data_start_date": "2016-04-14",
         "price": 153.55999755859375,
         "change": 1.2661554844851703,
-        "volume": 88708,
+        "volume": 90900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 87,
@@ -22,7 +22,7 @@
         "sector": "Distribution Services",
         "industry": "Wholesale Distributors",
         "tradingview_id": "NASDAQ:DXPE",
-        "market_capitalization": 2383591015.8040094,
+        "market_capitalization": 2383590988,
         "commodity_name": null,
         "display_name": "DXP Enterprises, Inc.",
         "sma_50": 141.43519989013672,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 130.86926517623007,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 151.1300048828125,
-        "ml_change_percent_from_last_change": 1.6078823511356921
+        "ml_last_change_price": 151.47000122070312,
+        "ml_change_percent_from_last_change": 1.379808754900158
     }
 }

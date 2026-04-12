@@ -2,17 +2,17 @@
     "summary_data": {
         "ticker": "MBWM",
         "name": "Mercantile Bank Corporation",
-        "collected_at": "2026-04-11T00:08:52.500Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:08:38.469Z",
+        "data_start_date": "2016-04-14",
         "price": 53.5,
         "change": -0.8157186464797465,
-        "volume": 85239,
+        "volume": 102000,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 1,
         "ghl_last_change_date": "2026-04-09",
-        "ghl_last_change_price": 53.68000030517578,
-        "ghl_change_percent_from_last_change": -0.33532098389057463,
+        "ghl_last_change_price": 53.7400016784668,
+        "ghl_change_percent_from_last_change": -0.4465978246572355,
         "rsi": 64.21389342064424,
         "rsi_status": "close",
         "rsi_last_change_date": "2026-02-05",
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:MBWM",
-        "market_capitalization": 924103371.5053763,
+        "market_capitalization": 924103395.0000001,
         "commodity_name": null,
         "display_name": "Mercantile Bank Corporation",
         "sma_50": 51.97079978942871,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 49.52159835101037,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 53.68000030517578,
-        "ml_change_percent_from_last_change": -0.33532098389057463
+        "ml_last_change_price": 53.7400016784668,
+        "ml_change_percent_from_last_change": -0.4465978246572355
     }
 }

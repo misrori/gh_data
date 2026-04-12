@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NAMS",
         "name": "NewAmsterdam Pharma Company N.V.",
-        "collected_at": "2026-04-11T00:05:22.110Z",
+        "collected_at": "2026-04-12T00:05:12.372Z",
         "data_start_date": "2021-02-09",
         "price": 34.7599983215332,
         "change": -0.8839503164773822,
-        "volume": 547256,
+        "volume": 547300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 36,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Miscellaneous Commercial Services",
         "tradingview_id": "NASDAQ:NAMS",
-        "market_capitalization": 3996545497.7051606,
+        "market_capitalization": 3996545340,
         "commodity_name": null,
         "display_name": "NewAmsterdam Pharma Company N.V.",
         "sma_50": 32.500300064086915,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 29.67177846234118,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 35.27000045776367,
-        "ml_change_percent_from_last_change": -1.4459941298872514
+        "ml_last_change_price": 35.439998626708984,
+        "ml_change_percent_from_last_change": -1.9187368271038951
     }
 }

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HWC",
         "name": "Hancock Whitney Corporation",
-        "collected_at": "2026-04-11T00:04:36.057Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:04:26.688Z",
+        "data_start_date": "2016-04-14",
         "price": 67.2300033569336,
         "change": -1.5233533576545673,
-        "volume": 430211,
+        "volume": 430300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 18,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:HWC",
-        "market_capitalization": 5490199251.56555,
+        "market_capitalization": 5490199796,
         "commodity_name": null,
         "display_name": "Hancock Whitney Corporation",
         "sma_50": 66.6396002960205,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 62.85216702399279,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 68,
-        "ml_change_percent_from_last_change": -1.1323480045094203
+        "ml_last_change_price": 68.05000305175781,
+        "ml_change_percent_from_last_change": -1.2049958237335234
     }
 }

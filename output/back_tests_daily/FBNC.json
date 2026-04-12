@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FBNC",
         "name": "First Bancorp",
-        "collected_at": "2026-04-11T00:06:35.154Z",
-        "data_start_date": "2016-04-13",
+        "collected_at": "2026-04-12T00:06:23.824Z",
+        "data_start_date": "2016-04-14",
         "price": 58.630001068115234,
         "change": -1.1298451560967067,
-        "volume": 114181,
+        "volume": 117900,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,
@@ -22,7 +22,7 @@
         "sector": "Finance",
         "industry": "Regional Banks",
         "tradingview_id": "NASDAQ:FBNC",
-        "market_capitalization": 2429019863.3978086,
+        "market_capitalization": 2429019938.9999995,
         "commodity_name": null,
         "display_name": "First Bancorp",
         "sma_50": 57.5013998413086,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 54.67222001314046,
         "ml_last_change_date": "2026-04-09",
-        "ml_last_change_price": 59.439998626708984,
-        "ml_change_percent_from_last_change": -1.362714632079054
+        "ml_last_change_price": 59.119998931884766,
+        "ml_change_percent_from_last_change": -0.8288191350173779
     }
 }

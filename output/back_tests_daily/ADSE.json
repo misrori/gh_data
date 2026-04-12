@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADSE",
         "name": "ADS-TEC ENERGY PLC",
-        "collected_at": "2026-04-11T00:09:26.327Z",
+        "collected_at": "2026-04-12T00:09:12.277Z",
         "data_start_date": "2021-03-10",
         "price": 11.800000190734863,
         "change": 0,
-        "volume": 2081,
+        "volume": 2100,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 57,
