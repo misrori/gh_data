@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EPICUSDT",
         "name": "EPIC / USDT",
-        "collected_at": "2026-04-13T02:48:18.388Z",
+        "collected_at": "2026-04-13T03:48:24.062Z",
         "data_start_date": "2025-03-10",
         "price": 0.257,
         "change": -0.38759689922480656,
-        "volume": 131088.6,
+        "volume": 155187.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 154,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.7616230351800563,
+        "ml_value": 0.7617516066086276,
         "ml_last_change_date": "2025-10-06",
         "ml_last_change_price": 1.11,
         "ml_change_percent_from_last_change": -76.84684684684684
