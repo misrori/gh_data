@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PHBUSDT",
         "name": "PHB / USDT",
-        "collected_at": "2026-04-13T18:46:50.997Z",
+        "collected_at": "2026-04-13T19:46:58.687Z",
         "data_start_date": "2022-11-18",
         "price": 0.091,
         "change": -6.185567010309283,
-        "volume": 14059080.9,
+        "volume": 14129999.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 164,
