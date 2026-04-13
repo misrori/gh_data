@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SYSUSDT",
         "name": "SYS / USDT",
-        "collected_at": "2026-04-13T05:47:34.026Z",
+        "collected_at": "2026-04-13T06:47:29.015Z",
         "data_start_date": "2021-09-20",
         "price": 0.01029,
         "change": 1.0805500982318341,
-        "volume": 4960225,
+        "volume": 7091910,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 630,
