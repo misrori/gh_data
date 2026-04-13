@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LGN",
         "name": "Legence Corp.",
-        "collected_at": "2026-04-12T00:03:58.463Z",
+        "collected_at": "2026-04-13T00:05:14.919Z",
         "data_start_date": "2025-09-12",
         "price": 63.20000076293945,
         "change": 5.774059854291972,
@@ -22,7 +22,7 @@
         "sector": "Industrial Services",
         "industry": "Engineering & Construction",
         "tradingview_id": "NASDAQ:LGN",
-        "market_capitalization": 6827997365.6,
+        "market_capitalization": 4255767920,
         "commodity_name": null,
         "display_name": "Legence Corp.",
         "sma_50": 52.677999877929686,

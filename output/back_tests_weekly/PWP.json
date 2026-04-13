@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PWP",
         "name": "Perella Weinberg Partners",
-        "collected_at": "2026-04-12T00:06:57.985Z",
+        "collected_at": "2026-04-13T00:07:11.179Z",
         "data_start_date": "2020-11-23",
         "price": 20.43000030517578,
         "change": 0,
-        "volume": 808588,
+        "volume": 826956,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 32,

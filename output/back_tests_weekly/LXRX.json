@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LXRX",
         "name": "Lexicon Pharmaceuticals, Inc.",
-        "collected_at": "2026-04-12T00:09:08.917Z",
+        "collected_at": "2026-04-13T00:09:22.240Z",
         "data_start_date": "2016-04-11",
         "price": 1.7200000286102295,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.1388,
         "number_of_employees": 81,
         "ml_direction": 1,
-        "ml_value": 0.9965259478614685,
+        "ml_value": 0.9965259478614686,
         "ml_last_change_date": "2025-07-14",
         "ml_last_change_price": 1.2999999523162842,
         "ml_change_percent_from_last_change": 32.30769936149669

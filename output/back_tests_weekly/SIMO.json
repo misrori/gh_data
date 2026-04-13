@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SIMO",
         "name": "Silicon Motion Technology Corporation",
-        "collected_at": "2026-04-12T00:05:02.128Z",
+        "collected_at": "2026-04-13T00:05:12.921Z",
         "data_start_date": "2016-04-11",
         "price": 126.70999908447266,
         "change": 0,
-        "volume": 535009,
+        "volume": 535011,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 256,

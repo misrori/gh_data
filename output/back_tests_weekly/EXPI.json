@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "EXPI",
         "name": "eXp World Holdings, Inc.",
-        "collected_at": "2026-04-12T00:08:36.127Z",
+        "collected_at": "2026-04-13T00:08:48.726Z",
         "data_start_date": "2018-02-05",
         "price": 5.909999847412109,
         "change": 0,
-        "volume": 778211,
+        "volume": 816048,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 473,

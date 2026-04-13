@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MU",
         "name": "Micron Technology, Inc.",
-        "collected_at": "2026-04-12T00:00:12.204Z",
+        "collected_at": "2026-04-13T00:00:12.110Z",
         "data_start_date": "2016-04-11",
         "price": 420.5899963378906,
         "change": 0,
-        "volume": 36212702,
+        "volume": 36324028,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 291,

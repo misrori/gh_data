@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GOGO",
         "name": "Gogo Inc.",
-        "collected_at": "2026-04-12T00:09:30.790Z",
+        "collected_at": "2026-04-13T00:09:44.361Z",
         "data_start_date": "2016-04-11",
         "price": 4.559999942779541,
         "change": 0,
-        "volume": 1606400,
+        "volume": 1632889,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 137,

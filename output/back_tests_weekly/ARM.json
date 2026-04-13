@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ARM",
         "name": "Arm Holdings plc",
-        "collected_at": "2026-04-12T00:00:29.243Z",
+        "collected_at": "2026-04-13T00:00:29.042Z",
         "data_start_date": "2023-09-11",
         "price": 148.92999267578125,
         "change": 0,
-        "volume": 7396393,
+        "volume": 7426029,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 18,

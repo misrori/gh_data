@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SKYW",
         "name": "SkyWest, Inc.",
-        "collected_at": "2026-04-12T00:05:21.745Z",
+        "collected_at": "2026-04-13T00:05:32.995Z",
         "data_start_date": "2016-04-11",
         "price": 94.30999755859375,
         "change": 0,
-        "volume": 243828,
+        "volume": 252042,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 25,

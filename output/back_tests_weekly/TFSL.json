@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TFSL",
         "name": "TFS Financial Corporation",
-        "collected_at": "2026-04-12T00:05:07.171Z",
+        "collected_at": "2026-04-13T00:05:18.041Z",
         "data_start_date": "2016-04-11",
         "price": 14.779999732971191,
         "change": 0,
-        "volume": 726045,
+        "volume": 737853,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 200,

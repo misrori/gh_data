@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MNDY",
         "name": "monday.com Ltd.",
-        "collected_at": "2026-04-12T00:05:53.670Z",
+        "collected_at": "2026-04-13T00:06:06.159Z",
         "data_start_date": "2021-06-07",
         "price": 58.810001373291016,
         "change": 0,
-        "volume": 2521561,
+        "volume": 2526536,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 179,

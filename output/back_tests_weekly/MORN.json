@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MORN",
         "name": "Morningstar, Inc.",
-        "collected_at": "2026-04-12T00:04:03.063Z",
+        "collected_at": "2026-04-13T00:04:12.154Z",
         "data_start_date": "2016-04-11",
         "price": 167.97000122070312,
         "change": 0,
-        "volume": 417292,
+        "volume": 423994,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 228,

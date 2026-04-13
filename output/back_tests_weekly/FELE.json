@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FELE",
         "name": "Franklin Electric Co., Inc.",
-        "collected_at": "2026-04-12T00:04:56.998Z",
+        "collected_at": "2026-04-13T00:05:07.772Z",
         "data_start_date": "2016-04-11",
         "price": 100.70999908447266,
         "change": 0,
-        "volume": 132076,
+        "volume": 139300,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 67,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TER",
         "name": "Teradyne, Inc.",
-        "collected_at": "2026-04-12T00:01:08.050Z",
+        "collected_at": "2026-04-13T00:01:10.153Z",
         "data_start_date": "2016-04-11",
         "price": 367.989990234375,
         "change": 0,
-        "volume": 3111680,
+        "volume": 3113141,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 179,

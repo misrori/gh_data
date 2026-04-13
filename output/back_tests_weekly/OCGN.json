@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OCGN",
         "name": "Ocugen, Inc.",
-        "collected_at": "2026-04-12T00:09:40.559Z",
+        "collected_at": "2026-04-13T00:09:54.258Z",
         "data_start_date": "2016-04-11",
         "price": 1.7599999904632568,
         "change": 0,
-        "volume": 6256638,
+        "volume": 6477875,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 193,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.2257,
         "number_of_employees": 116,
         "ml_direction": 1,
-        "ml_value": 1.3676158263876375,
+        "ml_value": 1.3676158263876377,
         "ml_last_change_date": "2025-06-02",
         "ml_last_change_price": 1.1299999952316284,
         "ml_change_percent_from_last_change": 55.75221220266382

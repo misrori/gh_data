@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMZN",
         "name": "Amazon.com, Inc.",
-        "collected_at": "2026-04-12T00:00:08.850Z",
+        "collected_at": "2026-04-13T00:00:08.934Z",
         "data_start_date": "2016-04-11",
         "price": 238.3800048828125,
         "change": 0,
-        "volume": 56515959,
+        "volume": 56861543,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 921,

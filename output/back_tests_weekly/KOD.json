@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "KOD",
         "name": "Kodiak Sciences Inc",
-        "collected_at": "2026-04-12T00:06:13.339Z",
+        "collected_at": "2026-04-13T00:06:26.009Z",
         "data_start_date": "2018-10-01",
         "price": 43.11000061035156,
         "change": 0,
-        "volume": 723331,
+        "volume": 738514,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 228,

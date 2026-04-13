@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MOMO",
         "name": "Hello Group Inc.",
-        "collected_at": "2026-04-12T00:08:37.901Z",
+        "collected_at": "2026-04-13T00:08:50.621Z",
         "data_start_date": "2016-04-11",
         "price": 5.900000095367432,
         "change": 0,
-        "volume": 523295,
+        "volume": 525371,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 88,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SABR",
         "name": "Sabre Corporation",
-        "collected_at": "2026-04-12T00:09:34.436Z",
+        "collected_at": "2026-04-13T00:09:48.029Z",
         "data_start_date": "2016-04-11",
         "price": 1.5199999809265137,
         "change": 0,
-        "volume": 2630463,
+        "volume": 2631128,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 368,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MGRC",
         "name": "McGrath RentCorp",
-        "collected_at": "2026-04-12T00:06:05.069Z",
+        "collected_at": "2026-04-13T00:06:17.966Z",
         "data_start_date": "2016-04-11",
         "price": 114.11000061035156,
         "change": 0,
-        "volume": 94872,
+        "volume": 106822,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 39,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TSAT",
         "name": "Telesat Corporation",
-        "collected_at": "2026-04-12T00:09:26.017Z",
+        "collected_at": "2026-04-13T00:09:39.500Z",
         "data_start_date": "2016-04-11",
         "price": 43.150001525878906,
         "change": 0,
-        "volume": 165901,
+        "volume": 173068,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 494,

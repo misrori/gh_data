@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "OUST",
         "name": "Ouster, Inc.",
-        "collected_at": "2026-04-12T00:07:53.052Z",
+        "collected_at": "2026-04-13T00:08:05.261Z",
         "data_start_date": "2020-10-05",
         "price": 20.690000534057617,
         "change": 0,
-        "volume": 1214817,
+        "volume": 1246768,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 305,

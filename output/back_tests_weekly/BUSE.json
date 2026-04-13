@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BUSE",
         "name": "First Busey Corporation",
-        "collected_at": "2026-04-12T00:06:31.019Z",
+        "collected_at": "2026-04-13T00:06:44.415Z",
         "data_start_date": "2016-04-11",
         "price": 26.670000076293945,
         "change": 0,
-        "volume": 370526,
+        "volume": 382129,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 116,

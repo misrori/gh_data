@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TRUP",
         "name": "Trupanion, Inc.",
-        "collected_at": "2026-04-12T00:08:18.224Z",
+        "collected_at": "2026-04-13T00:08:30.274Z",
         "data_start_date": "2016-04-11",
         "price": 24.540000915527344,
         "change": 0,
-        "volume": 270588,
+        "volume": 280442,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 95,

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "FOXF",
         "name": "Fox Factory Holding Corp.",
-        "collected_at": "2026-04-12T00:09:13.903Z",
+        "collected_at": "2026-04-13T00:09:27.485Z",
         "data_start_date": "2016-04-11",
         "price": 16.829999923706055,
         "change": 0,
-        "volume": 240249,
+        "volume": 248189,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 928,

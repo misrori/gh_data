@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HIFS",
         "name": "Hingham Institution for Savings",
-        "collected_at": "2026-04-12T00:09:25.820Z",
+        "collected_at": "2026-04-13T00:09:39.284Z",
         "data_start_date": "2016-04-11",
         "price": 293.239990234375,
         "change": 0,
-        "volume": 72692,
+        "volume": 72981,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 543,

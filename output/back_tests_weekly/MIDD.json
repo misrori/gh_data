@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MIDD",
         "name": "The Middleby Corporation",
-        "collected_at": "2026-04-12T00:04:00.715Z",
+        "collected_at": "2026-04-13T00:04:09.929Z",
         "data_start_date": "2016-04-11",
         "price": 143.02999877929688,
         "change": 0,
-        "volume": 396816,
+        "volume": 411623,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 60,

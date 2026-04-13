@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "VGIT",
         "name": "Vanguard Intermediate-Term Treasury ETF",
-        "collected_at": "2026-04-12T00:10:20.951Z",
+        "collected_at": "2026-04-13T00:10:34.495Z",
         "data_start_date": "2016-04-11",
         "price": 59.43000030517578,
         "change": 0,
-        "volume": 2069180,
+        "volume": 2069380,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 347,

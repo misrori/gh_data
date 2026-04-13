@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ROOT",
         "name": "Root, Inc.",
-        "collected_at": "2026-04-12T00:09:16.127Z",
+        "collected_at": "2026-04-13T00:09:29.695Z",
         "data_start_date": "2020-10-26",
         "price": 44,
         "change": 0,
-        "volume": 372751,
+        "volume": 373327,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 53,
