@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TREEUSDT",
         "name": "TREE / USDT",
-        "collected_at": "2026-04-13T09:46:20.634Z",
+        "collected_at": "2026-04-13T10:46:17.477Z",
         "data_start_date": "2025-07-29",
         "price": 0.0595,
         "change": 1.883561643835611,
-        "volume": 28516193.1,
+        "volume": 33677387.5,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 230,
