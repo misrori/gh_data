@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HIGHUSDT",
         "name": "HIGH / USDT",
-        "collected_at": "2026-04-14T04:48:04.391Z",
+        "collected_at": "2026-04-14T05:47:41.704Z",
         "data_start_date": "2021-12-17",
         "price": 0.112,
         "change": -10.399999999999999,
-        "volume": 7892129.814,
+        "volume": 9481459.554,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 238,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.13966399123775816,
+        "ml_value": 0.13979256266632958,
         "ml_last_change_date": "2025-11-21",
         "ml_last_change_price": 0.219,
         "ml_change_percent_from_last_change": -48.858447488584474
