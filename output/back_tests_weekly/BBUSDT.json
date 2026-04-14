@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BBUSDT",
         "name": "BounceBit",
-        "collected_at": "2026-04-14T07:46:55.808Z",
+        "collected_at": "2026-04-14T08:47:23.853Z",
         "data_start_date": "2024-05-13",
         "price": 0.0252,
         "change": 4.564315352697097,
-        "volume": 104910052.5,
+        "volume": 105669198.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 448,

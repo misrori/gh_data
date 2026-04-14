@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HIGHUSDT",
         "name": "HIGH / USDT",
-        "collected_at": "2026-04-14T07:47:29.950Z",
+        "collected_at": "2026-04-14T08:47:47.301Z",
         "data_start_date": "2021-12-13",
         "price": 0.11,
         "change": -8.33333333333333,
-        "volume": 13745638.48,
+        "volume": 14640134.384,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 581,
