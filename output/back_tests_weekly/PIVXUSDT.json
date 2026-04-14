@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PIVXUSDT",
         "name": "PIVX / USDT",
-        "collected_at": "2026-04-14T12:48:06.758Z",
+        "collected_at": "2026-04-14T13:47:47.493Z",
         "data_start_date": "2023-11-13",
         "price": 0.0791,
         "change": -10.722347629796834,
-        "volume": 14059349,
+        "volume": 14424401,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 126,
