@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "JUVUSDT",
         "name": "JUV / USDT",
-        "collected_at": "2026-04-15T07:47:45.349Z",
+        "collected_at": "2026-04-15T08:47:55.631Z",
         "data_start_date": "2020-12-21",
         "price": 0.511,
         "change": -0.7766990291262142,
-        "volume": 5430366.36,
+        "volume": 5487513.99,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1610,
