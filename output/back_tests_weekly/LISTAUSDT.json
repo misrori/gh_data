@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LISTAUSDT",
         "name": "Lista DAO",
-        "collected_at": "2026-04-15T02:47:26.015Z",
+        "collected_at": "2026-04-15T03:47:20.944Z",
         "data_start_date": "2024-06-17",
         "price": 0.0805,
         "change": 11.187845303867396,
-        "volume": 23970669.3,
+        "volume": 24109650.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 448,
