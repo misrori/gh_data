@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NILUSDT",
         "name": "Nillion",
-        "collected_at": "2026-04-15T19:47:10.059Z",
+        "collected_at": "2026-04-15T20:47:13.285Z",
         "data_start_date": "2025-03-24",
         "price": 0.03581,
         "change": 2.7841561423650933,
-        "volume": 30363143.6,
+        "volume": 32131620.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 184,
