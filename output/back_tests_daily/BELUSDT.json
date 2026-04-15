@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BELUSDT",
         "name": "BEL / USDT",
-        "collected_at": "2026-04-15T05:47:37.356Z",
+        "collected_at": "2026-04-15T06:48:05.666Z",
         "data_start_date": "2020-09-15",
         "price": 0.1074,
         "change": -0.4633920296570903,
-        "volume": 1177313.4,
+        "volume": 1278160,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 168,
