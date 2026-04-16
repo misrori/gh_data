@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "VGFPF",
         "name": "Vanguard Funds PLC",
-        "collected_at": "2026-04-15T00:11:01.492Z",
+        "collected_at": "2026-04-16T00:11:00.435Z",
         "data_start_date": "2020-03-09",
         "price": 133.62680053710938,
         "change": 1.5067271331082746,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "OTC:VGFPF",
-        "market_capitalization": 30817574087.1675,
+        "market_capitalization": 31164345181.5724,
         "commodity_name": null,
         "display_name": "Vanguard Funds PLC",
         "sma_50": 130.41656173706053,
