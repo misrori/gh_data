@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "THEUSDT",
         "name": "Thena",
-        "collected_at": "2026-04-16T22:47:55.393Z",
+        "collected_at": "2026-04-16T23:47:44.295Z",
         "data_start_date": "2024-11-25",
         "price": 0.1046,
         "change": 11.158342189160463,
-        "volume": 44841846.9,
+        "volume": 45035123,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 308,
