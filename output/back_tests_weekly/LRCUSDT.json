@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "LRCUSDT",
         "name": "Loopring",
-        "collected_at": "2026-04-17T03:47:00.641Z",
+        "collected_at": "2026-04-17T04:46:58.412Z",
         "data_start_date": "2020-06-08",
         "price": 0.01879,
         "change": -11.534839924670422,
@@ -22,7 +22,7 @@
         "sector": null,
         "industry": null,
         "tradingview_id": "CRYPTO:LRCUSD",
-        "market_capitalization": 23082289.25070804,
+        "market_capitalization": 22956395.80684598,
         "commodity_name": null,
         "display_name": "Loopring",
         "sma_50": 0.06858180000000001,
