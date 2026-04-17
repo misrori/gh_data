@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RUNEUSDT",
         "name": "THORChain",
-        "collected_at": "2026-04-17T18:47:38.146Z",
+        "collected_at": "2026-04-17T19:47:31.864Z",
         "data_start_date": "2020-09-04",
         "price": 0.438,
         "change": 4.534606205250601,
-        "volume": 4220098.2,
+        "volume": 4674173.2,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 261,
