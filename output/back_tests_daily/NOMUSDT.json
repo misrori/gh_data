@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NOMUSDT",
         "name": "NOM / USDT",
-        "collected_at": "2026-04-17T02:46:52.303Z",
+        "collected_at": "2026-04-17T03:46:53.516Z",
         "data_start_date": "2025-10-01",
         "price": 0.00309,
         "change": 0.6514657980456043,
-        "volume": 182222629,
+        "volume": 235741081,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 1,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.007207255512410376,
+        "ml_value": 0.0072085412266960905,
         "ml_last_change_date": "2026-04-12",
         "ml_last_change_price": 0.00373,
         "ml_change_percent_from_last_change": -17.158176943699733
