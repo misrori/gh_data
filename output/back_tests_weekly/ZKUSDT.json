@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ZKUSDT",
         "name": "zkSync",
-        "collected_at": "2026-04-18T12:46:59.201Z",
+        "collected_at": "2026-04-18T13:47:00.452Z",
         "data_start_date": "2024-06-17",
         "price": 0.01611,
         "change": 6.33663366336633,
-        "volume": 809543303.1,
+        "volume": 811622990.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 406,
