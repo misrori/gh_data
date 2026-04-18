@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DENTUSDT",
         "name": "DENT / USDT",
-        "collected_at": "2026-04-18T18:47:21.351Z",
+        "collected_at": "2026-04-18T19:47:28.962Z",
         "data_start_date": "2019-08-26",
         "price": 0.000093,
         "change": -38.410596026490076,
-        "volume": 61902516258,
+        "volume": 62596331115,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 413,
