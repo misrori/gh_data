@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HMSTRUSDT",
         "name": "HMSTR / USDT",
-        "collected_at": "2026-04-19T02:48:01.301Z",
+        "collected_at": "2026-04-19T03:48:04.863Z",
         "data_start_date": "2024-09-23",
         "price": 0.0001494,
         "change": 8.104196816208395,
-        "volume": 56753307201,
+        "volume": 56926596849,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 371,
