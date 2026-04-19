@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AMTD",
         "name": "AMTD IDEA Group",
-        "collected_at": "2026-04-18T00:08:31.071Z",
+        "collected_at": "2026-04-19T00:08:25.834Z",
         "data_start_date": "2019-08-05",
         "price": 1.0399999618530273,
         "change": 2.9702942250534496,
-        "volume": 13550,
+        "volume": 13600,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 23,

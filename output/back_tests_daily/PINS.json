@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "PINS",
         "name": "Pinterest, Inc.",
-        "collected_at": "2026-04-18T00:03:03.694Z",
+        "collected_at": "2026-04-19T00:02:58.848Z",
         "data_start_date": "2019-04-18",
         "price": 20.1200008392334,
         "change": 0,
-        "volume": 15143076,
+        "volume": 15156300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 196,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.6213,
         "number_of_employees": 5265,
         "ml_direction": 1,
-        "ml_value": 17.74297469233337,
+        "ml_value": 17.74040345013715,
         "ml_last_change_date": "2026-03-05",
         "ml_last_change_price": 19.65999984741211,
         "ml_change_percent_from_last_change": 2.339781258349505

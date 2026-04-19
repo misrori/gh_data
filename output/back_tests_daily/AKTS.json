@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AKTS",
         "name": "Aktis Oncology, Inc.",
-        "collected_at": "2026-04-18T00:08:38.174Z",
+        "collected_at": "2026-04-19T00:08:32.751Z",
         "data_start_date": "2026-01-09",
         "price": 20.25,
         "change": 8.870965509087233,
-        "volume": 205250,
+        "volume": 205300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 56,

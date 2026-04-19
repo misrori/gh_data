@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "GLOO",
         "name": "Gloo Holdings, Inc.",
-        "collected_at": "2026-04-18T00:09:48.067Z",
+        "collected_at": "2026-04-19T00:09:42.980Z",
         "data_start_date": "2025-11-18",
         "price": 7.989999771118164,
         "change": 7.972968488474557,
-        "volume": 267673,
+        "volume": 267800,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 0,
@@ -22,7 +22,7 @@
         "sector": "Technology Services",
         "industry": "Packaged Software",
         "tradingview_id": "NASDAQ:GLOO",
-        "market_capitalization": 643772594.9405406,
+        "market_capitalization": 643772568,
         "commodity_name": null,
         "display_name": "Gloo Holdings, Inc.",
         "sma_50": 5.718399982452393,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 5.686606969979358,
         "ml_last_change_date": "2026-04-16",
-        "ml_last_change_price": 7.71999979019165,
-        "ml_change_percent_from_last_change": 3.4974091744089497
+        "ml_last_change_price": 7.739999771118164,
+        "ml_change_percent_from_last_change": 3.2299742557212463
     }
 }

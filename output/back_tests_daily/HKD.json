@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HKD",
         "name": "AMTD Digital Inc.",
-        "collected_at": "2026-04-18T00:10:02.420Z",
+        "collected_at": "2026-04-19T00:09:57.708Z",
         "data_start_date": "2022-07-15",
         "price": 1.809999942779541,
         "change": 0,
-        "volume": 502515,
+        "volume": 502500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 39,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.1738,
         "number_of_employees": 166,
         "ml_direction": 1,
-        "ml_value": 1.4845002187961092,
+        "ml_value": 1.4838573622663285,
         "ml_last_change_date": "2026-02-13",
         "ml_last_change_price": 1.5199999809265137,
         "ml_change_percent_from_last_change": 19.078945098161014

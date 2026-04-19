@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "CWAN",
         "name": "Clearwater Analytics Holdings, Inc.",
-        "collected_at": "2026-04-18T00:04:07.965Z",
+        "collected_at": "2026-04-19T00:04:04.218Z",
         "data_start_date": "2021-09-20",
         "price": 24.110000610351562,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.1361,
         "number_of_employees": 3000,
         "ml_direction": 1,
-        "ml_value": 21.68103220889194,
+        "ml_value": 21.674199725249984,
         "ml_last_change_date": "2025-11-17",
         "ml_last_change_price": 21.670000076293945,
         "ml_change_percent_from_last_change": 11.259808608523603

@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "BOBS",
         "name": "Bob's Discount Furniture, Inc.",
-        "collected_at": "2026-04-18T00:07:35.190Z",
+        "collected_at": "2026-04-19T00:07:31.118Z",
         "data_start_date": "2026-02-05",
         "price": 13.020000457763672,
         "change": 9.411772059970248,
@@ -22,7 +22,7 @@
         "sector": "Retail Trade",
         "industry": "Specialty Stores",
         "tradingview_id": "NYSE:BOBS",
-        "market_capitalization": 1697379251.3999999,
+        "market_capitalization": 1697379251.4,
         "commodity_name": null,
         "display_name": "Bob's Discount Furniture, Inc.",
         "sma_50": 15.733399982452392,

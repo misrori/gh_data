@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ULCC",
         "name": "Frontier Group Holdings, Inc.",
-        "collected_at": "2026-04-18T00:08:43.463Z",
+        "collected_at": "2026-04-19T00:08:38.293Z",
         "data_start_date": "2021-04-01",
         "price": 4.550000190734863,
         "change": 7.565015844408149,
-        "volume": 8184354,
+        "volume": 8431400,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 42,
@@ -22,7 +22,7 @@
         "sector": "Transportation",
         "industry": "Airlines",
         "tradingview_id": "NASDAQ:ULCC",
-        "market_capitalization": 1045281205.5910164,
+        "market_capitalization": 1045281244,
         "commodity_name": null,
         "display_name": "Frontier Group Holdings, Inc.",
         "sma_50": 4.179900002479553,
@@ -54,7 +54,7 @@
         "ml_direction": 1,
         "ml_value": 3.5628941279997024,
         "ml_last_change_date": "2026-04-16",
-        "ml_last_change_price": 4.480000019073486,
-        "ml_change_percent_from_last_change": 1.5625038250748347
+        "ml_last_change_price": 4.5,
+        "ml_change_percent_from_last_change": 1.1111153496636383
     }
 }

@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "collected_at": "2026-04-18T00:00:16.382Z",
-        "data_start_date": "2016-04-20",
+        "collected_at": "2026-04-19T00:00:16.367Z",
+        "data_start_date": "2016-04-21",
         "price": 68.5,
         "change": 0,
-        "volume": 117635848,
+        "volume": 118552900,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 245,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": -0.0786,
         "number_of_employees": 85100,
         "ml_direction": 1,
-        "ml_value": 58.409419975081754,
+        "ml_value": 58.40941899415961,
         "ml_last_change_date": "2026-04-02",
         "ml_last_change_price": 50.880001068115234,
         "ml_change_percent_from_last_change": 34.63050031837878

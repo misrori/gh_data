@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SBET",
         "name": "Sharplink, Inc.",
-        "collected_at": "2026-04-18T00:07:47.433Z",
-        "data_start_date": "2016-04-20",
+        "collected_at": "2026-04-19T00:07:42.921Z",
+        "data_start_date": "2016-04-21",
         "price": 7.989999771118164,
         "change": 3.229974255721245,
-        "volume": 7708058,
+        "volume": 7821700,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 210,
@@ -22,7 +22,7 @@
         "sector": "Commercial Services",
         "industry": "Advertising/Marketing Services",
         "tradingview_id": "NASDAQ:SBET",
-        "market_capitalization": 1575298872.9056847,
+        "market_capitalization": 1575298874.9999998,
         "commodity_name": null,
         "display_name": "Sharplink, Inc.",
         "sma_50": 7.040800018310547,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": -9.1428,
         "number_of_employees": 15,
         "ml_direction": 1,
-        "ml_value": 6.481673038857571,
+        "ml_value": 6.481030167000881,
         "ml_last_change_date": "2026-04-16",
-        "ml_last_change_price": 7.949999809265137,
-        "ml_change_percent_from_last_change": 0.5031441863232455
+        "ml_last_change_price": 7.960000038146973,
+        "ml_change_percent_from_last_change": 0.3768810656711308
     }
 }

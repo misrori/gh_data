@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AXTI",
         "name": "AXT Inc",
-        "collected_at": "2026-04-18T00:05:10.608Z",
-        "data_start_date": "2016-04-20",
+        "collected_at": "2026-04-19T00:05:06.845Z",
+        "data_start_date": "2016-04-21",
         "price": 82.55999755859375,
         "change": 0.9537769515036196,
-        "volume": 10170152,
+        "volume": 10286500,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 308,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Electronic Production Equipment",
         "tradingview_id": "NASDAQ:AXTI",
-        "market_capitalization": 4588568983.80631,
+        "market_capitalization": 4588568917,
         "commodity_name": null,
         "display_name": "AXT Inc",
         "sma_50": 45.764400024414066,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": -0.4892,
         "number_of_employees": 1072,
         "ml_direction": 1,
-        "ml_value": 53.3003162868498,
+        "ml_value": 53.2964465489522,
         "ml_last_change_date": "2026-04-16",
-        "ml_last_change_price": 79.2781982421875,
-        "ml_change_percent_from_last_change": 4.139598766335051
+        "ml_last_change_price": 79.12000274658203,
+        "ml_change_percent_from_last_change": 4.347819378912154
     }
 }

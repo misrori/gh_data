@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "LU",
         "name": "Lufax Holding Ltd",
-        "collected_at": "2026-04-18T00:06:46.552Z",
+        "collected_at": "2026-04-19T00:06:43.895Z",
         "data_start_date": "2020-10-30",
         "price": 1.8899999856948853,
         "change": -6.8965511166504605,
-        "volume": 11496989,
+        "volume": 11509300,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 45,

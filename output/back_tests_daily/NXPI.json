@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NXPI",
         "name": "NXP Semiconductors N.V.",
-        "collected_at": "2026-04-18T00:01:15.462Z",
-        "data_start_date": "2016-04-20",
+        "collected_at": "2026-04-19T00:01:15.973Z",
+        "data_start_date": "2016-04-21",
         "price": 216.02999877929688,
         "change": 1.0761255311537246,
-        "volume": 4286670,
+        "volume": 4287800,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 37,
@@ -22,7 +22,7 @@
         "sector": "Electronic Technology",
         "industry": "Semiconductors",
         "tradingview_id": "NASDAQ:NXPI",
-        "market_capitalization": 54589233258.710106,
+        "market_capitalization": 54589234041,
         "commodity_name": null,
         "display_name": "NXP Semiconductors N.V.",
         "sma_50": 211.80820007324218,
@@ -52,9 +52,9 @@
         "earnings_per_share_basic_ttm": 7.9983,
         "number_of_employees": 32169,
         "ml_direction": 1,
-        "ml_value": 194.28071304561013,
+        "ml_value": 194.22800025089754,
         "ml_last_change_date": "2026-04-16",
-        "ml_last_change_price": 215.85000610351562,
-        "ml_change_percent_from_last_change": 0.08338784836305901
+        "ml_last_change_price": 215.77000427246094,
+        "ml_change_percent_from_last_change": 0.1204961309207997
     }
 }

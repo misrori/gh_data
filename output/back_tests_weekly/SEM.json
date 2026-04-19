@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "SEM",
         "name": "Select Medical Holdings Corporation",
-        "collected_at": "2026-04-18T00:07:06.067Z",
+        "collected_at": "2026-04-19T00:07:02.993Z",
         "data_start_date": "2016-04-18",
         "price": 16.389999389648438,
         "change": 0,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 1.1582,
         "number_of_employees": 45300,
         "ml_direction": 1,
-        "ml_value": 14.353416013509477,
+        "ml_value": 14.349999608785355,
         "ml_last_change_date": "2026-02-09",
         "ml_last_change_price": 16.459999084472656,
         "ml_change_percent_from_last_change": -0.4252715596457901
