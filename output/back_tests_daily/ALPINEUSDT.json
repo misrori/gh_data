@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALPINEUSDT",
         "name": "ALPINE / USDT",
-        "collected_at": "2026-04-19T03:46:57.627Z",
+        "collected_at": "2026-04-19T04:46:52.642Z",
         "data_start_date": "2022-02-21",
         "price": 0.455,
         "change": 0.44150110375275975,
-        "volume": 685851.42,
+        "volume": 943545.79,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 182,
