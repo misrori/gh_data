@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "QIUSDT",
         "name": "QI / USDT",
-        "collected_at": "2026-04-19T14:46:33.720Z",
+        "collected_at": "2026-04-19T15:46:38.226Z",
         "data_start_date": "2021-11-15",
         "price": 0.00143,
         "change": -2.7210884353741425,
-        "volume": 2601052317,
+        "volume": 2613402952,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 434,
