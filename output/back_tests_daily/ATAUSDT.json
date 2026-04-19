@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ATAUSDT",
         "name": "ATA / USDT",
-        "collected_at": "2026-04-19T20:46:33.024Z",
+        "collected_at": "2026-04-19T21:46:36.751Z",
         "data_start_date": "2021-06-07",
         "price": 0.0105,
         "change": 6.060606060606059,
-        "volume": 292410630,
+        "volume": 293513177,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 237,
