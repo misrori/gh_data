@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "MLNUSDT",
         "name": "MLN / USDT",
-        "collected_at": "2026-04-20T16:48:08.036Z",
+        "collected_at": "2026-04-20T17:48:03.516Z",
         "data_start_date": "2021-07-05",
         "price": 2.94,
         "change": 6.521739130434789,
-        "volume": 225074.007,
+        "volume": 225663.357,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 630,
