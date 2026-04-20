@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "HMSTRUSDT",
         "name": "HMSTR / USDT",
-        "collected_at": "2026-04-20T01:48:15.433Z",
+        "collected_at": "2026-04-20T02:48:10.407Z",
         "data_start_date": "2024-09-26",
         "price": 0.0001495,
         "change": 1.0135135135135198,
-        "volume": 279700994,
+        "volume": 345269025,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 328,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": null,
         "number_of_employees": null,
         "ml_direction": -1,
-        "ml_value": 0.00018742665737899307,
+        "ml_value": 0.00018745237166470735,
         "ml_last_change_date": "2026-04-19",
         "ml_last_change_price": 0.0001481,
         "ml_change_percent_from_last_change": 0.9453072248480909
