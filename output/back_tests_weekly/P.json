@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "P",
         "name": "Everpure, Inc.",
-        "collected_at": "2026-04-19T00:02:17.360Z",
+        "collected_at": "2026-04-20T00:02:23.559Z",
         "data_start_date": "2016-04-18",
         "price": 66.97000122070312,
         "change": 699.1646814574192,
@@ -52,7 +52,7 @@
         "earnings_per_share_basic_ttm": 0.5706,
         "number_of_employees": 6400,
         "ml_direction": 1,
-        "ml_value": 34.0756498816623,
+        "ml_value": 34.07566022988157,
         "ml_last_change_date": "2018-04-30",
         "ml_last_change_price": 6.880000114440918,
         "ml_change_percent_from_last_change": 873.4011643420624

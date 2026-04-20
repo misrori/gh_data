@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "NFLX",
         "name": "Netflix, Inc.",
-        "collected_at": "2026-04-19T00:00:14.001Z",
+        "collected_at": "2026-04-20T00:00:12.960Z",
         "data_start_date": "2016-04-18",
         "price": 97.30999755859375,
         "change": 0,
@@ -48,7 +48,7 @@
         "is_last_candle_max": false,
         "days_after_last_local_max": 291,
         "percent_fall_from_last_local_max": 27.442870989142442,
-        "price_per_earning": 31.43392447588591,
+        "price_per_earning": 31.444081817300546,
         "earnings_per_share_basic_ttm": 3.158,
         "number_of_employees": 16000,
         "ml_direction": 1,

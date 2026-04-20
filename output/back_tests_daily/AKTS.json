@@ -2,7 +2,7 @@
     "summary_data": {
         "ticker": "AKTS",
         "name": "Aktis Oncology, Inc.",
-        "collected_at": "2026-04-19T00:08:32.751Z",
+        "collected_at": "2026-04-20T00:09:17.867Z",
         "data_start_date": "2026-01-09",
         "price": 20.25,
         "change": 8.870965509087233,
@@ -22,7 +22,7 @@
         "sector": "Health Technology",
         "industry": "Pharmaceuticals: Major",
         "tradingview_id": "NASDAQ:AKTS",
-        "market_capitalization": 1081414192.4999998,
+        "market_capitalization": 1081414192.5,
         "commodity_name": null,
         "display_name": "Aktis Oncology, Inc.",
         "sma_50": 18.452599925994875,
