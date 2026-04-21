@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "NOMUSDT",
         "name": "NOM / USDT",
-        "collected_at": "2026-04-21T22:46:51.644Z",
+        "collected_at": "2026-04-21T23:46:50.932Z",
         "data_start_date": "2025-10-01",
         "price": 0.00285,
         "change": -1.0416666666666694,
-        "volume": 725764109,
+        "volume": 735913094,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 5,
