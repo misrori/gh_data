@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "RAREUSDT",
         "name": "SuperRare",
-        "collected_at": "2026-04-21T03:46:28.565Z",
+        "collected_at": "2026-04-21T04:46:25.929Z",
         "data_start_date": "2021-10-11",
         "price": 0.0169,
         "change": 0.5952380952380917,
-        "volume": 9945769.3,
+        "volume": 12499640.8,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 79,
