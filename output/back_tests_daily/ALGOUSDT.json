@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ALGOUSDT",
         "name": "Algorand",
-        "collected_at": "2026-04-21T08:46:28.779Z",
+        "collected_at": "2026-04-21T09:46:39.237Z",
         "data_start_date": "2019-06-22",
         "price": 0.1033,
         "change": -0.09671179883946118,
-        "volume": 7198968,
+        "volume": 8047618,
         "ghl_color": "gold",
         "ghl_status": "open",
         "ghl_days_since_change": 4,
