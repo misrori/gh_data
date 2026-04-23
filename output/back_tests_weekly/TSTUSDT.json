@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "TSTUSDT",
         "name": "TST / USDT",
-        "collected_at": "2026-04-22T23:48:15.543Z",
+        "collected_at": "2026-04-23T00:48:26.667Z",
         "data_start_date": "2025-02-03",
         "price": 0.01079,
         "change": 2.7619047619047485,
-        "volume": 339126141.8,
+        "volume": 342259930.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 245,
