@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "ADXUSDT",
         "name": "AdEx",
-        "collected_at": "2026-04-28T20:47:22.048Z",
+        "collected_at": "2026-04-28T21:47:29.820Z",
         "data_start_date": "2021-10-29",
         "price": 0.0734,
         "change": 0.13642564802183202,
-        "volume": 12821235,
+        "volume": 13018546,
         "ghl_color": "grey",
         "ghl_status": "close",
         "ghl_days_since_change": 11,
