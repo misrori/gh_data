@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "DYMUSDT",
         "name": "DYM / USDT",
-        "collected_at": "2026-04-29T11:47:07.352Z",
+        "collected_at": "2026-04-29T12:47:02.309Z",
         "data_start_date": "2024-02-05",
         "price": 0.019,
         "change": 0.5291005291005259,
-        "volume": 148488157.9,
+        "volume": 152794657.9,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 616,
