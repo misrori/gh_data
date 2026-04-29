@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "AIUSDT",
         "name": "AI / USDT",
-        "collected_at": "2026-04-29T02:47:14.535Z",
+        "collected_at": "2026-04-29T03:47:14.677Z",
         "data_start_date": "2024-01-04",
         "price": 0.0175,
         "change": 0,
-        "volume": 1110239.5,
+        "volume": 1470775.4,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 213,
