@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "SAGAUSDT",
         "name": "SAGA / USDT",
-        "collected_at": "2026-04-28T23:47:53.861Z",
+        "collected_at": "2026-04-29T00:47:59.557Z",
         "data_start_date": "2024-04-08",
         "price": 0.01744,
         "change": -1.524562394127608,
-        "volume": 128627502,
+        "volume": 129689177.3,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 490,
