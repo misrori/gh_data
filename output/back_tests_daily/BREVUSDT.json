@@ -2,11 +2,11 @@
     "summary_data": {
         "ticker": "BREVUSDT",
         "name": "Brevis",
-        "collected_at": "2026-04-29T04:48:06.561Z",
+        "collected_at": "2026-04-29T05:47:59.108Z",
         "data_start_date": "2026-01-06",
         "price": 0.1241,
         "change": -0.24115755627009222,
-        "volume": 703560.9,
+        "volume": 881738.1,
         "ghl_color": "blue",
         "ghl_status": "close",
         "ghl_days_since_change": 85,
